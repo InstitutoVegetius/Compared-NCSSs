@@ -1,0 +1,14 @@
+#Rules for BR NCSS
+resetVerbose;
+setCaseSensitive;
+process	Cleaning;
+process Preparation;
+process Cleaning;
+setText Coded;
+setLowerCase;
+process Stopwords;
+process Cleaning;
+setMarking;
+setText Coded;
+process BR;
+process Generic;
