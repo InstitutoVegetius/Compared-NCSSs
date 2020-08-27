@@ -1,0 +1,993 @@
+
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — introduction
+introduction
+{FRANCE} going {DIGITAL TRANSITION}.
+{NETWORKS} omnipresent functioning
+ {STATE}, economic {ACTIVITY} daily lives
+{CITIZENS}.
+{DIGITAL TECHNOLOGY} engenders new uses, new
+{PRODUCTS} new {SERVICES} therefore factor
+ {INNOVATION}. leads transformation
+trades. transforms sectors {ACTIVITY} {BUSINESSES} giving flexibility competitiveness. boosted {DIGITAL} {SUPPORT}, sectors
+ simultaneously exposed {DIGITAL THREATS}.
+ without {DIGITAL TECHNOLOGY} lack
+access results form economic social
+exclusion. similarly, {SOVEREIGNTY} {STATE}
+ not {AUTONOMY} required {DIGITAL
+SECTOR} threatened.
+ {DIGITAL TECHNOLOGY} remain area
+{FREEDOM}, exchanges growth, trust {SECURITY}
+must {ESTABLISHED} defended.
+collaborative coordinated effort can objective attained.
+* *
+*
+ initial {CYBERSECURITY STRATEGY} developed
+{FRANCE} early published early
+shortly discovery {CYBERATTACK}, intention spy economic finance
+{MINISTRIES}. {ATTACKERS}, acting several months, taken control core one
+ ministerial {NETWORKS} regularly collecting
+political, economic financial {INFORMATION}.
+ type {CYBERATTACK} targets many {FRENCH} {BUSINESSES} sizes sectors {ACTIVITY}. {BUSINESSES}
+ target types {FRAUD} {MALWARE}
+{INFECTION} makes {BUSINESS} files unusable
+{RANSOM} paid means difficult trace.
+ parallel, {COMPUTER} {SYSTEM} {INTRUSIONS} aimed
+stealing {PERSONAL} {INFORMATION} (identity, identification
+{DATA} {COMMERCIAL} websites bank details)
+ rise. times, concerns {CRIMINALS} committing crimes identical known
+ material world {THEFT}, {FRAUD} blackmail,
+ industrialised manner, less {RISK}
+identified prosecuted. {ORGANISED CRIME} seized
+ opportunity provided {ELECTRONIC COMMUNICATION
+NETWORKS}. {TECHNICAL} {CAPABILITIES} increasing
+ point now capable carrying
+acts {SABOTAGE} taking production tools hostage,
+ subcontracting hybridisation.
+harassment campaigns {DEVELOPING} {SOCIAL
+NETWORKS}, cases {FRAUD} victimisation whereby gullible subjects persuaded transfer money
+abroad.
+ {DEFACEMENT} many websites, notably belonging territorial {AUTHORITIES}, following {ATTACKS}
+ january {CYBERATTACK} weeks later
+ {FRENCH} {INTERNATIONAL} media demonstrated
+intention ability organised groups cripple {INFORMATION SYSTEM} {RESOURCES} {SUPPORT} daily lives.
+ recognised « {STATE} {THREAT}» {ESTABLISHED} , therefore turned accurate.
+present, {THREAT} intensified {INCREASE}
+{CAPABILITIES} {ATTACKERS}, proliferation techniques
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — introduction
+ {ATTACK} development {ORGANISED CRIME}
+{CYBERSPACE}.
+ another type challenge arisen; posed
+ appropriation {DIGITAL WEALTH} {BUSINESS}
+oligopoly using dominant position interfere
+ arrival new {BUSINESSES} harness
+added value budding {ECONOMY}, will {EXPLOIT} {DATA} intended invent new {SERVICES}, {IMPROVE}
+daily lives make {PUBLIC SERVICES} accessible.
+ forefront {DATA} {PERSONAL} {DATA}; including related {PRIVACY}. control mass
+ {DATA} opens way economic {DESTABILISATION}
+ sophisticated forms {PROPAGANDA} ways
+mislead {PEOPLE} judgments habits. respect,
+ {THREAT} matter {NATIONAL DEFENCE SECURITY},
+ {NATIONAL} extent {STRATEGIC} issues.
+* *
+*
+ light {RISKS}, unfortunately
+already {ESTABLISHED}, much already accomplished.
+ announced {FRENCH WHITE PAPER
+ DEFENCE NATIONAL SECURITY}, {NATIONAL} {AGENCY}
+ created {ADDRESS} {CYBERATTACKS}
+{PROTECT} {STATE INFORMATION SYSTEMS} {CRITICAL INFRASTRUCTURES}.
+ industrial {POLICY} favour {NATIONAL} {CYBERSECURITY INDUSTRY} notably {SUPPORTED} future
+{INVESTMENTS} {PROGRAMME} framework
+«future {INDUSTRY}» {PLAN}.
+ {FRENCH PARLIAMENT} voted {MEASURES} recommended {GOVERNMENT} aimed {REINFORCING} {CYBERSECURITY} {OPERATORS VITAL IMPORTANCE} {PARTICIPATE} {CRITICAL
+INFORMATION SYSTEMS}.
+{FRANCE} positions {SUPPORTED} within {INTERNATIONAL} bodies, notably {UNITED NATIONS} ({UN})
+ acknowledged application {INTERNATIONAL
+LAW} {CYBERSPACE} . addition, bilateral operational relations several countries initiated {STATE} {SERVICES}.
+ {MINISTRIES} become aware political
+ {TECHNICAL} impact {INFORMATION TECHNOLOGIES}
+ missions {ADMINISTRATION} {ACTIVITY} becoming equipped coordinators charge {DIGITAL}
+issues {SECURITY} aspects thereof. {STATE} {INFORMATION SYSTEMS SECURITY POLICY} developed
+progressively implemented.
+ coming years possible reap
+ benefits {MEASURES} taken extend
+scope public {ACTION} {STAKEHOLDERS}. must now
+acknowledged made known {DEFENCE
+SECURITY} {DIGITAL TECHNOLOGY} depends {NATIONAL}
+community not {ACTION} {STATE}.
+* *
+*
+ past years, {DEFENCE} {NATIONAL SECURITY} depended expertise, {BEHAVIOUR}
+decisions men women access
+sophisticated, protected secret installations
+{EQUIPMENT}. emergence {SOCIETY}
+ massively connected, responsibility now partially shared {FRENCH} {PEOPLE}. one connected object one {SERVICE} inadequately secured
+developers, negligence one {INFORMATION SYSTEMS} {SECURITY DECISION-MAKER}, dangerous {BEHAVIOUR} one {SERVICE} provider one employee carelessly mixes
+{PRIVATE} life {PROFESSIONAL} life can lead losses
+{AVAILABILITY}, {CONFIDENTIALITY} {INTEGRITY} {ESSENTIAL} {INFORMATION}, suspensions {ACTIVITY} economic losses,
+industrial accidents losses human lives ecological catastrophes disturbances public order,
+capable affecting life entire {NATION}.
+ fact, never {STABILITY} future, {SUPPORTED} {DIGITAL TECHNOLOGY}, dependent
+ person responsibilities collective responsibilities three communities {STAKEHOLDERS}.
+ first community responsible {RECOMMENDING} implementing technologies, {PRODUCTS} {SERVICES} equipped level {SECURITY} adapted
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — introduction
+ uses capable {MITIGATING }identified
+{RISKS}. main {STAKEHOLDERS} community
+researchers, {PRODUCT} {SERVICE} inventors integrators, {CYBERSECURITY} {BUSINESSES}, {ELECTRONIC COMMUNICATIONS NETWORK} operators, {INTERNET} {SERVICE} providers
+remote {DATA} processing {SERVICES}.
+ second community responsible {PROTECTING}
+ {NATION} {DIGITAL PIRATES}. besides implementation {CYBERSECURITY POLICIES}, aggressive {POLICY}
+{DEVELOP} required {TECHNICAL} {COMPETENCES}
+adopted, environment trust {ESTABLISHED} supports {SOCIETY} {DIGITAL TRANSFORMATION} {DEFENDING} {CITIZENS}, values {INTERESTS}
+ {CYBERSPACE}. responsibility obliges bearer
+express position favour qualified {SECURITY SOLUTIONS} {PROMOTE} {NATIONAL} {INDUSTRY}, relation
+ {EXPORT}. community consists elected officials,
+ {GOVERNMENT}, central territorial administrations trade unions.
+ third community responsible using
+available {SERVICES} technologies well though tout manner, making rational choices avoiding
+high-{RISK} {BEHAVIOURS} {ACTIONS} related {DIGITAL LIFE}.
+ community consists users, {COMPANIES} managers, participants {CIVIL SOCIETY} {CITIZENS}.
+ synallagmatic commitments made
+ {STAKEHOLDER} {ENABLE} {FRANCE} fully benefit
+ contributions {DIGITAL TECHNOLOGY}, transform
+ choices related {DIGITAL SECURITY} {NATIONAL} competitive advantages – often currently experienced economic {BEHAVIOURAL} constraint –
+ {PROMOTE} values, {PRODUCTS} {SERVICES}.
+ role {STATE} {CYBERSPACE} {ENSURE}
+{FRANCE} {FREEDOM} expression {ACTION} well
+{SECURITY} {CRITICAL INFRASTRUCTURES} case major
+{CYBERATTACK} (objective ), {PROTECT} {DIGITAL LIVES}
+{CITIZENS} {BUSINESSES} combat {CYBERCRIMINALITY}
+(objective ), {ENSURE} {EDUCATION} {TRAINING} required {DIGITAL SECURITY} (objective ), contribute
+ development environment conducive
+trust {DIGITAL TECHNOLOGY} (objective ) {PROMOTE}
+cooperation {MEMBER STATES} {EUROPEAN
+UNION} ({EU}) manner favourable emergence
+ {EUROPEAN} {DIGITAL} {STRATEGIC} {AUTONOMY}, long-term
+guarantor {CYBERSPACE} {SECURE} respectful values (objective ).
+fundamental {INTERESTS},
+{DEFENCE SECURITY} {STATE
+INFORMATION SYSTEMS}
+{CRITICAL INFRASTRUCTURES},
+major {CYBERSECURITY CRISIS}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ stakes
+{FRANCE} target {CYBERATTACKS} damage fundamental {INTERESTS}. today, {ATTACKER} targets {STATE},
+{OPERATORS VITAL IMPORTANCE} {STRATEGIC} {BUSINESSES}, aim long-term installation
+{INFORMATION SYSTEM} order steal {CONFIDENTIAL
+DATA} (political, diplomatic, {MILITARY}, technological,
+economic, financial {COMMERCIAL}). future,
+ {ATTACKER} take control connected objects,
+remotely interrupt industrial {ACTIVITY} destroy
+ target. since , one hundred major {CYBERATTACKS} {ADDRESSED}, often complete {CONFIDENTIALITY}, competent administrations
+ {SERVICE} providers.
+ parallel, positions taken {FRANCE}
+{INTERNATIONAL SCENE}, {MILITARY} {OPERATIONS} certain public debates followed {CYBERATTACKS}
+aimed marking public opinion. example,
+ {DEFACEMENT} many websites {TERRORIST} {ATTACKS} targeted {FRANCE} beginning
+ technically low symbolically high
+impact desired {ATTACKERS}. similarly, {CYBERATTACK} led interruption {INTERNATIONAL} {FRENCH} media aimed making
+ strong impression contributes radicalisation leads {TERRORIST} acts. {ATTACK}
+demonstrated {CAPACITY} {ATTACKERS} determined
+ disrupt functioning highly symbolic {INFRASTRUCTURE}.
+ several years now many states implemented political will considerable human, {TECHNICAL} financial means carry
+large-scale {CYBERSPACE} {OPERATIONS} us.
+whether known publicly disclosed documents revealed treatment
+ {CYBERATTACKS}, excesses practices {HARM}
+ credibility states {INTERNATIONAL SCENE} destroy trust
+naturally {ATTRIBUTED} {BUSINESSES} {DIGITAL PRODUCTS SERVICES}.
+therefore, {CYBER RISK}, placed
+third position major {THREATS} {FRANCE}
+ {WHITE PAPER DEFENCE NATIONAL SECURITY},
+ now {REINFORCED} constitutes major challenge
+facing {FRANCE}.
+ objective
+{FRANCE} will {ENSURE} {DEFENCE} fundamental {INTERESTS} {CYBERSPACE}. will {REINFORCE} {DIGITAL SECURITY} {CRITICAL INFRASTRUCTURES}
+utmost {ENSURE} {ESSENTIAL} operators
+ {ECONOMY}.
+ orientations
+> scientific, {TECHNICAL} industrial
+{CAPABILITIES} required {PROTECT} {SOVEREIGN} {INFORMATION}, {ENSURE} {CYBERSECURITY} {DEVELOP} trustworthy {DIGITAL ECONOMY}.
+ {EXPERT PANEL DIGITAL TRUST} will created,
+ aegis {STATE SECRETARIAT DIGITAL
+TECHNOLOGY} {NATIONAL AUTHORITY SECURITY INFORMATION SYSTEMS}.
+ {EXPERT PANEL DIGITAL TRUST} will regularly unite competent administrations {PRIME
+MINISTER}, {MINISTRY NATIONAL EDUCATION}, {MINISTRY} {HIGHER
+EDUCATION} {RESEARCH}, {MINISTRY JUSTICE}, {MINISTRY DEFENCE}, {MINISTRY SOCIAL AFFAIRS}, {HEALTH} women rights, {MINISTRY} {ECONOMY}, {INDUSTRY},
+ {DIGITAL TECHNOLOGY} {MINISTRY INTERIOR}, general commission {INVESTMENT}, {NATIONAL RESEARCH AGENCY} {RESEARCH} {ORGANISATIONS}
+concerned. panel can include {STAKEHOLDERS}
+« excesses practices {HARM}
+ credibility states
+ {INTERNATIONAL SCENE} destroy
+ trust naturally
+{ATTRIBUTED} {BUSINESSES}
+{DIGITAL PRODUCTS SERVICES}. »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+{PRIVATE SECTOR} qualified key figures work.
+ mission panel will notably {IDENTIFY}
+ key technologies in-depth {KNOWLEDGE}
+required {CYBERSECURITY PROFESSIONS} general
+ development trustworthy {DIGITAL ENVIRONMENT}. will evaluate initial continuing {EDUCATION} needs, will {MONITOR} {RESEARCH} {SUPPORT} development, {PARTICIPATE} {IMPROVING} {SUPPORT} young
+phd holders. field {DIGITAL TECHNOLOGIES}, will
+contribute {SETTING} {STRATEGIC} goals {SYSTEMS}
+financing {SUPPORTING} {RESEARCH} industrial development. work will implemented consistence
+ structures already {ESTABLISHED} {FRENCH} {SECURITY} {INDUSTRIES} sector
+association (cofis).
+ general, choice major {PRIVATE} {STAKEHOLDERS} terms economic technological {MODEL},
+ sometimes external normalisation
+framework, simply certain {INNOVATIONS} {DIGITAL}
+uses, can consolidate trust incite mistrust. {EXPERT PANEL DIGITAL TRUST} will organise technological
+ economic {MONITORING} evolutions
+{DIGITAL} related issues can anticipated. necessary,
+adapted {MEASURES} will recommended {SUPPORT}
+supervise changes. {MEASURES} , example, concern {PROTECTION} {NATION} scientific
+ {TECHNICAL} potential control foreign {INVESTMENTS} {CRITICAL} {NATIONAL} {BUSINESSES}.
+ ministerial coordinators {CYBERSPACE} issues
+ collaboration {GENERAL SECRETARY DEFENCE
+ NATIONAL SECURITY} will come together expert
+panel commission subjects fall within
+{COMPETENCE}.
+ expert panel will give annual {REPORT}
+ {PRIME MINISTER} {ACTIVITIES}.
+> {ENSURING} active {MONITORING} {SECURITY
+TECHNOLOGIES} uses {STATE}, {BUSINESSES}
+{CITIZENS}.
+ anticipation major technological developments, 5th generation {MOBILE} {TELECOMMUNICATIONS} ({5G}) «{SOFTWARE}-defined {NETWORKS}», {FRANCE}
+will remain attentive type {CAPABILITIES}
+{EQUIPMENT} {SOFTWARE} installed within {ELECTRONIC COMMUNICATION NETWORKS}, {PROTECT} {PRIVACY}
+correspondences, {CITIZENS} {RESILIENCE}
+ {INFRASTRUCTURES}, will continue adapt
+{REGULATORY FRAMEWORK} new {EMERGING TECHNOLOGIES}.
+ {NATIONAL AUTHORITY INFORMATION SYSTEMS SECURITY} will regularly inform {MINISTRIES}, {BUSINESSES},
+territorial {AUTHORITIES} {CITIZENS}, means adapted
+ target community, factors might present
+ danger terms {DIGITAL} use. {INFORMATION} will
+ consolidated beforehand competent
+administrations.
+> {ACCELERATING} reinforcement {STATE INFORMATION SYSTEMS} {SECURITY}.
+since , several {MEASURES} taken
+{RAISE} level {SECURITY STATE} {INFORMATION SYSTEMS}.
+ {STATE} {INFORMATION SYSTEMS SECURITY POLICY} ({PSSIE})
+ developed, {INTER-MINISTERIAL} {ELECTRONIC COMMUNICATIONS NETWORK} rapid growth roll- secured {MOBILE} terminals initiated.
+{MEASURES}, like aimed producing {SECURITY}
+{EQUIPMENT} {PROTECT} {SOVEREIGN} {INFORMATION}, mobilise
+human {BUDGETARY} {RESOURCES}. will pursued
+ order {PROVIDE} {GOVERNMENT} {MILITARY}
+{CAPABILITIES} level {SECURITY} adapted longterm preservation {FRANCE} {AUTONOMY} making decisions taking {ACTION}.
+ application {STATE} {INFORMATION SYSTEMS
+SECURITY POLICY} {EFFECTIVENESS} {MEASURES}
+adopted will evaluated annually. annual {CONFIDENTIAL} {REPORT} will transmitted {PRIME MINISTER} parliament will informed means
+indicators.
+ objective informing parliament, , bills will section impact
+{ASSESSMENT} dedicated {DIGITAL TECHNOLOGY} will
+ include {CYBERSECURITY}, {ESTABLISHED} auspices senior {CIVIL SERVANTS} charge quality {REGULATION}. broadly, senior {CIVIL SERVANTS}
+charge quality {REGULATION} will {ENSURE}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+issues related reinforcement {SECURITY} {INFORMATION SYSTEMS} taken account steering
+ normative process.
+> preparing {FRANCE} {MULTILATERAL ORGANISATIONS} belongs face major {CYBERSECURITY
+CRISES}.
+reinforcement {SECURITY} {SENSITIVE
+INFORMATION} {SYSTEMS} {OPERATORS VITAL IMPORTANCE},
+ announced {WHITE PAPER DEFENCE NATIONAL SECURITY}, subject legislative {MEASURES} (articles {LAW} °
+ december ). work started operators will continue long term, notably routine updating regulatory texts. work will progressively extended, specified {LAW}, public
+ {PRIVATE} operators {PARTICIPATE} {SENSITIVE
+INFORMATION} {SYSTEMS}.
+ choice made {FRANCE} will made possible actively {PARTICIPATE} development
+orientations {EUROPEAN DIRECTIVE} concerning
+{MEASURES} {ENSURE} high common level {NETWORK}
+ {INFORMATION SYSTEMS} {SECURITY} across union
+ anticipate transposition. right moment,
+{FRANCE} will specify operators {ESSENTIAL}
+ {ECONOMY} according orientations {DIRECTIVE} will {PARTICIPATE} {EUROPEAN} initiatives intended {REINFORCE} {DIGITAL SECURITY}.
+ time, {CYBERSECURITY CRISES} management {EXERCISES} carried {NATIONAL} level will progressively
+concern entire territory vitally important {ACTIVITY} sectors. {MINISTRY DEFENCE}, collaboration
+ {NATIONAL AUTHORITY INFORMATION SYSTEMS
+SECURITY}, will continue implement {CYBERDEFENCE}
+reserve operational purposes face major {INFORMATION TECHNOLOGY} crises.
+ parallel, {FRANCE} will continue contribute
+emergence environment voluntary cooperation
+ cybernetic crisis management {EUROPEAN} level,
+ {SUPPORTING} work {EUROPEAN} {AGENCY} {ENISA}
+({EUROPEAN UNION AGENCY NETWORK INFORMATION
+SECURITY}) particular.
+ {CERT}-{EU} ({COMPUTER EMERGENCY RESPONSE TEAM} {EUROPEAN UNION} ({EU}) institutions,
+bodies {AGENCIES}) ncirc ({COMPUTER} incidence {RESPONSE} {CAPABILITY}) within {NORTH ATLANTIC
+TREATY ORGANIZATION} ({NATO}) {ENSURE} {CYBERDEFENCE} respective institutions. {FRANCE},
+active {CYBERSECURITY CRISIS} management {EXERCISES} organised {ORGANISATIONS},
+highly represented proceedings orient {EU}
+{NATO} choices concerning secured {DIGITAL TECHNOLOGIES},
+will continue {PROVIDE} {SUPPORT} institutions
+ {MEMBERS} according respective {COMPETENCES}.
+{FRANCE} will contribute {REINFORCING} {CYBERSECURITY} {INTERNATIONAL ORGANISATIONS}
+belongs, political {TECHNICAL} level, notably
+hosted {NATIONAL} territory benefit
+{NATIONAL} {TECHNICAL} environment.
+> {DEVELOPING} {AUTONOMOUS} way thinking
+ line values.
+ {STRATEGIC} choices made {FRANCE} immediately
+ second world war led emergence
+{AUTONOMOUS} way thinking development
+doctrine gave {FRANCE} unique place {INTERNATIONAL SCENE} today still permeates diplomacy
+ concepts behind use {ARMED FORCES}.
+although {DIGITAL TECHNOLOGY} fundamentally changes
+ societies, impact realities
+ {SOVEREIGNTY}, {NATIONAL} territory, currency fundamental {INTERESTS} {NATION} yet {MEASURED}
+ {ORGANISATION} means public {ACTION}
+make {LAW} apply {ENSURE} {PROTECTION}
+must reconsidered. discussion, coordinated
+{GENERAL SECRETARY DEFENCE NATIONAL SECURITY},
+will held {DEVELOP} intellectual corpus related
+{CYBERSPACE}.
+{DIGITAL TRUST}, {PRIVACY},
+{PERSONAL} {DATA}, {CYBERMALEVOLENCE}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ stakes
+although general {FRENCH} trust {DIGITAL TECHNOLOGY}, wary impact daily lives especially {PERSONAL LIVES}. despite generally
+careful use preservation {PERSONAL}
+{DATA}, entrust platforms
+conditions use one-sided users detriment.
+ technique noted certain {CYBERATTACKS}
+ {BUSINESSES} administrations shows
+real difficulty separating {PRIVATE} {PROFESSIONAL}
+life using {EQUIPMENT} {SERVICES}.
+ objective {CYBERATTACKS} {INDIVIDUALS} usually financial gain. taking control
+ {PERSONAL} {EQUIPMENT} used ({COMPUTERS}, {TABLETS},
+{SMARTPHONES}), usurping identity stealing users
+banking {COMMERCIAL} website credentials, starting friendly virtual relationship ends
+request money transfer, encoding {DATA} without user {KNOWLEDGE} resulting payment
+ {RANSOM}, racketeering today widely practised
+ {CRIMINAL} element become organised
+ {INCREASINGLY} efficient.
+ no special technique {ATTACK} used, harassment, facilitated amplified {ELECTRONIC COMMUNICATION NETWORKS}, {DIGITAL AGGRESSION} {PEOPLE} results sometimes
+tragic.
+although {NATIONAL CYBERSECURITY AGENCY}
+({ANSSI}) identified {STATE} contact case
+serious {CYBERSECURITY INCIDENTS} affect administrations {OPERATORS VITAL IMPORTANCE},
+ far less clarity regarding public offer
+assistance {VICTIMS} {CYBERMALEVOLENCE}
+ {STAKEHOLDERS}, whether concerns intermediate-sized {ENTERPRISES}, small medium-sized {ENTERPRISES}, {LIBERAL PROFESSIONS}, territorial {AUTHORITIES}
+ {INDIVIDUALS}.
+{VICTIMS} {CYBERMALEVOLENT} acts encouraged
+ file complaint {POLICE} {GENDARMERIE} {SERVICES} adapted treatment
+ disputes. nevertheless, {RESPONSE}
+ provided framework focused identification suspected
+{CYBERMALEVOLENT} acts commitment,
+applicable, filing proceedings suspects. {VICTIMS} must able reach {SERVICE}
+ competent treatment {CYBERSECURITY
+INCIDENTS} {INCIDENTS} often source
+ {CYBERMALEVOLENT} acts.
+{DIGITAL} platforms, including {SOCIAL NETWORKS},
+can shape opinion insidiously often
+vectors values not {FRENCH
+REPUBLIC}. certain cases, can used purposes {DISINFORMATION} spreading {PROPAGANDA}
+ {FRENCH} {CITIZENS}, particular youngest ones.
+ opinions disseminated therefore
+ {FRANCE} fundamental {INTERESTS}
+{ATTACK} {DEFENCE} {NATIONAL SECURITY}
+sanctioned {LAW}.
+another area concern recent simultaneous developments new uses new {DATA} storage processing techniques contribute
+ emergence {RISKS} economic imbalance
+{ATTACKS} individual {NATIONAL SECURITY}. example, desire introduce free flow {DATA},
+including {PERSONAL} {DATA} collected connected
+objects, {COMMERCIAL} treaties, not successfully mask intent appropriate {DATA}
+ oligopolies whose values practices not
+correspond {FRENCH} {EUROPEAN} concept
+{PRIVACY} {LEGAL} framework. massive illicit appropriation certain types {PERSONAL} {DATA},
+ example, {HEALTH}-related {DATA}, can actually affect
+individual {COLLECTIVE SECURITY}, simply result
+ abusive {COMMERCIAL} {EXPLOITATION} (resale insurance
+« {DIGITAL} platforms, including {SOCIAL
+NETWORKS}, can shape opinion
+insidiously often vectors
+ values not
+ {FRENCH REPUBLIC}. »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+{COMPANIES}, example).
+{DIGITAL TECHNOLOGY} development sustainable {CYBERSPACE} states not respect
+ {GOOD PRACTICES} required balanced {DIGITAL
+TRANSITION} beneficial nations
+ economic {PLAYERS} monopolise wealth
+constitutes {DIGITAL DATA}, notably {PERSONAL} {DATA}, true
+{RESOURCES} future generations.
+ objective
+{FRANCE} will {DEVELOP} {CYBERSPACE} use line
+ values will {PROTECT} {DIGITAL LIVES}
+ {CITIZENS}. will {INCREASE} combat {CYBERCRIME} assistance {VICTIMS} {CYBERMALEVOLENCE} acts.
+ orientations
+> advocating {DEFENDING} values {ELECTRONIC COMMUNICATION NETWORKS} {INTERNATIONAL}
+proceedings.
+{INDIVIDUAL RIGHTS} applicable way
+«on-line» «off-line». {CYBERSPACE} therefore
+remain place {FREE EXPRESSION} {CITIZENS},
+abuses can prevented within limits set
+ {LAW} line {INTERNATIONAL AGREEMENTS}.
+ {INTERNATIONAL} proceedings, {FRANCE} advocates approach aimed preserving free open {CYBERSPACE}.
+ {STATE} responsibility inform {CITIZENS}
+ {RISKS} manipulation {PROPAGANDA} techniques
+used malicious {PLAYERS} {INTERNET}. {TERRORIST} {ATTACKS} {FRANCE} january , {GOVERNMENT} {ESTABLISHED} {INFORMATION} platform
+{RISKS} related islamic radicalisation via {ELECTRONIC
+COMMUNICATION NETWORKS} :
+« ».
+ approach extended {RESPOND}
+phenomena {PROPAGANDA} {DESTABILISATION}. competent {DEFENCE SECURITY} {SERVICES} responsible
+{DETECTING} phenomena {PROVIDING} {GOVERNMENT} recommendations implementing
+{MEASURES}.
+> {PROVIDING} local assistance {VICTIMS} {CYBERMALEVOLENT} acts.
+co-piloted {MINISTRY INTERIOR}
+{NATIONAL AGENCY INFORMATION SYSTEMS SECURITY},
+ {SUPPORT} {DEPARTMENT} {JUSTICE}, {MINISTRY} finance public accounts, {MINISTRY DEFENCE},
+ {MINISTRY} {ECONOMY}, {INDUSTRY} {DIGITAL TECHNOLOGY}, {NATIONAL}
+{SYSTEM} will {ESTABLISHED} {PROVIDE} assistance {VICTIMS} {CYBERMALEVOLENCE}.
+ {SYSTEM} will aimed increasing {AWARENESS} challenges {PROTECTING} {DIGITAL} {PRIVACY}
+ {PREVENTION} , local level, will based
+{MEASURES} taken prefects {STATE} {SERVICES}. {ANSSI}
+territorial {NETWORK}, regional economic {INTELLIGENCE}
+delegates competent {ECONOMIC SECURITY} {DEPARTMENTS} {MINISTRY INTERIOR}, «{DIGITAL TRANSITION}» {NETWORK} bank {FRANCE} (
+ long run, integrate criterion related
+ consideration {CYBER RISK} {COMPANY} listing) will {PARTICIPATE} mission. appeal will
+ made chambers commerce {INDUSTRY},
+ guild chambers general {PROFESSIONAL}
+{NETWORKS}.
+ {SYSTEM} will {LEGAL} form {ORGANISATION} will {ENABLE} benefit contribution
+ economic {STAKEHOLDERS} {CYBERSECURITY SECTOR}; {SOFTWARE} editors, {DIGITAL} platforms solution providers. thanks technologies implemented,
+{SYSTEM} {PROVIDE} {VICTIMS} {TECHNICAL} solutions
+{SUPPORTED} local {STAKEHOLDERS} facilitate administrative {PROCEDURES}, notably {ENCOURAGE} lodging
+complaints.
+« {DIGITAL TECHNOLOGY} development
+ sustainable {CYBERSPACE}
+ states not respect {GOOD
+PRACTICES} required balanced {DIGITAL
+TRANSITION} beneficial
+ nations »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+> {MEASURING} {CYBERCRIME}.
+ {INTER-MINISTERIAL} work initiated {MINISTRY
+ INTERIOR} since led conclusion
+ currently no reliable statistics specifically related {DIGITAL DELINQUENCY} {CYBERCRIMINALITY} since
+ offences concerned registered
+classification not take account dimension, currently absent reference
+{SYSTEMS} used.
+ absence statistics detrimental
+elaboration {PUBLIC AUTHORITIES} {POLICIES} continuously {REASSESSED} implementation adequate {MEASURES}. {MINISTRY INTERIOR}
+will implement new instruments {MONITOR} development {CYBERCRIME} order guide public {ACTION}.
+{NATIONAL DELINQUENCY PENAL SOLUTIONS MONITORING
+AGENCY} will contribute dedicating section
+ work statistical examination {CYBERCRIME}.
+ section will integrate {DATA} transmitted {NATIONAL AUTHORITY INFORMATION SYSTEMS SECURITY}
+ {SYSTEM} assistance {VICTIMS} {CYBERMALEVOLENT} acts, contributed elaboration.
+> {PROTECTING} {DIGITAL LIVES}, {PRIVACY} {PERSONAL}
+{DATA} {FRENCH} {PEOPLE}.
+ prospect {EUROPEAN REGULATION}
+{ELECTRONIC} identification ({EIDAS} - {ELECTRONIC IDENTIFICATION TRUST SERVICES}), {FRANCE} will equip
+ clear road map {DIGITAL IDENTITY} delivered
+{STATE}. road map will {ESTABLISHED} end
+ aegis {MINISTRY INTERIOR}
+ secretaries {STATE} charge {DIGITAL TECHNOLOGY} {STATE} reform, {SUPPORTED} {DEPARTMENTS}
+ {PRIME MINISTER}, include section
+will define framework reference benefit
+ territorial {AUTHORITIES} use {DIGITAL IDENTITY} delivered {STATE}.
+ road map will take account {GOVERNMENT} {DIGITAL STRATEGY} provides roll- federated identity {SYSTEMS} {ENABLE} use
+ {DIGITAL IDENTITY} authenticate person
+ different {SERVICES}. thanks {SYSTEMS}, {DIGITAL
+IDENTITIES} can provided different entities long
+ third party responsible managing federated identity capable determining level
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+trustworthiness associated identity.
+subject {COMPLIANCE} {SECURITY} requirements adapted uses {THREATS}, {SYSTEMS}
+ intended {INCREASE} users trust {DIGITAL WORLD} contribute smooth flow minimising
+ {RISK} unwanted processing {PERSONAL} {DATA}.
+ sensitive use, concerns democratic life {INTERNATIONAL} exchanges related
+{LAW}, high levels trustworthiness {SYSTEMS}
+{SERVICES} will systematically {ENFORCED}. high levels trustworthiness will rely {NATIONAL} industrial make- {ESTABLISHED} {SECURITY CERTIFICATION}
+scheme.
+{FRANCE} will {PROTECT} {CITIZENS} {PRIVACY} {PERSONAL}
+{DATA}. right {PRIVACY} individual collective
+control {PERSONAL} {DATA} will reaffirmed whenever
+necessary notably {COMMERCIAL} negotiations
+ states, whether bilateral multilateral.
+ inform {FRENCH} {PEOPLE} use made
+ {DATA} entrusted {DIGITAL SERVICES}, identification {SYSTEM} adapted shared {PARTICIPATING}
+states consistent {EUROPEAN} work carried
+ framework {EUROPEAN REGULATION} related {PROTECTION} {PERSONAL} {DATA} will {ESTABLISHED} . identification {SYSTEM} will make
+ possible view {ESSENTIAL} characteristics
+conditions use {DIGITAL} platforms {SERVICES}
+means payment used.
+> {RECOMMENDING} {TECHNICAL} solutions aimed
+securing {DIGITAL LIFE} accessible
+{BUSINESSES} general public.
+ competent {STATE} {SERVICES} will {LABEL} securing solutions {PERSONAL} terminals. identification {SYSTEM}
+ consistent one recommended will
+{ENABLE} users informed potential transmission {INFORMATION} third parties framework
+ {PROTECTION}. created, {SYSTEM} assistance {VICTIMS} {CYBERMALEVOLENT} acts mentioned
+, part mission {PREVENTION}, will advocate
+ {SYSTEMS} public concerned.
+ addition, since possible initiate
+ future {INVESTMENTS} {PROGRAMME}, offer
+accessible adapted solutions {SECURE} {DIGITAL
+LIVES} small medium-sized {ENTERPRISES} will {SUPPORTED}.
+{SUPPORT} development {FRENCH} solutions
+will provided well free {SOFTWARE} communities {DEVELOP} {SECURITY SOLUTIONS}.
+> {REINFORCING} operational mechanisms {LEGAL} {INTERNATIONAL} mutual aid universalising
+principles budapest {CONVENTION CYBERCRIME}.
+ {BUDAPEST CONVENTION}, adopted
+ framework {COUNCIL EUROPE},
+become reference instrument enables states
+ five continents cooperate combat
+{CYBERCRIME}. ratified states, including nonmembers {COUNCIL EUROPE}, instrument
+now unites states one reason another (signatories, states invited become {MEMBERS}, states receiving {TECHNICAL} assistance view future membership,
+states adapted internal {LAW} {MODEL}
+ convention).
+ now {ESSENTIAL} universalise consolidate
+ base {NORMS} well tool cooperation
+ text composed .
+ addition, {FRANCE} will advocate definition
+ {SYSTEM} simplified {LEGAL} cooperation
+{MEMBER STATES} within {EUROPEAN UNION} order
+{ACCELERATE} transmission {DATA} put end
+illegal {ACTIVITIES}.
+{STRATÉGIE NATIONALE POUR LA SÉCURITÉ DU NUMÉRIQUE} - introduction
+{RAISING} {AWARENESS}, initial
+{TRAINING}, continuing {EDUCATION}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ stakes
+{FRANCE} late comparison {PARTNERS} terms {RAISING} {AWARENESS} {POPULATION} {RISKS} associated
+use {DIGITAL TECHNOLOGIES} {CYBERSECURITY TRAINING}.
+ general, {FRENCH} neglect {GOOD PRACTICES}
+ using {ELECTRONIC COMMUNICATION NETWORKS}.
+ {PRIVATE} use {ELECTRONIC COMMUNICATION
+NETWORKS}, children adolescents confronted
+unsuitable content, exposed harassment predation, primary {VICTIMS}. order break
+ silence {ENABLE} {LEGAL} proceedings, youngest subjects taught proceed
+ {VICTIMS} {DIGITAL} {MALEVOLENCE}.
+{RAISING} {AWARENESS} everyone required
+prerequisite elected officials, administrative
+{BUSINESS} leaders able take «{CYBER RISK}»
+account right level choose {MEASURES}
+capable {PROTECTING} {CITIZENS} represent {ORGANISATIONS} run, light
+ {THREATS} {INFORMATION} {INTELLECTUAL PROPERTY
+THEFT}, {VIOLATION} {PERSONAL} {DATA}, even exposure
+ breakdowns {ACTIVITY} production accidents,
+ technological environmental impacts
+ potentially exposed.
+besides {RAISING} {AWARENESS} youngest
+subjects, {TRAINING} {DIGITAL TECHNOLOGY} professions
+ {PROVIDE} future {PROFESSIONALS} field
+extensive {INFORMATION SYSTEMS} {SECURITY} {SKILLS},
+remains currently absent many {HIGHER EDUCATION} {PROGRAMMES}.
+ addition, content number initial
+{TRAINING} {HIGHER EDUCATION} {PROGRAMMES} {CYBERSECURITY PROFESSIONS} not meet needs {BUSINESSES} administrations.
+ objective
+{FRANCE} will {RAISE} children {AWARENESS} {DIGITAL
+SECURITY} responsible {CYBERSPACE} {BEHAVIOURS}
+ school age. initial {HIGHER EDUCATION} continuing {EDUCATION} will include section dedicated
+{DIGITAL SECURITY} adapted sector consideration.
+ orientations
+> {RAISING} {AWARENESS} {FRENCH} {PEOPLE}.
+ ambitious {AWARENESS}-{RAISING} {PROGRAMME}
+{FRENCH} {PEOPLE} initiated.
+ command {MINISTRY NATIONAL
+EDUCATION}, {HIGHER EDUCATION} {RESEARCH}
+{STATE SECRETARIAT DIGITAL TECHNOLOGY}, {SUPPORT} {GOVERNMENT} {INFORMATION} {DEPARTMENT}
+ {NATIONAL AGENCY INFORMATION SYSTEMS SECURITY},
+ call show {INTEREST} creation {EDUCATIONAL} content general public will launched.
+ {MINISTRY INTERIOR} will continue «{INTERNET} licence» {OPERATION} initiated
+ {GENDARMERIE} collaboration {PRIVATE}
+foundation, taken {NATIONAL POLICE} since
+ beginning . {OPERATION} makes possible
+ {RAISE} {AWARENESS} {RISKS} give advice
+ sixth-year students {PROTECT}
+{INTERNET} browsing.
+ visibility {DIGITAL EDUCATION} portal cnil will {REINFORCED}.
+ associations will invited {DEVELOP} {ADVERTISING CAMPAIGN} projects aimed increasing trust
+{DIGITAL TECHNOLOGY} become part
+«great {NATIONAL} cause».
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+> integrating {CYBERSECURITY AWARENESS}
+{HIGHER CONTINUING EDUCATION PROGRAMMES}.
+ {MINISTRY NATIONAL EDUCATION}, {HIGHER EDUCATION} {RESEARCH}, assistance {UNIVERSITY}
+presidents conference, {GRANDES ECOLES} conference
+ competent administrations, will {ENCOURAGE}
+establishment {CYBERSECURITY AWARENESS} corresponding {EDUCATIONAL} field initial {HIGHER EDUCATION} {PROGRAMMES} start {ACADEMIC}
+year.
+ {MINISTRY SOCIAL AFFAIRS} employment,
+{SUPPORTED} competent {CYBERSECURITY} {STATE} administrations, will initiate consultations required
+ {ORGANISATIONS} {PROVIDE} continuing {EDUCATION}
+integrate {CYBERSECURITY ISSUES} adapted {TRAINING}
+ curriculum .
+finally, {STATE} secretariat charge {DIGITAL
+TECHNOLOGY}, along {MINISTRIES} concerned
+ {SUPPORT} {ANSSI}, will {COORDINATE} initiation
+ {AWARENESS} {PROGRAMME} {PROFESSIONAL} categories inculcation {CYBERSECURITY ISSUES}
+particularly necessary relation societal responsibilities. categories will specified
+{STRATEGIC} committee {DIGITAL TRUST}.
+> integrating {CYBERSECURITY TRAINING}
+{HIGHER EDUCATION} includes {INFORMATION
+TECHNOLOGY}.
+ «{CYBERÉDU}» initiative launched confirmed teachers involved {HIGHER EDUCATION} curricula {INFORMATION TECHNOLOGY} professions interested subjects related {INFORMATION SYSTEMS}
+{SECURITY}. initiative {REINFORCED}.
+ {MINISTRY NATIONAL EDUCATION}, {HIGHER EDUCATION} {RESEARCH}, assistance {UNIVERSITY}
+presidents conference, {GRANDES ECOLES} conference,
+ administrations competent {PROFESSIONAL} {ORGANISATIONS}, will {ENSURE} {INFORMATION SYSTEMS} {SECURITY}
+{TRAINING} adapted field covers issues
+related {DIGITAL TECHNOLOGY} provided initial {HIGHER EDUCATION} {PROGRAMMES} start
+{ACADEMIC} year. priority integrate
+{SECURITY} elements existing courses pertinent manner broader context field
+ taught. useful base steps
+{EDUCATIONAL} contents developed, close collaboration teaching community, framework
+ cyberedu project.
+ {MINISTRY DECENTRALISATION PUBLIC SERVICE}
+will {ENSURE} {TRAINING} {PROGRAMMES} {PUBLIC SERVICE}
+functions include elements {CYBERSECURITY TRAINING}.
+collaboration {MINISTRY INTERIOR}, will
+{ENSURE} {RECRUITMENT} examination {CIVIL
+SERVANTS} corps {INFORMATION} {COMMUNICATION} {SYSTEMS} engineers regulated {DECREE} °
+may , well {TRAINING} will provided
+ {MEMBERS} corps will {CYBERSECURITY}
+section.
+ light growing demand {PARTNERS},
+whenever possible, part {TRAINING} {EDUCATION} offer adapted {INTERNATIONAL} public,
+notably {PROVIDING} {PROGRAMMES} english language.
+> recording anticipating initial continuing {EDUCATION} needs.
+ aegis {EXPERT PANEL DIGITAL
+TRUST}, short, medium long-term initial {TRAINING}
+needs will {ESTABLISHED} collaboration
+{STAKEHOLDERS} concerned {ADMINISTRATION}
+{PRIVATE SECTOR}.
+ {PROFESSIONAL} trade unions will called
+{DEVELOP} implement continuing {EDUCATION} {PROGRAMMES} adapted needs employees {BUSINESSES}.
+{STRATÉGIE NATIONALE POUR LA SÉCURITÉ DU NUMÉRIQUE} - introduction
+ environment {DIGITAL
+TECHNOLOGY} {BUSINESSES}, industrial
+{POLICY}, {EXPORT} {INTERNATIONALISATION}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ stakes
+{CYBERSPACE} rapid growth. new objects connect {INTERNET} every hour. many {FRENCH} {BUSINESSES} {PARTICIPATE} {INTERNATIONAL} shows success
+«{FRENCH} tech» initiative example, shows real
+dynamism {FRENCH} {INNOVATION} {DIGITAL PRODUCTS
+ SERVICES}. however, reality not hide
+ certain loss control real technological dependence.
+large {EQUIPMENT} ensures functioning
+ {ELECTRONIC COMMUNICATION NETWORKS} {INFRASTRUCTURES} located {FRANCE}, often designed,
+developed managed centres located outside {EUROPE}. goes {COMMUNICATIONS} {DATA} {SECURITY} {EQUIPMENT}
+{OPERATORS VITAL IMPORTANCE}. {OPERATION}
+increasing number {BUSINESSES} based
+use applications {DATA} processing hosted
+uncontrolled virtual spaces, {SUPPORTED} physical
+{INFRASTRUCTURES} located outside {NATIONAL} territory not subject {EUROPEAN LAW}.
+ {INCREASE} number connected
+objects concentration on-line {SERVICE} platforms hands {STAKEHOLDERS}
+example, current developments technology economic {MODELS} magnify loss
+control {NATIONAL} {CYBERSPACE}. {EVENT}
+ {INTERNATIONAL} crisis, access entire sections
+{CYBERSPACE} contested.
+ answer issue {SOVEREIGNTY} requires
+first foremost maintenance strong
+competitive {NATIONAL} {EUROPEAN} {INDUSTRY}
+specialised field {CYBERSECURITY PRODUCTS SERVICES}. general, requires development,
+{FRANCE} {EUROPE}, {DIGITAL EQUIPMENT} {SERVICE} offer provides clients guarantees
+ {SECURITY} trust adapted issues uses.
+users not means {ENSURE} level {SECURITY} {DIGITAL} objects {SERVICES} . promotion {SECURITY} marketing
+arguments suppliers becoming widespread
+without, however, allowing objective evaluation level {SECURITY} actually achieved.
+development greater clarity terms {SECURITY}
+ {DIGITAL} offer based objective elements
+can verified third party, constitutes major
+challenge {ENSURING} trust {DIGITAL ECONOMY}.
+ development offer {CYBERSECURITY
+PRODUCTS SERVICES} {NATIONAL} {BUSINESSES}
+ {DIGITAL TECHNOLOGY} sector seen
+ {ESSENTIAL} factor competitiveness
+{BUSINESSES}. field payment methods (smart
+cards, payment terminals, etc.) archetype
+ economic sector adapted level {SECURITY} {THREATS} can verified third
+parties constitutes first-line marketing argument.
+several {NATIONAL} {BUSINESSES} hold competitive {INTERNATIONAL} position sector largely due
+ {EXCELLENCE} able {DEVELOP}
+demonstrate field {SECURITY}.
+ {INCREASE} {CYBER THREATS} growing
+{AWARENESS} reality {THREATS} will lead
+ making {SECURITY} {ESSENTIAL} purchase criterion
+ many sectors years now. acting
+now {IMPROVE} {SECURITY} transparency
+ {NATIONAL} offer {DIGITAL SOLUTIONS} means
+preparing future competitiveness.
+ , share {FRENCH} {BUSINESSES}, especially {SMES}, widely use {DIGITAL TECHNOLOGY}
+ within average {EUROPEAN} countries.
+catching behind accompanied
+{IMPROVED} {SECURITY} {DIGITAL LIVES} {BUSINESSES}
+starting better {SECURITY} {INFORMATION
+SYSTEMS}. {ESSENTIAL} competitiveness
+ therefore jobs.
+ challenge {FRENCH} {BUSINESSES} reconcile search productivity, savings
+« development offer
+{CYBERSECURITY PRODUCTS SERVICES}
+ {NATIONAL} {BUSINESSES} {DIGITAL
+TECHNOLOGY} sector
+ seen {ESSENTIAL} factor
+competitiveness {BUSINESSES}. »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+profitability use development {DIGITAL
+PRODUCTS SERVICES} not endanger
+competitiveness {SECURITY}, {PARTNERS}
+ clients.
+ {DIGITAL EQUIPMENT}, objects {SERVICES}
+ currently available {MARKET} not
+ level {DATA} {SECURITY} enables avoid
+ {INCIDENT}: {DATA} leakage, malfunction break
+{SERVICE}. {FRENCH} {BUSINESSES}, ergonomics, {PROTECTION} {PERSONAL} {DATA} level {SECURITY}
+{DIGITAL PRODUCTS SERVICES} {DEVELOP}
+produce, short term become differentiator, competitive advantage
+return, {NATION}.
+ addition, although counterfeiting not
+directly fall {INFORMATION SYSTEMS} {SECURITY},
+counterfeit {CYBERSECURITY PRODUCTS} can endanger
+ {ACTIVITY} {ORGANISATIONS} purchase .
+ terms {INTERNATIONALISATION} {BUSINESSES} {EXPORT}, considering environment
+ extreme {INTERNATIONAL} competition
+{PARTNERS} {PROVIDE} solid structured {SUPPORT}
+ {INDUSTRY}, {STATE} {SERVICES} become sustainably organised {SUPPORT} {FRENCH} {CYBERSECURITY}
+{BUSINESSES}.
+ mobilisation {COORDINATION} {PUBLIC PRIVATE} {RESOURCES} available {ESSENTIAL}
+{INCREASE} visibility competitiveness
+{FRENCH} offer {INTERNATIONAL LEVEL} pool
+{KNOWLEDGE} feedback thereby contribute
+ {SHARING INFORMATION} different
+{STAKEHOLDERS} field.
+ objective
+{FRANCE} will {DEVELOP} environment favourable {RESEARCH} {INNOVATION} will make
+{DIGITAL SECURITY} factor competitiveness. will
+{SUPPORT} development {ECONOMY}
+{INTERNATIONAL} promotion {DIGITAL PRODUCTS
+SERVICES}. will {ENSURE} {DIGITAL PRODUCTS SERVICES} levels ergonomics, trust {SECURITY}
+adapted uses {CYBER THREATS} available
+ {CITIZENS}, {BUSINESSES} administrations.
+ orientations
+> {DEVELOPING} accentuating {NATIONAL}
+{EUROPEAN} offer {SECURITY PRODUCTS SERVICES}.
+ collaboration competent administrations {MINISTRY} {ECONOMY}, {INDUSTRY} {DIGITAL
+TECHNOLOGY} {MINISTRY DEFENCE},
+{NATIONAL AGENCY INFORMATION SYSTEMS SECURITY} initiated industrial {POLICY} {DEVELOP} {NATIONAL} fabric
+ {BUSINESSES} {DEVELOP} {CYBERSECURITY PRODUCTS
+SERVICES}.
+ launch new industrial {FRANCE} «{CYBERSECURITY}» {PLAN} , now included «{DIGITAL TRUST}» solution, {SUPPORT} general
+commission {INVESTMENT} {BPIFRANCE} made
+possible organise sector issue requests
+proposals aimed {CREATING} offer trustworthy
+{EQUIPMENT} {DETECT} {CYBERATTACKS}, essentially {OPERATORS VITAL IMPORTANCE}, secured {MOBILE} {PRODUCTS}
+ {BUSINESSES}.
+ {STATE} {SERVICES} will {INCREASE} efforts qualify {MONITOR} {CYBERSECURITY PRODUCTS SERVICES},
+ {SUPPORT} development new {SECURITY} {PRODUCTS}
+ correspond changes usage patterns.
+« {FRENCH} {BUSINESSES}, ergonomics,
+ {PROTECTION} {PERSONAL} {DATA}
+level {SECURITY} {DIGITAL PRODUCTS
+SERVICES} {DEVELOP} produce,
+ short term become
+differentiator, competitive advantage
+ return,
+ {NATION}. »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+will {SUPPORT} enhancement perpetuation
+ offers public contracting chooses {SECURITY PRODUCTS SERVICES} qualified right level,
+ well {COMMUNICATION} {EDUCATIONAL} {MEASURES}
+ {PRIVATE SECTOR}.
+ addition, {STATE} {SERVICES} will endeavour
+disseminate results {RESEARCH} development
+ finance high-level {SECURITY} {EQUIPMENT}
+ order {RAISE} {SECURITY} level {PRODUCTS} {BUSINESSES} general public.
+finally, {FRANCE} will endeavour take full advantage leverage offered {EUROPEAN UNION} {SUPPORT}, {PROMOTE} {DEFEND} {FRENCH} scientific, technological industrial {COMPETENCES} {CYBERSECURITY}
+fields. will discourage {EU} limiting
+ role consumer, will incite rather stand
+ indispensable global {STAKEHOLDER} offer
+ sector.
+> transferring acquired {KNOWLEDGE} {PRIVATE
+SECTOR} contribute handling {CYBERSECURITY}.
+ five years now {FRANCE} equipped
+ {CAPACITY} {DETECT} {RESPOND} {CYBERATTACKS},
+announced {WHITE PAPER DEFENCE
+NATIONAL SECURITY}. although effort pursued, notably {ANSSI}, {PRIVATE SECTOR}
+{ENSURE} {SECURITY} field {INFORMATION TECHNOLOGY} case fields, since {STATE} {SERVICES} required {INTERVENE} case serious
+crisis.
+{SUPPORTED} transfer {KNOWLEDGE} acquired administrations {PRIVATE SECTOR},
+{LABELLING} competent trustworthy {SERVICE} providers {ENABLE} {DETECTION} treatment
+inevitable growth number {CYBERATTACKS}
+{BUSINESSES} subjected .
+> preparing safer {DIGITAL WORLD} better
+anticipation uses, adapted {SUPPORT} {STAKEHOLDERS} {INFORMATION}.
+ next five years, priority competent {INFORMATION SYSTEMS} {SECURITY AUTHORITIES}
+anticipation {PREVENTION}.
+ will entail {ENSURING} {DIGITAL PRODUCTS
+ SERVICES} involve {DIGITAL TECHNOLOGY},
+ designed, developed produced {FRANCE},
+ among safest world. achieve objective, competent {AUTHORITIES} direct
+{COMMUNICATION} efforts towards {PUBLIC PRIVATE}
+scientific community, {INNOVATION} centres; competitive clusters, technological {RESEARCH} institutes, incubators «fab labs»; devoting specific means
+ areas needed, case {MINISTRY
+ DEFENCE}, recently, {MINISTRY INTERIOR}.
+ {DIGITAL PRODUCTS SERVICES} store {PERSONAL}
+{DATA} intended {BUSINESS} sectors {VITAL} importance, {STATE} {SERVICES} will {PROVIDE} elements
+ useful {RISK ANALYSIS} recommendations required obtain level {SECURITY} corresponds use {PRODUCT} {SERVICE}
+designed developed. uses justify , will
+ contribute {ESTABLISHING} {SYSTEMS} independently evaluate level {SECURITY} trustworthiness
+ {PRODUCTS} {SERVICES}, {PROVIDING}
+potential users adapted guarantees {LABELLING}.
+ parallel, {LEGAL} environment accommodate
+new {PRODUCTS} {SERVICES} anticipated.
+example, imminent arrival {AUTONOMOUS} cars
+ incite regulator prepare conditions
+ {ENSURE} {SECURITY} circulation. {CYBERSECURITY} taken account {INTERNATIONAL}
+working groups define framework control
+{TECHNICAL} {PROCEDURES}.
+ types {PRODUCTS} {SERVICES}, adapted
+identification {SYSTEM} inform consumer
+ {ESSENTIAL} {DIGITAL} features notably processing {DATA} collected. certain sectors
+ {HEALTH} sector, systematic {LABELLING} {DIGITAL
+PRODUCTS SERVICES} will considered.
+{FRANCE} will endeavour include {EU MEMBER
+STATES} implementation practices order
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ {CREATE} zone {DIGITAL TRUST} {SECURITY}. work
+initiated {GERMANY} {CLOUD COMPUTING} secured
+messaging moving direction.
+> integrating requirements {CYBERSECURITY}
+ public contracting {SUPPORT}.
+ {PROTECTION} {SOVEREIGNTY} notably
+{PROTECTION} {INFORMATION} concerning {NATIONAL}
+{DEFENCE} secret, {FRANCE} will preserve financial industrial {CAPACITY} {DEVELOP} solutions highest
+levels {SECURITY}.
+ general, entire {ADMINISTRATION} set
+example public contracting integrating right
+level {SECURITY} criteria choices {DIGITAL PRODUCTS
+ SERVICES}.
+finally, {PRODUCT} {SERVICE} embedded based {INFORMATION SYSTEM}
+wants answer call tenders, request public
+projects, eligible public {FUNDS}, will benefit
+ bonus factor accompanied {CYBERSECURITY} {RISK ANALYSIS} corresponds intended use
+ {PRODUCT} {SERVICE}.
+> {SUPPORTING} {EXPORT} {INTERNATIONALISATION}
+ {BUSINESSES} sector.
+ {SUPPORT} economic development {CYBERSECURITY} industrial sector, {FRANCE} will endeavour
+ {REINFORCE} visibility competitiveness
+{FRENCH} offer worldwide facilitate access {SMES}
+ {START-UPS} notably {INTERNATIONAL MARKETS}.
+{INTER-MINISTERIAL} {COORDINATION} will structured
+ {REINFORCED}. adapted {FRENCH} {BUSINESS} {SUPPORT}
+{ORGANISATION} will {ESTABLISHED} addition occasional often isolated {MEASURES} currently
+led different {MINISTRIES} {STATE} entities.
+along possible creation specific {SUPPORT}
+{SYSTEMS} {STAKEHOLDERS} {CYBERSECURITY SECTOR}, conditions access existing {SUPPORT}
+{SYSTEMS}, well implementation methods will
+ clarified optimised. {PROCEDURES} control
+exportations {CYBERSECURITY SOLUTIONS} will clarified
+ optimised.
+ addition, case «{FRENCH} tech» creations, collaborative initiatives generated {PRIVATE SECTOR} intended {ASSIST} {SMES} {START-UPS}
+ {INTERNATIONAL LEVEL} will {SUPPORTED}.
+{EUROPE}, {DIGITAL} {STRATEGIC}
+{AUTONOMY}, {CYBERSPACE} {STABILITY}
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ stakes
+{CYBERSPACE} become major subject negotiation within {INTERNATIONAL ORGANISATIONS} whose work now concerns entire {DIGITAL FIELD}.
+ , states acknowledged far
+ space without rules, {CYBERSPACE} governed existing {INTERNATIONAL LAW}. despite ,
+ {INTERNATIONAL} {NORMATIVE FRAMEWORK} still
+ debated, , without advancement
+ negotiations, {HARM} preservation
+stable safe {CYBERSPACE} compliant
+fundamental {LAWS} appropriate development prosperous trustworthy {ECONOMY}
+ {DIGITAL ERA}.
+ increasing number countries declaring equipped {OFFENSIVE CAPABILITIES}, level conflict states {INCREASINGLY} expressed {CYBERSPACE}. addition,
+ massive revelations practices {ESPIONAGE}
+techniques carried major states alliances
+ states states (sometimes {ALLIES}),
+{PEOPLE} {BUSINESSES}, {INCREASED} political
+mistrust countries origin
+practices {TECHNICAL} mistrust {PRODUCTS}
+ {SERVICES}. revelations contribute
+ proliferation similar {TECHNICAL} methods.
+ parallel, groups {INDIVIDUALS} diverse
+motivations supports, mercenaries recruited
+worldwide associated according circumstances, regularly take recourse {CYBERATTACKS}
+attempt destabilise governing {AUTHORITIES}
+many countries {BUSINESSES} symbolise .
+ addition, {TERRORIST} {ORGANISATIONS} take advantage audience provided {SOCIAL NETWORKS}
+ disseminate {PROPAGANDA} intended attract volunteers terrorise populations. different groups benefit continuous media impact.
+ economic level, trend beginning decade confirmed. small number {BUSINESSES} {SUPPORTED} states
+enabled development use technological
+{ADVANCE}, domination {MARKET}
+financial capacities pre-empt {DIGITAL INNOVATION}.
+ privatisation {CYBERSPACE} benefit
+ monopolies condemns {STAKEHOLDERS}
+ {DIGITAL TECHNOLOGY} dependence harnesses
+ share added value {DIGITAL TECHNOLOGY}
+ great situation bearable
+economies countries.
+although supports world growth, {CYBERSPACE}
+ become place conflict often unfair
+competition, now one low
+intensity terms {INFORMATION TECHNOLOGY},
+political {DESTABILISATION} economic hegemony.
+{EUROPE} able {IDENTIFY} issues
+ dialogue {REGULATIONS} trying {PROVIDE} ideas solutions respectful
+ sustainable {DIGITAL} development, terms
+ {INTERNET GOVERNANCE} {PROTECTION} {PERSONAL}
+{DATA} {CYBERSECURITY} operators {ESSENTIAL} {ECONOMY}. despite adopted
+{CYBERSECURITY STRATEGY} , {EUROPE} still struggling assert {DIGITAL} {STRATEGIC} {AUTONOMY} equip
+ tools required rebalance {CYBERSPACE} favour, even though subject now
+ agenda many {EUROPEAN} centres discussions negotiations.
+ shares common values {EU
+MEMBER STATES}, {FRANCE} {MEMBER STATES}
+ play driving role {DIGITAL TECHNOLOGY}.
+{FRANCE} wants {PARTICIPATE} {DIGITAL TRANSFORMATION} {EUROPE} alliances. {EUROPE}
+built past alliance based
+raw materials. {DIGITAL} {EUROPE} will build alliances, trust {DATA} control, raw materials
+ coming decades.
+« although supports world growth,
+{CYBERSPACE} become place
+ conflict often unfair
+competition »
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+ objective
+along voluntary {MEMBER STATES}, {FRANCE}
+will driving force behind {EUROPEAN} {STRATEGIC}
+{AUTONOMY}. will play active role promotion safe, stable open {CYBERSPACE}.
+ orientations
+> {ESTABLISHING} road map {EUROPEAN} {STRATEGIC}
+{AUTONOMY} voluntary {MEMBER STATES}.
+ road map, open {EUROPEAN
+UNION MEMBER STATES}, will determine key factors
+success short-term implementation {POLICIES}
+ adequate emergence {EUROPEAN} {DIGITAL} {STRATEGIC} {AUTONOMY}, notably terms {REGULATIONS},
+standardisation {CERTIFICATION}, {RESEARCH} development, trust {DIGITAL TECHNOLOGY} — respecting
+{MEMBER STATES} {SOVEREIGNTY} — {PROTECTION} {PRIVACY} {PERSONAL} {DATA} conceived public {INTEREST}
+property.
+similarly, {FRANCE} will {ENSURE} {INTERNATIONAL}
+treaties negotiated name {EUROPE} not lead
+ technological economic dependence {EUROPEAN
+STAKEHOLDERS} alienation {PERSONAL} {DATA}
+ {CITIZENS} {SENSITIVE DATA} administrations,
+sources {DESTABILIZATION} {CYBERSPACE}.
+ will involve making {EUROPE} {DIGITAL} territory respectful {FUNDAMENTAL RIGHTS}
+ {INDIVIDUALS} implementing zone trust
+{ECONOMIC PROSPERITY}, line precursor work
+ {FRANCE} {GERMANY} {CLOUD COMPUTING}
+ encrypted exchange {E-MAILS}
+two countries.
+> {REINFORCING} {FRENCH} presence influence
+ {INTERNATIONAL} discussions {CYBERSECURITY}.
+ order {REINFORCE} trust {INTERNATIONAL LEVEL} explore new {REGULATION} mechanisms aimed
+ preventing conflicts {CYBERSPACE}, {FRANCE} will {REINFORCE} contact parties directly involved
+ willing {ENGAGE} dialogue issues
+{CYBERSECURITY}.
+participation multilateral negotiations {CYBERSECURITY} (uno, {OSCE}) will intensified order
+ consolidate global base commitments good
+{FRENCH NATIONAL DIGITAL SECURITY STRATEGY} — objective
+{CONDUCT} {CYBERSPACE} states, {COMPLIANCE}
+ {INTERNATIONAL LAW}.
+bilateral contact will {REINFORCED}, notably
+framework {INTER-MINISTERIAL} diplomatic dialogue
+ issues concerning {CYBERSPACE}, headed {MINISTRY FOREIGN AFFAIRS INTERNATIONAL DEVELOPMENT}.
+finally, assert influence, {FRANCE} will {INCREASE}
+ {INVESTMENT} informal {INTERNATIONAL FORUMS}
+ {TECHNICAL} {ACADEMIC} communities
+ political {DECISION-MAKERS} come together discuss
+ future balances.
+> contributing global {STABILITY} {CYBERSPACE}
+ {ASSISTING} voluntary countries {ESTABLISH} {CYBERSECURITY CAPABILITIES}.
+{DIGITAL TRANSITION}, bearer political, social
+economic opportunities, far uniformly
+controlled countries. harms {SECURITY}
+ development states less protected,
+weakens {DIGITAL} environments {INTERNATIONAL
+LEVEL}.
+ order contribute reliable sustainable
+roll- {DIGITAL TECHNOLOGIES} countries,
+particular {DEVELOPING} ones, {FRANCE} owes
+ {ASSIST} {REINFORCING} {CAPABILITIES} countries
+ like {INCREASE} {RESILIENCE} {SECURITY}
+ {INFORMATION SYSTEMS}, notably terms
+{PROTECTION} {CRITICAL INFRASTRUCTURES} combat
+ {CYBERCRIME}.
+ {ENSURE} durability sustainability projects {REINFORCE} {CAPABILITIES}, {FRANCE} will preferably
+act long-term trustworthy partnersh{IPS}.
+{ACTION} {ENABLE} {FRANCE} {REINFORCE}
+{CYBERSECURITY}.

@@ -1,0 +1,14 @@
+#Rules for CH NCSS
+setCaseSensitive;
+resetVerbose;
+process	Cleaning;
+process Preparation;
+process Cleaning;
+setText Coded;
+setLowerCase;
+process Stopwords;
+process Cleaning;
+setMarking;
+setText Coded;
+process CH;
+process Generic;
