@@ -1,0 +1,306 @@
+{CYBERSECURITY STRATEGY} {GERMANY}
+ | {CYBER SECURITY STRATEGY}
+contents
+ introduction
+ {CYBERTHREAT} situations
+ guidelines {CYBER SECURITY STRATEGY}
+ {ACTION} area : safe self-determined {ACTION} {DIGITISED} environment
+ {ACTION} area : joint mandate {STATE} {BUSINESS}
+ {ACTION} area : efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+ {ACTION} area : {GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+ permanent {STRATEGY} process {NATIONAL} {CYBER SECURITY COUNCIL}
+ glossary
+{CYBER SECURITY STRATEGY}
+introduction
+{DIGITALISATION} {STATE}, {ECONOMY}, {SOCIETY} fundamentally changed {GERMANY} just years. new opportunities {COMMUNICATION}, access {KNOWLEDGE} {INNOVATIVE} design lead social interaction, new {BUSINESS} {MODELS} new fields {RESEARCH} development. networked {ELECTRONIC} {DEVICES} {INCREASINGLY} shaping {PEOPLE} everyday lives work.
+ increasing mechanical production {DATA} increasing spread intelligent counters sensors {CREATING} vast amounts {DATA}. self-learning machines can take ever complex tasks. processes, {PROCEDURES} production processes {INCREASINGLY} networked, {INNOVATION} cycles shorter shorter. cross-border {CYBERSPACE} requires new approaches.
+ duty {STATE} actively evaluate change processes {INTERESTS} {CITIZENS}, together {ECONOMY} {ACTORS}, {CREATE} framework conditions order {DEVELOP} change processes.
+{DIGITISATION} opens opportunities, harbours {RISKS} therefore needs trust. comprehensive {SECURITY} achieved, always potential abuse. task {STATE} {ECONOMY} lay foundations trust. {SECURITY} {ESSENTIAL} aspect .
+{CITIZENS} must able act safely, freely independently future. especially true {UNDERSTAND} technologies {RISKS} associated use due increasing complexity. {COMPANIES} must {PROTECT} know- {UNAUTHORISED ACCESS} even age {DIGITISATION} {MASTER} production processes even self-learning machines used {DATA} distributed servers around world use {CLOUD} solutions.
+ | {CYBER SECURITY STRATEGY}
+ {CYBER SECURITY STRATEGY} {GERMANY} adopted {FEDERAL GOVERNMENT} february set course future-oriented {CYBER SECURITY POLICY}. numerous {MEASURES} provided implemented since . organisational {MEASURES}, high-level body {STRATEGIC} impulses created {CYBER SECURITY COUNCIL} hub politics {BUSINESS}, platform {STRATEGIC} operational exchange {AUTHORITIES} created {CYBER DEFENCE} centre. {CYBERSECURITY} now become {ESSENTIAL} component large number {STRATEGIC} concepts cross-departmental projects {FEDERAL GOVERNMENT}.
+ shown {STATE} institutions {INCREASINGLY} {NETWORK} order guarantee {CYBER SECURITY}. internal external {SECURITY} {CYBERSPACE} can no longer clearly distinguished. {PROTECTION} {CYBER SECURITY DEFENCE} {CYBERATTACKS} thus become task whole {STATE} can mastered jointly.
+ {STRATEGIC} approaches goals {CYBER SECURITY STRATEGY} still mostly valid today. however, constantly changing framework conditions make necessary supplement bundle new cross-departmental {STRATEGY} adequately takes account relevance cross-sectional nature subject {CYBER SECURITY} comprehends holistically.
+ {CYBER SECURITY STRATEGY} forms cross-departmental {STRATEGIC} framework {ACTIVITIES} {FEDERAL GOVERNMENT} references {CYBER} {SECURITY UPDATES} {CYBER SECURITY STRATEGY} . countries {ECONOMY} involved development process.
+{CYBER SECURITY STRATEGY}
+ | {CYBER SECURITY STRATEGY}
+{CYBER THREATS}
+ {CYBER THREAT} situation {GERMANY} characterised increasing complexity interdependency technology used constantly changing {THREATS}. {DIGITALISATION} modern societies, {VULNERABILITY} potential abuse {CYBERSPACE} growing. addition, {PRIVACY} {CITIZENS} becoming {INCREASINGLY} {VULNERABLE}.
+ consequences {CYBERATTACKS} not limited {CYBERSPACE}. successful {ATTACKS} can cause social, economic, political {PERSONAL} damage. {ATTACKS} {STATE} institutions aiming spying {SABOTAGING} can significantly impair functionality {ADMINISTRATION}, {ARMED FORCES} {SECURITY} {AGENCIES} thus impact public {SECURITY} order {GERMANY}.
+{CYBERATTACKS} {ENERGY SUPPLY NETWORKS} can bring large areas {PUBLIC PRIVATE} life standstill. targeted {CYBERATTACKS} {BANKING INFRASTRUCTURES} {PRICE MANIPULATION} can pose {THREAT} financial markets whole far-reaching effects {ECONOMY} {GERMANY} around world. manipulation automated networked driving, it-based {TRAFFIC CONTROL} applications healthcare sector can pose genuine serious {RISKS} life limb {CITIZENS}.
+ {TARGETED DISSEMINATION FALSE REPORTS}, made possible hijacked {SYSTEMS}, can used {DISINFORMATION} {MANIPULATE PUBLIC OPINION}. poses long-term {THREATS} free {SOCIETY} {DEMOCRACY}.
+ {ATTACKERS} often {CRIMINAL}, extremist/{TERRORIST}, {MILITARY} {INTELLIGENCE} background. quantitative qualitative diversity potential {PLAYERS} home abroad {TECHNICAL} possibilities concealment make difficult {IDENTIFY}, assign, {DEFEND} track {CYBERATTACKS}. {POLITICAL-MILITARY} conflicts often accompanied {CYBER CAMPAIGNS} carried {CYBERSPACE} threshold armed conflict. complicates political {ASSESSMENT} {CYBERATTACKS} decision appropriate countermeasures.
+ number quality {CYBERATTACKS} continuously increasing often encounter inadequately secured {SYSTEMS}. {ATTACKS} highly {PROFESSIONAL}. {ATTACK} tools now available {GOVERNMENT} {ACTORS} well {CRIMINAL} groups {INDIVIDUALS}. classic {DEFENCE} tools often no longer sufficient, particularly relation technologically sophisticated {MALWARE} {PROGRAMS}. {ATTACKERS} technically able hide {CYBERATTACKS} hide {PERPETRATORS}. reason, {CYBERATTACKS} origin {INCREASINGLY} impossible determine, great effort considerable time delays. large number previously unknown {ATTACKS} can assumed.
+ {STATE}, {ECONOMY}, {SOCIETY} {GERMANY} will significantly affected {THREAT} situation coming years.
+{CYBER SECURITY STRATEGY}
+guidelines {CYBER SECURITY STRATEGY}
+{GERMANY} ability act {SOVEREIGNTY} must guaranteed age {DIGITALISATION}. forward-looking {CYBER SECURITY POLICY} enables {COUNTRY} fully {EXPLOIT} enormous opportunities potential {DIGITISATION} {INTERESTS} {SOCIETY} whole making associated {RISKS} manageable.
+guaranteeing {FREEDOM} {SECURITY} one core tasks {STATE}. applies {CYBERSPACE}. , therefore, task {STATE} {PROTECT} {CITIZENS} {COMPANIES} {GERMANY} {THREATS} {CYBERSPACE} {PREVENT} {PROSECUTE CRIMES} {CYBERSPACE}. age {DIGITISATION}, {STATE} can permanently fulfil task offers {PROTECTION} {FREEDOM} development {ECONOMY} {SOCIETY}, including {CYBERSPACE}, sufficiently secures {SYSTEMS} . view {DIGITAL INNOVATION} potential, important {STATE} {IDENTIFY} possible developments importance questions {CYBER SECURITY} early stage based corresponding {RISK ANALYSIS} {RESEARCH} new solutions incorporate political concepts.
+ | {CYBER SECURITY STRATEGY}
+{CYBERSECURITY} arises primarily {RISK-ADJUSTED} {BEHAVIOUR} use {SECURE} {SYSTEMS} area responsibility respective operator user. proven basic {MEASURES}, including consistent application {RISK-APPROPRIATE}, {EFFECTIVE} {UP-TO-DATE} {SECURITY} {PRODUCTS} {STANDARDS}, can used {PREVENT} large number {CYBERATTACKS} reasonable effort.
+close cooperation {COORDINATION} required {PREVENT}, {IDENTIFY}, assign, ward track {CYBERATTACKS}. {STATE}, {BUSINESS}, science {SOCIETY} shared responsibility {SECURITY} {CYBERSPACE}. must therefore {PROVIDE} coordinated answers current challenges. close {EUROPEAN} {INTERNATIONAL} {COORDINATION} indispensable, especially due often cross-border interdependencies {THREATS} foreign {SECURITY} {POLICY} perspective.
+ consequence, {FEDERAL GOVERNMENT} will set priorities {CYBER SECURITY POLICY} following four areas coming years:
+. safe self-determined {ACTION} {DIGITISED} environment
+. joint mission {STATE} {BUSINESS} {CYBER SECURITY}
+. efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+. {GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+ {MEASURES} respective fields {ACTION} cross-sectional character affect - different forms - areas {SOCIETY}.
+{CYBER SECURITY STRATEGY}
+fields {ACTION} {CYBER SECURITY STRATEGY}
+{STRATEGIC} goals {MEASURES}
+{ACTION} area
+safe self-determined {ACTION} {DIGITISED} environment
+{PROMOTE} {DIGITAL} {COMPETENCE} among users
+{COUNTERACT DIGITAL CARELESSNESS}
+{CREATING} conditions {SECURE} {ELECTRONIC COMMUNICATION} {SECURE} web offers
+{SECURE} {ELECTRONIC IDENTITIES}
+{STRENGTHENING} {CERTIFICATION} {APPROVAL} - introduction seal {APPROVAL} {SECURITY}
+make {DIGITISATION} {SECURE}
+drive {SECURITY RESEARCH}
+{ACTION} area
+joint mandate {STATE} {BUSINESS}
+{SECURE} {CRITICAL INFRASTRUCTURES}
+{PROTECT} {COMPANIES} {GERMANY}
+{STRENGTHEN} {GERMAN} {ECONOMY}
+work providers
+include {SECURITY} {SERVICE} providers
+{CREATE} platform trusted {INFORMATION EXCHANGE}
+ | {CYBER SECURITY STRATEGY}
+{ACTION} area
+robust sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+{DEVELOP} {NATIONAL CYBER DEFENCE CENTRE}
+{STRENGTHEN} ability analyse {REACT} locally
+step {LAW ENFORCEMENT} {CYBERSPACE}
+combating {CYBER ESPIONAGE} {CYBER SABOTAGE} {EFFECTIVELY}
+ {EARLY WARNING SYSTEM} {CYBERATTACKS} abroad
+foundation {CENTRAL OFFICE INFORMATION TECHNOLOGY SECURITY AREA} ({ZITIS})
+{STRENGTHEN} {DEFENCE} aspects {CYBER SECURITY}
+{STRENGTHENING} {CERT} structures {GERMANY}
+{SECURE} {FEDERAL ADMINISTRATION}
+working closely {FEDERAL STATE GOVERNMENTS}
+use {RESOURCES}, attract {DEVELOP} {PERSONNEL}
+{ACTION} area
+{GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+actively shaping {EFFECTIVE} {EUROPEAN} {CYBER SECURITY POLICY} {DEVELOP} {NATO CYBER DEFENCE POLICY}
+actively shaping {INTERNATIONAL} {CYBER SECURITY}
+bilateral {REGIONAL} {SUPPORT} cooperation development expansion {CYBER CAPABILITIES} ({CYBER CAPACITY} {BUILDING})
+{STRENGTHEN} {INTERNATIONAL LAW ENFORCEMENT}
+{CYBER SECURITY STRATEGY}
+{ACTION} area
+{SOCIETY} - {STATE} - {ECONOMY} {PROMOTE} {DIGITAL} {COMPETENCE} users
+{COUNTERACT DIGITAL CARELESSNESS}
+{CREATING} conditions {SECURE} {ELECTRONIC COMMUNICATION} {SECURE} web offers
+{SECURE} {ELECTRONIC IDENTITIES}
+{STRENGTHENING} {CERTIFICATION} {APPROVAL} - introduction seal {APPROVAL} {SECURITY}
+make {DIGITISATION} {SECURE}
+drive {SECURITY RESEARCH}
+ | {CYBER SECURITY STRATEGY}
+safe self-determined {ACTION} {DIGITISED} environment
+ able act securely independently {DIGITISED} environment {ESSENTIAL} cornerstone {CYBER SECURITY}. {CITIZENS}, like {COMPANIES}, {STATE} {ACTORS} {GERMANY}, must able grasp opportunities {RISKS} associated use {INFORMATION TECHNOLOGY}, evaluate align {ACTIONS} accordingly ({ASSESSMENT} {COMPETENCE}). corresponding trustworthy technologies framework conditions must available .
+ possibility safe self-determined {ACTION} {CYBERSPACE} context technological {DIGITAL AUTONOMY}. basis targeted {DIGITAL EDUCATION} age user groups. {CYBERSECURITY} must firmly anchored {SOCIETY} consciousness order {COUNTERACT DIGITAL CARELESSNESS}.
+ order use opportunities {DIGITISATION}, user groups must opportunity access trustworthy {SECURE} {SYSTEMS} thus minimise {DIGITAL VULNERABILITIES}. user-friendly manageable solutions - especially {MADE GERMANY} - based globally usable {TECHNICAL} architecture important component well targeted {SECURITY RESEARCH} development, needs user-friendly {CERTIFICATION} {POLICY} promotion {SECURE} {ELECTRONIC IDENTITIES} {ENCRYPTION} {ELECTRONIC COMMUNICATION} {SERVICES} offered {INTERNET}. {NATIONAL} {REGULATIONS} must adapted current {SECURITY} requirements necessary. time, {FEDERAL GOVERNMENT} {EUROPEAN UNION} {INTERNATIONAL ORGANISATIONS} will continue work adequate uniform {SECURITY STANDARDS} {EFFECTIVE} {LEGAL} {REGULATIONS}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area safe self-determined {ACTION} {DIGITISED} environment
+{STRATEGIC} goals {MEASURES} {PROMOTE} {DIGITAL} {COMPETENCE} among users
+responsible {BEHAVIOUR} {CYBERSPACE} {AWARENESS} opportunities specific {RISKS} using {SYSTEMS} integral part {DIGITAL} {COMPETENCE}. {DIGITAL EDUCATION} must, therefore, become integral part {EDUCATIONAL} canon future, school dual {TRAINING}, {UNIVERSITY}, {PROFESSIONAL} development general adult {EDUCATION}. school {UNIVERSITY} sector, primarily task federal states. every school-leaver basic {TECHNICAL} {UNDERSTANDING} basic {KNOWLEDGE} safe handling {INFORMATION} {COMMUNICATION} technology. {FEDERAL STATE GOVERNMENTS} must work together even closely . {FEDERAL GOVERNMENT} will, particular, align dual vocational {TRAINING} systematically requirements {DIGITAL SOCIETY} adapt {TRAINING} {REGULATIONS} accordingly. inter-{COMPANY} {TRAINING} centres prepared age {DIGITISATION}. must able offer advanced {DIGITALISATION} {TRAINING} high level. {EQUIPMENT} {INVESTMENTS} required funded priority. addition, {FEDERAL GOVERNMENT} will work unions employers {CREATE} ways flexible individual {DIGITAL TRAINING}.
+ {FEDERAL GOVERNMENT} will work {EXPAND} range courses {SETTING} additional chairs {STRENGTHENING} existing {TOP INSTITUTES} {MINT} areas particular , big {DATA} analysis, industrial {SOFTWARE} {SECURITY}. {FEDERAL GOVERNMENT} {SUPPORTING} closer cooperation {BUSINESS}, example, third-party-funded positions foundation solutions.
+{COUNTERACT DIGITAL CARELESSNESS}
+ addition {EDUCATION}, responsible {RISK-CONSCIOUS} {ACTION} requires regular sensitisation order {COUNTER} {DIGITAL} carelessness {CITIZENS} {PRIVATE} {PROFESSIONAL} environment. {FEDERAL GOVERNMENT} will, therefore, work cooperation initiatives {GERMANY SECURELY ONLINE} , {PROMOTE} {AWARENESS}-{RAISING} geared target group . specifically supports projects {STRENGTHEN} media {COMPETENCE} {CITIZENS}. {FEDERAL GOVERNMENT} initiatives area {CYBER SECURITY} {SOCIETY} expanded developed. includes social discourse overarching political issues {CYBER} topic targeted formats. {DIGITAL} carelessness must countered {COMPANIES}. appointment {SECURITY} officers, - analogous {DATA} {PROTECTION} officer - {ADVANCE} design implementation {SECURITY} {MEASURES} proven {EFFECTIVE} means . order make {CYBER THREATS} visible, necessary {PROVIDE} {INFORMATION} current findings {SECURITY} properties {PRODUCTS} {SERVICES}. areas public warnings instructions {FEDERAL OFFICE INFORMATION SECURITY} ({BSI}) {SECURITY} gaps therefore expanded.
+ | {CYBER SECURITY STRATEGY}
+{CREATING} conditions {SECURE} {ELECTRONIC COMMUNICATION} {SECURE} web offers
+{SECURE}, {CONFIDENTIAL}, non-manipulable {ELECTRONIC COMMUNICATION} {ESSENTIAL} {EXERCISE} {COMMUNICATION} rights, right {PRIVACY} {PERSONAL} rights {CITIZENS}. {COMPANIES}, important {PROTECTION} {CYBER ESPIONAGE} thus basis economic success. easily manageable {SECURE} {ENCRYPTION} ensures {CONFIDENTIAL} {ELECTRONIC COMMUNICATION} {ACTORS} become {STANDARD}. {RESEARCH} projects {INDUSTRY} initiatives serve goal expressly welcomed {FEDERAL GOVERNMENT}. consequent use strong {ENCRYPTION} web offers increases {SECURITY} {NETWORK}. {FEDERAL GOVERNMENT} will examine specific obstacles use {ENCRYPTION} solutions {PROMOTE} initiatives remove obstacles.
+ addition {SECURITY} {ENCRYPTION} approach, {GERMAN} crypto {STRATEGY} pursues {SECURITY DESPITE ENCRYPTION} approach. users must able {PROTECT} {DATA}, values, rights highest level. time, {GERMAN} {LAW ENFORCEMENT} {SECURITY AUTHORITIES} authorised strict {LEGAL} conditions {DECRYPT BYPASS ENCRYPTED COMMUNICATION} necessary individual cases fulfil {LEGAL} mandate. order avoid undermining already existing powers, {TECHNICAL} {CAPABILITIES} {LAW ENFORCEMENT} {SECURITY AUTHORITIES} {DECRYPTION} must continuously developed parallel {TECHNICAL} developments area {ENCRYPTION}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area safe self-determined {ACTION} {DIGITISED} environment
+{STRATEGIC} goals {MEASURES}
+{SECURE} {ELECTRONIC IDENTITIES}
+ parallel promotion {SECURE} {ELECTRONIC COMMUNICATION}, concepts {SECURE} identification {PEOPLE} things must expanded. users must enabled use {SECURE}, user-friendly modern means {AUTHENTICATION} {INTERNET}. currently widespread not {SECURE} username/password {PROCEDURE} supplemented {STANDARD} replaced possible. key point identification documents online identification function, {FEDERAL GOVERNMENT} already provides highly {SECURE} {DATA}-saving identification option {INTERNET}. aim {ESTABLISH} online id function - derived {SECURE} identities - {STANDARD} means identification sensitive {SERVICES}, {DEVELOP} {PROMOTE} comparable, {SECURE} solutions {BUSINESS}.
+ addition, {FEDERAL GOVERNMENT} committed uniform identity management throughout {GERMAN} {ADMINISTRATION} calls providers {INFORMATION} {COMMUNICATION} technology {DEVELOP} trustworthy {PRODUCTS} {SERVICES} together {NATIONAL SECURITY} {INDUSTRY} make available {MARKET}.
+ | {CYBER SECURITY STRATEGY}
+{STRENGTHENING} {CERTIFICATION} {APPROVAL} - introduction seal {APPROVAL} {SECURITY}
+{EFFECTIVE} needs-based certificates seals {APPROVAL} important instrument dissemination {CYBER SECURITY STANDARDS}. {CERTIFICATION} {APPROVAL} {SECURITY} {PRODUCTS} already {ESTABLISHED} recognised {PROCEDURE}. time, covers small spectrum {INFORMATION TECHNOLOGY} used users today. {FEDERAL GOVERNMENT} , therefore, {PROMOTING} {MANUFACTURERS} {STANDARD} technologies willing testify will introduce basic {CERTIFICATION} {PROCEDURE} {SECURE} consumer {PRODUCTS}, criteria set {BSI}. time, existing {RESOURCES} {BSI} development {TECHNICAL} guidelines, {CERTIFICATION} {SUPPORT} {NATIONAL} accreditation body area {SECURITY} will strengthened corresponding processes made efficient {INTEREST} involved. challenge meet challenge highly qualified, time-consuming {CERTIFICATION} {APPROVAL} short technology cycles using modern processes. example, challenges can met efficiently {INCREASED} involvement accreditation {COMPANIES} deeper integration {CERTIFICATION} process. scalable delegated processes accordance {BSI} {STANDARDS} taken account. {FEDERAL GOVERNMENT} will advocate expansion {EUROPEAN} {INTERNATIONAL} recognition agreements {SECURITY CERTIFICATION} based {COMMON SECURITY CRITERIA} {ASSESSMENT} {SECURITY} properties {PROCEDURES} ({COMMON CRITERIA} {ISO} / iec {ISO} / iec ) order {INCREASE} {INTERNATIONAL} recognition criteria.
+ {LABELLING} {SECURITY} properties {PRODUCTS} {SERVICES} still poses particular challenge areas. order make {SECURITY PRODUCTS SERVICES} transparent, particular {CITIZENS} small medium-sized {COMPANIES}, {FEDERAL GOVERNMENT} will work {EXPAND} field seals {APPROVAL} certificates {SECURITY} submit suitable proposals, particular regard comprehensive {SYSTEMS} {CERTIFICATION} uniform {LABELLING}. future, users able quickly easily determine offer designed safely thus helps {PROTECT} {DATA}, based uniform seal {APPROVAL} making decision buy new {PRODUCTS} using corresponding {SERVICES}. make {CYBER SECURITY} understandable easier implement everyone.
+{CYBER SECURITY STRATEGY}
+{ACTION} area safe self-determined {ACTION} {DIGITISED} environment
+{STRATEGIC} goals {MEASURES}
+make {DIGITISATION} {SECURE}
+{CITIZENS} {COMPANIES} expect changes resulting {DIGITISATION} will {ASSESSED} actively shaped {STATE}. examples e-{HEALTH} act {SECURITY} act. path must continued consistently. {NEW TECHNOLOGIES}, new {BUSINESS} {MODELS} changing user {BEHAVIOUR} will taken account, well new {THREATS} new {EUROPEAN} {INTERNATIONAL} requirements, example {EU DIRECTIVE} {NETWORK} {INFORMATION} {SECURITY}. requirements appropriate distribution responsibilities {SECURITY RISKS} {NETWORK}, example {PRODUCT} liability rules {SECURITY} deficiencies {SECURITY} requirements {HARDWARE} {SOFTWARE} {MANUFACTURERS}, checked. effects use {DIGITAL TECHNOLOGIES}, particularly {CYBER SECURITY}, taken account drafting federal {LAWS} {REGULATIONS}.
+ addition, early implementation {SECURITY} requirements legally required {ENSURE} taken account beginning {TECHNICAL} development ({SECURITY-BY-DESIGN}). purpose, {BSI} available {FEDERAL MINISTRIES} {CENTRAL ADVICE CENTRE}.
+ {DIGITISATION} mobility associated {INCREASE} {DATA} place new cross-border requirements {SECURITY} vehicles {INFRASTRUCTURE} well {PROTECTION} {PERSONAL} rights. {GERMANY} will actively advocate creation {INTERNATIONAL} {STANDARDS}, especially unece level, {ENSURE} adequate {PROTECTION} manipulation misuse {TECHNICAL} structures well {DATA} processes.
+drive {SECURITY RESEARCH}
+ order fully {EXPLOIT} opportunities {DIGITISATION} areas {INDUSTRY} , medical technology mobility , new, holistic {SECURITY} solutions required. therefore, {INNOVATIVE} {SECURITY} solutions tomorrow must researched implemented today. end, {FEDERAL GOVERNMENT} {EXPANDING} {RESEARCH} framework {PROGRAM} {SECURITY} self-determined {SECURE} {DIGITAL WORLD} networking closely {MEASURES} {CYBER SECURITY STRATEGY}.
+ context, existing {COMPETENCE} centres {SECURITY RESEARCH} {CRISP} (darmstadt), {CISPA} (saarbrücken) kastel (karlsruhe) will strengthened. continuously take current {RESEARCH} topics, {PROVIDE} {ASSESSMENTS} evaluations politics {DEVELOP} concrete solutions. application-related {RESEARCH} results developed numerous {STATE}-funded projects implemented marketed quickly possible {PRODUCTS} processes. {MILITARY} application {CYBERSECURITY}, task performed {CYBER CLUSTER} {BUNDESWEHR UNIVERSITY} munich {CYBER DEFENCE SMART DATA} (code) {RESEARCH} institute. {COMMERCIAL} use development {INNOVATIVE} new ideas {SECURITY} {COMPANIES} {START-UPS} explicit goal endeavour {STATE} {INVESTMENTS} order achieve greatest possible economic benefit. time, active technology scouting can help {ENSURE} latest technologies quickly discovered, introduced developed. {PRIVATE} {VENTURE CAPITAL} investors can play important role .
+ | {CYBER SECURITY STRATEGY}
+{CYBER SECURITY STRATEGY}
+{ACTION} area
+{STATE} - {ECONOMY}
+{SECURE} {CRITICAL INFRASTRUCTURES}
+{PROTECT} {COMPANIES} {GERMANY}
+{STRENGTHEN} {GERMAN} {ECONOMY}
+work providers
+include {SECURITY} {SERVICE} providers
+{CREATE} platform trusted {INFORMATION EXCHANGE}
+ | {CYBER SECURITY STRATEGY}
+joint mandate {STATE} {BUSINESS}
+trusted cooperation close exchange {STATE} {ECONOMY} {ESSENTIAL} order able guarantee {CYBER SECURITY} {GERMANY} permanently high level. part {COOPERATIVE APPROACH}, new ways bundle use respective competencies.
+{COMPANIES} {GERMANY} must able {EFFECTIVELY} {PROTECT} customers {CYBERATTACKS}. particular attention paid {OPERATORS CRITICAL INFRASTRUCTURES}. nevertheless, {COMPANIES} can great relevance {STATE}, {ECONOMY} {SOCIETY} must given special {PROTECTION}. purpose, necessary framework conditions must developed , necessary, extended areas {ECONOMY} means {COOPERATIVE APPROACH} {ESTABLISHED} {SECURITY} {LAW}. {DEVELOPING} implementing {EFFECTIVE} needs-based {SECURITY STANDARDS}, {STATE} {BUSINESS} must work closely trustingly. foundation strong {GERMAN} {ECONOMY} can promoted modern economic {POLICY}. {FEDERAL GOVERNMENT} will {DEVELOP} {MEASURES} {IMPROVE} start- {CULTURE} / {CYBER SECURITY START-UPS} {GERMANY}, weaker {INTERNATIONAL} comparison. involvement providers {NATIONAL SECURITY} {SERVICE} providers plays key role {DETECTION} {DEFENCE} {CYBERATTACKS}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area joint mandate {STATE} {INDUSTRY} {STRATEGIC} goals {MEASURES}
+{SECURE} {CRITICAL INFRASTRUCTURES}
+ {PROTECTION} {CRITICAL INFRASTRUCTURES} centre joint {ACTIVITIES} {STATE} {BUSINESS}. given networking {SYSTEMS}, {PROTECTION} {CRITICAL INFRASTRUCTURES} particular importance. departmental {STATE}-wide task {CYBER DEFENCE} {DEFENCE}, since internal external {SECURITY} field {CYBER} closely coincide. implementing requirements set {SECURITY} act, {STATE} {BUSINESS} (including within framework kritis {PUBLIC-PRIVATE PARTNERSHIP}) must work closely together levels {ESTABLISH} trusting {EXCHANGE INFORMATION}. minimum {STANDARDS} {REPORTING} channels developed, implemented developed together {BUSINESS} community. addition, extension {PREVENTION} {RESPONSE} obligations {COMPANIES} high social relevance examined.
+{PROTECT} {COMPANIES} {GERMANY}
+ {FEDERAL GOVERNMENT} will {EXPAND} {AWARENESS}-{RAISING} {SUPPORT} {SERVICES} {GERMAN} {ECONOMY} {NETWORK} closely. small medium-sized {COMPANIES} particular must able {EFFECTIVELY} {PROTECT} dangers {CYBERSPACE} order able take full advantage opportunities associated {DIGITALISATION}. implementation {STRATEGIES} developed jointly {STATE}, science {BUSINESS}. {STATE} specifically {SUPPORT} {COMPANIES} achieving {SECURITY} level need. trust {COMPANIES} {AUTHORITIES} discretion professionalism dealing sensitive issues plays important role .
+ central point contact {CYBERCRIME} {STATE} {FEDERAL POLICE} {FEDERAL OFFICE PROTECTION CONSTITUTION} ({BFV}) make major contributions {DEFENCE} {CYBERCRIME} {CYBER ESPIONAGE} {COMPANIES}. {FEDERAL GOVERNMENT} will offer {SERVICES} alliance {CYBER SECURITY}, {GERMAN} {COMPETENCE} centre {CYBER-CRIME} ({G4C}) , {SECURITY} {BUSINESS} initiative {ECONOMIC PROTECTION INITIATIVE} together {PARTNERS} {BUSINESS} science {EXPAND} {NETWORK} - {CREATE} synergy effects.
+ | {CYBER SECURITY STRATEGY}
+{STRENGTHEN} {GERMAN} {ECONOMY}
+{CYBERSECURITY} {GERMANY} requires strong {INNOVATIVE} {GERMAN} {ECONOMY}. basis identification key technologies {SECURITY} {DEFENCE} area hand trustworthy {MANUFACTURERS} well {SECURE} {NETWORK} {INFRASTRUCTURES}. order {STRENGTHEN} competitiveness {NATIONAL SECURITY} {INDUSTRY}, {FEDERAL GOVERNMENT} will {PROMOTE} quality feature {SECURITY} {MADE GERMANY} {EXPAND} foreign trade instruments. {NATIONAL} key technology fields, networking {NATIONAL SECURITY} {INDUSTRY} must strengthened - possible sensible - {BUILDING} , {PROMOTING} {PROTECTING} one capacities.
+ need broader portfolio qualified, trustworthy {SERVICE} providers, example {SECURITY} solutions, {FORENSICS}, {ATTACK} {DETECTION} {RESPONSE}. , users able access broader {MARKET} {SERVICE} providers future. {COMPANIES} funded {FEDERAL GOVERNMENT} context special {RESEARCH} {PROGRAMS}. joint projects {UNIVERSITIES}, non-{UNIVERSITY} {RESEARCH} institutions, {BUSINESS} {PARTNERS}, {DEVELOP} {INNOVATIVE} approaches new {PRODUCTS} {SERVICES}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area joint mandate {STATE} {BUSINESS}
+{STRATEGIC} goals {MEASURES}
+working providers cooperation providers plays key role.
+within framework applicable {LAW}, applies particular {MEASURES} taken provider {DETECT} {CYBER THREATS}, deal identified {INCIDENTS}/{INFECTIONS} {MITIGATE }ongoing {ATTACKS}. expansion {DATA} {PROTECTION}-compliant sensors anomaly {DETECTION} {NETWORK} {EFFECTIVE} way generally {INCREASE} {DATA} {SECURITY} {NETWORK}. order {PROTECT} rights affected, findings anonymised pseudonymised.
+ | {CYBER SECURITY STRATEGY}
+include {SECURITY} {SERVICE} providers
+ times shortage specialists, {STATE} {BUSINESS} {INTEREST} {PROMOTING} mutual exchange specialist {KNOWLEDGE} formation specialist {NETWORKS}. context applicable {LAW}, {PRIVATE} {SECURITY} {SERVICE} providers will future involved necessary areas {GOVERNMENT} {ACTION}. {FEDERAL GOVERNMENT} will, therefore, take advantage opportunities {PROMOTE} competent trustworthy {SECURITY} {SERVICE} providers. , will design implement {PERSONNEL} exchange {PROGRAMS} {CYBER SECURITY} area together representatives {GERMAN} {SECURITY} {INDUSTRY}. {STATE} {CONFIDENTIALITY} {PROTECTION} {OFFICIAL SECRETS} must taken account, well {PROTECTION} {COMPANY} {BUSINESS SECRETS}.
+{CREATE} platform trusted {INFORMATION EXCHANGE}
+ {COOPERATIVE APPROACH} includes intensive mutual {EXCHANGE INFORMATION}. purpose, {FEDERAL GOVERNMENT} will institutionalise cooperation platform {STATE} {ECONOMY}, , within given {LEGAL} limits, will {ENABLE} exchange relevant situation {INFORMATION} {DEFENCE} {CYBERATTACKS}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area
+confederation - states - municipalities
+{DEVELOP} {NATIONAL CYBER DEFENCE CENTRE}
+{STRENGTHEN} ability analyse {REACT} locally
+step {LAW ENFORCEMENT} {CYBERSPACE}
+combating {CYBER ESPIONAGE} {CYBER SABOTAGE} {EFFECTIVELY}
+ {EARLY WARNING SYSTEM} {CYBERATTACKS} abroad
+foundation {CENTRAL OFFICE INFORMATION TECHNOLOGY SECURITY AREA} ({ZITIS})
+{STRENGTHEN} {DEFENCE} aspects {CYBER SECURITY}
+{STRENGTHENING} {CERT} structures {GERMANY}
+{SECURE} {FEDERAL ADMINISTRATION}
+working closely {FEDERAL STATE GOVERNMENTS}
+use {RESOURCES}, attract {DEVELOP} {PERSONNEL}
+ | {CYBER SECURITY STRATEGY}
+powerful sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+ {STATE} must guarantee {SECURITY}, {JUSTICE} {FREEDOM} {COUNTRY}, including {CYBERSPACE}. requires modern {CYBER SECURITY ARCHITECTURE} {EFFECTIVELY} interlocks various {ACTORS} federal level keeps eye states, municipalities {ECONOMY}.
+ {ADVANCING} {DIGITALISATION} means today large number {GOVERNMENT AGENCIES} {FEDERAL STATE GOVERNMENTS} dealing questions {CYBER SECURITY}. range tasks broad ranges - taking account constitutionally required limits - {PREVENTION}, {SECURITY} {LAW ENFORCEMENT} {COUNTER-ESPIONAGE} {INTELLIGENCE}, {CYBER DEFENCE}. internal external {SECURITY} {CYBERSPACE} equally affected. {STATE} must set institutions way can carry {PROTECTION} mandate {SOCIETY} even age {DIGITISATION}, {EFFECTIVELY} {PROTECT} {CYBERATTACKS}.
+ background, modern {CYBER SECURITY ARCHITECTURE} understands {CYBER SECURITY} permanent task whole {STATE} must mastered together. {ESSENTIAL} {INFORMATION} distributed necessary tasks coordinated efficiently. federal, departmental, {AGENCY} cross-border synergies particular importance. {NATIONAL CYBER DEFENCE CENTRE} already offers appropriate structure federal level, individual {ACTORS} work together within respective areas responsibility. important {INTENSIFY} cooperation involve countries closely future. {FEDERAL GOVERNMENT} will review {LEGAL} responsibilities well {TECHNICAL} {PERSONNEL} {SKILLS}, align closely one another - necessary - adjust . way can {STATE} ability act {PREVENT}, {DETECT}, {INVESTIGATE}, {DEFEND} {PROSECUTE} {CYBERATTACKS} maintained even age {DIGITALISATION}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+{STRATEGIC} goals {MEASURES}
+{DEVELOP} {NATIONAL CYBER DEFENCE CENTRE}
+ part implementation {CYBER SECURITY STRATEGY}, establishment {NATIONAL CYBER DEFENCE CENTRE} ({CYBER-AZ}) leadership {FEDERAL MINISTRY INTERIOR} strengthened {EXCHANGE INFORMATION} relevant {FEDERAL AUTHORITIES}. {FEDERAL AUTHORITIES} responsible {CYBER SECURITY ISSUES} currently {EXCHANGING INFORMATION} {CYBER INCIDENTS} sharing {ASSESSMENTS} analyses {CYBER-AZ}.
+ path continued intensified. {STRENGTHEN} {CYBER DEFENCE} {CAPABILITY}, {CYBER-AZ} must set suitable manner organizationally strengthened within framework general, cross-departmental {CYBER SECURITY ARCHITECTURE}. joint institution, developed leadership {FEDERAL MINISTRY INTERIOR} central cooperation {COORDINATION} platform. {CYBER-AZ} future equipped {ASSESSMENT} evaluation {CAPABILITIES} {UP-TO-DATE} {CYBER} situation reflects {CYBER SECURITY} situation {GERMANY}.
+ {EVENT} {CYBERATTACKS}, mutual {INFORMATION} {COORDINATION} {NATIONAL} {ACTORS} within framework applicable {LAW} great importance. {CYBERATTACKS} originate abroad, foreign {SECURITY} {POLICY} aspects must taken account. {EVENT} {CYBER SECURITY INCIDENTS} affect numerous institutions nationwide, {CYBER-AZ} grows crisis {RESPONSE} centre; cases, {SECURITY} {RESTORATION} {SYSTEMS}, well elucidation {DEFENCE} {CYBERATTACKS}, can achieved coordinated {MEASURES} {NATIONAL} {ACTORS}. operational cooperation coordinated intensively. conception implementation joint {EXERCISES} mutual {TRAINING} must {ESTABLISHED}.
+ counties invited contribute {SKILLS} general {GOVERNMENT} {COORDINATION} process.
+ | {CYBER SECURITY STRATEGY}
+ ability analyse {REACT} locally strengthens recent {CYBERATTACKS} shown hardly institutionalised {STATE} structures can help affected promptly site, addition usual {SECURITY} {MEASURES}, prepare {INCIDENT}. one hand, involves {TECHNICAL} management {SECURITY INCIDENTS}, special expertise available {BSI}. hand, {CYBERATTACKS} may require local {SECURITY AUTHORITIES} act relevant {LEGAL} basis. necessary {COORDINATION} missions various {AUTHORITIES} carried respecting {LEGAL} limits {NATIONAL CYBER DEFENCE CENTRE}. respective {RESTORATION}, {INFORMATION} {LAW ENFORCEMENT} {INTERESTS} {AUTHORITIES} used well {PROTECTION} {INTERESTS} body concerned taken account.
+{MOBILE INCIDENT RESPONSE TEAMS} ({MIRTS}) set {BSI} analyse clean {CYBER INCIDENTS} institutions particularly important community. upon request, {BSI} {MIRTS} will able {PROVIDE} constitutional bodies, {FEDERAL AUTHORITIES} {OPERATORS CRITICAL INFRASTRUCTURES} similarly important local facilities quickly, flexibly manner appropriate addressees {TECHNICAL} management {SECURITY INCIDENTS} particular public {INTEREST}. aim {SUPPORT} quickly {RESTORE} {TECHNICAL} {OPERATION} facility concerned. {CYBERATTACKS} may require local federal {SECURITY} {AGENCIES} act. purpose, {FEDERAL CRIMINAL POLICE OFFICE} ({BKA}) sets specialised {INVESTIGATION} unit ({QUICK REACTION FORCE} ({QRF})), , consultation responsible public prosecutor office federal prosecutor office, implements first indelible {CRIMINAL} proceedings {LAW ENFORCEMENT} {AUTHORITIES}. {BFV}, {MOBILE CYBER TEAMS} set , consisting specialists, {INTELLIGENCE} experts experience evaluating {CYBERATTACKS} - necessary - foreign-language employees. {EVENT} {CYBERATTACK} {INTELLIGENCE} extremist / {TERRORIST} background, {CYBER} teams deployed on-site. applies possible {SABOTAGE} {ATTACKS}. {DEFENCE} sector, task carried {MILITARY SHIELD SERVICE} ({MAD}). {FEDERAL INTELLIGENCE SERVICE} ({BND}) can {OBSERVE} {ATTACK} preparation well implementation phase, taking account {LEGAL} options. outflows {INFORMATION} resulting {ATTACKS} recorded. organisational elements (including {INCIDENT} {RESPONSE} teams), {BUNDESWEHR} can make contributions general {SECURITY} {MEASURES} within constitutional limits.
+ addition, serious {CYBERATTACKS} conceivable, conventional preventive {MEASURES} used long term sustainable manner. {FEDERAL GOVERNMENT} will, therefore, examine {LEGAL} framework conditions {TECHNICAL} options {NETWORK} {OPERATIONS} carried {STATE} {AGENCIES} cases.
+{CYBER SECURITY STRATEGY}
+{ACTION} area efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+{STRATEGIC} goals {MEASURES}
+step {LAW ENFORCEMENT} {CYBERSPACE}
+ {FEDERAL GOVERNMENT} will {INTENSIFY} efforts combat {CYBERCRIME} coming years. end, close {EXCHANGE INFORMATION} {KNOWLEDGE} transfer {NATIONAL} {INTERNATIONAL LEVELS} must guaranteed.
+ {TECHNICAL} {PROFESSIONAL} qualifications {JUDICIARY} {LAW ENFORCEMENT AGENCIES} particular importance. corresponding needs-based {TRAINING} {EDUCATION} content will developed. {FEDERAL GOVERNMENT} will work {IMPROVE} conditions {RECRUITING} {DEVELOPING} {QUALIFIED PERSONNEL} areas {EDUCATION}, {CYBERCRIME} {DIGITAL FORENSICS} part {PERSONNEL} development. powerful analysis evaluation {SYSTEMS} set federal {STATE} {SECURITY AUTHORITIES}.
+ {NEW TECHNOLOGIES}, {FEDERAL GOVERNMENT} will work {ENSURE} powers powers {SECURITY AUTHORITIES} keep pace current developments no gaps {SECURITY} {LAW ENFORCEMENT}. {INVESTIGATION} {MEASURES} area {INFORMATION TECHNOLOGY} {MONITORING} must designed open technology. ensures implementation according {STATE} art possible can designed efficiently.
+ | {CYBER SECURITY STRATEGY}
+combating {CYBER ESPIONAGE} {CYBER SABOTAGE} {EFFECTIVELY}
+ foreign {INTELLIGENCE SERVICES}, {CYBERATTACKS} {SYSTEMS} {GOVERNMENT AGENCIES}, {BUSINESS} {ENTERPRISES} {RESEARCH} institutions well employees represent important method gathering {INFORMATION}. {FEDERAL GOVERNMENT} countered realigning counterintelligence will take path {REINFORCED} -degree view, basically observation {ACTIVITIES} foreign {INTELLIGENCE SERVICES} {GERMANY}. {BFV} counterintelligence {DEPARTMENT} will strengthened organizationally precisely structured. {DEFENCE} {CYBER ESPIONAGE} ( ) forms focus . addition, {BFV} will take even intensive {ACTION} {CYBERATTACKS} extremist {TERRORIST} background.
+{CYBER SECURITY STRATEGY}
+{ACTION} area efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE}
+{STRATEGIC} goals {MEASURES}
+ {EARLY WARNING SYSTEM} {CYBERATTACKS} abroad
+ accordance {LEGAL} mandate, {BND} records {CYBER ESPIONAGE} {CYBERATTACKS} abroad directed {STATE} / {CRITICAL INFRASTRUCTURES} {GERMANY}. {BND} can {PROVIDE} early warnings initiate countermeasures ({SIGNALS INTELLIGENCE SUPPORT CYBER DEFENCE} ({SSCD})). {BND} {BUILDING} {EARLY WARNING SYSTEM} {CYBERATTACKS} specialists experienced {ANALYSTS}. detected {ATTACKS} evaluated qualitatively quantitatively order {DEVELOP} current situation picture {THREAT} situation.
+foundation {CENTRAL OFFICE INFORMATION TECHNOLOGY SECURITY AREA} ({ZITIS})
+ {NATIONAL SECURITY} {AUTHORITIES} must able act {EFFECTIVELY} {DIGITAL ENVIRONMENT} areas. order achieve synergy effects, central office {TECHNICAL} {SUPPORT} federal {SECURITY} {TECHNICAL} {AUTHORITIES} including {INTELLIGENCE SERVICES} regard operational {CYBER CAPABILITIES} will set division {FEDERAL MINISTRY INTERIOR} future task. tasks based range tasks {AUTHORITIES} {SUPPORTING} character. three areas responsibility development, {SUPPORT} advice {SECURITY AUTHORITIES}. {CENTRAL OFFICE INFORMATION TECHNOLOGY SECURITY AREA} ({ZITIS}), {ESTABLISHED}, works close cooperation {AUTHORITIES} mentioned {DEVELOP} future-oriented methods, {PRODUCTS} (overarching) {STRATEGIES} operational implementation {SECURITY AUTHORITIES} develops required. {ZITIS} no operational powers.
+ | {CYBER SECURITY STRATEGY}
+{STRENGTHEN} {DEFENCE} aspects {CYBER SECURITY}
+ {MILITARY} part overall {DEFENCE}, {CYBER DEFENCE} constitutional mandate {BUNDESWEHR} subject {NATIONAL} {INTERNATIONAL REGULATIONS} applicable {BUNDESWEHR} {OPERATIONS}. {DEFENCE} aspects {STATE}-wide {CYBER SECURITY} , according white paper , primary tasks {FEDERAL MINISTRY DEFENCE} {BUNDESWEHR}. {CYBER DEFENCE}, {CYBER} foreign {INTERNATIONAL} {CYBER SECURITY POLICY} {CYBER DEFENCE} three complementary means achieving {CYBER SECURITY}. {BUNDESWEHR} {DEFENCE} {CAPABILITIES} {CYBERSPACE} {ESSENTIAL} part {CYBER SECURITY ARCHITECTURE}. content-related agreement {TECHNICAL} implementation protective {MEASURES} well use participation structures, processes {REPORTING SYSTEMS} {CYBER DEFENCE} {DEFENCE}-relevant aspects situations show close dependency. high-tech {ARMY}, {BUNDESWEHR} continually exposed dangers {CYBERSPACE} worldwide. time, use {CYBERSPACE} prerequisite operational {CAPABILITY} {ARMED FORCES}.
+{CYBER DEFENCE} {CYBER DEFENCE} must integrated {PLANS}, structures processes overall {DEFENCE}. {INFORMATION} {SECURITY} {PROTECTION} {BUNDESWEHR} {SYSTEM} ensured around clock, operational areas {GERMANY}, sense permanent mission. order {BUNDESWEHR} able carry tasks {CYBERSPACE}, {BUNDESWEHR} {CAPABILITIES} expanded, {SECURITY} architecture {SYSTEMS} consolidated previously fragmented structures brought together ministerial {DEPARTMENT} new {INDEPENDENT MILITARY ORGANISATIONAL AREA}.
+ {BUNDESWEHR} special expertise, {SKILLS} {RESOURCES} can made available {STATE} {ACTORS} form administrative assistance - within framework constitutional limits. can {SUPPORTED} {SERVICES} provided civil {COMPANIES} fulfil constitutional mandate.
+{CYBER SECURITY STRATEGY}
+{ACTION} area efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE} {STRATEGIC} goals {MEASURES}
+{STRENGTHENING} {CERT} structures {GERMANY}
+{STATE} {NON-STATE} {COMPUTER EMERGENCY RESPONSE TEAMS} , {CERTS} short, central point contact preventive reactive {TECHNICAL} {MEASURES} {SECURITY} area important component sustainable {CYBER SECURITY ARCHITECTURE}. takes account need {INFORMATION EXCHANGE} {COORDINATION} {INFORMATION TECHNOLOGY} level worldwide. {GERMANY}, {BSI} performs role {NATIONAL} {CERT} {ADMINISTRATION} offers {OPERATORS CRITICAL INFRASTRUCTURES}, {ECONOMY} {CITIZENS}, central point contact foreign {INTERNATIONAL} {CERTS}. independent {CERTS} exist {FEDERAL AUTHORITIES} {STATE} administrations, individual {COMPANIES} scientific institutions. structures must expanded networked {INTEREST} {CYBER SECURITY} {SOCIETY} whole. {BSI} will {INTENSIFY} cooperation administrative {CERT} {NETWORK} (federal states) well corporate scientific {CERTS} bring key {PLAYERS} together one table. existing {CERT} structures {GERMANY} completed {IMPROVED} common process maintaining achieved. development {CYBER-AZ} must taken account.
+ | {CYBER SECURITY STRATEGY}
+{SECURE} {FEDERAL ADMINISTRATION}
+ rapid technological development, increasing complexity {INFORMATION} {COMMUNICATION} technology well {DIGITALISATION} {ADMINISTRATION} place new demands {SECURITY} management {FEDERAL ADMINISTRATION}. implementation {PLAN} {ENSURING} {SECURITY} {FEDERAL ADMINISTRATION} ({FEDERAL IMPLEMENTATION PLAN} - bund) binding {SECURITY} guideline {FEDERAL AUTHORITIES} reoriented current {TECHNICAL} organisational developments. overall project federal consolidation aims bring together {OPERATIONS} direct {FEDERAL ADMINISTRATION}. key goal {STRENGTHEN} {SECURITY}.
+ {FEDERAL NETWORKS PROJECT} creates uniform {SECURE} {NETWORK} {INFRASTRUCTURE} {FEDERAL ADMINISTRATION}. first step, existing {NETWORKS} responsible {FEDERAL MINISTRY INTERIOR} migrated common {NETWORK}, thus {ESTABLISHING} uniform, {INCREASED} level {SECURITY}. order achieve gradual migration {FEDERAL ADMINISTRATION} {NETWORKS} future, common {NETWORK} will function integration platform {NETWORKS} {FEDERAL ADMINISTRATION}.
+ {FEDERAL GOVERNMENT} launched {PROGRAM} {PROMOTE} {SECURE} {MOBILE} {COMMUNICATION}. addition {RAISING} {AWARENESS} use {SECURE} {PRODUCTS}, efforts will made take {SECURITY}-relevant properties account making purchases. addition, {RESILIENCE} {FEDERAL GOVERNMENT} {SYSTEMS} will {INCREASED} order better compensate damage {EVENTS} avoided.
+{CYBER SECURITY STRATEGY}
+{ACTION} area efficient sustainable {STATE}-wide {CYBER SECURITY ARCHITECTURE} {STRATEGIC} goals {MEASURES}
+working closely {FEDERAL STATE GOVERNMENTS}
+ tried tested committee structures federal-{STATE} relationship areas {CYBERCRIME}, {CYBER ESPIONAGE} preventive intrinsic {SECURITY} administrations. order {STRENGTHEN} federal-{STATE} cooperation, {BSI} given {SUPPORT} {STATE} {AUTHORITIES} new task insofar deal {CYBER SECURITY INCIDENTS}. far, applies {SUPPORT} {POLICE} {LAW ENFORCEMENT AGENCIES}.
+ {GUIDELINE INFORMATION SECURITY PUBLIC ADMINISTRATION} , planning council adopted , general {STANDARD} federal {SECURITY} created {AUTHORITIES} institutions federal {STATE} administrations. {FEDERAL STATE GOVERNMENTS} committed jointly {DEFENDING} {ATTACKS} {INFORMATION} {INFRASTRUCTURES} {PUBLIC ADMINISTRATION}. order {IMPROVE} common picture situation, previously voluntary mutual {EXCHANGE INFORMATION} {FEDERAL GOVERNMENT} federal states {CYBERATTACKS} now agreed upon.
+ addition, {CYBER SECURITY} will given additional importance municipal area, example modernising it-grundschutz organisational, {TECHNICAL}, {PERSONNEL} infrastructural recommendations. planning council offers appropriate framework . {FEDERAL GOVERNMENT} supports central structures federal states promotion municipal {CYBER SECURITY}, example municipal {SERVICE} providers. specialist {KNOWLEDGE} {FEDERAL AUTHORITIES} will {INCREASINGLY} made available municipalities via federal states. involvement local umbrella {ORGANISATIONS} federal states, {BSI} will {DEVELOP} municipal situation picture.
+ | {CYBER SECURITY STRATEGY}
+use {RESOURCES}, attract {DEVELOP} {PERSONNEL}
+{CYBERSECURITY} costs money. coming years, considerable financial efforts will, therefore, necessary levels (federal, {STATE} local {AUTHORITIES}) order adequately sustainably position {GERMANY} area {CYBER SECURITY}.
+{PERSONNEL RECRUITMENT DEVELOPMENT} play key role {STATE} ability act. guidelines planning council {PROVIDE} valuable {INFORMATION} . aim will present attractiveness {PUBLIC SERVICE} employer aggressively make targeted use existing conditions relating employment {LAW}, collective bargaining {LAW} monetary conditions. {STATE} must cooperate closely {TRAINING} institutions. {CYBER CLUSTERS} involving {STATE}, science {BUSINESS} can key success factors competing best minds. {PERSONNEL} {RECRUITMENT} must coordinated within {FEDERAL GOVERNMENT}. exchange {PERSONNEL} made easier.
+added broadest possible access {NEW DEGREE COURSE CYBER SECURITY} {BUNDESWEHR UNIVERSITY} munich. expertise must built developed existing {PERSONNEL}, {CREATING} {PROFESSIONAL} {PERSONAL} perspectives, work management level. context, internal {TRAINING} {TRAINING} crucial importance. {FEDERAL ACADEMY PUBLIC ADMINISTRATION}, corresponding courses internal {TRAINING} offered {TRAINING} modules {FEDERAL COLLEGE PUBLIC ADMINISTRATION} redesigned supplemented accordingly. addition, {INNOVATIVE} {PERSONNEL} exchange {MODEL} {BUSINESS} required.
+ establishment {CYBER RESERVE} {BUNDESWEHR} can serve blueprint establishment appropriate civil voluntary structures, even not served far, bundle existing know- experts {BUSINESS}, {RESEARCH}, {ADMINISTRATION} {SOCIETY} make usable serve. context, , close cooperation {GERMAN} {SECURITY} {INDUSTRY} particular importance.
+{CYBER SECURITY STRATEGY}
+{ACTION} area
+{INTERNATIONAL} {ACTION}
+actively shaping {EFFECTIVE} {EUROPEAN} {CYBER SECURITY POLICY} {DEVELOP} {NATO CYBER DEFENCE POLICY}
+actively shaping {INTERNATIONAL} {CYBER SECURITY}
+bilateral {REGIONAL} {SUPPORT} cooperation development expansion {CYBER CAPABILITIES} ({CYBER CAPACITY} {BUILDING})
+{STRENGTHEN} {INTERNATIONAL LAW ENFORCEMENT}
+ | {CYBER SECURITY STRATEGY}
+{GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+ view transnational networking {DIGITISED} world, high level {CYBER SECURITY} can achieved embedding {STRENGTHENING} {NATIONAL} {MEASURES} corresponding {EUROPEAN}, {REGIONAL} {INTERNATIONAL} processes. {GERMANY} will continue play active role {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}. clear {LEGAL} framework, {CONFIDENCE-BUILDING} greater {RESILIENCE} {EUROPE} worldwide mean {PROTECTION} {GERMANY}.
+{SECURITY} must thought globally, especially age {DIGITISATION}. {GERMANY} will {SUPPORT} {INTEROPERABLE} {CYBER SECURITY} architectures {STANDARDS} {MEASURES} {STRENGTHEN} {NATIONAL} {REGIONAL} {CYBER SECURITY CAPABILITIES}. {EUROPEAN} level, {DIGITAL SINGLE MARKET} focus exchange {SECURE} {INTEROPERABLE} {DATA} crucial importance {SECURE} {EUROPEAN} {CYBERSPACE}. applies - within framework existing union {COMPETENCES} - regard {POLICE} judicial cooperation well correspondingly designed common foreign {SECURITY} {POLICY} networking {EUROPEAN} {SECURITY RESEARCH}.
+{GERMANY} campaigning {CYBER SECURITY} relevant forums. {RESILIENCE} alliance {PROTECTION} {NATO} {NETWORKS} central goals {NATO CYBER DEFENCE POLICY}. within framework {UNITED NATIONS}, {GERMANY} will continue work clarifying numerous new issues relating application development {INTERNATIONAL LAW} {CYBERSPACE} maintaining {STRENGTHENING} open, {SECURE} legally designed {CYBERSPACE}. bilateral {CYBER} consultations cooperation selected {PARTNER COUNTRIES} {GERMAN} development cooperation can deepen process achieve global minimum {CYBER SECURITY}. {STRENGTHENING} {INTERNATIONAL LAW ENFORCEMENT} particular importance.
+ {EVENT} {CYBERATTACKS} use foreign {SYSTEMS}, use diplomatic channels alongside {MEASURES} {PROTECT} {RESTORE} affected {SYSTEMS} {PROSECUTE} {PERPETRATORS} considered.
+{CYBER SECURITY STRATEGY}
+{ACTION} area {GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+{STRATEGIC} goals {MEASURES}
+actively shaping {EFFECTIVE} {EUROPEAN} {CYBER SECURITY POLICY} {SECURITY} cornerstone common {DIGITAL SINGLE MARKET}.
+{GERMANY} will work {ENSURE} {SECURITY} adequately taken account {DIGITISATION} processes, including {EUROPEAN} {DATA} location {POLICY} based {DATA} {SECURITY} considering {DATA} {PROTECTION} {EUROPEAN} rules {INTERNATIONAL} {DATA} exchange.
+{EU} pilot projects, {LEGAL} {TECHNICAL} issues relating cross-border processing use {DATA} {ADDRESSED}, take place {GERMAN} participation. important elements cross-border application {ELECTRONIC} identification, qualified {ELECTRONIC SIGNATURE}, {ELECTRONIC} seal {COMPANIES} {AUTHORITIES} well {ELECTRONIC} trust {SERVICES}. addition, {GERMANY} will campaign greater consideration {CYBER SECURITY} subject common foreign {SECURITY} {POLICY}. furthermore, {FEDERAL GOVERNMENT} will {SUPPORT} {GERMAN} {SECURITY RESEARCH} networking {EUROPEAN} level positioning {EU} {MEASURES} take active role shaping {EUROPEAN} {RESEARCH} landscape {RESEARCH} {PROGRAMS}.
+{DEVELOP} {NATO CYBER DEFENCE POLICY}
+ cornerstone {GERMANY} {SECURITY} euro-atlantic {SECURITY}, {NORTH ATLANTIC ALLIANCE} relies adequate {PROTECTION} {ATTACKS} {CYBERSPACE} order able fulfil core tasks, particularly area collective {DEFENCE} {INTERNATIONAL} stabilisation {OPERATIONS}. part adaptation changing {SECURITY} environment, alliance must {DEVELOP} {CYBER DEFENCE} {POLICY}. {GERMANY} will involved process. goal continuously {INCREASE} {RESILIENCE} {ALLIES} alliance whole , not least context hybrid {THREATS}, {INCREASE} {DETERRENCE} {DEFENCE} {CAPABILITIES}. {NATO} recognition {CYBERSPACE} operating space takes account growing importance {CYBER DEFENCE} {POLICY}.
+ | {CYBER SECURITY STRATEGY}
+actively shaping {INTERNATIONAL} {CYBER SECURITY}
+within {INTERNATIONAL COMMUNITY}, states regions developed digitally different ways. relevant forums sometimes pursue divergent political economic goals. {UNITED NATIONS}, {GERMANY} will continue {PROVIDE} impulses debates application {INTERNATIONAL LAW} {ACTIONS} states {NON-STATE} {ACTORS}: complement {INTERNATIONAL} {LEGAL} {SYSTEM} {STANDARDS}, {GERMANY} will take responsibility development {STANDARDS}, rules, principles recommendations make particular contribution {STATE} {BEHAVIOUR} {CYBERSPACE}. view {INTERNATIONAL} {CYBER THREATS}, {GERMANY} will campaign {MEASURES} maintain {INTERNATIONAL} {STABILITY} {STRENGTHEN} capacities {UNITED NATIONS} area. {GERMANY} supports considerations deal problem assigning {CYBERATTACKS} global level {ESSENTIAL} {EXCHANGE INFORMATION} can promoted context. industrial {ESPIONAGE} {CYBERATTACKS} must made difficult {INTERNATIONAL REGULATIONS} can {ENFORCED} across {GERMAN} {EUROPEAN} borders. {GERMANY} will particularly actively {SUPPORT} {INTERNATIONAL EFFORTS} {STRENGTHEN} {EXPORT} control regimes view {SURVEILLANCE} technologies. view {RISK} escalation due {INCIDENTS} {CYBERSPACE}, {MEASURES} build trust must implemented, developed expanded. existing forums partnersh{IPS} can used . respect, work {OSCE}, {GERMANY} involved start, plays pioneering role. {FEDERAL GOVERNMENT} will initiate establishment {GERMAN INSTITUTE INTERNATIONAL CYBER SECURITY}. aims involve {BUSINESS}, science {STATE} {ORGANISATIONS} {INTERESTS} {INTERNATIONAL} {STABILITY} crisis {PREVENTION} {PROVIDE} advice governments reliable independent {PARTNER} {COMPETENCE}.
+{CYBER SECURITY STRATEGY}
+{ACTION} area {GERMANY} active positioning {EUROPEAN} {INTERNATIONAL} {CYBER SECURITY POLICY}
+{STRATEGIC} goals {MEASURES}
+bilateral {REGIONAL} {SUPPORT} cooperation development expansion {CYBER CAPABILITIES} ({CYBER CAPACITY} {BUILDING})
+ {RESOURCES}, {INFRASTRUCTURE} capacities {CYBER SECURITY} lacking, special needs arise. {CYBER THREATS} {ATTACKS} can severely restrict set back certain states {POPULATION} groups economic, social political development. {GERMANY} will {SUPPORT} selected {PARTNER COUNTRIES} regions {DEVELOPING} {EXPANDING} preventive reactive {CYBER SECURITY CAPABILITIES} ({NETWORK} robustness {NETWORK} {RESILIENCE}). includes {ENCOURAGING} regions agree confidence {SECURITY}-{BUILDING} {MEASURES}. development {POLICY}, {FEDERAL GOVERNMENT} committed {ENABLING} potential {DIGITALISATION} worldwide {COUNTERING} associated {RISKS}. aspects {SECURITY} play special role development {SUPPORT} {DIGITAL INFRASTRUCTURES} {PARTNER COUNTRIES} {GERMAN} development cooperation.
+ {FEDERAL GOVERNMENT} perceived trustworthy {ACTOR} worldwide. can use existing competencies {SUPPORT} {PARTNER COUNTRIES} regions {CYBER CAPACITY} {BUILDING}. includes {DEVELOPING} {CYBER SECURITY STRATEGIES}, {LEGISLATION}, institutions, {CERTIFICATION}, {RESEARCH}, {TRAINING} {EDUCATION} {MEASURES} well {REGIONAL} initiatives. particular, {PEOPLE} first access {CYBERSPACE} thanks development {POLICY} {MEASURES}, framework conditions {KNOWLEDGE} safe reliable use must {SUPPORTED}.
+ | {CYBER SECURITY STRATEGY}
+{STRENGTHEN} {INTERNATIONAL LAW ENFORCEMENT}
+{GERMANY} will work {INTERNATIONALLY} combat {CYBERCRIME}. cross-border {LAW ENFORCEMENT} joint {POLICE} {INVESTIGATION} {CAPABILITIES} will strengthened. {FEDERAL GOVERNMENT} will work {IMPROVE} {INTERNATIONAL} {LEGAL} framework {SECURITY} {LAW ENFORCEMENT}, particular actively {PARTICIPATING} initiatives {INTERNATIONAL LEVEL} {DEVELOP} {LEGAL} framework cross-border investigative {MEASURES} {LAW ENFORCEMENT AGENCIES} {CYBERSPACE}. {EFFECTIVE} {LAW ENFORCEMENT}, options simplifying speeding {LEGAL} assistance requests selected {INTERNATIONAL PARTNERS} will developed. {FEDERAL GOVERNMENT} will continue work {INTERNATIONALLY} {ENSURE} many states possible accede {COUNCIL EUROPE} {CONVENTION CYBERCRIME} ({BUDAPEST CONVENTION}) implement {NATIONAL} {LAW}.
+{CYBER SECURITY STRATEGY}
+ | {CYBER SECURITY STRATEGY}
+ongoing {STRATEGY} process {NATIONAL} {CYBER SECURITY COUNCIL}
+ future-oriented {CYBER SECURITY STRATEGY} not limited defining {STRATEGIC} {MEASURES}. rather, dynamics {DIGITISATION} accompanied permanent {STRATEGY} process questions {CYBER SECURITY}, {STRATEGIC} {MEASURES} can {DEVELOP}. new dangers must recognised early {INNOVATIVE} solutions must researched developed. {NATIONAL} {CYBER SECURITY COUNCIL}, set {CYBER SECURITY STRATEGY} {STRATEGIC} adviser {FEDERAL GOVERNMENT}, play key role . {NATIONAL} {CYBER SECURITY COUNCIL} brings together high-ranking representatives {FEDERAL GOVERNMENT} ({FEDERAL MINISTRY INTERIOR}, {FEDERAL CHANCELLERY}, {FEDERAL FOREIGN OFFICE}, {FEDERAL MINISTRY DEFENCE}, {FEDERAL MINISTRY ECONOMICS ENERGY}, {FEDERAL MINISTRY JUSTICE CONSUMER PROTECTION}, {FEDERAL MINISTRY FINANCE}, {FEDERAL MINISTRY EDUCATION RESEARCH} federal ministry ver -return {DIGITAL INFRASTRUCTURE}; circle will expanded include {DEPARTMENTS}) countries well {ECONOMY} one table thus offers suitable format {PROMOTE} {STRATEGIC} issues {ESSENTIAL} {GERMANY} area {CYBER SECURITY}.
+ {NATIONAL} {CYBER SECURITY COUNCIL}, long-term necessities {ACTION} trends identified impulses {STRENGTHENING} {CYBER SECURITY} named fields {ACTION} derived, flow work {FEDERAL GOVERNMENT}. course work, {NATIONAL} {CYBER SECURITY COUNCIL} will {INCREASINGLY} rely expert {KNOWLEDGE} {SOCIETY}, {BUSINESS} science future: lectures invited experts individual {STRATEGIC} topics prepare discussion {DEVELOP} recommendations {ACTION}.
+ {ACTION} field , {NATIONAL} {CYBER SECURITY COUNCIL} supposed make suggestions development {NATIONAL} {REGULATIONS} {CYBER SECURITY} based current {TECHNICAL} developments. {ACTION} field , show fields {COOPERATION STATE} {ECONOMY} {CYBER SECURITY} corresponding implementation proposals. {ACTION} field , {NATIONAL} {CYBER SECURITY COUNCIL} {ADOPT} federal {CYBER SECURITY ARCHITECTURE} {PROVIDE} important impulses direction {FEDERAL GOVERNMENT} conference ministers interior. {ACTION} field , {NATIONAL} {CYBER SECURITY COUNCIL} seek exchange comparable {STRATEGIC} bodies major {INTERNATIONAL PARTNERS} order generate new impulses {NATIONAL} {CYBER SECURITY POLICY}.
+ {NATIONAL} {CYBER SECURITY COUNCIL} will regularly inform {FEDERAL CABINET} results respective {STRATEGIC} issues form written {REPORT}. {REPORT} will submitted {CABINET} {INFORMATION}.
+{CYBER SECURITY STRATEGY}
+glossary
+definitions
+preliminary remark: following definitions apply {CYBER SECURITY STRATEGY} intended {PROMOTE} content clarity coherence. validity definitions found contexts field {CYBER SECURITY} remains unaffected.
+{CYBER DEFENCE} {CYBER DEFENCE} includes {MEASURES} aimed maintaining increasing {CYBER SECURITY}.
+{CYBERATTACK} {CYBER-ATTACK} impact one {INFORMATION TECHNOLOGY SYSTEMS} {CYBERSPACE}, aim completely partially impairing {SECURITY} means {INFORMATION TECHNOLOGY}.
+{CYBERSPACE} {CYBERSPACE} virtual space {INFORMATION TECHNOLOGY SYSTEMS} networked networkable worldwide {DATA} level. publicly accessible connection {NETWORK}, {CYBERSPACE} based {INTERNET}, can expanded {DATA} {NETWORK}.
+{CYBERSECURITY} {CYBERSECURITY} {SECURITY} {INFORMATION TECHNOLOGY SYSTEMS} networked networkable {DATA} level {CYBERSPACE}.
+{CYBERDEFENSE} {CYBERDEFENSE} encompasses {DEFENSIVE} {OFFENSIVE CAPABILITIES} available {BUNDESWEHR} within framework constitutional mandate {INTERNATIONAL} {LEGAL} framework acting {CYBERSPACE}, suitable necessary operational operational management {DEFENCE} ({MILITARY}) {CYBER-ATTACKS} thus serve {PROTECT} {INFORMATION}, , well weapon {EFFECTIVE} {SYSTEMS}. includes use co-design structures, processes {REPORTING SYSTEMS} {CYBER DEFENCE} {DEFENCE}-related aspects situations.
+{INFORMATION TECHNOLOGY} {INFORMATION TECHNOLOGY} () encompasses {TECHNICAL} means serve process transmit {INFORMATION}. processing {INFORMATION} includes collection, collection, use, storage, transmission, {PROGRAM}-controlled processing, internal presentation output {INFORMATION}.
+{INFORMATION TECHNOLOGY SYSTEM} {INFORMATION TECHNOLOGY SYSTEM} ( {SYSTEM}) {TECHNICAL} {SYSTEM} used {INFORMATION} processing forms closed functional unit. typical {SYSTEMS} servers, clients, single-user {COMPUTERS}, cell phones, routers, switches {SECURITY} gateways.
+ {SECURITY} {SECURITY} ( {INFORMATION} {SECURITY}) {INTEGRITY} {AUTHENTICITY}, {CONFIDENTIALITY}, {INTEGRITY} {AVAILABILITY} {INFORMATION TECHNOLOGY SYSTEM} {DATA} processed stored therein.
+ | {CYBER SECURITY STRATEGY}
+imprint
+published {FEDERAL MINISTRY INTERIOR} alt-moabit
+ berlin tel .: + () {E-MAIL}: poststelle@
+ november
+druck bonifatius gmbh, druck - buch - verlag, paderborn
+design fink & fuchs ag, wiesbaden
+photo credit
+{FEDERAL MINISTRY INTERIOR}, berlin
+istockphoto lp, calgary, alberta, canada
+item number bmi16013
+ brochure part public relations work {FEDERAL GOVERNMENT}.
+ available free charge not intended sale.

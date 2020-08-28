@@ -1,0 +1,1 @@
+"G:\Google Drive\Eclipse\Apps\RegexProcessor.jar" -i %1 -r %2 
