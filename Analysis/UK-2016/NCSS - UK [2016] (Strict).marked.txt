@@ -1,0 +1,888 @@
+
+section
+executive summary
+.
+ future {UK} {SECURITY} prosperity rests {DIGITAL} foundations. challenge generation build flourishing {DIGITAL SOCIETY} {RESILIENT} {CYBER THREATS}, equipped {KNOWLEDGE} {CAPABILITIES} required maximise opportunities {MANAGE RISKS}.
+.
+ critically dependent {INTERNET}. however, inherently insecure will always attempts {EXPLOIT} weaknesses launch {CYBER ATTACKS}. {THREAT} eliminated completely, {RISK} can greatly reduced level allows {SOCIETY} continue prosper, benefit huge opportunities {DIGITAL TECHNOLOGY} brings.
+.
+ {NATIONAL CYBER SECURITY STRATEGY}, underpinned {BRITISH} {GOVERNMENT} £860m {NATIONAL CYBER SECURITY PROGRAMME}, delivered substantial improvements {UK} {CYBER SECURITY}. achieved important {OUTCOMES} looking {MARKET} drive {SECURE} {CYBER BEHAVIOURS}. approach not achieved scale pace change required stay ahead fast moving {THREAT}. now need go .
+.
+ vision {UK} {SECURE} {RESILIENT} {CYBER THREATS}, prosperous confident {DIGITAL WORLD}.
+.
+ realise vision will work achieve following objectives:
+• {DEFEND} means {DEFEND} {UK} evolving {CYBER THREATS}, {RESPOND} {EFFECTIVELY} {INCIDENTS}, {ENSURE} {UK} {NETWORKS}, {DATA SYSTEMS} protected {RESILIENT}. {CITIZENS}, {BUSINESSES} {PUBLIC SECTOR} {KNOWLEDGE} ability {DEFEND} .
+• {DETER} {UK} will hard target forms aggression {CYBERSPACE}. {DETECT}, {UNDERSTAND}, {INVESTIGATE} disrupt hostile {ACTION} taken us, pursuing {PROSECUTING} {OFFENDERS}. means take {OFFENSIVE ACTION} {CYBERSPACE}, choose .
+• {DEVELOP} {INNOVATIVE}, growing {CYBER SECURITY INDUSTRY}, underpinned world-leading scientific {RESEARCH} development. self-sustaining pipeline {TALENT} {PROVIDING} {SKILLS} meet {NATIONAL} needs across {PUBLIC PRIVATE SECTORS}. cutting-edge analysis expertise will {ENABLE} {UK} meet overcome future {THREATS} challenges.
+.
+underpinning objectives, will pursue {INTERNATIONAL} {ACTION} exert influence {INVESTING} partnersh{IPS} shape global evolution {CYBERSPACE} manner advances wider {ECONOMIC SECURITY} {INTERESTS}. will deepen existing links closest {INTERNATIONAL PARTNERS}, recognising enhances {COLLECTIVE SECURITY}. will {DEVELOP} relationsh{IPS} new {PARTNERS} build levels {CYBER SECURITY} {PROTECT} {UK INTERESTS} overseas. will bilaterally {MULTILATERALLY}, including {EU}, {NATO} {UN}. will deliver clear messages consequences {ADVERSARIES} threaten {HARM} {INTERESTS}, {ALLIES}, {CYBERSPACE}.
+.
+ achieve {OUTCOMES} next five years, {UK} {GOVERNMENT} intends {INTERVENE} actively use {INCREASED} {INVESTMENT}, continuing {SUPPORT} {MARKET} forces {RAISE} {CYBER SECURITY STANDARDS} across {UK}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+executive summary
+ {UK} {GOVERNMENT}, partnership {DEVOLVED ADMINISTRATIONS} {SCOTLAND}, {WALES} {NORTHERN IRELAND}, will work {PRIVATE} {PUBLIC SECTORS} {ENSURE} {INDIVIDUALS}, {BUSINESSES} {ORGANISATIONS} {ADOPT} {BEHAVIOURS} required stay safe {INTERNET}. will {MEASURES} place {INTERVENE} ( necessary within scope powers) drive improvements {NATIONAL} {INTEREST}, particularly relation {CYBER SECURITY} {CRITICAL NATIONAL INFRASTRUCTURE}.
+.
+ {UK} {GOVERNMENT} will draw {CAPABILITIES} {INDUSTRY} {DEVELOP} apply {ACTIVE CYBER DEFENCE} {MEASURES} significantly {ENHANCE} levels {CYBER SECURITY} across {UK} {NETWORKS}. {MEASURES} include minimising common forms {PHISHING} {ATTACKS}, filtering known bad ip {ADDRESSES}, {ACTIVELY BLOCKING} {MALICIOUS ONLINE ACTIVITY}. improvements basic {CYBER SECURITY} will {RAISE} {UK} {RESILIENCE} commonly deployed {CYBER THREATS}.
+.
+ created {NATIONAL CYBER SECURITY CENTRE} ({NCSC}) {AUTHORITY} {UK} {CYBER SECURITY ENVIRONMENT}, {SHARING KNOWLEDGE}, {ADDRESSING} systemic {VULNERABILITIES} {PROVIDING} leadership key {NATIONAL} {CYBER SECURITY ISSUES}.
+.
+ will {ENSURE} {ARMED FORCES} {RESILIENT} strong {CYBER DEFENCES} need {SECURE} {DEFEND} {NETWORKS} platforms, continuing operate {RETAINING} global {FREEDOM} manoeuvre despite {CYBER THREATS}. {MILITARY} {CYBER SECURITY OPERATIONS CENTRE} will work closely {NCSC} will {ENSURE} {ARMED FORCES} can {ASSIST} {EVENT} significant {NATIONAL} {CYBER ATTACK}.
+.
+ will means {RESPOND} {CYBER ATTACKS} way {RESPOND} {ATTACK}, using whichever {CAPABILITY} appropriate, including {OFFENSIVE CYBER} {CAPABILITY}.
+.
+ will use {AUTHORITY} influence {UK} {GOVERNMENT} {INVEST} {PROGRAMMES} {ADDRESS} shortage {CYBER SECURITY SKILLS} {UK}, schools {UNIVERSITIES} across {WORKFORCE}.
+.
+ will launch two new {CYBER INNOVATION} centres drive development cutting-edge {CYBER PRODUCTS} dynamic new {CYBER SECURITY COMPANIES}. will allocate proportion £165m {DEFENCE} {CYBER INNOVATION} {FUND} {SUPPORT} {INNOVATIVE} procurement {DEFENCE SECURITY}.
+.
+ will {INVEST} total £ billion next five years transform significantly {UK} {CYBER SECURITY}.
+ {UNDERSTANDING} {THREATS} {NETWORKS}, devising implementing {MEASURES} {PROACTIVELY COMBAT} {DEFEND} {THREATS}. see glossary explanation {TECHNICAL} terms.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+introduction
+.
+{INFORMATION} {COMMUNICATION} technologies evolved last two decades now integrated virtually every aspect lives. {UK} {DIGITALISED} {SOCIETY}. {ECONOMY} daily lives richer .
+.
+ transformation brought {DIGITALISATION} creates new dependencies. {ECONOMY}, {ADMINISTRATION} {GOVERNMENT} provision {ESSENTIAL SERVICES} now rely {INTEGRITY} {CYBERSPACE} {INFRASTRUCTURE}, {SYSTEMS} {DATA} underpin . loss trust {INTEGRITY} jeopardise benefits technological revolution.
+.
+much {HARDWARE} {SOFTWARE} originally developed facilitate interconnected {DIGITAL ENVIRONMENT} prioritised efficiency, cost convenience user, not always {SECURITY} designed start. {MALICIOUS ACTORS} – {HOSTILE STATES}, {CRIMINAL} {TERRORIST} {ORGANISATIONS} {INDIVIDUALS} – can {EXPLOIT} gap convenience {SECURITY}. narrowing gap {NATIONAL} priority.
+.
+ expansion {INTERNET} beyond {COMPUTERS} {MOBILE} phones {CYBER-PHYSICAL} smart {SYSTEMS} extending {THREAT} remote {EXPLOITATION} whole host {NEW TECHNOLOGIES}. {SYSTEMS} technologies underpin daily lives – power grids, air {TRAFFIC CONTROL SYSTEMS}, {SATELLITES}, medical technologies, {INDUSTRIAL PLANTS} {TRAFFIC LIGHTS} – connected {INTERNET} , therefore, potentially {VULNERABLE} interference.
+.
+ {NATIONAL SECURITY STRATEGY} ({NSS}) reaffirmed {CYBER THREAT} tier one {RISK} {UK INTERESTS}. {NSS} set {GOVERNMENT} determination {ADDRESS} {CYBER THREATS} put place tough {INNOVATIVE} {MEASURES}, {WORLD LEADER} {CYBER SECURITY} . {NATIONAL CYBER SECURITY STRATEGY} delivers commitment.
+.
+ preparing new {STRATEGY}, {GOVERNMENT} {BUILDING} achievements, objectives judgements first five-year {NATIONAL CYBER SECURITY STRATEGY} issued . {GOVERNMENT} invested £860m period, proud achieved. {POLICIES}, institutions initiatives developed last five years helped {ESTABLISH} {UK} leading global {PLAYER} {CYBER SECURITY}.
+.
+ sound foundations. persistence ingenuity threaten us, prevalence {VULNERABILITIES} gaps {CAPABILITIES} defences mean need work even {HARDER} keep pace {THREAT}. comprehensive approach required {EFFECTIVELY} {SECURE} {CYBER} {INTERESTS}. resolution make {INVESTMENT} interventions based following {ASSESSMENTS}:
+• scale dynamic nature {CYBER THREATS}, {VULNERABILITY} dependency, mean maintaining current approach will not sufficient keep us safe;
+• {MARKET} based approach promotion {CYBER HYGIENE} not produced required pace scale change; therefore, {GOVERNMENT} lead way {INTERVENE} directly bringing influence {RESOURCES} bear {ADDRESS} {CYBER THREATS};
+• {GOVERNMENT} alone {PROVIDE} aspects {NATION} {CYBER SECURITY}. embedded sustainable approach needed {CITIZENS}, {INDUSTRY} {PARTNERS} {SOCIETY} {GOVERNMENT}, play full part securing {NETWORKS}, {SERVICES} {DATA};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+introduction
+• {UK} needs vibrant {CYBER SECURITY SECTOR} {SUPPORTING} {SKILLS} base can keep pace get ahead changing {THREAT}.
+ scope {STRATEGY}
+.
+ {STRATEGY} intended shape {GOVERNMENT} {POLICY}, offering coherent compelling vision share {PUBLIC PRIVATE SECTOR}, {CIVIL SOCIETY}, {ACADEMIA} wider {POPULATION}.
+.
+ {STRATEGY} covers whole {UK}. {UK} {GOVERNMENT} will seek {ENSURE} {STRATEGY} implemented parts {UK}, recognising , extent touches devolved matters, will work closely {DEVOLVED GOVERNMENTS} application {SCOTLAND}, {WALES} {NORTHERN IRELAND} (respecting three separate {LEGAL} jurisdictions, four {EDUCATION SYSTEMS}, exist {UK}). proposals set {STRATEGY} relate devolved matters, implementation will agreed appropriate governments accordance devolution settlements.
+.
+ {STRATEGY} sets proposed recommended {ACTIONS} aimed sectors {ECONOMY} {SOCIETY}, central {GOVERNMENT} {DEPARTMENTS}, leaders across {INDUSTRY} individual {CITIZEN}. {STRATEGY} aims {INCREASE} {CYBER SECURITY} levels collective benefit will basis {UK} engages {INTERNATIONALLY} {PROMOTE} good {INTERNET GOVERNANCE}.
+section
+introduction
+.
+ {STRATEGY}, {CYBER SECURITY} refers {PROTECTION} {INFORMATION SYSTEMS} ({HARDWARE}, {SOFTWARE} associated {INFRASTRUCTURE}), {DATA} , {SERVICES} {PROVIDE}, {UNAUTHORISED ACCESS}, {HARM} misuse. includes {HARM} caused intentionally operator {SYSTEM}, accidentally, result failing follow {SECURITY PROCEDURES}.
+.
+consistent {ASSESSMENT} challenge face {BUILDING} achievements {STRATEGY}, document sets :
+• updated {ASSESSMENT} {STRATEGIC} context, including current evolving {THREATS}: poses serious {THREAT} {INTERESTS}, tools disposal;
+• review {VULNERABILITIES} developed last five years;
+• {GOVERNMENT} vision {CYBER SECURITY} key objectives achieve goal, including guiding principles, roles responsibilities, {GOVERNMENT} {INTERVENTION} will make difference;
+• intend put {POLICY} practice: {SETTING} {GOVERNMENT} will lead expect work partnership others;
+• intend {ASSESS} progress towards objectives.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+.
+ last {NATIONAL CYBER SECURITY STRATEGY} published , scale technological change impact already apparent. trends opportunities described since accelerated. {NEW TECHNOLOGIES} applications come fore, greater uptake {INTERNET}-based technologies worldwide, particular {DEVELOPING} countries, offered increasing opportunities economic social development. developments brought, will bring, significant advantages connected societies . reliance {NETWORKS} {UK} overseas grows, opportunities seek compromise {SYSTEMS} {DATA}. equally, geopolitical landscape changed. {MALICIOUS CYBER ACTIVITY} knows no {INTERNATIONAL} boundaries. {STATE} {ACTORS} experimenting {OFFENSIVE CYBER} {CAPABILITIES}. {CYBER CRIMINALS} broadening efforts {EXPANDING} {STRATEGIC} modus operandi achieve higher value pay-outs {UK} {CITIZENS}, {ORGANISATIONS} institutions. {TERRORISTS}, sympathisers, {CONDUCTING} low-level {ATTACKS} aspire carry significant acts. chapter sets {ASSESSMENT} nature {THREATS}, {VULNERABILITIES} continue evolve.
+{THREATS}
+{CYBER CRIMINALS}
+.
+ {STRATEGY} deals {CYBER CRIME} context two interrelated forms {CRIMINAL} {ACTIVITY}:
+• {CYBER-DEPENDENT CRIMES} – crimes can committed use {INFORMATION} {COMMUNICATIONS} technology ({ICT}) {DEVICES}, {DEVICES} tool committing {CRIME}, target {CRIME} ( , {HACKING} steal, damage, distort destroy {DATA} / {NETWORK} {ACTIVITY});
+• {CYBER-ENABLED CRIMES} – traditional crimes can {INCREASED} scale reach use {COMPUTERS}, {COMPUTER} {NETWORKS} forms {ICT} ( {CYBER-ENABLED FRAUD} {DATA THEFT}).
+.
+much serious {CYBER CRIME} – mainly {FRAUD}, {THEFT} {EXTORTION} – {UK} continues perpetrated predominantly financially motivated {RUSSIAN}-language organised {CRIMINAL} groups ({OCGS}) eastern {EUROPE}, many {CRIMINAL} {MARKETPLACE} {SERVICES} hosted countries. however, {THREAT} emanates countries regions, inside {UK} , emerging {THREATS} south asia west africa increasing concern.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+.
+even key {INDIVIDUALS} responsible damaging {CYBER CRIMINAL} {ACTIVITIES} {UK} identified, often difficult {UK} {INTERNATIONAL LAW ENFORCEMENT AGENCIES} {PROSECUTE} located jurisdictions limited, no, {EXTRADITION} arrangements.
+.
+ {OCGS} principally responsible {DEVELOPING} deploying {INCREASINGLY} advanced {MALWARE} infects {COMPUTERS} {NETWORKS} {UK} {CITIZENS}, {INDUSTRY} {GOVERNMENT}. impact dispersed throughout {UK}, cumulative effect significant. {ATTACKS} becoming {INCREASINGLY} aggressive confrontational, illustrated increasing use {RANSOMWARE}, {THREATS} {DISTRIBUTED DENIAL SERVICE} ({DDOS}) {EXTORTION}.
+.
+whilst {OCGS} may pose significant {THREAT} collective prosperity {SECURITY}, equally concern continuing {THREAT} acts less sophisticated widespread {CYBER CRIMES} carried {INDIVIDUALS} smaller {ORGANISATIONS}.
+{INTERNET BANKING} {FRAUD}, covers {FRAUDULENT PAYMENTS} taken customer {BANK ACCOUNT} using {INTERNET BANKING} channel, rose % £.5m . number cases {INCREASED} lower rate %, {FINANCIAL FRAUD} {ACTION} {UK} said evidence growing trend {CRIMINALS} target {BUSINESS} high {NET}-worth customers.
+states {STATE-SPONSORED} {THREATS}
+. regularly see attempts states {STATE-SPONSORED} groups penetrate {UK} {NETWORKS} political, diplomatic, technological, {COMMERCIAL} {STRATEGIC} advantage, principal focus {GOVERNMENT}, {DEFENCE}, finance, energy {TELECOMMUNICATIONS SECTORS}.
+.
+ {CAPACITY} impact {STATE} {CYBER PROGRAMMES} varies. advanced nations continue {IMPROVE} {CAPABILITIES} pace, integrating {ENCRYPTION} {ANONYMISATION} {SERVICES} tools order remain covert. {TECHNICAL} {CAPABILITY} deploy sophisticated {ATTACKS}, can often achieve aims using basic tools techniques {VULNERABLE} targets defences {VICTIMS} poor.
+.
+ handful states {TECHNICAL} {CAPABILITIES} pose serious {THREAT} {UK} overall {SECURITY} prosperity. many states {DEVELOPING} sophisticated {CYBER PROGRAMMES} pose {THREAT} {UK INTERESTS} near future. many states seeking {DEVELOP} {CYBER ESPIONAGE} {CAPABILITY} can purchase {COMPUTER} {NETWORK} {EXPLOITATION} tools shelf repurpose {CONDUCT} {ESPIONAGE}.
+.
+beyond {ESPIONAGE} {THREAT}, small number hostile foreign {THREAT} {ACTORS} developed deployed {OFFENSIVE CYBER} {CAPABILITIES}, including destructive ones. {CAPABILITIES} threaten {SECURITY} {UK} {CRITICAL NATIONAL INFRASTRUCTURE} {INDUSTRIAL CONTROL SYSTEMS}. states may use {CAPABILITIES} contravention {INTERNATIONAL LAW} belief can relative impunity, {ENCOURAGING} others follow suit. whilst destructive {ATTACKS} around world remain rare, rising number impact.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+{TERRORISTS}
+.
+{TERRORIST GROUPS} continue aspire {CONDUCT} damaging {CYBER ACTIVITY} {UK INTERESTS}. current {TECHNICAL} {CAPABILITY} {TERRORISTS} judged low. nonetheless impact even low-{CAPABILITY} {ACTIVITY} {UK} date disproportionately high: simple {DEFACEMENTS} doxing {ACTIVITY} ( {HACKED} {PERSONAL} details leaked online) {ENABLE} {TERRORIST GROUPS SUPPORTERS} attract media attention intimidate {VICTIMS}.
+ {TERRORISTS} using {INTERNET} purposes not equal {CYBER-TERRORISM}. however, {INCREASINGLY} {ENGAGING} {CYBER-SPACE}, given {AVAILABILITY} {CYBER-CRIME} {SERVICE}, one can assume position launch {CYBER ATTACKS} {ENISA} {THREAT} landscape
+.
+ current {ASSESSMENT} physical, rather {CYBER}, {TERRORIST} {ATTACKS} will remain priority {TERRORIST GROUPS} immediate future. {INCREASINGLY} {COMPUTER}-literate generation engages {EXTREMISM}, potentially exchanging enhanced {TECHNICAL} {SKILLS}, envisage greater volume low-sophistication ({DEFACEMENT} {DDOS}) {DISRUPTIVE ACTIVITY} {UK}. potential number skilled extremist lone {ACTORS} emerge will {INCREASE}, will {RISK} {TERRORIST} {ORGANISATION} will seek enlist {ESTABLISHED} {INSIDER}. {TERRORISTS} will likely use {CYBER CAPABILITY} achieve maximum effect possible. thus, even moderate {INCREASE} {TERRORIST} {CAPABILITY} may constitute significant {THREAT} {UK INTERESTS}.
+{HACKTIVISTS}
+.
+{HACKTIVIST} groups decentralised issue-orientated. form select targets {RESPONSE} perceived grievances, introducing vigilante quality many acts. majority {HACKTIVIST} {CYBER ACTIVITY} disruptive nature ({WEBSITE DEFACEMENT} {DDOS}), able {HACKTIVISTS} able inflict greater lasting damage {VICTIMS}.
+{INSIDERS} - {INSIDER} {THREATS} remain {CYBER RISK} {ORGANISATIONS} {UK}. {MALICIOUS INSIDERS}, trusted employees {ORGANISATION} access {CRITICAL SYSTEMS} {DATA}, pose greatest {THREAT}. can cause financial reputational damage {THEFT} {SENSITIVE DATA} {INTELLECTUAL PROPERTY}. can pose destructive {CYBER THREAT} use privileged {KNOWLEDGE}, access, facilitate, launch, {ATTACK} disrupt degrade {CRITICAL SERVICES} {NETWORK} {ORGANISATIONS}, wipe {DATA} {NETWORK}.
+ equal concern {INSIDERS} employees accidentally cause {CYBER HARM} inadvertent clicking {PHISHING} {EMAIL}, plugging {INFECTED USB} {COMPUTER}, ignoring {SECURITY PROCEDURES} downloading unsafe content {INTERNET}. whilst no intention deliberately harming {ORGANISATION}, privileged access {SYSTEMS} {DATA} mean {ACTIONS} can cause just much damage {MALICIOUS INSIDER}. {INDIVIDUALS} often {VICTIMS} {SOCIAL ENGINEERING} – can unwittingly {PROVIDE} access {NETWORKS} {ORGANISATION} carry instructions good faith benefit {FRAUDSTER}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+ overall {CYBER RISK} {ORGANISATION} {INSIDER} {THREATS} not just {UNAUTHORISED ACCESS} {INFORMATION SYSTEMS} content. physical {SECURITY} controls {PROTECTING} {SYSTEMS} inappropriate access, removal {SENSITIVE DATA} proprietary {INFORMATION} different forms media, equally important. similarly, robust {PERSONNEL} {SECURITY} {CULTURE} alive {THREAT} posed disaffected employees, {FRAUD} {WORKFORCE} industrial forms {ESPIONAGE} important element comprehensive approach {SECURITY}.
+ {SCRIPT KIDDIES}
+.
+so-called {SCRIPT KIDDIES} – generally less {SKILLED INDIVIDUALS} use scripts {PROGRAMMES} developed others {CONDUCT} {CYBER ATTACKS} – not {ASSESSED} posing substantive {THREAT} wider {ECONOMY} {SOCIETY}. access {HACKING GUIDES}, {RESOURCES} tools {INTERNET}. due {VULNERABILITIES} found {INTERNET}-facing {SYSTEMS} used many {ORGANISATIONS}, {ACTIONS} {SCRIPT KIDDIES} can, cases, disproportionately damaging impact {AFFECTED ORGANISATION}.
+case study : {TALKTALK} compromise
+ october , {UK} {TELECOMMUNICATIONS} provider {TALKTALK} reported successful {CYBER ATTACK} possible {BREACH} customer {DATA}. subsequent {INVESTIGATION} determined {DATABASE} containing customer details accessed via public-facing {INTERNET} servers, records approximately customers {RISK}, including names, {ADDRESSES} {BANK ACCOUNT} details.
+ day, several {TALKTALK} employees received {EMAIL} {RANSOM} demand payment {BITCOINS}. {ATTACKERS} detailed structure {DATABASE} apparent proof accessed.
+{TALKTALK} {REPORT} {BREACH} helped {POLICE}, {SUPPORTED} specialists {NATIONAL CRIME AGENCY}, arrest main suspects, based {UK}, october november .
+ {ATTACK} demonstrates , even within large {CYBER}-aware {ORGANISATIONS}, {VULNERABILITIES} can persist. {EXPLOITATION} can disproportionate effect terms reputational damage operational disruption, {INCIDENT} generated substantial media attention. {TALKTALK} rapid {REPORTING} {BREACH} enabled {LAW ENFORCEMENT} {RESPOND} timely manner, {PUBLIC GOVERNMENT} {MITIGATE }potential loss {SENSITIVE DATA}. {INCIDENT} cost {TALKTALK} estimated £60m loss customers, well sharp drop share price.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+case study : {ATTACK} bangladesh bank {SWIFT} {SYSTEM}
+ {SOCIETY} worldwide interbank financial {TELECOMMUNICATION} ({SWIFT}) provides {NETWORK} enables {FINANCIAL INSTITUTIONS} worldwide send receive {INFORMATION} financial transactions {SECURE} way. {SWIFT} sends payment orders must settled correspondent accounts institutions , long concern potential process compromised {CYBER CRIMINALS} {MALICIOUS ACTORS}, seeking inject illegitimate payment orders {SYSTEM} , worst case scenario, seeking disable disrupt functionality {SWIFT} {NETWORK} .
+ early february , {ATTACKER} accessed {SWIFT} payment {SYSTEM} bangladesh bank instructed new york federal reserve bank transfer money bangladesh {BANK ACCOUNT} accounts philippines. attempted {FRAUD} us$ million. transactions, worth us$ million, prevented {BANKING SYSTEM}; however, five transactions worth us$ million went . us$ million, traced sri lanka, since recovered. remaining us$ million transferred philippines laundered casinos {FUNDS} forwarded hong kong.
+ {FORENSIC} {INVESTIGATION} launched bangladesh bank discovered {MALWARE} installed bank {SYSTEMS} used gather {INTELLIGENCE} {PROCEDURES} used bank {INTERNATIONAL} payments {FUND} transfers. analysis bae {SYSTEMS} {MALWARE} linked {ATTACK} uncovered sophisticated functionality interacting local {SWIFT} alliance access {SOFTWARE} running bangladesh bank {INFRASTRUCTURE}. bae concluded {CRIMINALS} {CONDUCTING} sophisticated {ATTACKS} {VICTIM} {ORGANISATIONS}, particularly area {NETWORK} {INTRUSIONS} .
+case study : ukraine power grid {ATTACK}
+ {CYBER ATTACK} western ukrainian electricity distribution {COMPANIES} {PRYKARPATTYA OBLENERGO} kyiv oblenergo december caused major power outage, disruption substations distribution {NETWORKS}. region reportedly experienced blackout several hours many customers areas sustained lesser disruptions power supplies, affecting consumers.
+use blackenergy3 {MALWARE} blamed {ATTACK}, samples identified {NETWORK}. least six months {ATTACK}, {ATTACKERS} sent {PHISHING} {EMAILS} offices power utility {COMPANIES} ukraine containing malicious microsoft office documents. however, {MALWARE} not likely responsible opening circuit breakers resulted outage. probable {MALWARE} enabled {ATTACKERS} gather credentials allowed gain direct remote control aspects {NETWORK}, subsequently {ENABLE} trigger outage.
+ ukraine {INCIDENT} first confirmed instance disruptive {CYBER ATTACK} electricity {NETWORK}. instances demonstrate need good {CYBER SECURITY PRACTICES} across {CRITICAL NATIONAL INFRASTRUCTURE} ({CNI}) {PREVENT} similar {INCIDENTS} occurring {UK}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+{VULNERABILITIES}
+ {EXPANDING} range {DEVICES}
+.
+ last {NATIONAL CYBER SECURITY STRATEGY} published , {PEOPLE} conceived {CYBER SECURITY} prism {PROTECTING} {DEVICES} {DESKTOP} {COMPUTER} laptop. since {INTERNET} become {INCREASINGLY} integrated daily lives ways largely oblivious . {INTERNET THINGS} creates new opportunities {EXPLOITATION} increases potential impact {ATTACKS} potential cause physical damage, injury persons , worst case scenario, death.
+.
+ rapid implementation connectivity {INDUSTRIAL CONTROL PROCESSES} {CRITICAL SYSTEMS}, across wide range {INDUSTRIES} energy, mining, {AGRICULTURE} {AVIATION}, created industrial {INTERNET THINGS}. simultaneously opening possibility {DEVICES} processes, never {VULNERABLE} interference past, {HACKED} tampered , potentially disastrous consequences.
+.
+therefore, no longer just {VULNERABLE} {CYBER HARMS} caused lack {CYBER SECURITY} {DEVICES} {THREATS} interconnected {SYSTEMS} fundamental {SOCIETY}, {HEALTH} welfare.
+poor {CYBER HYGIENE} {COMPLIANCE}
+.
+{AWARENESS} {TECHNICAL} {VULNERABILITIES} {SOFTWARE} {NETWORKS}, need {CYBER HYGIENE} {UK}, undoubtedly {INCREASED} past five years. part consequence initiatives like {GOVERNMENT} steps {CYBER SECURITY} , due {INCREASED} public profile major {CYBER INCIDENTS} affecting governments corporations. {CYBER ATTACKS} not necessarily sophisticated inevitable often result exploited – easily rectifiable , often, preventable – {VULNERABILITIES}. cases, continues {VULNERABILITY} {VICTIM}, rather ingenuity {ATTACKER}, deciding factor success {CYBER ATTACK}. {BUSINESSES} {ORGANISATIONS} decide {INVEST} {CYBER SECURITY} based cost-benefit {ASSESSMENT}, ultimately liable {SECURITY} {DATA SYSTEMS}. balancing {RISK} {CRITICAL SYSTEMS} {SENSITIVE DATA} {CYBER ATTACKS}, sufficient {INVESTMENT} {PEOPLE}, technology {GOVERNANCE}, will {BUSINESSES} {REDUCE} exposure potential {CYBER HARM}.
+ no conceivable {INFORMATION} {SECURITY} {SYSTEM} can stop one person hundred opening {PHISHING} {EMAIL}, can takes. ciaran martin, director general {CYBER SECURITY}, {GCHQ} – june
+insufficient {TRAINING} {SKILLS}
+.
+ lack {SKILLS} {KNOWLEDGE} meet {CYBER SECURITY NEEDS} across {PUBLIC PRIVATE SECTOR}. {BUSINESSES}, many staff {MEMBERS} not {CYBER SECURITY} aware not {UNDERSTAND} responsibilities regard, partially due lack formal {TRAINING}. public insufficiently {CYBER} aware.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{STRATEGIC} context
+ just fifth {BUSINESSES} staff take part {CYBER SECURITY TRAINING} past year. {CYBER SECURITY BREACHES} survey .
+.
+ need {DEVELOP} {SPECIALIST SKILLS} {CAPABILITIES} will allow us keep pace rapidly evolving technology manage associated {CYBER RISKS}. {SKILLS} gap represents {NATIONAL} {VULNERABILITY} must resolved.
+{LEGACY} unpatched {SYSTEMS}
+.
+many {ORGANISATIONS} {UK} will continue use {VULNERABLE} {LEGACY} {SYSTEMS} next {UPGRADE}. {SOFTWARE SYSTEMS} will often rely older, unpatched versions. older versions often suffer {VULNERABILITIES} {ATTACKERS} look tools {EXPLOIT}. additional issue use {ORGANISATIONS} unsupported {SOFTWARE}, {PATCHING} regimes not exist.
+ recently analysed cisco {DEVICES} {INTERNET} across customer environments way bring attention {SECURITY RISKS} aging {INFRASTRUCTURE} – lack attention {PATCHING} {VULNERABILITIES} present… found {DEVICES} known {VULNERABILITIES} {SOFTWARE} running. cisco annual {SECURITY} {REPORT}
+{AVAILABILITY} {HACKING} {RESOURCES}
+.
+ ready {AVAILABILITY} {HACKING} {INFORMATION} user-friendly {HACKING TOOLS} {INTERNET} {ENABLING} want {DEVELOP} {HACKING} {CAPABILITY} . {INFORMATION} {HACKERS} need order compromise {VICTIMS} successfully often openly accessible can harvested quickly. everyone, living room boardroom, needs aware extent exposure {PERSONAL} details {SYSTEMS} {INTERNET}, degree leave {VULNERABLE} malicious {CYBER EXPLOITATION}.
+ % exploited {VULNERABILITIES} compromised year {VULNERABILITY} published. verizon {DATA} {BREACH} {INVESTIGATIONS} {REPORT}
+conclusions
+.
+ {UK} pursued {POLICIES} {ESTABLISHED} institutions enhanced defences mitigated {THREAT} face {CYBERSPACE}.
+.
+however, not yet ahead {THREAT}. types {MALICIOUS CYBER ACTORS} must contend , motivations, largely endured, even volume {MALWARE} numbers {MALICIOUS ACTORS} grown rapidly. {CAPABILITY} technically proficient {ADVERSARIES}, namely select number states elite {CYBER CRIMINALS}, grown. collective challenge {ENSURE} defences evolved agile enough {COUNTER} , {REDUCE} ability {MALICIOUS ACTORS} {ATTACK} us {ADDRESS} root causes {VULNERABILITIES} outlined .
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {NATIONAL} {RESPONSE}
+.
+ {MITIGATE }multiple {THREATS} face safeguard {INTERESTS} {CYBERSPACE}, need {STRATEGIC} approach underpins collective individual {ACTIONS} {DIGITAL DOMAIN} next five years. section sets vision {STRATEGIC} approach.
+ vision
+.
+ vision {UK} {SECURE} {RESILIENT} {CYBER THREATS}, prosperous confident {DIGITAL WORLD}.
+.
+ realise vision, will work achieve following objectives:
+• {DEFEND} means {DEFEND} {UK} evolving {CYBER THREATS}, {RESPOND} {EFFECTIVELY} {INCIDENTS}, {ENSURE} {UK} {NETWORKS}, {DATA SYSTEMS} protected {RESILIENT}. {CITIZENS}, {BUSINESSES} {PUBLIC SECTOR} {KNOWLEDGE} ability {DEFEND} .
+• {DETER} {UK} will hard target forms aggression {CYBERSPACE}. {DETECT}, {UNDERSTAND}, {INVESTIGATE} disrupt hostile {ACTION} taken us, pursuing {PROSECUTING} {OFFENDERS}. means take {OFFENSIVE ACTION} {CYBERSPACE}, choose .
+• {DEVELOP} {INNOVATIVE}, growing {CYBER SECURITY INDUSTRY}, underpinned world-leading scientific {RESEARCH} development. self-sustaining pipeline {TALENT} {PROVIDING} {SKILLS} meet {NATIONAL} needs across {PUBLIC PRIVATE SECTORS}. cutting-edge analysis expertise will {ENABLE} {UK} meet overcome future {THREATS} challenges.
+.
+underpinning objectives, will pursue {INTERNATIONAL} {ACTION} exert influence {INVESTING} partnersh{IPS}. will shape global evolution {CYBERSPACE} manner advances wider {ECONOMIC SECURITY} {INTERESTS}.
+principles
+ working towards objectives, {GOVERNMENT} will apply following principles:
+• {ACTIONS} {POLICIES} will driven need {PROTECT} {PEOPLE} {ENHANCE} prosperity;
+• will treat {CYBER ATTACK} {UK} seriously equivalent conventional {ATTACK} will {DEFEND} necessary;
+• will act accordance {NATIONAL} {INTERNATIONAL LAW} expect others ;
+• will rigorously {PROTECT} {PROMOTE} core values. include {DEMOCRACY}; rule {LAW}; liberty; open accountable governments institutions; {HUMAN RIGHTS}; {FREEDOM} expression;
+• will preserve {PROTECT} {UK} {CITIZENS} {PRIVACY};
+• will work partnership. working {DEVOLVED ADMINISTRATIONS}, parts {PUBLIC SECTOR}, {BUSINESSES}, institutions, individual {CITIZEN}, can successfully {SECURE} {UK} {CYBERSPACE};
+• {GOVERNMENT} will meet responsibilities lead {NATIONAL} {RESPONSE}, {BUSINESSES}, {ORGANISATIONS} individual {CITIZENS} responsibility take reasonable steps {PROTECT} online {ENSURE} {RESILIENT} able {CONTINUE OPERATING} {EVENT} {INCIDENT};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {NATIONAL} {RESPONSE}
+• responsibility {SECURITY ORGANISATIONS} across {PUBLIC SECTOR}, including {CYBER SECURITY} {PROTECTION} online {DATA} {SERVICES}, lies respective ministers, permanent secretaries management boards;
+• will not accept significant {RISK} posed public {COUNTRY} whole result {BUSINESSES} {ORGANISATIONS} failing take steps needed manage {CYBER THREATS};
+• will work closely countries share views {SECURITY} overlaps, recognising {CYBER THREATS} know no borders. will work broadly across range {INTERNATIONAL PARTNERS} influence wider community, acknowledging value broad coalitions;
+• {ENSURE} {GOVERNMENT} interventions substantive impact overall {NATIONAL} {CYBER SECURITY RESILIENCE}, will seek define, analyse present {DATA} {MEASURES} {STATE} collective {CYBER SECURITY} success meeting {STRATEGIC} goals.
+roles responsibilities
+.
+securing {NATIONAL} {CYBERSPACE} will require collective effort. every one us important part play.
+{INDIVIDUALS}
+.
+ {CITIZENS}, employees consumers, take practical steps {SECURE} {ASSETS} value physical world. virtual world, must . means fulfilling {PERSONAL} responsibility take reasonable steps safeguard not {HARDWARE} – {SMART PHONES} {DEVICES} – {DATA}, {SOFTWARE SYSTEMS} afford us {FREEDOM}, flexibility convenience {PRIVATE} {PROFESSIONAL} lives.
+{BUSINESSES} {ORGANISATIONS}
+.
+{BUSINESSES}, {PUBLIC PRIVATE SECTOR} {ORGANISATIONS} institutions hold {PERSONAL} {DATA}, {PROVIDE} {SERVICES}, operate {SYSTEMS} {DIGITAL DOMAIN}. connectivity {INFORMATION} revolutionised {OPERATIONS}. technological transformation comes responsibility safeguard {ASSETS} hold, maintain {SERVICES} {PROVIDE}, incorporate appropriate level {SECURITY} {PRODUCTS} sell. {CITIZEN} consumer, {SOCIETY} large, look {BUSINESSES} {ORGANISATIONS} take reasonable steps {PROTECT} {PERSONAL} {DATA}, build {RESILIENCE} – ability withstand recover – {SYSTEMS} structures depend. {BUSINESSES} {ORGANISATIONS} must {UNDERSTAND} , {VICTIM} {CYBER ATTACK}, liable consequences.
+{GOVERNMENT}
+.
+ primary duty {GOVERNMENT} {DEFEND} {COUNTRY} {ATTACKS} states, {PROTECT} {CITIZENS} {ECONOMY} {HARM}, set domestic {INTERNATIONAL} framework {PROTECT} {INTERESTS}, safeguard {FUNDAMENTAL RIGHTS}, bring {CRIMINALS} {JUSTICE}.
+.
+ holder significant {DATA} provider {SERVICES}, {GOVERNMENT} takes stringent {MEASURES} {PROVIDE} safeguards {INFORMATION} {ASSETS}. {GOVERNMENT} important responsibility advise inform {CITIZENS} {ORGANISATIONS} need {PROTECT} online, necessary, set {STANDARDS} expect key {COMPANIES} {ORGANISATIONS} meet.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {NATIONAL} {RESPONSE}
+.
+although key sectors {ECONOMY} {PRIVATE} hands, {GOVERNMENT} ultimately responsible assuring {NATIONAL} {RESILIENCE} , {PARTNERS} across {ADMINISTRATION}, maintenance {ESSENTIAL SERVICES} functions across whole {GOVERNMENT}.
+driving change: role {MARKET}
+.
+ {STRATEGY} {NATIONAL CYBER SECURITY PROGRAMME} sought drive {OUTCOMES} {INCREASE} {CAPACITY} {PUBLIC PRIVATE SECTOR} looking {MARKET} drive right {BEHAVIOURS}. expected {COMMERCIAL} pressures {GOVERNMENT}-instigated incentives {ENSURE} adequate {BUSINESS} {INVESTMENT} appropriate {CYBER SECURITY}, {STIMULATE} flow {INVESTMENT} {INDUSTRY}, {ENCOURAGE} adequate pipeline {SKILLS} sector.
+.
+much achieved. across {ECONOMY} wider {SOCIETY}, {AWARENESS} {RISK} {ACTIONS} required mitigate {CYBER RISK} {INCREASED} last five years. combination {MARKET} forces {GOVERNMENT} encouragement not sufficient {SECURE} long-term {INTERESTS} {CYBERSPACE} pace required. many {NETWORKS}, including {CRITICAL} sectors, still insecure. {MARKET} not valuing, therefore not managing, {CYBER RISK} correctly. many {ORGANISATIONS} still suffering {BREACHES} even basic level. investors willing {RISK} {SUPPORTING} entrepreneurs sector. graduates others right {SKILLS} emerging {EDUCATION} {TRAINING} {SYSTEM}.
+.
+ {MARKET} still role play longer term will deliver greater impact {GOVERNMENT} ever can. however, immediacy {THREAT} facing {UK} {EXPANDING} {VULNERABILITIES} {DIGITALISED} environment call greater {ACTION} short term {GOVERNMENT}.
+driving change: expanded role {GOVERNMENT}
+.
+ {GOVERNMENT} must therefore set pace meeting {COUNTRY} {NATIONAL} {CYBER SECURITY NEEDS}. {GOVERNMENT} can draw {INTELLIGENCE ASSETS} required {DEFEND} {COUNTRY} sophisticated {THREATS}. {GOVERNMENT} can drive cooperation across {PUBLIC PRIVATE SECTORS} {ENSURE} {INFORMATION} shared two. {GOVERNMENT} leading role, consultation {INDUSTRY}, defining good {CYBER SECURITY} looks like {ENSURING} implemented.
+.
+ {GOVERNMENT} will bring significant {IMPROVEMENT} {NATIONAL} {CYBER SECURITY} next five years. ambitious transformational {PROGRAMME} will focus following four broad areas:
+• levers incentives. {GOVERNMENT} will {INVEST} maximise potential truly {INNOVATIVE} {UK} {CYBER SECTOR}. will {SUPPORTING} {START-UPS} {INVESTING} {INNOVATION}. will seek {IDENTIFY} bring {TALENT} earlier {EDUCATION SYSTEM} {DEVELOP} clearer routes profession needs better definition. {GOVERNMENT} will make use available levers, including forthcoming {GENERAL DATA PROTECTION REGULATION} ({GDPR}), drive {STANDARDS} {CYBER SECURITY} across {ECONOMY}, including, required, {REGULATION}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {NATIONAL} {RESPONSE}
+• expanded {INTELLIGENCE} {LAW ENFORCEMENT} focus {THREAT}. {INTELLIGENCE AGENCIES}, {MINISTRY DEFENCE}, {POLICE} {NATIONAL CRIME AGENCY}, {COORDINATION} {INTERNATIONAL PARTNER} {AGENCIES}, will {EXPAND} efforts {IDENTIFY}, anticipate disrupt hostile {CYBER ACTIVITIES} foreign {ACTORS}, {CYBER CRIMINALS} {TERRORISTS}. will {IMPROVE} {INTELLIGENCE COLLECTION} {EXPLOITATION}, aim obtaining {PRE-EMPTIVE} {INTELLIGENCE} intent {CAPABILITIES} {ADVERSARIES}.
+• development deployment technology partnership {INDUSTRY}, including {ACTIVE CYBER DEFENCE} {MEASURES}, deepen {UNDERSTANDING} {THREAT}, {STRENGTHEN} {SECURITY} {UK} {PUBLIC PRIVATE SECTOR} {SYSTEMS} {NETWORKS} face {THREAT}, disrupt {MALICIOUS ACTIVITY}.
+• {NATIONAL CYBER SECURITY CENTRE} ({NCSC}). {GOVERNMENT} {ESTABLISHED} single, central body {CYBER SECURITY} {NATIONAL} level. body will manage {NATIONAL} {CYBER INCIDENTS}, {PROVIDE} authoritative voice {CENTRE EXPERTISE} {CYBER SECURITY}, deliver tailored {SUPPORT} advice {DEPARTMENTS}, {DEVOLVED ADMINISTRATIONS}, regulators {BUSINESSES}. {NCSC} will analyse, {DETECT} {UNDERSTAND} {CYBER THREATS}, will {PROVIDE} {CYBER SECURITY EXPERTISE} {SUPPORT} {GOVERNMENT} efforts {FOSTER} {INNOVATION}, {SUPPORT} thriving {CYBER SECURITY INDUSTRY}, {STIMULATE} development {CYBER SECURITY SKILLS}. uniquely public-facing body, parent body {GCHQ} can therefore draw world-class expertise sensitive {CAPABILITIES} {ORGANISATION}, {IMPROVING} {SUPPORT} will able {PROVIDE} {ECONOMY} {SOCIETY} widely. will remain responsibility {GOVERNMENT} {DEPARTMENTS} {ENSURE} {EFFECTIVELY} implement {CYBER SECURITY ADVICE}.
+ given industrial-scale {THEFT INTELLECTUAL PROPERTY} {COMPANIES} {UNIVERSITIES}, well numerous {PHISHING} {MALWARE} scams waste time money, {NATIONAL CYBER SECURITY CENTRE} shows {UK} focusing efforts combat {THREATS} exist online. robert hannigan, director {GCHQ}, march
+.
+delivering changes {CYBER SECURITY RESILIENCE} will require additional {RESOURCES}. {STRATEGIC} {DEFENCE SECURITY} review , {GOVERNMENT} set aside £ billion five years {STRATEGY} deliver commitments objectives.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {NATIONAL} {RESPONSE}
+ {NATIONAL CYBER SECURITY CENTRE}
+ {NATIONAL CYBER SECURITY CENTRE} ({NCSC}) launched october . {NCSC} provides unique opportunity build {EFFECTIVE} {CYBER SECURITY} partnersh{IPS} {GOVERNMENT}, {INDUSTRY} public {ENSURE} {UK} safer online. will {PROVIDE} {CYBER INCIDENT} {RESPONSE} {UK} authoritative voice {CYBER SECURITY}. first time, key sectors will able {ENGAGE} directly {NCSC} staff get best possible advice {SUPPORT} securing {NETWORKS} {SYSTEMS} {CYBER THREATS}.
+ {NCSC} provides:
+• unified source advice {GOVERNMENT} {CYBER SECURITY THREAT} {INTELLIGENCE INFORMATION} assurance;
+• strong public face {GOVERNMENT} {ACTION} {CYBER THREATS} – working hand hand {INDUSTRY}, {ACADEMIA} {INTERNATIONAL PARTNERS} keep {UK} protected {CYBER ATTACK};
+• public-facing {ORGANISATION} reach back {GCHQ} draw necessarily secret {INTELLIGENCE} world-class {TECHNICAL} expertise.
+ will phased approach {BUILDING} {NCSC} {CAPABILITIES} lifetime {STRATEGY}. brings together {CAPABILITIES} already developed {CESG} – {INFORMATION} {SECURITY} arm {GCHQ} – {CENTRE PROTECTION NATIONAL INFRASTRUCTURE} ({CPNI}), {CERT}-{UK} ({COMPUTER EMERGENCY RESPONSE TEAM}) {CENTRE CYBER ASSESSMENT} ({CCA}), {ENABLING} us build best already , whilst greatly simplifying former arrangements. initial focus will :
+• {WORLD CLASS} {INCIDENT} management {CAPABILITY} {RESPOND} {REDUCE} {HARM} {CYBER INCIDENTS} – affecting single {ORGANISATIONS} {NATIONAL}, large scale {ATTACKS};
+• {PROVIDING} {COMMUNICATIONS} {ORGANISATIONS} {PUBLIC PRIVATE SECTOR} can deal {CYBER SECURITY ISSUES}, facilitating sharing {CYBER THREAT} {INFORMATION};
+• continuing {PROVIDE} expert sectoral advice {GOVERNMENT} {CRITICAL} sectors like {TELECOMMUNICATIONS}, energy finance, {PROVIDING} {CYBER SECURITY ADVICE} across {UK}.
+ {NCSC} offers {EFFECTIVE} means {GOVERNMENT} deliver many elements {STRATEGY}. recognise , {NCSC} grows, focus {CAPABILITIES} will need adapt new challenges {LESSONS LEARNED}.
+{NATIONAL CYBER SECURITY STRATEGY}
+ goals {COUNTRY} {CYBER SECURITY} next five years rightly ambitious. achieve will require us act consequence determination across {DIGITAL} landscape. {ACTIVITY} deliver {GOVERNMENT} vision will {ADVANCE} three primary objectives {STRATEGY}: {DEFEND} {CYBERSPACE}, {DETER} {ADVERSARIES} {DEVELOP} {CAPABILITIES}, underpinned {EFFECTIVE} {INTERNATIONAL} {ACTION}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+.
+ {DEFEND} elements {STRATEGY} aim {ENSURE} {UK} {NETWORKS}, {DATA SYSTEMS} public, {COMMERCIAL} {PRIVATE} spheres {RESILIENT} protected {CYBER ATTACK}. will never possible stop every {CYBER ATTACK}, just not possible stop every {CRIME}. however, together {CITIZENS}, {EDUCATION} providers, {ACADEMIA}, {BUSINESSES} governments, {UK} can build layers {DEFENCE} will significantly {REDUCE} exposure {CYBER INCIDENTS}, {PROTECT} precious {ASSETS}, allow us operate successfully prosperously {CYBERSPACE}. acting {PROMOTE} {COOPERATION STATES} good {CYBER SECURITY PRACTICE} {INTEREST} {COLLECTIVE SECURITY}.
+.
+ {GOVERNMENT} will implement {MEASURES} {ENSURE} {CITIZENS}, {BUSINESSES}, {PUBLIC PRIVATE SECTOR} {ORGANISATIONS} institutions access right {INFORMATION} {DEFEND} . {NATIONAL CYBER SECURITY CENTRE} provides unified source advice {GOVERNMENT} {THREAT INTELLIGENCE} {INFORMATION} assurance, {ENSURING} can offer tailored guidance {CYBER DEFENCE} {RESPOND} quickly {EFFECTIVELY} major {INCIDENTS} {CYBERSPACE}. {GOVERNMENT} will work {INDUSTRY} {INTERNATIONAL PARTNERS} define good {CYBER SECURITY} looks like {PUBLIC PRIVATE SECTORS}, important {SYSTEMS} {SERVICES}, {ECONOMY} whole. will build {SECURITY} default new {GOVERNMENT} {CRITICAL SYSTEMS}. {LAW ENFORCEMENT AGENCIES} will collaborate closely {INDUSTRY} {NATIONAL CYBER SECURITY CENTRE} {PROVIDE} dynamic {CRIMINAL} {THREAT INTELLIGENCE} {INDUSTRY} can better {DEFEND} , {PROMOTE} protective {SECURITY} advice {STANDARDS}.
+.
+{ACTIVE CYBER DEFENCE}
+.
+{ACTIVE CYBER DEFENCE} ({ACD}) principle implementing {SECURITY} {MEASURES} {STRENGTHEN} {NETWORK} {SYSTEM} make robust {ATTACK}. {COMMERCIAL} context, {ACTIVE CYBER DEFENCE} normally refers {CYBER SECURITY ANALYSTS} {DEVELOPING} {UNDERSTANDING} {THREATS} {NETWORKS}, devising implementing {MEASURES} {PROACTIVELY COMBAT}, {DEFEND}, {THREATS}. context {STRATEGY}, {GOVERNMENT} chosen apply principle larger scale: {GOVERNMENT} will use unique expertise, {CAPABILITIES} influence bring step-change {NATIONAL} {CYBER SECURITY} {RESPOND} {CYBER THREATS}. {NETWORK} attempting {DEFEND} entire {UK} {CYBERSPACE}. {ACTIVITIES} proposed represent {DEFENSIVE ACTION} {PLAN}, drawing expertise {NCSC} {NATIONAL} {TECHNICAL} {AUTHORITY} {RESPOND} {CYBER THREATS} {UK} macro level.
+objectives
+.
+ undertaking {ACD}, {GOVERNMENT} aims :
+• make {UK} much {HARDER} target {STATE SPONSORED} {ACTORS} {CYBER CRIMINALS} increasing {RESILIENCE} {UK} {NETWORKS};
+• defeat vast majority high-volume/low-sophistication {MALWARE} {ACTIVITY} {UK} {NETWORKS} blocking {MALWARE} {COMMUNICATIONS} {HACKERS} {VICTIMS};
+• evolve {INCREASE} scope scale {GOVERNMENT} {CAPABILITIES} disrupt serious {STATE SPONSORED} {CYBER CRIMINAL} {THREATS};
+• {SECURE} {INTERNET} {TELECOMMUNICATIONS} traffic hijacking {MALICIOUS ACTORS};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+• {HARDEN} {UK} {CRITICAL INFRASTRUCTURE} {CITIZEN}-facing {SERVICES} {CYBER THREATS};
+• disrupt {BUSINESS} {MODEL} {ATTACKERS} every type, {DEMOTIVATE} {REDUCE} {HARM} {ATTACKS} can cause.
+approach
+.
+ pursuit aims, {GOVERNMENT} will:
+• work {INDUSTRY}, especially {COMMUNICATIONS} {SERVICE} providers (csps), make significantly {HARDER} {ATTACK} {UK} {INTERNET} {SERVICES} users, greatly {REDUCE} prospect {ATTACKS} sustained impact {UK}. will include {TACKLING} {PHISHING}, blocking malicious domains ip {ADDRESSES}, steps disrupt {MALWARE} {ATTACKS}. will include {MEASURES} {SECURE} {UK} {TELECOMMUNICATIONS} {INTERNET} routing {INFRASTRUCTURE};
+• {INCREASE} scale development {GCHQ}, {MINISTRY DEFENCE} {NCA} {CAPABILITIES} disrupt serious {CYBER THREATS} {UK}, including campaigns sophisticated {CYBER CRIMINALS} hostile foreign {ACTORS};
+• better {PROTECT} {GOVERNMENT SYSTEMS} {NETWORKS}, help {INDUSTRY} build greater {SECURITY} {CNI} {SUPPLY CHAIN}, make {SOFTWARE ECOSYSTEM} {UK} {SECURE}, {PROVIDE} automated protections {GOVERNMENT} online {SERVICES} {CITIZEN}.
+.
+ possible, initiatives will delivered partnersh{IPS} {INDUSTRY}. many, {INDUSTRY} will designing leading implementation, {GOVERNMENT} {CRITICAL} contribution expert {SUPPORT}, advice thought-leadership.
+.
+ {GOVERNMENT} will undertake specific {ACTIONS} implement {MEASURES}, will include:
+• working csps block {MALWARE} {ATTACKS}. will restricting access specific domains web sites known sources {MALWARE}. known {DOMAIN NAME SYSTEM} ({DNS}) blocking / filtering;
+• preventing {PHISHING} {ACTIVITY} relies domain {SPOOFING} ( {EMAIL} appears specific sender, bank {GOVERNMENT} {DEPARTMENT}, actually {FRAUDULENT}) deploying {EMAIL} verification {SYSTEM} {GOVERNMENT} {NETWORKS} {STANDARD} {ENCOURAGING} {INDUSTRY} likewise;
+• {PROMOTING} {SECURITY} {BEST PRACTICE} multi-{STAKEHOLDER} {INTERNET GOVERNANCE} {ORGANISATIONS} {INTERNET CORPORATION ASSIGNED NAMES NUMBERS} ({ICANN}) coordinates {DOMAIN NAME SYSTEM}), {INTERNET ENGINEERING TASK FORCE} ({IETF}) {EUROPEAN REGIONAL INTERNET REGISTRY} ({RIPE}) engagement {STAKEHOLDERS} {UN} {INTERNET} {GOVERNANCE FORUM} ({IGF});
+• working {LAW ENFORCEMENT} channels order {PROTECT} {UK} {CITIZENS} targeted {CYBER ATTACKS} unprotected {INFRASTRUCTURE} overseas;
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+• working towards implementation controls {SECURE} routing {INTERNET} traffic {GOVERNMENT} {DEPARTMENTS} {ENSURE} illegitimately re-routed {MALICIOUS ACTORS};
+• {INVESTING} {PROGRAMMES} {MINISTRY DEFENCE}, {NCA} {GCHQ} will {ENHANCE} {CAPABILITIES} {ORGANISATIONS} {RESPOND} , disrupt, serious {STATE-SPONSORED} {CRIMINAL} {CYBER ACTIVITY} targeting {UK} {NETWORKS}.
+ will {DEVELOP} {TECHNICAL} interventions {THREATS} evolve {ENSURE} {UK} {CITIZENS} {BUSINESSES} protected default majority large-scale commodity {CYBER ATTACKS}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {ESTABLISHING} {EFFECTIVE} {ACD} {ASSESSING} progress towards following {OUTCOMES}:
+• {UK} {HARDER} {PHISH} , large-scale defences use malicious domains, active anti-{PHISHING} {PROTECTION} scale much {HARDER} use forms {COMMUNICATION}, {VISHING} sms {SPOOFING}, {CONDUCT} {SOCIAL ENGINEERING} {ATTACKS};
+• far larger proportion {MALWARE} {COMMUNICATIONS} {TECHNICAL} artefacts associated {CYBER ATTACKS} {EXPLOITATION} blocked;
+• {UK} {INTERNET} {TELECOMMUNICATIONS} traffic significantly less {VULNERABLE} rerouting {MALICIOUS ACTORS};
+• {GCHQ}, {ARMED FORCES} {NCA} {CAPABILITIES} {RESPOND} serious {STATE-SPONSORED} {CRIMINAL} {THREATS} significantly {INCREASED}.
+. {BUILDING} {SECURE} {INTERNET}
+.
+changing technology provides us opportunity significantly {REDUCE} ability {ADVERSARIES} {CONDUCT} {CYBER CRIME} {UK} {ENSURING} future online {PRODUCTS} {SERVICES} coming use {SECURE} default . means {ENSURING} {SECURITY} controls built {SOFTWARE} {HARDWARE} use activated {DEFAULT SETTING} {MANUFACTURER} user experiences maximum {SECURITY} offered , unless actively choose turn . challenge effect transformative change way supports end user offers {COMMERCIALLY} viable, {SECURE}, {PRODUCT} {SERVICE} – within context maintaining free open nature {INTERNET}.
+ {INTERNET}-connected things multiplying rapidly. saw many proof-of-concept real world {ATTACKS} , identifying serious {VULNERABILITIES} cars, {MEDICAL DEVICES} . {MANUFACTURERS} need {PRIORITISE} {SECURITY} {REDUCE} {RISK} serious {PERSONAL}, economic social consequences. symantec {INTERNET} {SECURITY} {THREAT} {REPORT}
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+.
+ {GOVERNMENT} well-placed take lead role exploring {NEW TECHNOLOGIES} will better {PROTECT} {SYSTEMS}, help {INDUSTRY} build greater {SECURITY} {SUPPLY CHAIN}, {SECURE} {SOFTWARE ECOSYSTEM} {PROVIDE} automated protections {CITIZENS} accessing {GOVERNMENT} {SERVICES} online. {GOVERNMENT} must test implement {NEW TECHNOLOGIES} {PROVIDE} automated {PROTECTION} {GOVERNMENT} online {PRODUCTS} {SERVICES}. possible, similar technologies offered {PRIVATE SECTOR} {CITIZEN}.
+objective
+.
+ majority online {PRODUCTS} {SERVICES} coming use become {SECURE} default . consumers will empowered choose {PRODUCTS} {SERVICES} built- {SECURITY DEFAULT SETTING}. {INDIVIDUALS} can switch {SETTINGS} choose consumers wish {ENGAGE} {CYBERSPACE} {SECURE} way will automatically protected.
+ approach
+.
+ will pursue following {ACTIONS}:
+• {GOVERNMENT} will lead example running {SECURE} {SERVICES} {INTERNET} not rely {INTERNET} {SECURE};
+• {GOVERNMENT} will explore options collaboration {INDUSTRY} {DEVELOP} cutting-edge ways make {HARDWARE} {SOFTWARE} {SECURE} default ;
+• will {ADOPT} challenging new {CYBER SECURITY TECHNOLOGIES} {GOVERNMENT}, {ENCOURAGING} {DEVOLVED ADMINISTRATIONS} likewise, order {REDUCE} perceived {RISKS} adoption. will {PROVIDE} proof concept demonstrate {SECURITY} benefits {NEW TECHNOLOGIES} approaches.
+ will put {SECURITY} heart new {PRODUCT} development, eliminate opportunities {CRIMINAL} {EXPLOITATION} thereby {PROTECT} end user.
+.
+ will:
+• continue {ENCOURAGE} {HARDWARE} {SOFTWARE} providers sell {PRODUCTS} {SECURITY SETTINGS ACTIVATED DEFAULT}, requiring user actively disable {SETTINGS} make insecure. vendors already , not yet taking necessary steps;
+• continue {DEVELOP} {INTERNET} {PROTOCOL} (ip) reputation {SERVICE} {PROTECT} {GOVERNMENT} {DIGITAL SERVICES} ( allow online {SERVICES} get {INFORMATION} ip {ADDRESS} connecting , helping {SERVICE} make informed {RISK MANAGEMENT} decisions real time);
+• seek install {PRODUCTS} {GOVERNMENT} {NETWORKS} will {PROVIDE} assurance {SOFTWARE} running correctly, not maliciously interfered ;
+• look {EXPAND} beyond ;
+• {INVEST} technologies like trusted platform modules (tpm) emerging {INDUSTRY} {STANDARDS} {FAST IDENTITY ONLINE} ({FIDO}), not rely passwords user {AUTHENTICATION}, use machine {DEVICES} user possession authenticate. {GOVERNMENT} will test {INNOVATIVE} {AUTHENTICATION} mechanisms demonstrate can offer, terms {SECURITY} overall user experience.
+.
+ {GOVERNMENT} will explore {ENCOURAGE} {MARKET} {PROVIDING} {SECURITY} ratings new {PRODUCTS}, consumers clear {INFORMATION} {PRODUCTS} {SERVICES} offer greatest {SECURITY}. {GOVERNMENT} will explore link {PRODUCT} ratings new existing regulators, ways warn consumers take {ACTION} online might compromise {SECURITY}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {BUILDING} {SECURE} {INTERNET} {ASSESSING} progress towards following {OUTCOMES}:
+• majority commodity {PRODUCTS} {SERVICES} available {UK} making {UK} {SECURE} default {SECURITY SETTINGS} enabled default {SECURITY} integrated design;
+• {GOVERNMENT} {SERVICES} provided {NATIONAL}, local {DEVOLVED ADMINISTRATION} level trusted {UK} public implemented securely possible, {FRAUD} levels within acceptable {RISK} parameters.
+.
+{PROTECTING} {GOVERNMENT}
+.
+ {UK} {GOVERNMENT}, {DEVOLVED ADMINISTRATIONS} wider {PUBLIC SECTOR} hold large quantities {SENSITIVE DATA}. deliver {ESSENTIAL SERVICES} public operate {NETWORKS} {CRITICAL} {NATIONAL SECURITY} {RESILIENCE}. {GOVERNMENT SYSTEMS} underpin functioning {SOCIETY}. modernisation {PUBLIC SECTOR} {SERVICES} will continue cornerstone {UK} {DIGITAL STRATEGY} – {GOVERNMENT} {DIGITAL} ambition {UK} {WORLD LEADING} {DIGITAL} {NATION}. {RETAIN} trust {CITIZENS} online {PUBLIC SECTOR} {SERVICES} {SYSTEMS}, {DATA} held {GOVERNMENT} must protected branches {GOVERNMENT} must implement appropriate levels {CYBER SECURITY} face continuous attempts hostile {ACTORS} gain access {GOVERNMENT} {PUBLIC SECTOR} {NETWORKS} {DATA}.
+objectives
+.
+ want achieve following {OUTCOMES}:
+• {CITIZENS} use {GOVERNMENT} online {SERVICES} confidence: trust {SENSITIVE INFORMATION} safe , turn, {UNDERSTAND} responsibility submit {SENSITIVE INFORMATION} online {SECURE} manner;
+• {GOVERNMENT} will set adhere appropriate {CYBER SECURITY STANDARDS}, {ENSURE} branches {GOVERNMENT} {UNDERSTAND} meet obligations {SECURE} {NETWORKS}, {DATA} {SERVICES};
+• {GOVERNMENT} {CRITICAL ASSETS}, including highest classification, protected {CYBER ATTACKS}.
+ approach
+.
+ {UK} {GOVERNMENT} will continue move {SERVICES} online {UK} can become truly {DIGITAL} default . {GOVERNMENT} {DIGITAL SERVICE} (gds), {CROWN COMMERCIAL SERVICE} ({CCS}) {NCSC} will {ENSURE} new {DIGITAL SERVICES} built procured {GOVERNMENT} {SECURE} default .
+.
+ {GOVERNMENT} {NETWORKS} highly complex many cases still incorporate {LEGACY} {SYSTEMS}, well {COMMERCIALLY} available {SOFTWARE} no longer {SUPPORTED} vendor. will {ENSURE} no {UNMANAGED RISKS} {LEGACY} {SYSTEMS} unsupported {SOFTWARE}.
+.
+ will {IMPROVE} {GOVERNMENT} wider {PUBLIC SECTOR} {RESILIENCE} {CYBER ATTACK}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+ means {ENSURING} accurate date {KNOWLEDGE} {SYSTEMS}, {DATA}, access . likelihood impact {CYBER INCIDENT} will minimised implementing {BEST PRACTICE} set {NCSC}. {GOVERNMENT} will {ENSURE} able {RESPOND} {EFFECTIVELY} {CYBER INCIDENTS} {PROGRAMME} {INCIDENT} {EXERCISES} regular testing {GOVERNMENT} {NETWORKS}. will invite {DEVOLVED ADMINISTRATIONS} local {AUTHORITIES} {PARTICIPATE} {EXERCISES}, appropriate. automated scanning, will {ENSURE} better {KNOWLEDGE} {GOVERNMENT} online {SECURITY} status.
+.
+{CYBER SECURITY} not just technology. almost successful {CYBER ATTACKS} contributing human factor. will therefore continue {INVEST} {PEOPLE}, {ENSURE} everyone works {GOVERNMENT} sound {AWARENESS} {CYBER RISK}. will {DEVELOP} specific {CYBER EXPERTISE} areas {RISKS} heightened {ENSURE} right processes place {MANAGE RISKS} {EFFECTIVELY}.
+.
+ {NCSC} will {DEVELOP} world-leading {CYBER SECURITY} guidance will keep pace {THREAT} development {NEW TECHNOLOGIES}. will take steps make sure {GOVERNMENT ORGANISATIONS} easy access {THREAT} {INFORMATION} inform {UNDERSTANDING} {CYBER RISKS} take appropriate {ACTION}.
+.
+ will continue {IMPROVE} highest classification {NETWORKS} safeguard {GOVERNMENT} sensitive {COMMUNICATIONS}.
+.
+{HEALTH CARE SYSTEMS} pose unique challenges context {CYBER SECURITY}. sector employs around million {PEOPLE} {ORGANISATIONS}, vastly differing {INFORMATION} {SECURITY} {RESOURCES} {CAPABILITY}. {NATIONAL} {DATA} guardian {HEALTH CARE} set new {DATA} {SECURITY STANDARDS} {HEALTH} {SOCIAL CARE} {SYSTEMS} {ENGLAND}, alongside new {DATA} consent/opt- {MODEL} patients. {GOVERNMENT} will work {HEALTH} {SOCIAL CARE} {ORGANISATIONS} implement {STANDARDS}.
+ {BRITAIN} {WORLD LEADER} {CYBER SECURITY}, growing {THREATS}, new {CYBER SECURITY OPERATIONS CENTRE} will {ENSURE} {ARMED FORCES} {CONTINUE OPERATE} securely. increasing {DEFENCE} {BUDGET} means can stay ahead {ADVERSARIES} {CYBERSPACE} {INVESTING} conventional {CAPABILITIES} rt hon michael fallon mp, {DEFENCE} secretary, april
+.
+{CYBER SECURITY} {VITAL} {DEFENCE}. {ARMED FORCES} depend {INFORMATION} {COMMUNICATIONS} {SYSTEMS}, {UK} {OPERATIONS} around world. {INFRASTRUCTURE} {PERSONNEL} {MINISTRY DEFENCE} ({MOD}) prominent targets. {DEFENCE SYSTEMS} regularly targeted {CRIMINALS}, foreign {INTELLIGENCE SERVICES} {MALICIOUS ACTORS} seeking {EXPLOIT} {PERSONNEL}, disrupt {BUSINESS} {OPERATIONS}, corrupt steal {INFORMATION}. will {ENHANCE} {CYBER THREAT} {AWARENESS}, {DETECTION}, {REACTION} functions, development {CYBER SECURITY OPERATIONS CENTRE} ({CSOC}) uses {STATE-OF-THE-ART} {DEFENSIVE CYBER CAPABILITIES} {PROTECT} {MOD} {CYBERSPACE} deal {THREATS}. {CSOC} will work closely {NCSC} confront {MOD} {CYBER SECURITY} challenges contribute wider {NATIONAL} {CYBER SECURITY}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {PROTECTING} {GOVERNMENT} {NETWORKS}, {SYSTEMS} {DATA} {ASSESSING} progress towards following {OUTCOMES}:
+• {GOVERNMENT} in-depth {UNDERSTANDING} level {CYBER SECURITY RISK} across whole {GOVERNMENT} wider {PUBLIC SECTOR};
+• individual {GOVERNMENT} {DEPARTMENTS} bodies {PROTECT} proportion level {RISK} agreed {GOVERNMENT} minimum {STANDARD};
+• {GOVERNMENT} {DEPARTMENTS} wider {PUBLIC SECTOR} {RESILIENT} can {RESPOND} {EFFECTIVELY} {CYBER INCIDENTS}, maintaining functions recovering quickly;
+• {NEW TECHNOLOGIES} {DIGITAL SERVICES} deployed {GOVERNMENT} will {CYBER SECURE} default;
+• aware , actively mitigating, known {INTERNET}-facing {VULNERABILITIES} {GOVERNMENT SYSTEMS} {SERVICES};
+• suppliers {GOVERNMENT} meet appropriate {CYBER SECURITY STANDARDS}.
+. {PROTECTING} {CRITICAL NATIONAL INFRASTRUCTURE} priority sectors
+context
+ {CYBER SECURITY} certain {UK} {ORGANISATIONS} particular importance successful {CYBER ATTACK} severest impact {COUNTRY} {NATIONAL SECURITY}. impact bearing lives {UK} {CITIZENS}, {STABILITY} strength {UK} {ECONOMY}, {UK} {INTERNATIONAL} standing reputation. premium group {COMPANIES} {ORGANISATIONS} within {PUBLIC PRIVATE SECTOR} includes {CRITICAL NATIONAL INFRASTRUCTURE} ({CNI}), provides {ESSENTIAL SERVICES} {NATION}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+ {DEFEND}
+{ENSURING} {CNI} {SECURE} {RESILIENT} {CYBER ATTACK} will priority {GOVERNMENT}. premium group includes {COMPANIES} {ORGANISATIONS}, beyond {CNI}, require greater level {SUPPORT}. include:
+• jewels economic crown – {UK} successful {COMPANIES} hold future economic strength value {RESEARCH} {INTELLECTUAL PROPERTY};
+• {DATA} holders – not just {ORGANISATIONS} hold large amounts {PERSONAL} {DATA}, hold {DATA} {VULNERABLE} {CITIZENS} abroad, charities;
+• high-{THREAT} targets – {MEDIA ORGANISATIONS}, {ATTACK} {HARM} {UK} reputation, damage public confidence {GOVERNMENT}, endanger {FREEDOM} expression;
+• touchstones {DIGITAL ECONOMY} – {DIGITAL SERVICE} providers {ENABLE} {E-COMMERCE} {DIGITAL ECONOMY}, depend consumer trust {SERVICES};
+• {ORGANISATIONS} , {MARKET} forces {AUTHORITY}, can exert influence whole {ECONOMY} {IMPROVE} {CYBER SECURITY}, insurers, investors, regulators {PROFESSIONAL} advisors.
+.
+ needs done {PROTECT} {VITAL} parts {ECONOMY} {SUPPORT} {ORGANISATIONS} heavily influence others. {CNI} – {PRIVATE} {PUBLIC SECTOR} – continues target {ATTACK}. across many priority sectors {CYBER RISK} still not properly understood managed, even {THREAT} continues diversify {INCREASE}.
+objective
+.
+ {UK} {GOVERNMENT}, working {DEVOLVED ADMINISTRATIONS} responsible {AUTHORITIES} appropriate, will {ENSURE} {UK} important {ORGANISATIONS} {COMPANIES}, including {CNI}, sufficiently {SECURE} {RESILIENT} face {CYBER ATTACK}. neither {GOVERNMENT} nor {PUBLIC BODIES} will take responsibility {MANAGE RISK} {PRIVATE SECTOR}, rightly sits boards, owners operators. {GOVERNMENT} will {PROVIDE} {SUPPORT} assurance proportionate {THREAT} {COMPANIES} {ORGANISATIONS} face, consequences attacked.
+ {CYBER SECURITY} key unlocking {INNOVATION} expansion, {ADOPTING} tailored {ORGANISATION} {RISK-CENTRIC} approach {CYBER SECURITY}, {ORGANISATIONS} can refocus opportunities exploration. {BUILDING} trust {BUSINESS} operates successfully within {INTERNET THINGS} ({IOT}), fully supports protects {INDIVIDUALS} {PERSONAL} {MOBILE DEVICES} ( simple phone {HEALTH CARE} {DEVICE}, {SMART APPLIANCES} {SMART CARS}), key competitive differentiator must priority. ey global {INFORMATION} {SECURITY} survey
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+ approach
+.
+{ORGANISATIONS} {COMPANY} boards responsible {ENSURING} {NETWORKS} {SECURE}. must {IDENTIFY} {CRITICAL SYSTEMS} regularly {ASSESS} {VULNERABILITY} evolving technological landscape {THREAT}. must {INVEST} technology staff {REDUCE} {VULNERABILITIES} current future {SYSTEMS}, {SUPPLY CHAIN}, maintain level {CYBER SECURITY} proportionate {RISK}. must tested {CAPABILITIES} place {RESPOND} {ATTACK} happens. {CNI}, must {GOVERNMENT BODIES} regulators can confident {CYBER RISK} properly managed – not – {INTERVENE} {INTERESTS} {NATIONAL SECURITY}.
+.
+ {GOVERNMENT} will, therefore, {UNDERSTAND} level {CYBER SECURITY} across {CNI} {MEASURES} place {INTERVENE} necessary drive improvements {NATIONAL} {INTEREST}.
+.
+ {GOVERNMENT} will:
+• {SHARE THREAT INFORMATION} {INDUSTRY} {GOVERNMENT} can obtain know must {PROTECT} ;
+• produce advice guidance manage {CYBER RISK} , working collaboratively {INDUSTRY} {ACADEMIA}, define good {CYBER SECURITY} looks like;
+• {STIMULATE} introduction high-end {SECURITY} needed {PROTECT} {CNI}, {TRAINING} facilities, {TESTING LABS}, {SECURITY STANDARDS} consultancy {SERVICES};
+• {CONDUCT} {EXERCISES} {CNI} {COMPANIES} {ASSIST} managing {CYBER RISKS} {VULNERABILITIES}.
+.
+ {NCSC} will {PROVIDE} {SERVICES} {UK} important {COMPANIES} {ORGANISATIONS}, including {CNI}. will partnership {DEPARTMENTS} regulators, will assure whether {CYBER RISK} managed sectors level demanded {NATIONAL} {INTEREST}.
+.
+ {GOVERNMENT} will make sure right {REGULATORY FRAMEWORK} {CYBER SECURITY} place, one :
+• ensures {INDUSTRY} acts {PROTECT} {THREAT};
+• {OUTCOME} focused sufficiently flexible will not fall behind {THREAT}, lead {COMPLIANCE} rather sound {RISK MANAGEMENT};
+• agile enough {FOSTER} growth {INNOVATION}, rather lead ;
+• harmonised regimes jurisdictions {UK} {COMPANIES} not suffer fragmented burdensome approach;
+• delivers, combined {EFFECTIVE} {SUPPORT} {GOVERNMENT}, competitive advantage {UK}.
+.
+many {INDUSTRY} sectors already regulated {CYBER SECURITY}. nonetheless, must {ENSURE} right steps taken across whole {ECONOMY}, including {CNI}, manage {CYBER SECURITY RISKS}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {PROTECTING} {CNI} priority sectors {ASSESSING} progress towards following {OUTCOMES}:
+• {UNDERSTAND} level {CYBER SECURITY} across {CNI}, {MEASURES} place {INTERVENE}, necessary, drive improvements {NATIONAL} {INTEREST};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+• important {COMPANIES} {ORGANISATIONS} {UNDERSTAND} level {THREAT} implement proportionate {CYBER SECURITY PRACTICES}.
+. changing public {BUSINESS} {BEHAVIOURS}
+ successful {UK} {DIGITAL ECONOMY} relies upon confidence {BUSINESSES} public online {SERVICES}. {UK} {GOVERNMENT} worked {INDUSTRY} parts {PUBLIC SECTOR} {INCREASE} {AWARENESS} {UNDERSTANDING} {THREAT}. {GOVERNMENT} provided public {BUSINESS} access tools need {PROTECT} . many {ORGANISATIONS} excellent job – places, world-leading – {PROTECTING} , {PROVIDING} {SERVICES} others online, majority {BUSINESSES} {INDIVIDUALS} still not properly managing {CYBER RISK}.
+ last year, average cost {BREACHES} large {BUSINESSES} £. small {FIRMS} average cost {BREACHES} £. % large {ORGANISATIONS} reported suffered {INFORMATION} {SECURITY BREACH} past year, % experienced {BREACH} least month. nearly seven ten {ATTACKS} involved viruses, spyware {MALWARE} might prevented using {GOVERNMENT} {CYBER ESSENTIALS} scheme. {GOVERNMENT} {CYBER HEALTH} check {CYBER SECURITY BREACHES} survey
+objective
+.
+ objective {ENSURE} {INDIVIDUALS} {ORGANISATIONS}, regardless size sector, taking appropriate steps {PROTECT} , customers, {HARM} caused {CYBER ATTACKS}.
+ approach
+.
+ {GOVERNMENT} will {PROVIDE} advice {ECONOMY} needs {PROTECT} . will {IMPROVE} advice delivered maximise effect. public, {GOVERNMENT} will harness trusted voices {INCREASE} reach, credibility relevance message. will {PROVIDE} advice easy act upon relevant {INDIVIDUALS}, point accessing {SERVICES} exposing {RISK}. will involve {DEVOLVED ADMINISTRATIONS} {AUTHORITIES} appropriate.
+.
+ {BUSINESSES}, will work {ORGANISATIONS} insurers, regulators investors can exert influence {COMPANIES} {ENSURE} manage {CYBER RISK}. , will highlight clear {BUSINESS} benefits pricing {CYBER RISK} {MARKET} influencers. will seek {UNDERSTAND} better many {ORGANISATIONS} still fail {PROTECT} adequately work partnership {ORGANISATIONS} {PROFESSIONAL} {STANDARDS} bodies, move beyond {RAISING} {AWARENESS} persuade {COMPANIES} take {ACTION}. will make sure right {REGULATORY FRAMEWORK} place manage {CYBER RISKS} {MARKET} fails {ADDRESS}. part , will seek use levers, {GDPR}, drive {STANDARDS} {CYBER SECURITY} {PROTECT} {CITIZENS}.
+.
+{INDIVIDUALS} {ORGANISATIONS} {ORGANISATIONS} {UK} will access {INFORMATION}, {EDUCATION}, tools need {PROTECT} . {ENSURE} deliver step-change public {BEHAVIOUR}, will maintain coherent consistent set messages {CYBER SECURITY} guidance {GOVERNMENT PARTNERS}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+ {NCSC} will {PROVIDE} {TECHNICAL} advice underpin guidance. will reflect {BUSINESS} public priorities practices, clear, easily accessible consistent, keeping pace {THREAT}. {LAW ENFORCEMENT} will work closely {INDUSTRY} {NCSC} share latest {CRIMINAL} {THREAT INTELLIGENCE}, {SUPPORT} {INDUSTRY} {DEFEND} {THREATS}, {MITIGATE }impact {ATTACKS} {UK} {VICTIMS}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {PROTECTING} {CNI} priority sectors {ASSESSING} progress towards following {OUTCOMES}:
+• {UK} {ECONOMY} level {CYBER SECURITY} high , higher , comparative advanced economies;
+• number, severity impact successful {CYBER ATTACKS} {BUSINESSES} {UK} reduced, {CYBER HYGIENE} {STANDARDS} {IMPROVED};
+• {IMPROVING} {CYBER SECURITY CULTURE} across {UK} {ORGANISATIONS} public {UNDERSTAND} {CYBER RISK} levels {UNDERSTAND} {CYBER HYGIENE} steps need take {MANAGE RISKS}.
+{CYBER} aware
+ {CYBER} aware campaign, formerly {CYBER STREETWISE}, gives public advice need {PROTECT} {CYBER CRIMINALS}. targeted messaging delivered {SOCIAL MEDIA} advertising partnership {BUSINESSES} promotes:
+• using three random words {CREATE} strong password;
+• always downloading latest {SOFTWARE UPDATES}.
+experts agree {ADOPTING} {BEHAVIOURS} will {PROVIDE} small {BUSINESSES} {INDIVIDUALS} {PROTECTION} {CYBER CRIME}. {CYBER} aware currently {SUPPORTED} cross-sector {PARTNERS}, including {POLICE} {BUSINESSES} retail, leisure, travel {PROFESSIONAL} {SERVICES} sectors. estimated million adults million small {BUSINESSES} stated likely maintain take key {CYBER SECURITY BEHAVIOURS} result {CYBER} aware campaign.
+ find visit
+{CYBER ESSENTIALS}
+ {CYBER ESSENTIALS} scheme developed show {ORGANISATIONS} {PROTECT} low-level commodity {THREAT} . lists five {TECHNICAL} controls ({ACCESS CONTROL}; {BOUNDARY FIREWALLS} {INTERNET} gateways; {MALWARE PROTECTION}; {PATCH MANAGEMENT} {SECURE CONFIGURATION}) {ORGANISATIONS} place. vast majority {CYBER ATTACKS} use relatively simple methods {EXPLOIT} basic {VULNERABILITIES} {SOFTWARE} {COMPUTER} {SYSTEMS}. tools techniques openly available {INTERNET} {ENABLE} even low-{SKILL} {ACTORS} {EXPLOIT} {VULNERABILITIES}. properly implementing {CYBER ESSENTIALS} scheme will {PROTECT} vast majority common {INTERNET} {THREATS}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+. managing {INCIDENTS} {UNDERSTANDING} {THREAT}
+.
+ number severity {CYBER INCIDENTS} affecting {ORGANISATIONS} across {PUBLIC PRIVATE SECTOR} likely {INCREASE}. therefore need define {PRIVATE SECTOR} public {ENGAGE} {GOVERNMENT} {CYBER INCIDENT}. will {ENSURE} {UK} {GOVERNMENT} level {SUPPORT} sector – taking account {CYBER MATURITY} – clearly defined understood. {GOVERNMENT} collection dissemination {INFORMATION} {THREAT} must delivered manner speed suitable types {ORGANISATION}. {PRIVATE SECTOR}, {GOVERNMENT} public can currently access multiple sources {INFORMATION}, guidance assistance {CYBER SECURITY}. must simplified.
+.
+ must {ENSURE} {GOVERNMENT} offering, {RESPONSE} {INCIDENTS}, provision guidance, not exist isolation, partnership {PRIVATE SECTOR}. {INCIDENT} management processes reflect holistic approach {INCIDENTS}, whereby learn {PARTNERS} share {MITIGATION }techniques. will continue use relationsh{IPS} {COMPUTER EMERGENCY RESPONSE TEAMS} ({CERTS}) {ALLIES} integrated part {INCIDENT} management function.
+.
+current {INCIDENT} management remains somewhat fragmented across {GOVERNMENT} {DEPARTMENTS} {STRATEGY} will {CREATE} unified approach. {NCSC} will deliver streamlined {EFFECTIVE} {GOVERNMENT}-led {INCIDENT} {RESPONSE} function. {EVENT} serious {CYBER INCIDENT}, will {ENSURE} {ARMED FORCES} able {PROVIDE} assistance, whether conventional form {ADDRESSING} physical impact {INCIDENT}, form specialist {SUPPORT} regular reserve {CYBER PERSONNEL}. will {PROVIDE} {SUPPORT} {RESOURCES} will allow, {GOVERNMENT} continues stress importance {INDUSTRY}, {SOCIETY} public acting safeguard basic {CYBER SECURITY}.
+objectives
+.
+ objectives follows:
+• {GOVERNMENT} will {PROVIDE} single, joined- approach {INCIDENT} management, based {IMPROVED} {UNDERSTANDING} {AWARENESS} {THREAT} {ACTIONS} taken us. {NCSC} will key enabler, will partnership {PRIVATE SECTOR}, {LAW ENFORCEMENT} {GOVERNMENT} {DEPARTMENTS}, {AUTHORITIES} {AGENCIES};
+• {NCSC} defines clear processes {REPORTING} {INCIDENTS}, tailored profile {VICTIM};
+• will {PREVENT} common {CYBER INCIDENTS}, will {EFFECTIVE} {INFORMATION}-sharing structures place inform pre-{INCIDENT} planning.
+ approach
+.
+ responsibility {ORGANISATION} {COMPANY} management, {PUBLIC PRIVATE SECTOR}, {ENSURE} {NETWORKS} {SECURE} {EXERCISE} {INCIDENT} {RESPONSE} {PLANS}. {EVENT} significant {INCIDENT}, {GOVERNMENT} {INCIDENT} management process will reflect three distinct elements {CYBER INCIDENT}: precursor causes, {INCIDENT} post-{INCIDENT} {RESPONSE}.
+.
+ deliver {INCIDENT} management {EFFECTIVE} {GOVERNMENT} {PRIVATE SECTOR}, will work closely review define scope {GOVERNMENT} {RESPONSE} {ENSURE} reinforces cooperation.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEFEND}
+ will build {NATIONAL} {CYBER EXERCISE PLAN}, using {IMPROVED} {UNDERSTANDING} {AWARENESS} {THREAT}, {IMPROVE} offer {SUPPORT} {PUBLIC PRIVATE SECTOR} {PARTNERS}.
+.
+ will {CREATE} trusted credible {GOVERNMENT} identity {INCIDENT} advice, assistance assurance. will {INCREASE} {CYBER SECURITY AWARENESS} across {UK} {DIGITAL} community will {ENABLE} us better {IDENTIFY} trends, take pro-active {MEASURES} , ultimately, {PREVENT} {INCIDENTS}.
+.
+ moving towards automated {INFORMATION SHARING} ( ), will deliver {EFFECTIVE} {SERVICE}. will allow {ORGANISATIONS} act swiftly relevant {THREAT} {INFORMATION}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success managing {INCIDENTS} {ASSESSING} progress towards following {OUTCOMES}:
+• higher proportion {INCIDENTS} reported {AUTHORITIES}, leading better {UNDERSTANDING} size scale {THREAT};
+• {CYBER INCIDENTS} managed {EFFECTIVELY}, efficiently comprehensively, result creation {NCSC} centralised {INCIDENT} {REPORTING} {RESPONSE} mechanism;
+• will {ADDRESS} root causes {ATTACKS} {NATIONAL} level, {REDUCING} occurrence repeated {EXPLOITATION} across multiple {VICTIMS} sectors.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+.
+ {NATIONAL SECURITY STRATEGY} states {DEFENCE} {PROTECTION} start {DETERRENCE}. true {CYBERSPACE} sphere. realise vision {NATION} {SECURE} {RESILIENT} {CYBER THREATS}, prosperous confident {DIGITAL WORLD}, {DISSUADE} {DETER} {HARM} us {INTERESTS}. achieve need continue {RAISE} levels {CYBER SECURITY} attacking us {CYBERSPACE} – whether steal us {HARM} us – neither cheap nor easy. {ADVERSARIES} must know act impunity: can will {IDENTIFY} , can act , using appropriate {RESPONSE} amongst tools disposal. will continue build global alliances {PROMOTE} application {INTERNATIONAL LAW} {CYBERSPACE}. will actively disrupt {ACTIVITY} threaten us {CYBERSPACE} {INFRASTRUCTURE} rely. delivering ambition requires world-class {SOVEREIGN} {CAPABILITIES}.
+.
+{CYBER ROLE} {DETERRENCE}
+.
+{CYBERSPACE} one sphere must {DEFEND} {INTERESTS} {SOVEREIGNTY}. just {ACTIONS} physical sphere relevant {CYBER SECURITY DETERRENCE}, {ACTIONS} posture {CYBERSPACE} must contribute wider {NATIONAL SECURITY}.
+.
+ principles {DETERRENCE} applicable {CYBERSPACE} physical sphere. {UK} makes clear full spectrum {CAPABILITIES} will used {DETER} {ADVERSARIES} {DENY} opportunities {ATTACK} us. however, recognise {CYBER SECURITY RESILIENCE} means {DETERRING} {ATTACKS} rely {EXPLOITATION} {VULNERABILITIES}.
+.
+ will pursue comprehensive {NATIONAL} approach {CYBER SECURITY DETERRENCE} will make {UK} {HARDER} target, {REDUCING} benefits {RAISING} costs {ADVERSARY} – political, diplomatic, economic {STRATEGIC}. must {ENSURE} {CAPABILITY} intent {RESPOND} understood potential {ADVERSARIES} order influence {DECISION-MAKING}. shall tools {CAPABILITIES} need: {DENY} {ADVERSARIES} {EASY OPPORTUNITIES} compromise {NETWORKS} {SYSTEMS}; {UNDERSTAND} intent {CAPABILITIES}; defeat commodity {MALWARE} {THREATS} scale; {RESPOND} {PROTECT} {NATION} {CYBERSPACE}.
+.
+{REDUCING} {CYBER CRIME}
+.
+ need {RAISE} cost, {RAISE} {RISK}, {REDUCE} reward {CYBER CRIMINALS} {ACTIVITY}. must {HARDEN} {UK} {CYBER ATTACKS} {REDUCE} {VULNERABILITIES}, must focus relentlessly pursuing {CRIMINALS} continue target {UK}.
+.
+{LAW ENFORCEMENT AGENCIES} will focus efforts pursuing {CRIMINALS} persist attacking {UK} {CITIZENS} {BUSINESSES}. will work domestic {INTERNATIONAL PARTNERS} target {CRIMINALS} wherever located, dismantle {INFRASTRUCTURE} facilitation {NETWORKS}. {LAW ENFORCEMENT AGENCIES} will continue help {RAISE} {AWARENESS} {STANDARDS} {CYBER SECURITY}, collaboration {NCSC}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+.
+ {STRATEGY} complements serious {ORGANISED CRIME} {STRATEGY}, set {UK} {GOVERNMENT} {STRATEGIC} {RESPONSE} {CYBER CRIME}, alongside types serious {ORGANISED CRIME}. {NATIONAL CYBER CRIME UNIT} ({NCCU}) sits within {NATIONAL CRIME AGENCY} ({NCA}) {ESTABLISHED} lead {COORDINATE} {NATIONAL} {RESPONSE} {CYBER CRIME}. {ACTION} {FRAUD} provides {NATIONAL} {REPORTING} centre {FRAUD} {CYBER CRIME}. {NETWORK} {CYBER CRIME} units within regional {ORGANISED CRIME} units (rocus) {PROVIDE} access specialist {CYBER CAPABILITIES} regional level, {SUPPORTING} {NCCU} local forces.
+objective
+.
+ will {REDUCE} impact {CYBER CRIME} {UK INTERESTS} {DETERRING} {CYBER CRIMINALS} targeting {UK} relentlessly pursuing persist attacking us.
+ approach
+.
+ {REDUCE} impact {CYBER CRIME}, will:
+• {ENHANCE} {UK} {LAW ENFORCEMENT} {CAPABILITIES} {SKILLS} {NATIONAL}, regional local level {IDENTIFY}, pursue, {PROSECUTE} {DETER} {CYBER CRIMINALS} within {UK} overseas;
+• build better {UNDERSTANDING} {CYBER CRIME} {BUSINESS} {MODEL}, know target interventions order disruptive effect {CRIMINAL} {ACTIVITY}. will use {KNOWLEDGE} :
+- make {UK} high-cost, high-{RISK} environment operate targeting {UK} nexus criminality, working {INDUSTRY} {REDUCE} ability {CRIMINALS} {EXPLOIT} {UK} {INFRASTRUCTURE};
+- {TACKLE} {CYBER CRIME} upstream, adding friction {CRIMINAL} {BUSINESS} {MODEL} dismantling {INFRASTRUCTURE} financial {NETWORKS}, wherever possible, bringing {OFFENDERS} {JUSTICE}.
+• build {INTERNATIONAL PARTNERSHIPS} end perceived impunity {CYBER CRIMINALS} acting {UK}, bringing {CRIMINALS} overseas jurisdictions {JUSTICE};
+• {DETER} {INDIVIDUALS} attracted , becoming involved , {CYBER CRIME} {BUILDING} early {INTERVENTION} {MEASURES};
+• {ENHANCE} collaborations {INDUSTRY} {PROVIDE} {PROACTIVE} {INTELLIGENCE} {THREAT}, {PROVIDE} us upstream {INTELLIGENCE} possess, order {ASSIST} upstream disruption efforts;
+• {DEVELOP} new {REPORTING} triage {CAPABILITY} {ACTION} {FRAUD}, linked {NCSC}, {NCA} {NATIONAL CYBER CRIME UNIT} wider {LAW ENFORCEMENT} community, {IMPROVE} {SUPPORT} {VICTIMS} {CYBER CRIME}, {PROVIDE} faster {RESPONSE} reported crimes enhanced protective {SECURITY} advice. new {REPORTING SYSTEM} will {ESTABLISHED} {SHARE INFORMATION} real time across {LAW ENFORCEMENT} {CYBER CRIME} {THREATS};
+• work {NCSC} {PRIVATE SECTOR} {REDUCE} {VULNERABILITIES} {UK} {INFRASTRUCTURE} exploited scale {CYBER CRIMINALS};
+• work {FINANCE SECTOR} make {UK} hostile environment seeking monetise stolen credentials, including disrupting {NETWORKS}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {REDUCING} {CYBER CRIME} {ASSESSING} progress towards following {OUTCOMES}:
+• greater disruptive effect {CYBER CRIMINALS} attacking {UK}, higher numbers arrests convictions, larger numbers {CRIMINAL} {NETWORKS} dismantled result {LAW ENFORCEMENT} {INTERVENTION};
+• {IMPROVED} {LAW ENFORCEMENT} {CAPABILITY}, including greater {CAPACITY} {SKILLS} dedicated specialists mainstream officers enhanced {LAW ENFORCEMENT} {CAPABILITY} amongst overseas {PARTNERS};
+• {IMPROVED} {EFFECTIVENESS} {INCREASED} scale early {INTERVENTION} {MEASURES} dissuades reforms {OFFENDERS};
+• fewer low-level {CYBER OFFENCES} result {CYBER CRIMINAL} {SERVICES} {HARDER} access less {EFFECTIVE}.
+ {VICTIM} {CYBER CRIME}
+ {MEMBER} public believe {VICTIM} {CYBER CRIME}, {CYBER ENABLED FRAUD}, contact {ACTION} {FRAUD}.
+ can {REPORT} {INCIDENT} using {ACTION} {FRAUD} {ONLINE FRAUD} {REPORTING TOOL} anytime day night, call .
+ {INFORMATION} see
+ {ACTION} {FRAUD} {SERVICE} run city london {POLICE}.
+. {COUNTERING} hostile foreign {ACTORS}
+.
+ need bring bear full range {GOVERNMENT} {CAPABILITIES} {COUNTER} {THREAT} posed hostile foreign {ACTORS} {INCREASINGLY} threaten political, economic {MILITARY} {SECURITY}. working {INTERNATIONAL PARTNERS} will key success, greater emphasis will placed {ENGAGING} working {COUNTER} {THREAT}. much {ACTION} will not public domain. {INVESTMENT} {SOVEREIGN} {CAPABILITIES} partnersh{IPS} {INDUSTRY} {PRIVATE SECTOR} will continue underpin ability {DETECT}, {OBSERVE} {IDENTIFY} constantly evolving {ACTIVITY} us.
+objective
+.
+ will {STRATEGIES}, {POLICIES} priorities place {ADVERSARY}, {ENSURE} {PROACTIVE}, well-calibrated {EFFECTIVE} approach taken {COUNTER} {THREAT} order drive number severity {CYBER INCIDENTS} future.
+ approach
+.
+ {REDUCE} {CYBER THREAT} hostile foreign {ACTORS}, will:
+• {REINFORCE} application {INTERNATIONAL LAW} {CYBERSPACE} addition {PROMOTING} agreement voluntary, non-binding {NORMS} responsible {STATE} {BEHAVIOUR} development implementation {CONFIDENCE BUILDING MEASURES};
+• work {INTERNATIONAL PARTNERS}, particularly collective {DEFENCE}, cooperative {SECURITY}, enhanced {DETERRENCE} membership {NATO} affords;
+• {IDENTIFY} unique generic aspects {ADVERSARIES} {CYBER ACTIVITY};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+• generate explore available options {DETERRING} {COUNTERING} {THREAT}, drawing full range {GOVERNMENT} {CAPABILITIES}. will take full account related factors, including {COUNTRY}-specific {STRATEGIES}, {INTERNATIONAL} {CYBER PRIORITIES}, {CYBER CRIME} prosperity objectives;
+• use existing {NETWORKS} relationsh{IPS} key {INTERNATIONAL PARTNERS} {SHARE INFORMATION} current nascent {THREATS}, adding value existing thought expertise;
+• {ATTRIBUTE} specific {CYBER IDENTITIES} publicly judge {NATIONAL} {INTEREST} .
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {COUNTERING} {ACTIONS} hostile foreign {ACTORS} {ASSESSING} progress towards following {OUTCOMES}:
+• stronger {INFORMATION}-sharing {NETWORKS} {ESTABLISHED} {INTERNATIONAL PARTNERS}, wider {MULTILATERAL AGREEMENTS} {SUPPORT} lawful responsible {BEHAVIOUR} states, substantially contributing ability {UNDERSTAND} {RESPOND} {THREAT}, resulting better defended {UK};
+• {DEFENCE} {DETERRENCE} {MEASURES}, alongside {COUNTRY}-specific {STRATEGIES}, making {UK} {HARDER} target hostile foreign {ACTORS} act .
+.
+preventing {TERRORISM}
+.
+ {TECHNICAL} {CAPABILITY} {TERRORISTS} currently remains limited continue aspire {CONDUCT} damaging {COMPUTER} {NETWORK} {OPERATIONS} {UK}, publicity disruption primary objective {CYBER ACTIVITY}. {GOVERNMENT} will {IDENTIFY} disrupt {TERRORISTS} using intending use {CYBER} purpose. , will minimise impact {PREVENT} uplift {TERRORIST} {CYBER CAPABILITY} threaten {UK} {NETWORKS} {NATIONAL SECURITY}.
+objective
+.
+ {MITIGATE THREAT} {TERRORIST} use {CYBER}, identification disruption {TERRORIST} {CYBER ACTORS} currently hold, aspire build, {CAPABILITY} threaten {UK} {NATIONAL SECURITY}.
+ approach
+.
+ {ENSURE} {THREAT} posed {CYBER TERRORISM} remains low, will:
+• {DETECT} {CYBER TERRORISM} {THREATS}, identifying {ACTORS} seeking {CONDUCT} damaging {NETWORK} {OPERATIONS} {UK} {ALLIES};
+• {INVESTIGATE} disrupt {CYBER TERRORISM} {ACTORS} {PREVENT} using {CYBER CAPABILITY} {UK} {ALLIES};
+• work closely {INTERNATIONAL PARTNERS} {ENABLE} us better {TACKLE} {THREAT} {CYBER TERRORISM}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success preventing {TERRORISM} {ASSESSING} progress towards following {OUTCOMES}:
+• full {UNDERSTANDING} {RISK} posed {CYBER TERRORISM}, identification {INVESTIGATION} {CYBER TERRORISM} {THREATS} {UK};
+• close {MONITORING}, disruption {TERRORIST} {CYBER CAPABILITY} earliest opportunity, aim preventing {INCREASE} {TERRORIST} {CAPABILITY} long term.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+. {ENHANCING} {SOVEREIGN} {CAPABILITIES} – {OFFENSIVE CYBER}
+.
+{OFFENSIVE CYBER} {CAPABILITIES} involve deliberate {INTRUSIONS} opponents {SYSTEMS} {NETWORKS}, intention causing damage, disruption destruction. {OFFENSIVE CYBER} forms part full spectrum {CAPABILITIES} will {DEVELOP} {DETER} {ADVERSARIES} {DENY} opportunities {ATTACK} us, {CYBERSPACE} physical sphere. {NATIONAL OFFENSIVE CYBER PROGRAMME} ({NOCP}), dedicated {CAPABILITY} act {CYBERSPACE} will commit {RESOURCES} {DEVELOP} {IMPROVE} {CAPABILITY}.
+objective
+.
+ will {ENSURE} disposal appropriate {OFFENSIVE CYBER} {CAPABILITIES} can deployed time place choosing, {DETERRENCE} operational purposes, accordance {NATIONAL} {INTERNATIONAL LAW}.
+ approach
+.
+ , will:
+• {INVEST} {NOCP} – partnership {MINISTRY DEFENCE} {GCHQ} harnessing {SKILLS} {TALENTS} {ORGANISATIONS} deliver tools, techniques tradecraft required;
+• {DEVELOP} ability use {OFFENSIVE CYBER} tools;
+• {DEVELOP} ability {ARMED FORCES} deploy {OFFENSIVE CYBER} {CAPABILITIES} integrated part {OPERATIONS}, thereby {ENHANCING} overall impact can achieve {MILITARY} {ACTION}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {ESTABLISHING} {OFFENSIVE CYBER} {CAPABILITIES} {ASSESSING} progress towards following {OUTCOMES}:
+• {UK} {WORLD LEADER} {OFFENSIVE CYBER} {CAPABILITY};
+• {UK} {ESTABLISHED} pipeline {SKILLS} expertise {DEVELOP} deploy {SOVEREIGN} {OFFENSIVE CYBER} {CAPABILITIES}.
+. {ENHANCING} {SOVEREIGN} {CAPABILITIES} – {CRYPTOGRAPHY}
+.
+{CRYPTOGRAPHIC} {CAPABILITY} fundamental {PROTECTING} {SENSITIVE INFORMATION} choosing deploy {ARMED FORCES} {NATIONAL SECURITY} {CAPABILITIES}. maintain {CAPABILITY}, will require {PRIVATE SECTOR} {SKILLS} technologies assured {GCHQ}. likely require work done {UK}, {BRITISH} nationals requisite {SECURITY} clearance, working {COMPANIES} prepared completely open {GCHQ} discussing design implementation details. {MOD} {GCHQ} working {ESTABLISH} sound {UNDERSTANDING} long-term cost implications maintaining {SOVEREIGN} {CRYPTOGRAPHIC} {CAPABILITIES}, based prevailing {MARKET} conditions cooperation {COMPANIES} currently able {PROVIDE} solutions.
+objective
+.
+ confidence {UK} will always political control {CRYPTOGRAPHIC} {CAPABILITIES} {VITAL} {NATIONAL SECURITY} , therefore, means {PROTECT} {UK} secrets.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DETER}
+ approach
+.
+ will select means allow us {SHARE INFORMATION} {EFFECTIVELY} {ALLIES}, {ENSURE} trusted {INFORMATION} {INFORMATION SYSTEMS} available, required. working closely {GOVERNMENT} {DEPARTMENTS AGENCIES}, {GCHQ} {MOD} will together define {SOVEREIGN} requirements, best meet requirements suppliers must domestic. will delivered new joint framework determining requirements operational advantage {FREEDOM} {ACTION}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success maintaining {CRYPTOGRAPHIC} {CAPABILITIES} {ASSESSING} progress towards following {OUTCOME}:
+• {SOVEREIGN} {CRYPTOGRAPHIC} {CAPABILITIES} {EFFECTIVE} keeping secrets {SENSITIVE INFORMATION} safe unauthorised disclosure.
+{ENCRYPTION}
+{ENCRYPTION} process encoding {DATA} {INFORMATION} {PREVENT} {UNAUTHORISED ACCESS} .
+ {GOVERNMENT} favour {ENCRYPTION}. foundation stone strong, {INTERNET}-based {ECONOMY}: keeps {PEOPLE} {PERSONAL} {DATA} {INTELLECTUAL PROPERTY} {SECURE}, ensures safe {ONLINE COMMERCE}.
+ technology continues evolve, {ENSURE} no guaranteed safe spaces {TERRORISTS} {CRIMINALS} operate beyond reach {LAW}.
+ {GOVERNMENT} wants work {INDUSTRY} technology develops {ENSURE} , robust {LEGAL} framework clear {OVERSIGHT}, {POLICE} {INTELLIGENCE AGENCIES} can access content {COMMUNICATIONS} {TERRORISTS} {CRIMINALS}. existing {LEGISLATION} allows {COMMUNICATIONS} {CRIMINALS} {TERRORISTS} intercepted warrant place. {COMPANIES} duty give effect warrant, {PROVIDING} requested {COMMUNICATIONS}, relevant {AUTHORITY}. served warrant, {COMPANIES} asked remove {ENCRYPTION} applied, applied behalf, material provided readable form. {LAW} stipulates {COMPANIES} required take reasonable steps give effect warrant, {ASSESSMENT} reasonableness will include {ASSESSMENT} steps {COMPANY} required take remove {ENCRYPTION}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+.
+ {DEVELOP} strand {STRATEGY} sets will acquire {STRENGTHEN} tools {CAPABILITIES} {UK} needs {PROTECT} {CYBER THREAT}.
+.
+ {UK} requires talented qualified {CYBER SECURITY PROFESSIONALS}. {GOVERNMENT} will act now plug growing gap demand supply key {CYBER SECURITY ROLES}, inject renewed vigour area {EDUCATION} {TRAINING}. long-term, transformative objective, {STRATEGY} will kick-start important work, will necessarily continue beyond . {SKILLED WORKFORCE} lifeblood {VITAL} {WORLD LEADING} {CYBER SECURITY} {COMMERCIAL} ecosystem. ecosystem will {ENSURE} {CYBER START-UPS} prosper receive {INVESTMENT} {SUPPORT} need. {INNOVATION} vigour can provided {PRIVATE SECTOR}; {GOVERNMENT} will act {SUPPORT} development, actively {PROMOTE} wider {CYBER SECURITY SECTOR} world {MARKET}. dynamic thriving scientific {RESEARCH} sector required {SUPPORT} development highly skilled {PEOPLE}, {ENSURE} new ideas translate cutting-edge {PRODUCTS}.
+. {STRENGTHENING} {CYBER SECURITY SKILLS}
+.
+ {UK} needs {TACKLE} systemic issues heart {CYBER SKILLS} shortage: lack young {PEOPLE} entering profession; shortage current {CYBER SECURITY} specialists; insufficient exposure {CYBER INFORMATION SECURITY} concepts computing courses; shortage suitably qualified teachers; absence {ESTABLISHED} career {TRAINING} pathways profession.
+.
+ calls {SWIFT} {INTERVENTION} {GOVERNMENT} help {ADDRESS} current shortage {DEVELOP} coherent long-term {STRATEGY} can build interventions close {SKILLS} gap. however, must recognised profound impact, effort must collaborative, input range participants influencers across {DEVOLVED ADMINISTRATIONS}, {PUBLIC SECTOR}, {EDUCATION} providers, {ACADEMIA} bodies {INDUSTRY}.
+objective
+.
+ {GOVERNMENT} ambition {ENSURE} sustained supply best possible home-grown {CYBER SECURITY} {TALENT}, whilst {FUNDING} specific interventions short term help meet known {SKILLS} gaps. will define {DEVELOP} {CYBER SECURITY SKILLS} needed across {POPULATION} {WORKFORCE} operate safely securely online.
+.
+ requires {ACTION} next twenty years, not just next five. will define long-term, coordinated set {ACTIONS} needed {GOVERNMENT}, {INDUSTRY}, {EDUCATION} providers {ACADEMIA} {ESTABLISH} sustained supply competent {CYBER SECURITY PROFESSIONALS}, meet requisite {STANDARDS} {CERTIFICATION} practise confidently securely.
+.
+ will close {SKILLS} gap {DEFENCE}. will attract {CYBER} specialists {GOVERNMENT} not {EFFECTIVELY} trained ready maintain {NATIONAL SECURITY}. includes {UNDERSTANDING} impact {CYBERSPACE} {MILITARY} {OPERATIONS}.
+ approach
+.
+ will {DEVELOP} implement self-standing {SKILLS} {STRATEGY} builds existing work integrate {CYBER SECURITY EDUCATION} {SYSTEM}. will continue {IMPROVE} {STATE} {COMPUTER SCIENCE} teaching overall embed {CYBER SECURITY} curriculum.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+everyone studying {COMPUTER SCIENCE}, technology {DIGITAL SKILLS} will learn fundamentals {CYBER SECURITY} will able bring {SKILLS} {WORKFORCE}. part effort, will {ADDRESS} gender imbalance {CYBER-FOCUSED PROFESSIONS}, reach {PEOPLE} diverse backgrounds, make sure drawing widest available {TALENT} pool. will work closely {DEVOLVED ADMINISTRATIONS} {ENCOURAGE} consistent approach across {UK}.
+.
+ will set clearly respective roles {GOVERNMENT} {INDUSTRY}, including might evolve time. {UK} {GOVERNMENT} {DEVOLVED ADMINISTRATIONS} key role {CREATING} right environment {CYBER SECURITY SKILLS} developed {UPDATE} {EDUCATION SYSTEM} reflect changing needs {INDUSTRY} {GOVERNMENT}. employers significant responsibility clearly articulate needs, well train {DEVELOP} employees young {PEOPLE} entering profession. {INDUSTRY} important role {BUILDING} diverse attractive career {TRAINING} pathways partnership {ACADEMIA}, {PROFESSIONAL} bodies trade associations.
+.
+ recognition collective challenge face closing {SKILLS} gap, will {ESTABLISH} {SKILLS} advisory group formed {GOVERNMENT}, employers, {PROFESSIONAL} bodies, {SKILLS} bodies, {EDUCATION} providers {ACADEMIA}, will {STRENGTHEN} coherence key sectors. group will {SUPPORT} development long-term {STRATEGY} will take account developments broad field {DIGITAL SKILLS}, {ENSURING} {CYBER SECURITY} considerations aligned incorporated throughout. group will work similar bodies across {UK}.
+.
+alongside work, {GOVERNMENT} will {INVEST} range initiatives bring immediate improvements inform development long-term {SKILLS} {STRATEGY}. include:
+• {ESTABLISHING} schools {PROGRAMME} {CREATE} step change specialist {CYBER SECURITY EDUCATION} {TRAINING} talented year olds (involving classroom-based {ACTIVITIES}, after-school sessions expert mentors, challenging projects {SUMMER SCHOOLS});
+• {CREATING} higher degree-level apprenticesh{IPS} within energy, finance {TRANSPORT SECTORS} {ADDRESS} {SKILLS} gaps {ESSENTIAL} areas;
+• {ESTABLISHING} {FUND} retrain candidates already {WORKFORCE} show high potential {CYBER SECURITY PROFESSION};
+• identifying {SUPPORTING} quality {CYBER GRADUATE} post {GRADUATE} {EDUCATION}, identifying filling {SPECIALIST SKILLS} gaps – acknowledging key role {UNIVERSITIES} play {SKILLS} development;
+• {SUPPORTING} accreditation teacher {PROFESSIONAL} development {CYBER SECURITY}. work will help teachers, others {SUPPORTING} learning, {UNDERSTAND} {CYBER SECURITY EDUCATION} {PROVIDE} method externally accrediting {INDIVIDUALS};
+• {DEVELOPING} {CYBER SECURITY PROFESSION}, including achieving royal chartered status , {REINFORCING} recognised body {CYBER SECURITY EXCELLENCE} within {INDUSTRY} {PROVIDING} focal point can advise, shape inform {NATIONAL} {POLICY};
+• {DEVELOPING} {DEFENCE} {CYBER ACADEMY} centre {EXCELLENCE} {CYBER TRAINING} {EXERCISE} across {MINISTRY DEFENCE} wider {GOVERNMENT}, {ADDRESSING} {SPECIALIST SKILLS} wider {EDUCATION};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+• {DEVELOPING} opportunities collaboration {TRAINING} {EDUCATION} {GOVERNMENT}, {ARMED FORCES}, {INDUSTRY} {ACADEMIA}, together facilities maintain {EXERCISE} {SKILLS};
+• will work {INDUSTRY} {EXPAND} {CYBERFIRST} {PROGRAMME} {IDENTIFY} nurture diverse young {TALENT} pool {DEFEND} {NATIONAL SECURITY};
+• embedding {CYBER SECURITY} {DIGITAL SKILLS} integral integral part relevant courses within {EDUCATION SYSTEM}, primary postgraduate levels, {SETTING} {STANDARDS}, {IMPROVING} quality {PROVIDING} {FIRM} foundation onwards progression field.
+ {EDUCATION} devolved matter, initiatives will apply mainly {ENGLAND}. will however work {DEVOLVED ADMINISTRATIONS} {ENCOURAGE} consistent approach across {UK} {EDUCATION SYSTEMS}.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {STRENGTHENING} {CYBER SECURITY SKILLS} {ASSESSING} progress towards following {OUTCOMES}:
+• {EFFECTIVE} clear entry routes {CYBER-SECURITY PROFESSION}, attractive diverse range {PEOPLE};
+• {CYBER SECURITY TAUGHT} {EFFECTIVELY} integral part relevant courses primary post-{GRADUATE} level;
+• {CYBER SECURITY} widely acknowledged {ESTABLISHED} profession clear career pathways, achieved royal chartered status;
+• appropriate {CYBER SECURITY KNOWLEDGE} integral part continual {PROFESSIONAL} development relevant non-{CYBER SECURITY PROFESSIONALS}, across {ECONOMY};
+• {GOVERNMENT} {ARMED FORCES} {ARMED FORCES} access {CYBER} specialists able maintain {SECURITY} {RESILIENCE} {UK}.
+. {STIMULATING} growth {CYBER SECURITY SECTOR}
+.
+ burgeoning {INNOVATIVE} {CYBER SECURITY SECTOR} necessity modern, {DIGITAL ECONOMY}. {UK} {CYBER SECURITY FIRMS} {PROVIDE} world-leading technologies, {TRAINING} advice {INDUSTRY} governments. whilst {UK} leading {PLAYER}, faces fierce competition stay ahead. barriers {GOVERNMENT} needs {ADDRESS}. {UK} {COMPANIES} {ACADEMICS} {DEVELOP} {CUTTING-EDGE TECHNOLOGY}, require {SUPPORT} {DEVELOP} {COMMERCIAL} entrepreneurial {SKILLS} required thrive. {FUNDING} gaps {PREVENT} {SMES} growing {EXPANDING} new markets territories. ground-breaking {PRODUCTS} {SERVICES}, offer potential keep us ahead {THREAT}, struggle find customers willing act early adopters. overcoming challenges requires {GOVERNMENT}, {INDUSTRY} {ACADEMIA} work {EFFECTIVELY} together.
+objective
+.
+ {GOVERNMENT} will {SUPPORT} creation growing, {INNOVATIVE} thriving {CYBER SECURITY SECTOR} {UK} order {CREATE} ecosystem :
+• {SECURITY} {COMPANIES} prosper, get {INVESTMENT} need grow;
+• best minds {GOVERNMENT}, {ACADEMIA} {PRIVATE SECTOR} collaborate closely spur {INNOVATION};
+• customers {GOVERNMENT} {INDUSTRY} sufficiently confident prepared {ADOPT} cutting-edge {SERVICES}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+ approach
+.
+ {CREATE} ecosystem, will:
+• {COMMERCIALISE} {INNOVATION} {ACADEMIA}, {PROVIDING} {TRAINING} mentoring {ACADEMICS};
+• {ESTABLISH} two {INNOVATION} centres, drive development cutting-edge {CYBER PRODUCTS} dynamic new {CYBER SECURITY COMPANIES}, will sit heart {PROGRAMME} initiatives give {START-UPS} {SUPPORT} need get first customers attract {INVESTMENT};
+• allocate proportion £165m {DEFENCE} {CYBER INNOVATION} {FUND} {SUPPORT} {INNOVATIVE} procurement {DEFENCE SECURITY};
+• {PROVIDE} testing facilities {COMPANIES} {DEVELOP} {PRODUCTS}, together fast-track form {ASSESSMENT} next generation {CYBER SECURITY PRODUCTS SERVICES} emerge, {ENABLING} customers confident use;
+• draw collective expertise {INDUSTRY}-{GOVERNMENT} {CYBER} growth partnership help shape focus growth {INNOVATION} interventions;
+• help {COMPANIES} sizes scale- access {INTERNATIONAL MARKETS};
+• {PROMOTE} agreed {INTERNATIONAL} {STANDARDS} {SUPPORT} access {UK} {MARKET}.
+.
+ will use weight {GOVERNMENT} procurement spur {INNOVATION}. {GOVERNMENT} faces hardest challenges {CYBER SECURITY}, biggest {THREATS}. can, must, pursue {EFFECTIVE} solutions problems. means making easier smaller {COMPANIES} {BUSINESS} {GOVERNMENT}. means {GOVERNMENT} must less {RISK} averse testing using new {PRODUCTS}. {WIN-WIN} solution: {GOVERNMENT} will get best {SERVICES}, {INNOVATIVE} technology will get early adopter, making easier attract {INVESTMENT} larger customer base. will {ENCOURAGE} parts {GOVERNMENT}, including {DEVOLVED ADMINISTRATIONS}, take similar approach.
+ want {CREATE} {CYBER ECOSYSTEM} {CYBER START-UPS} proliferate, get {INVESTMENT} {SUPPORT} need win {BUSINESS} around world, {PROVIDE} pipeline {INNOVATION} channels ideas {PRIVATE SECTOR}, {GOVERNMENT} {ACADEMIA}. rt hon matt hancock mp, minister {STATE} {DIGITAL} {CULTURE}
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {STIMULATING} growth {CYBER SECURITY SECTOR} {ASSESSING} progress towards following {OUTCOMES}:
+• greater average global growth size {UK} {CYBER SECTOR} year year;
+• significant {INCREASE} {INVESTMENT} early stage {COMPANIES};
+• adoption {INNOVATIVE} {EFFECTIVE} {CYBER SECURITY TECHNOLOGIES} {GOVERNMENT}.
+. {PROMOTING} {CYBER SECURITY SCIENCE TECHNOLOGY}
+.
+ {UK} thriving science technology sector cutting-edge {RESEARCH}, underpins world-leading {CYBER SECURITY CAPABILITIES}. maintain {ENHANCE} {UK} reputation global leader cutting-edge {RESEARCH}, need {ACADEMIC} {RESEARCH} establishments continue attract best brightest minds field {CYBER SECURITY}. will require us {FOSTER} centres {EXCELLENCE} attract able dynamic scientists researchers, deepen active partnership {ACADEMIA}, {GOVERNMENT} {INDUSTRY}. will involve match-making role {GOVERNMENT}, {INCENTIVISE} collaborations. success see us {ESTABLISH} self-sustaining ecosystem allows ideas – {PEOPLE} – circulate three sectors mutually beneficial way.
+objective
+.
+ , {UK} will strengthened position {WORLD LEADER} {CYBER SCIENCE TECHNOLOGY}. flexible partnersh{IPS} {UNIVERSITIES} {INDUSTRY} will translate {RESEARCH} {COMMERCIALLY} successful {PRODUCTS} {SERVICES}. {UK} will maintain reputation {INNOVATIVE} {EXCELLENCE}, including areas exceptional {NATIONAL} strength, {FINANCIAL SECTOR}.
+ approach
+.
+ achieve , {GOVERNMENT} will {ENCOURAGE} collaboration, {INNOVATIVE} flexible {FUNDING} {MODELS} {RESEARCH}, {COMMERCIALISATION} {RESEARCH}. {GOVERNMENT} will {ENSURE} human {BEHAVIOURAL} aspects {CYBER} given sufficient attention, {SYSTEMS} beyond {TECHNICAL}, {BUSINESS} processes organisational structures, included within {CYBER SCIENCE TECHNOLOGY}.
+.
+ will underpin creation {PRODUCTS}, {SYSTEMS} {SERVICES} {SECURE} default , appropriate {SECURITY} considered outset {SECURITY} becomes conscious opt- users.
+.
+ will publish detailed {CYBER SCIENCE TECHNOLOGY} {STRATEGY} thorough consultation {PARTNERS} {STAKEHOLDERS}. will include identifying areas science technology {GOVERNMENT}, {INDUSTRY} {ACADEMIA} consider important identifying gaps {UK} current {CAPACITY} {ADDRESS} .
+.
+ {GOVERNMENT} will continue {PROVIDE} {FUNDING} {SUPPORT} {ACADEMIC CENTRES} {EXCELLENCE}, {RESEARCH} institutes centres {DOCTORAL TRAINING}. addition, will {CREATE} new {RESEARCH} institute strategically important subject area. will {FUND} {RESEARCH} areas upcoming {CYBER SCIENCE TECHNOLOGY} {STRATEGY} identifies {CAPABILITY} gaps. important areas will given consideration include: big {DATA} {ANALYTICS}; autonomous {SYSTEMS}; trustworthy {INDUSTRIAL CONTROL SYSTEMS}; {CYBER-PHYSICAL} {SYSTEMS} {INTERNET THINGS}; smart cities; automated {SYSTEM} verification; science {CYBER SECURITY}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+.
+ will continue sponsor {UK} {NATIONAL} {PHD STUDENTS} {ACADEMIC CENTRES} {EXCELLENCE} {INCREASE} number {UK} nationals {CYBER EXPERTISE}.
+.
+ {GOVERNMENT} will work bodies, including {INNOVATE} {UK} {RESEARCH} councils {ENCOURAGE} collaboration {INDUSTRY}, {GOVERNMENT} {ACADEMIA}. {SUPPORT} collaboration will review {BEST PRACTICE} concerning {SECURITY} classifications {IDENTIFY} {SECURITY}-cleared experts, including {ACADEMICS}. will {ENSURE} work {UNCLASSIFIED} space beyond secret can collaborative possible.
+.
+ {GOVERNMENT} will {FUND} grand challenge {IDENTIFY} {PROVIDE} {INNOVATIVE} solutions pressing problems {CYBER SECURITY}. {CYBERINVEST}, new {INDUSTRY} {GOVERNMENT} partnership {SUPPORT} cutting-edge {CYBER SECURITY RESEARCH} {PROTECT} {UK} {CYBERSPACE}, will part approach {BUILDING} {ACADEMIC}-{GOVERNMENT}-{INDUSTRY} partnership.
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {PROMOTING} {CYBER SECURITY SCIENCE TECHNOLOGY} {ASSESSING} progress towards following {OUTCOMES}:
+• significantly {INCREASED} numbers {UK} {COMPANIES} successfully {COMMERCIALISING} {ACADEMIC} {CYBER RESEARCH} fewer agreed identified gaps {UK} {CYBER SECURITY RESEARCH} {CAPABILITY} {EFFECTIVE} {ACTION} close ;
+• {UK} regarded global leader {CYBER SECURITY RESEARCH} {INNOVATION}.
+. {EFFECTIVE} horizon scanning
+.
+ {GOVERNMENT} must {ENSURE} {POLICY-MAKING} takes account changing {CYBER}, geopolitical technology landscape. , need make {EFFECTIVE} use broad horizon scanning {ASSESSMENT} work. need {INVEST} proofing future {THREATS} anticipate {MARKET} changes might affect {CYBER RESILIENCE} five ten years time. need horizon scanning {PROGRAMMES} generate recommendations inform current future {GOVERNMENT} {POLICY} {PROGRAMME} planning.
+objective
+.
+ {GOVERNMENT} will {ENSURE} horizon scanning {PROGRAMMES} include rigorous {ASSESSMENT} {CYBER RISK}, integrated {CYBER SECURITY TECHNOLOGY} {POLICY} development areas, along all-source {ASSESSMENT} available evidence. will join horizon scanning {NATIONAL SECURITY} {POLICY} areas {ENSURE} holistic {ASSESSMENT} emerging challenges opportunities.
+ approach
+.
+ will:
+• {IDENTIFY} gaps current work, {COORDINATE} work across disciplinary boundaries {DEVELOP} holistic approach horizon scanning {CYBER SECURITY};
+• {PROMOTE} better integration {TECHNICAL} aspects {CYBER SECURITY} {BEHAVIOURAL} science;
+• {SUPPORT} rigorous {MONITORING} {CYBER CRIMINAL} {MARKET} place spot new tools {SERVICES} might {ENABLE} technology transfer {HOSTILE STATES}, {TERRORISTS} {CRIMINALS};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{DEVELOP}
+• analyse emergent {INTERNET}-connected process control technologies;
+• {ANTICIPATE VULNERABILITIES} around {DIGITAL} currencies;
+• {MONITOR} {MARKET} trends {TELECOMMUNICATIONS} technologies {DEVELOP} early defences anticipated future {ATTACKS}.
+.
+ recognise horizon scanning goes beyond {TECHNICAL}, include political, economic, legislative, social environmental dimensions. {CYBER SECURITY} just one aspect issues {EFFECTIVE} horizon scanning can help {ADDRESS}. therefore, will {ENSURE} {CONDUCT} horizon scanning {POLICY} areas, will take account {CYBER SECURITY} implications.
+.
+ will {ENSURE} {CYBER POLICY}-making follows evidence-based approach, taking account {ASSESSMENTS} available sources. will include, example:
+• specific {TECHNICAL} evidence, example {INTERNET THINGS}, future role advanced materials;
+• {INTERNATIONAL} {STRATEGIC} societal trends impact {CYBER}.
+.
+ will {ENSURE} {CYBER SECURITY} considered within remit cross-{GOVERNMENT} {EMERGING TECHNOLOGY} {INNOVATION} analysis cell (etiac), will {ESTABLISHED} {IDENTIFY} technology {THREATS} opportunities relevant {NATIONAL SECURITY} {CYBER} considered existing horizon-scanning structures, including {GOVERNMENT} futures group (gfg), {CABINET SECRETARY ADVISORY GROUP} horizon scanning ({CSAG}).
+{MEASURING} success
+.
+ {GOVERNMENT} will {MEASURE} success {ESTABLISHING} {EFFECTIVE} horizon scanning {CAPABILITY} {ASSESSING} progress towards following {OUTCOMES}:
+• cross-{GOVERNMENT} horizon scanning all-source {ASSESSMENT} integrated {CYBER POLICY} making;
+• impact {CYBER SECURITY} factored cross-{GOVERNMENT} horizon scanning.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{INTERNATIONAL} {ACTION}
+.
+ {ECONOMIC PROSPERITY} social wellbeing {INCREASINGLY} depend openness {SECURITY} {NETWORKS} extend beyond borders. {ESSENTIAL} work closely {INTERNATIONAL PARTNERS} {ENSURE} continuation free, open, peaceful {SECURE} {CYBERSPACE} delivers benefits. will become important next billion users come online across globe.
+.
+{INTERNATIONAL COOPERATION} {CYBER ISSUES} become {ESSENTIAL} part wider global {ECONOMIC SECURITY} debates. rapidly evolving area {POLICY}, without single agreed {INTERNATIONAL} vision. {UK} {ALLIES} successful {ENSURING} elements rules-based {INTERNATIONAL} {SYSTEM} place: agreement {INTERNATIONAL LAW} applies {CYBERSPACE}; {HUMAN RIGHTS} apply online offline; broad consensus multi-{STAKEHOLDER} approach best way manage complexities governing {INTERNET}. however, growing divide {ADDRESS} common challenge reconciling {NATIONAL SECURITY} {INDIVIDUAL RIGHTS} {FREEDOMS}, global consensus remains fragile.
+ must work {INTERNATIONALLY} agree rules road will {ENSURE} {UK} future {SECURITY} prosperity {CYBERSPACE}. rt. hon. boris johnson, mp, foreign secretary
+objectives
+.
+ {UK} aims safeguard long-term future free, open, peaceful {SECURE} {CYBERSPACE}, driving {ECONOMIC GROWTH} underpinning {UK} {NATIONAL SECURITY}. basis, {UK} will continue : champion multi-{STAKEHOLDER} {MODEL} {INTERNET GOVERNANCE}; oppose {DATA} localisation; work build {CAPACITY} {PARTNERS} {IMPROVE} {CYBER SECURITY}. order {REDUCE} {THREAT} {UK INTERESTS}, much originates overseas, will seek influence {DECISION-MAKING} {ENGAGING} {CYBER CRIME}, {CYBER ESPIONAGE}, disruptive destructive {CYBER ACTIVITY} continue build frameworks {SUPPORT} {INTERNATIONAL COOPERATION}.
+ approach
+.
+ will:
+• {STRENGTHEN} embed common {UNDERSTANDING} responsible {STATE} {BEHAVIOUR} {CYBERSPACE};
+• build agreement {INTERNATIONAL LAW} applies {CYBERSPACE};
+• continue {PROMOTE} agreement voluntary, non-binding, {NORMS} responsible {STATE} {BEHAVIOUR};
+• {SUPPORT} development implementation {CONFIDENCE-BUILDING MEASURES};
+• {INCREASE} ability disrupt {PROSECUTE} {CYBER CRIMINALS} based abroad, especially hard-to-reach jurisdictions;
+• help {FOSTER} environment allows {LAW ENFORCEMENT AGENCIES} work together {ENSURE} fewer places exist {CYBER CRIMINALS} can act without fear {INVESTIGATION} prosecution;
+• {PROMOTE} {RESILIENCE} {CYBERSPACE} shaping {TECHNICAL} {STANDARDS} governing {EMERGING TECHNOLOGIES} {INTERNATIONALLY} (including {ENCRYPTION}), making {CYBERSPACE} {SECURE} design {PROMOTING} {BEST PRACTICE};
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{INTERNATIONAL} {ACTION}
+• work build common approaches amongst {LIKE-MINDED} countries {CAPABILITIES} strong {ENCRYPTION}, cross-border implications;
+• build {CAPACITY} others {TACKLE} {THREATS} {UK}, {INTERESTS} overseas;
+• continue help {PARTNERS} {DEVELOP} {CYBER SECURITY} – since share single {CYBERSPACE}, collectively become stronger {COUNTRY} improves defences;
+• {ENSURE} {NATO} prepared conflicts 21st century, will play {CYBERSPACE} well battlefield;
+• work {ALLIES} {ENABLE} {NATO} operate {EFFECTIVELY} {CYBERSPACE} land, air sea;
+• {ENSURE} {LONDON PROCESS} global conferences {CYBERSPACE} continues {PROMOTE} global consensus towards free, open, peaceful {SECURE} {CYBERSPACE}.
+.
+ range relationsh{IPS} tools will continue {INVEST} deliver underpin {INTERNATIONAL} {CYBER OBJECTIVES}; achieve objectives isolation. include:
+• working concert traditional {ALLIES} new {PARTNERS} {ESTABLISH} maintain strong active political operational relationsh{IPS}; {CREATING} political conditions build strong global alliances;
+• using influence {MULTILATERAL ORGANISATIONS} {UNITED NATIONS}, {G20}, {EUROPEAN UNION}, {NATO}, {OSCE}, {COUNCIL EUROPE}, {COMMONWEALTH} within global development community;
+• {BUILDING} stronger relationsh{IPS} non-{GOVERNMENT} {ACTORS} – {INDUSTRY}, {CIVIL SOCIETY}, {ACADEMIA} {TECHNICAL} community. {ACTORS} crucial informing challenging {INTERNATIONAL} {POLICY} formulation, {STRENGTHENING} political messages wide range {CYBER ISSUES}. world-class {ACADEMIC} links {PROVIDE} neutral, collaborative platform {INTERNATIONAL PARTNERS}.
+{MEASURING} success
+ {GOVERNMENT} will {MEASURE} success {ADVANCING} {INTERNATIONAL} {INTERESTS} {CYBER} {ASSESSING} progress towards following {OUTCOMES}:
+• enhanced {INTERNATIONAL COLLABORATION} reduces {CYBER THREAT} {UK INTEREST} overseas;
+• common {UNDERSTANDING} responsible {STATE} {BEHAVIOUR} {CYBERSPACE};
+• {INTERNATIONAL PARTNERS} {INCREASED} {CYBER SECURITY CAPABILITY};
+• strengthened {INTERNATIONAL CONSENSUS} benefits free, open, peaceful {SECURE} {CYBERSPACE}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{METRICS}
+.
+{CYBER SECURITY} remains area relative immaturity comes {MEASUREMENT} {OUTCOMES} impacts – normally referred {METRICS}. already science {CYBER SECURITY} obscured hyperbole obstructed absence calibrated {DATA}. source frustration {POLICY-MAKERS} {BUSINESSES} alike, struggled {MEASURE} {INVESTMENT} {OUTCOMES}. {GOVERNMENT} {ASSESSES} {EFFECTIVE} use {METRICS} {ESSENTIAL} delivering {STRATEGY} focussing {RESOURCES} underpin .
+.
+ will {ENSURE} {STRATEGY} founded upon rigorous comprehensive set {METRICS} {MEASURE} progress towards {OUTCOMES} need achieve. well major deliverable {STRATEGY} right, {NCSC} will play crucial role {ENABLING} parts {GOVERNMENT}, {INDUSTRY} {SOCIETY} deliver {STRATEGIC} {OUTCOMES} within {STRATEGY}.
+.
+annex sets success {MEASURES} set {STRATEGY} will contribute {STRATEGIC} {OUTCOMES}, will reviewed annually {ENSURE} accurately reflect {NATIONAL} goals requirements. headline, {STRATEGIC} {OUTCOMES} follows:
+. {UK} {CAPABILITY} {EFFECTIVELY} {DETECT} {INVESTIGATE} {COUNTER} {THREAT} {CYBER ACTIVITIES} {ADVERSARIES}.
+. impact {CYBERCRIME} {UK INTERESTS} significantly reduced {CYBER CRIMINALS} {DETERRED} targeting {UK}.
+. {UK} {CAPABILITY} manage {RESPOND} {EFFECTIVELY} {CYBER INCIDENTS} {REDUCE} {HARM} cause {UK} {COUNTER} {CYBER ADVERSARIES}.
+. partnersh{IPS} {INDUSTRY} {ACTIVE CYBER DEFENCE} mean large scale {PHISHING} {MALWARE} {ATTACKS} no longer {EFFECTIVE}.
+. {UK} {SECURE} result technology {PRODUCTS} {SERVICES} {CYBER SECURITY} designed activated default.
+. {GOVERNMENT} {NETWORKS} {SERVICES} will {SECURE} possible moment first implementation. public will able use {GOVERNMENT} {DIGITAL SERVICES} confidence trust {INFORMATION} safe.
+. {ORGANISATIONS} {UK}, large small, {EFFECTIVELY} managing {CYBER RISK} {SUPPORTED} high quality advice designed {NCSC}, underpinned right mix {REGULATION} incentives.
+. right ecosystem {UK} {DEVELOP} sustain {CYBER SECURITY SECTOR} can meet {NATIONAL SECURITY} demands.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{METRICS}
+. {UK} sustainable supply home grown {CYBER SKILLED PROFESSIONALS} meet growing demands {INCREASINGLY} {DIGITAL ECONOMY}, {PUBLIC PRIVATE SECTORS}, {DEFENCE}.
+. {UK} universally acknowledged global leader {CYBER SECURITY RESEARCH} development, underpinned high levels expertise {UK} {INDUSTRY} {ACADEMIA}.
+. {UK} {GOVERNMENT} already planning preparing {POLICY} implementation {ADVANCE} future technologies {THREATS} future proofed .
+. {THREAT} {UK INTERESTS} overseas reduced due {INCREASED} {INTERNATIONAL CONSENSUS} {CAPABILITY} towards responsible {STATE} {BEHAVIOUR} free, open, peaceful {SECURE} {CYBERSPACE}.
+{NATIONAL CYBER SECURITY STRATEGY}
+section
+{METRICS}
+. {UK} {GOVERNMENT} {POLICIES}, {ORGANISATIONS} structures simplified maximise coherence {EFFECTIVENESS} {UK} {RESPONSE} {CYBER THREAT}.
+.
+ recognise ambitions {STRATEGY} go beyond five year timescale. order future {INVESTMENT} {CYBER} beyond can continue deliver maximum transformative effect, intend longer term {OUTCOMES} allocated beyond {INDUSTRY}, regulators, auditors, insurers parts {PUBLIC PRIVATE SECTOR}, {EFFECTIVE} management {CYBER SECURITY RISKS} integrated {STANDARD} management {ACTIVITY} .
+{NATIONAL CYBER SECURITY STRATEGY}
+conclusion
+{CYBER SECURITY} beyond
+.
+ rapid evolution {CYBER} landscape will constantly throw new challenges technology evolves {ADVERSARIES} act {EXPLOIT} . however, {STRATEGY} aims {PROVIDE} range {POLICIES}, tools {CAPABILITIES} will {ENSURE} can {RESPOND} quickly flexibly new challenge arises.
+.
+ fail act {EFFECTIVELY}, {THREAT} will continue outpace ability {PROTECT} . can expect explosion {THREAT} {CAPABILITY} levels.
+.
+conversely, realise ambitions, parts {UK} {GOVERNMENT}, {BUSINESS} {SOCIETY} will play part delivering {COUNTRY} overall {CYBER SECURITY}. can {ENSURE} {SECURITY} designed built , default, commodity technologies, consumers {BUSINESSES} less cause worry {CYBER SECURITY}. {UK} consolidate reputation {SECURE} environment {BUSINESS} online, global {COMPANIES} investors will choose locate . {SECURITY} {CNI} {NETWORKS} priority sectors {EFFECTIVE}. potential {ATTACKERS} looking {DEVELOP} tools {ATTACK} methods {SYSTEMS} holding key functions {DATA} turn work {HARDER} overcome layered {SECURITY} surrounds . change {RISK} versus reward equation {CYBER CRIMINALS} {MALICIOUS ACTORS}, expect face {THREAT} prosecution {INTERNATIONALLY} traditional crimes. can succeed mainstreaming {CYBER SECURITY} across parts {SOCIETY}, mean {GOVERNMENT} can step back prominent role, allowing {MARKET} technology drive evolution {CYBER SECURITY} across {ECONOMY} {SOCIETY}.
+.
+even optimistic scenario, challenges {UK} faces {CYBER DOMAIN}, whether scale complexity, may need five years {ADDRESS}. {STRATEGY} nonetheless provides us means transform future {SECURITY} safeguard prosperity {DIGITAL ERA}.

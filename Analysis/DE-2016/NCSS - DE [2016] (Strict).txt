@@ -1,0 +1,360 @@
+Cybersecurity Strategy for Germany
+2016
+2 | Cyber Security Strategy
+
+Contents
+ 4 Introduction 
+ 6 Cyberthreat situations
+ 8 guidelines of the Cyber Security strategy
+ 12 Action area 1: Safe and self-determined action in a digitised environment
+ 20 Action area 2: Joint mandate from the state and business
+ 26 Action area 3: Efficient and sustainable state-wide Cyber Security architecture
+ 38 Action area 4: Germany's active positioning in European and international Cyber Security policy
+ 44 Permanent strategy process in the National Cyber Security Council
+ 46 Glossary
+Cyber Security Strategy 3
+
+Introduction
+Digitalisation in the state, economy, and society has fundamentally changed Germany in just a few years. New opportunities for communication, access to knowledge and innovative design lead to more social interaction, new business models and new fields for research and development. Networked electronic devices are increasingly shaping people's everyday lives and work.
+The increasing mechanical production of data and the increasing spread of intelligent counters and sensors are creating vast amounts of data. Self-learning machines can take on ever more complex tasks. Processes, procedures and production processes are increasingly networked, innovation cycles shorter and shorter. Cross-border cyberspace requires new approaches.
+It is the duty of the state to actively evaluate these change processes in the interests of citizens, together with the economy and other actors, and to create framework conditions in order to further develop these change processes.
+Digitisation opens up opportunities, harbours risks and therefore needs trust. Comprehensive security cannot be achieved, and there is always a potential for abuse. The task of the state and the economy is to lay the foundations for this trust. Security is an essential aspect here.
+Citizens must also be able to act safely, freely and independently in the future. This is especially true if they cannot understand the technologies and the risks associated with their use due to increasing complexity. Companies must protect their know-how from unauthorised access even in the age of digitisation and master the production processes even when self-learning machines are used or their data is distributed on servers around the world through the use of cloud solutions.
+4 | Cyber Security Strategy
+
+The "Cyber Security Strategy for Germany" adopted by the Federal Government in February 2011 set the course for a future-oriented Cyber Security policy. Numerous of the measures provided for have been implemented since then. As organisational measures, a high-level body for strategic impulses was created with the Cyber Security Council at the hub of politics and business, and a platform for strategic and operational exchange between the authorities was created with the Cyber Defence Centre. Cybersecurity has now become an essential component of a large number of strategic concepts and cross-departmental projects of the federal government.
+It has been shown that state institutions also have to increasingly network in order to guarantee Cyber Security. Internal and external security in cyberspace can no longer be clearly distinguished. The protection of Cyber Security and the defence against cyberattacks have thus become a task for the whole of the state that can be mastered jointly.
+The strategic approaches and goals of the 2011 Cyber Security strategy are still mostly valid today. However, the constantly changing framework conditions make it necessary to supplement them and bundle them in a new cross-departmental strategy that adequately takes into account the relevance and cross-sectional nature of the subject of Cyber Security and comprehends it holistically.
+The Cyber Security Strategy 2016 forms the cross-departmental strategic framework for the activities of the Federal Government with references to Cyber Security and updates the Cyber Security strategy from 2011. Countries and the economy were involved in this development process.
+Cyber Security Strategy 5
+
+6 | Cyber Security Strategy
+
+Cyber threats
+The cyber threat situation in Germany is characterised by increasing complexity and interdependency of the technology used and constantly changing threats. With the digitalisation of modern societies, their vulnerability and the potential for abuse in cyberspace are growing. In addition, the privacy of citizens is becoming increasingly vulnerable.
+The consequences of cyberattacks are not limited to cyberspace. Successful attacks can cause social, economic, political and also personal damage. Attacks on state institutions aiming at spying or sabotaging can significantly impair the functionality of the administration, armed forces and security agencies and thus have an impact on public security and order in Germany.
+Cyberattacks on energy supply networks can also bring large areas of public and private life to a standstill. Targeted cyberattacks on banking infrastructures or price manipulation can pose a threat to the financial markets as a whole and have far-reaching effects on the economy in Germany and around the world. Manipulation in automated and networked driving, IT-based traffic control or IT applications in the healthcare sector can pose genuine and serious risks to the life and limb of citizens.
+The targeted dissemination of false reports, which is made possible by hijacked IT systems, can be used to disinformation and manipulate public opinion. This poses long-term threats to free society and democracy.
+The attackers often have a criminal, extremist/terrorist, military or intelligence background. The quantitative and qualitative diversity of potential players from home and abroad and the technical possibilities for concealment make it difficult to identify, assign, defend and track cyberattacks. Political-military conflicts are often accompanied by cyber campaigns or also carried out in cyberspace below the threshold of armed conflict. This complicates the political assessment of cyberattacks and the decision about the appropriate countermeasures.
+The number and quality of cyberattacks are continuously increasing and often encounter inadequately secured IT systems. Some of the attacks are highly professional. Attack tools are now available for government actors as well as for criminal groups or individuals. The classic defence tools are often no longer sufficient, particularly in relation to technologically sophisticated malware programs. The attackers are technically able to hide cyberattacks or to hide their perpetrators. For this reason, cyberattacks and their origin are increasingly impossible to determine, or only with great effort and considerable time delays. A large number of previously unknown attacks can be assumed.
+The state, economy, and society in Germany will be significantly affected by this threat situation in the coming years.
+Cyber Security Strategy 7
+
+Guidelines of the Cyber Security strategy
+Germany's ability to act and sovereignty must also be guaranteed in the age of digitalisation. A forward-looking Cyber Security policy enables our country to fully exploit the enormous opportunities and potential of digitisation in the interests of society as a whole by making the associated risks manageable.
+Guaranteeing freedom and security is one of the core tasks of the state. This also applies to cyberspace. It is, therefore, the task of the state to protect citizens and companies in Germany against threats from cyberspace and to prevent and prosecute crimes in cyberspace. In the age of digitisation, a state can only permanently fulfil its task if it offers protection and freedom for development for the economy and society, including in cyberspace, and if it sufficiently secures its own systems for this. In view of the digital innovation potential, it is important for the state to identify possible developments and their importance for questions of Cyber Security at an early stage based on corresponding risk analysis and to research new solutions and incorporate them into political concepts.
+8 | Cyber Security Strategy
+
+Cybersecurity arises primarily through risk-adjusted behaviour and the use of secure systems in the area of responsibility of the respective operator and user. Proven basic measures, including the consistent application of risk-appropriate, effective and up-to-date security products and standards, can be used to prevent a large number of cyberattacks with reasonable effort.
+Close cooperation and coordination are required to prevent, identify, assign, ward off and track cyberattacks. The state, business, science and society have a shared responsibility for the security of cyberspace. You must therefore also provide coordinated answers to the current challenges. Close European and international coordination are indispensable, especially due to the often cross-border interdependencies and threats from a foreign and security policy perspective.
+As a consequence, the Federal Government will set the priorities of its Cyber Security policy in the following four areas in the coming years:
+1. Safe and self-determined action in a digitised environment
+2. Joint mission of state and business Cyber Security
+3. Efficient and sustainable state-wide Cyber Security architecture
+4. Germany's active positioning in European and international Cyber Security policy
+The measures in the respective fields of action have a cross-sectional character and affect - in different forms - all areas of society.
+Cyber Security Strategy 9
+
+Fields of action of the Cyber Security strategy
+Strategic goals and measures
+Action area 1
+Safe and self-determined action in a digitised environment
+
+Promote digital competence among all users
+Counteract digital carelessness
+Creating conditions for secure electronic communication and secure web offers
+Secure electronic identities
+Strengthening certification and approval - Introduction of a seal of approval for IT security
+Make digitisation secure
+Drive IT security research
+
+Action area 2
+Joint mandate from the state and business
+
+Secure critical infrastructures
+Protect companies in Germany
+Strengthen the German IT economy
+Work with the providers
+Include IT security service providers
+Create a platform for trusted information exchange
+10 | Cyber Security Strategy
+
+Action area 3
+Robust and sustainable state-wide Cyber Security architecture
+Develop the National Cyber Defence Centre
+Strengthen the ability to analyse and react locally
+Step up law enforcement in cyberspace
+Combating cyber espionage and cyber sabotage effectively
+An early warning system against cyberattacks from abroad
+Foundation of the Central Office for Information Technology in the Security Area (ZITiS)
+Strengthen defence aspects of Cyber Security
+Strengthening CERT structures in Germany
+Secure the federal administration
+Working closely between the federal and state governments
+Use resources, attract and develop personnel
+
+Action area 4
+Germany's active positioning in European and international Cyber Security policy
+Actively shaping an effective European Cyber Security policy Develop NATO's cyber defence policy
+Actively shaping international Cyber Security
+Bilateral and regional support and cooperation for the development and expansion of cyber capabilities (cyber capacity building)
+Strengthen international law enforcement
+Cyber Security Strategy 11
+
+Action area 1
+Society - State - Economy Promote digital competence for all users
+Counteract digital carelessness
+Creating conditions for secure electronic communication and secure web offers
+Secure electronic identities
+Strengthening certification and approval - Introduction of a seal of approval for IT security
+Make digitisation secure
+Drive IT security research
+12 | Cyber Security Strategy
+
+Safe and self-determined action in a digitised environment
+Being able to act securely and independently in a digitised environment is an essential cornerstone of Cyber Security. Citizens, like companies, the state and other actors in Germany, must be able to grasp the opportunities and risks associated with the use of information technology, evaluate them and align their actions accordingly (assessment competence). The corresponding trustworthy technologies and framework conditions must be available for this.
+The possibility of safe and self-determined action in cyberspace is in the context of technological or digital autonomy. The basis for this is targeted digital education for all age and user groups. Cybersecurity must be firmly anchored in society's consciousness in order to counteract digital carelessness.
+In order to use the opportunities of digitisation, all user groups must have the opportunity to access trustworthy and secure IT systems and thus minimise digital vulnerabilities. User-friendly and manageable solutions - especially "Made in Germany" - based on globally usable technical architecture are an important component here as well as targeted IT security research and development, a needs and user-friendly certification policy and the promotion of secure electronic identities and the encryption of both electronic communication and services offered over the Internet. National regulations must be adapted to the current security requirements if necessary. At the same time, the Federal Government in the European Union and in international organisations will continue to work for adequate and uniform IT security standards and effective legal regulations.
+Cyber Security Strategy 13
+
+Action area 1 Safe and self-determined action in a digitised environment
+Strategic goals and measures Promote digital competence among all users
+Responsible behaviour in cyberspace and awareness of the opportunities and specific risks when using IT systems are an integral part of digital competence. Digital education must, therefore, become an integral part of the educational canon in the future, from school to dual training, university, professional development and general adult education. In the school and university sector, this is primarily the task of the federal states. Every school-leaver should have a basic technical understanding and basic knowledge in the safe handling of information and communication technology. The federal and state governments must work together even more closely than before. The Federal Government will, in particular, align dual vocational training systematically to the requirements of a digital society and adapt the training regulations accordingly. Inter-company training centres are prepared for the age of digitisation. They must be able to offer advanced digitalisation training at a high level. The equipment investments required for this are funded as a priority. In addition, the federal government will work with unions and employers to create ways for more flexible and individual digital training.
+The Federal Government will also work to expand the range of courses by setting up additional chairs and strengthening the existing top institutes in the MINT areas and in particular in IT, such as big data analysis, industrial software and IT security. The Federal Government is also supporting closer cooperation with business, for example, through third-party-funded positions and foundation solutions.
+Counteract digital carelessness
+In addition to education, responsible and risk-conscious action requires regular sensitisation in order to counter digital carelessness of citizens in the private and professional environment. The Federal Government will, therefore, work in cooperation with initiatives such as “Germany securely online”, ”to promote awareness-raising geared to the target group”. It also specifically supports projects to strengthen the media competence of its citizens. The Federal Government's initiatives in the area of "Cyber Security and society" are being expanded and further developed. This includes the social discourse on overarching political issues in the cyber topic with targeted formats. Digital carelessness must also be countered in companies. The appointment of IT security officers, who - analogous to the data protection officer - advance the design and implementation of IT security measures is a proven and effective means of doing this. In order to make cyber threats more visible, it is also necessary to provide information about current findings on the security properties of IT products and services. The areas of public warnings and instructions from the Federal Office for Information Security (BSI) against IT security gaps are therefore being expanded.
+14 | Cyber Security Strategy
+
+Creating conditions for secure electronic communication and secure web offers
+Secure, confidential, non-manipulable electronic communication is essential for the exercise of communication rights, the right to privacy and the personal rights of citizens. For companies, it is an important protection against cyber espionage and thus the basis for their economic success. Easily manageable and secure encryption ensures confidential electronic communication for all actors and should become the standard. Research projects and industry initiatives that serve this goal are expressly welcomed by the Federal Government. The consequent use of strong encryption in the web offers increases the security in the network. The Federal Government will examine the specific obstacles to the use of encryption solutions and promote initiatives to remove these obstacles.
+In addition to this “security through encryption” approach, the German crypto strategy also pursues the “security despite encryption” approach. Users must be able to protect their data, values, and rights at the highest level. At the same time, German law enforcement and security authorities are authorised under strict legal conditions to decrypt or bypass encrypted communication if this is necessary in individual cases to fulfil their legal mandate. In order to avoid undermining these already existing powers, the technical capabilities of law enforcement and security authorities for decryption must be continuously developed in parallel with technical developments in the area of encryption.
+Cyber Security Strategy 15
+
+Action area 1 Safe and self-determined action in a digitised environment
+Strategic goals and measures
+Secure electronic identities
+In parallel to the promotion of secure electronic communication, the concepts for secure identification of people and things must be expanded. The users must be enabled to use secure, user-friendly and modern means of authentication on the Internet. The currently widespread but not secure username/password procedure is to be supplemented as standard and to be replaced if possible. A key point is the identification documents with online identification function, with which the Federal Government already provides a highly secure and data-saving identification option on the Internet. The aim is to establish the online ID function - and derived secure identities - as a standard means of identification for sensitive services, to further develop it and to promote comparable, secure solutions in business.
+In addition, the Federal Government is committed to uniform identity management throughout the German administration and calls on providers of information and communication technology to develop trustworthy products and services together with the national IT security industry and to make them available on the market.
+16 | Cyber Security Strategy
+
+Strengthening certification and approval - Introduction of a seal of approval for IT security
+Effective and needs-based certificates and seals of approval are an important instrument for the dissemination of Cyber Security standards. The certification or approval of IT security products is already an established and recognised procedure. At the same time, it only covers a small spectrum of information technology that is used by users today. The Federal Government is, therefore, promoting manufacturers of standard technologies to be more willing to testify and will introduce a basic certification procedure for secure IT consumer products, the criteria of which are set by the BSI. At the same time, the existing resources at the BSI for the development of technical guidelines, certification and support for the national accreditation body in the area of IT security will be further strengthened and the corresponding processes made more efficient in the interest of all involved. The challenge is to meet the challenge of highly qualified, but time-consuming certification and approval with short technology cycles using modern processes. For example, these challenges can be met efficiently through increased involvement and accreditation of companies and their deeper integration into the certification process. Scalable and delegated processes in accordance with BSI standards are also taken into account. The Federal Government will advocate an expansion of the European and international recognition agreements for IT security certification based on common security criteria for the assessment of security properties of procedures (Common Criteria and ISO / IEC 15408 and ISO / IEC 27000) in order to increase the international recognition of these criteria.
+The labelling of IT security properties of products and services still poses a particular challenge in some areas. In order to make the security of IT products and services more transparent, in particular for citizens and small and medium-sized companies, the Federal Government will do its work expand in the field of seals of approval and certificates for IT security and submit suitable proposals, in particular with regard to comprehensive systems for certification and uniform labelling. In future, users should be able to quickly and easily determine which offer is designed safely and thus helps protect data, based on a uniform seal of approval when making a decision to buy new IT products and when using corresponding services. This should make Cyber Security more understandable and easier to implement for everyone.
+Cyber Security Strategy 17
+
+Action area 1 Safe and self-determined action in a digitised environment
+Strategic goals and measures
+Make digitisation secure
+Citizens and companies expect that the changes resulting from digitisation will be assessed and actively shaped by the state. Examples of this are the E-Health Act and the IT Security Act. This path must be continued consistently. New technologies, new business models and changing user behaviour will have to be taken into account, as well as new threats and new European and international requirements, for example through the EU directive on network and information security. Requirements for an appropriate distribution of responsibilities and security risks in the network, for example through product liability rules for IT security deficiencies and security requirements for hardware and software manufacturers, are checked. The effects of the use of digital technologies, particularly on Cyber Security, should also be taken into account when drafting federal laws and regulations.
+In addition, the early implementation of security requirements should be legally required to ensure that they are taken into account at the beginning of technical development (security-by-design). For this purpose, the BSI is available to the federal ministries as a central advice centre.
+The digitisation of mobility and the associated increase in data place new cross-border requirements on the security of vehicles and infrastructure as well as on the protection of personal rights. Germany will actively advocate the creation of international standards, especially at UNECE level, to ensure adequate protection against manipulation and misuse of the technical structures as well as the data and processes.
+Drive IT security research
+In order to fully exploit the opportunities of digitisation in all areas such as Industry 4.0, medical technology and mobility 4.0, new, holistic IT security solutions are required. Therefore, innovative IT security solutions of tomorrow must be researched and implemented today. To this end, the Federal Government is further expanding the research framework program on IT security “Self-determined and secure in the digital world 2015–2020” and networking it closely with the other measures in the Cyber Security strategy.
+In this context, the existing competence centres for IT security research CRISP (Darmstadt), CISPA (Saarbrücken) and KASTEL (Karlsruhe) will be further strengthened. These continuously take up current research topics, provide assessments and evaluations for politics and develop concrete solutions. The application-related research results developed in numerous state-funded projects should be implemented and marketed as quickly as possible in products and processes. For the military application of IT and cybersecurity, this task is performed by the cyber cluster at the Bundeswehr University in Munich with the Cyber Defence and Smart Data (CODE) research institute. The commercial use and further development of innovative and new ideas in IT security in companies and start-ups should be the explicit goal and endeavour of state investments in order to achieve the greatest possible economic benefit. At the same time, active technology scouting can help ensure that the latest technologies are quickly discovered, introduced and further developed. Private venture capital investors can also play an important role here.
+18 | Cyber Security Strategy
+
+Cyber Security Strategy 19
+
+Action area 2
+State - economy
+Secure critical infrastructures
+Protect companies in Germany
+Strengthen the German IT economy
+Work with the providers
+Include IT security service providers
+Create a platform for trusted information exchange
+20 | Cyber Security Strategy
+
+Joint mandate from the state and business
+Trusted cooperation and close exchange between state and economy are essential in order to be able to guarantee Cyber Security in Germany permanently at a high level. As part of a cooperative approach, there are also new ways to bundle and use the respective competencies.
+Companies in Germany must be able to effectively protect themselves and their customers from cyberattacks. Particular attention is paid to the operators of critical infrastructures. Nevertheless, other companies can also be of great relevance to the state, economy and society and must be given special protection. For this purpose, the necessary framework conditions must be developed further and, if necessary, extended to other areas of the economy by means of the cooperative approach established with the IT security law. When developing and implementing effective and needs-based IT security standards, the state and business must work closely and trustingly. The foundation for this is a strong German IT economy that can be promoted through modern economic policy. The Federal Government will also develop measures to improve the start-up culture for IT / Cyber Security start-ups in Germany, which is weaker in international comparison. The involvement of providers and national IT security service providers plays a key role in the detection and defence against cyberattacks.
+Cyber Security Strategy 21
+
+Action area 2 Joint mandate from the state and industry Strategic goals and measures
+Secure critical infrastructures
+The protection of critical infrastructures is at the centre of the joint activities of the state and business. Given the networking of the systems, the protection of IT critical infrastructures is of particular importance. This is a departmental and state-wide task of cyber defence and defence, since internal and external security in the field of cyber closely coincide. When implementing the requirements set out in the IT Security Act, the state and business (including within the framework of the UP KRITIS public-private partnership) must work closely together at all levels and establish a trusting exchange of information. Minimum standards and reporting channels are developed, implemented and further developed together with the business community. In addition, the extension of such prevention and response obligations to other companies of high social relevance is being examined.
+Protect companies in Germany
+The Federal Government will expand its awareness-raising and support services for the German economy and network them more closely. Small and medium-sized companies in particular must be able to effectively protect themselves from the dangers in and from cyberspace in order to be able to take full advantage of the opportunities associated with digitalisation. Implementation strategies for this are to be developed jointly by the state, science and business. The state should specifically support companies in achieving the IT security level they need. The trust between companies and authorities in discretion and professionalism in dealing with sensitive issues plays an important role here.
+The central point of contact for cybercrime of the state and federal police and the Federal Office for the Protection of the Constitution (BfV) make major contributions to the defence against cybercrime and cyber espionage against companies. The Federal Government will also offer services such as the Alliance for Cyber Security, the "German Competence Centre against Cyber-Crime (G4C)", the "IT Security in Business" initiative and the "Economic Protection Initiative" together with partners from business and science expand and network more - also to create synergy effects.
+22 | Cyber Security Strategy
+
+Strengthen the German IT economy
+Cybersecurity in Germany requires a strong and innovative German IT economy. The basis is the identification of key technologies in the IT security and defence area from the hand of trustworthy IT manufacturers as well as secure network infrastructures. In order to strengthen the competitiveness of the national IT security industry, the Federal Government will promote the quality feature "IT Security Made in Germany" and expand foreign trade instruments. In national key technology fields, networking with the national IT security industry must be strengthened and - where possible and sensible - building up, promoting and protecting one's own capacities.
+There is also a need for a broader portfolio of qualified, trustworthy service providers, for example for IT security solutions, forensics, attack detection and response. Here too, users should be able to access a broader market of service providers in the future. IT companies are funded by the federal government in the context of special research programs. In joint projects with universities, non-university research institutions, and other business partners, they develop innovative approaches for new products and services.
+Cyber Security Strategy 23
+
+Action area 2 Joint mandate from the state and business
+Strategic goals and measures
+Working with the providers Cooperation with the providers plays a key role.
+Within the framework of the applicable law, this applies in particular to measures taken by the provider to detect cyber threats, to deal with identified incidents/infections and to mitigate ongoing attacks. The expansion of data protection-compliant sensors for anomaly detection in the network is an effective way to generally increase data security in the network. In order to protect the rights of those affected, the findings should be anonymised or pseudonymised.
+24 | Cyber Security Strategy
+
+Include IT security service providers
+In times of a shortage of IT specialists, the state and business have an interest in promoting the mutual exchange of IT specialist knowledge and the formation of specialist networks. In the context of the applicable law, private IT security service providers will in future be more involved if necessary than in other areas of government action. The Federal Government will, therefore, take advantage of opportunities to promote competent and trustworthy IT security service providers. Also, it will design and implement personnel exchange programs in the Cyber Security area together with representatives of the German IT security industry. State confidentiality and the protection of official secrets must be taken into account, as well as the protection of company and business secrets.
+Create a platform for trusted information exchange
+The cooperative approach also includes the intensive mutual exchange of information. For this purpose, the Federal Government will institutionalise a cooperation platform for the state and the economy, which, within the given legal limits, will above all enable the exchange of relevant situation information for the defence against cyberattacks.
+Cyber Security Strategy 25
+
+Action area 3
+Confederation - states - municipalities
+Develop the National Cyber Defence Centre
+Strengthen the ability to analyse and react locally
+Step up law enforcement in cyberspace
+Combating cyber espionage and cyber sabotage effectively
+An early warning system against cyberattacks from abroad
+Foundation of the Central Office for Information Technology in the Security Area (ZITiS)
+Strengthen defence aspects of Cyber Security
+Strengthening CERT structures in Germany
+Secure the federal administration
+Working closely between the federal and state governments
+Use resources, attract and develop personnel
+26 | Cyber Security Strategy
+
+Powerful and sustainable state-wide Cyber Security architecture
+The state must guarantee security, justice and freedom in our country, including in cyberspace. This requires a modern Cyber Security architecture that effectively interlocks the various actors at the federal level and also keeps an eye on the states, municipalities and the economy.
+The advancing digitalisation means that today a large number of government agencies in the federal and state governments are dealing with questions of Cyber Security. The range of tasks is broad and ranges - taking into account the constitutionally required limits - from prevention, security and law enforcement to counter-espionage and intelligence, to cyber defence. Both internal and external security in cyberspace are equally affected. The state must set up its institutions in such a way that they can carry out their protection mandate for society even in the age of digitisation, and effectively protect themselves against cyberattacks.
+Against this background, a modern Cyber Security architecture understands Cyber Security as a permanent task for the whole of the state that must be mastered together. It is essential that information is distributed when necessary and that tasks are coordinated efficiently. Federal, departmental, agency and cross-border synergies are of particular importance. The national cyber defence centre already offers the appropriate structure at federal level, under which the individual actors work together within their respective areas of responsibility. It is important to intensify this cooperation and to involve the countries more closely in the future. The Federal Government will review the legal responsibilities as well as the technical and personnel skills, align them closely with one another and - where necessary - adjust them. Only in this way can the state's ability to act to prevent, detect, investigate, defend and prosecute cyberattacks be maintained even in the age of digitalisation.
+Cyber Security Strategy 27
+
+Action area 3 Efficient and sustainable state-wide Cyber Security architecture
+Strategic goals and measures
+Develop the National Cyber Defence Centre
+As part of the implementation of the 2011 Cyber Security strategy, the establishment of the National Cyber Defence Centre (Cyber-AZ) under the leadership of the Federal Ministry of the Interior strengthened the exchange of information between the relevant federal authorities. The federal authorities responsible for Cyber Security issues are currently exchanging information on cyber incidents and sharing their assessments and analyses in the Cyber-AZ.
+This path is to be continued and intensified. To strengthen cyber defence capability, the Cyber-AZ must also be set up in a suitable manner and organizationally strengthened within the framework of the general, cross-departmental Cyber Security architecture. As a joint institution, it is being developed under the leadership of the Federal Ministry of the Interior into a central cooperation and coordination platform. The Cyber-AZ should in future be equipped with its own assessment and evaluation capabilities and have an up-to-date cyber situation that reflects the Cyber Security situation in Germany.
+In the event of cyberattacks, mutual information and coordination between all national actors within the framework of the applicable law are of great importance. If cyberattacks originate abroad, foreign and security policy aspects must be taken into account. In the event of Cyber Security incidents that affect numerous institutions nationwide, the Cyber-AZ grows to a crisis response centre; In these cases, the security and restoration of IT systems, as well as the elucidation and defence against cyberattacks, can only be achieved through coordinated measures by the national actors. This operational cooperation should be coordinated more intensively. The conception and implementation of joint exercises and mutual training must also be established.
+The counties are invited to contribute their skills to the general government in this coordination process.
+28 | Cyber Security Strategy
+
+The ability to analyse and react locally strengthens recent cyberattacks have shown that there are hardly any institutionalised state structures that can help those affected promptly on site, in addition to the usual IT security measures, to prepare an incident. On the one hand, this involves the technical management of security incidents, for which special expertise is available at the BSI. On the other hand, cyberattacks may require the local security authorities to act on the relevant legal basis. The necessary coordination for such missions by various authorities is carried out while respecting the legal limits in the National Cyber Defence Centre. The respective restoration, information and law enforcement interests of the authorities used as well as the protection interests of the body concerned are taken into account.
+Mobile Incident Response Teams (MIRTs) are set up at the BSI to analyse and clean up cyber incidents in institutions that are particularly important to the community. Upon request, the BSI's MIRTs will be able to provide constitutional bodies, federal authorities and operators of critical infrastructures and similarly important local facilities quickly, flexibly and in a manner appropriate to the addressees in the technical management of security incidents if there is a particular public interest. The aim of this support is to quickly restore the technical operation of the facility concerned. Cyberattacks may also require local federal security agencies to act. For this purpose, the Federal Criminal Police Office (BKA) sets up a specialised investigation unit (Quick Reaction Force (QRF)), which, in consultation with the responsible public prosecutor's office or federal prosecutor's office, implements the first indelible criminal proceedings for the law enforcement authorities. In the BfV, "Mobile Cyber Teams" are set up, consisting of IT specialists, intelligence experts with experience in evaluating cyberattacks and - if necessary - foreign-language employees. In the event of a cyberattack with an intelligence or extremist / terrorist background, these cyber teams are deployed on-site. This also applies to possible sabotage attacks. In the defence sector, this task is carried out by the Military Shield Service (MAD). The Federal Intelligence Service (BND) can observe an attack in the preparation as well as in the implementation phase, taking into account its legal options. Outflows of information resulting from the attacks are also recorded. With its organisational elements (including incident response teams), the Bundeswehr can also make contributions to general security measures within the constitutional limits.
+In addition, serious cyberattacks are conceivable, against which conventional preventive measures cannot be used in the long term in a sustainable manner. The Federal Government will, therefore, examine under which legal framework conditions and with which technical options network operations could be carried out by state agencies in these cases.
+Cyber Security Strategy 29
+
+Action area 3 Efficient and sustainable state-wide Cyber Security architecture
+Strategic goals and measures
+Step up law enforcement in cyberspace
+The Federal Government will further intensify its efforts to combat cybercrime in the coming years. To this end, a close exchange of information and knowledge transfer at national and international levels must be guaranteed.
+The further technical and professional qualifications of the judiciary and law enforcement agencies are also of particular importance. The corresponding needs-based training and further education content will be further developed. The Federal Government will also work to improve the conditions for recruiting and developing qualified personnel in the areas of education, cybercrime and digital forensics as part of personnel development. Powerful analysis and evaluation systems should be set up at the federal and state security authorities.
+With new technologies, the Federal Government will work to ensure that the powers and powers of the security authorities keep pace with current developments so that there are no gaps in security and law enforcement. Investigation measures in the area of information technology monitoring must be designed to be open to technology. This ensures that their implementation according to the state of the art is possible and can be designed efficiently.
+30 | Cyber Security Strategy
+
+Combating cyber espionage and cyber sabotage effectively
+For foreign intelligence services, cyberattacks on IT systems by government agencies, business enterprises and research institutions as well as their employees represent an important method of gathering information. The Federal Government has countered this by realigning counterintelligence and will take the path of a reinforced 360-degree view, basically the observation of all activities of foreign intelligence services in Germany. The BfV counterintelligence department will be further strengthened and organizationally more precisely structured. The defence against cyber espionage (i.e. the technical and professional analysis as well as the evaluation of attacks against federal authorities and other targets with a suspected intelligence background) forms a focus here. In addition, the BfV will take even more intensive action against cyberattacks with an extremist and terrorist background.
+Cyber Security Strategy 31
+
+Action area 3 Efficient and sustainable state-wide Cyber Security architecture
+Strategic goals and measures
+An early warning system against cyberattacks from abroad
+In accordance with its legal mandate, the BND records cyber espionage and other cyberattacks abroad that are directed against state and / or critical infrastructures in Germany. The BND can provide them with early warnings to initiate countermeasures (Signals Intelligence Support to Cyber Defence (SSCD)). The BND is building an early warning system against cyberattacks with IT specialists and experienced analysts. The detected attacks are evaluated qualitatively and quantitatively in order to develop a current situation picture of the threat situation.
+Foundation of the Central Office for Information Technology in the Security Area (ZITiS)
+The national security authorities must be able to act as effectively in the digital environment as in other areas. In order to achieve synergy effects, a central office for the technical support of the federal security and technical authorities including the intelligence services with regard to their operational cyber capabilities will be set up in the division of the Federal Ministry of the Interior for this future task. The tasks are based on the range of tasks of these authorities and have a supporting character. The three areas of responsibility are development, support and advice for the security authorities. The Central Office for Information Technology in the Security Area (ZITiS), which is to be established, works in close cooperation with the authorities mentioned to develop future-oriented methods, products and (overarching) strategies for operational implementation in the security authorities and develops them further as required. ZITiS itself has no operational powers.
+32 | Cyber Security Strategy
+
+Strengthen defence aspects of Cyber Security
+As a military part of the overall defence, cyber defence is a constitutional mandate of the Bundeswehr and is subject to the national and international regulations applicable to Bundeswehr operations. Defence aspects of state-wide Cyber Security are, according to the White Paper 2016, the primary tasks of the Federal Ministry of Defence and the Bundeswehr. Cyber defence, cyber foreign and international Cyber Security policy and cyber defence are three complementary means of achieving Cyber Security. The Bundeswehr's defence capabilities in cyberspace are also an essential part of the Cyber Security architecture. Both the content-related agreement in the technical implementation of protective measures as well as the use and participation of structures, processes and reporting systems of cyber defence under defence-relevant aspects and situations show the close dependency. As a high-tech army, the Bundeswehr is continually exposed to the dangers of cyberspace worldwide. At the same time, the use of cyberspace is a prerequisite for the operational capability of the armed forces.
+Cyber defence and cyber defence must be integrated into all plans, structures and processes of the overall defence. Information security and the protection of the Bundeswehr's IT system are ensured around the clock, both in the operational areas and in Germany, in the sense of a permanent mission. In order for the Bundeswehr to be able to carry out its tasks in cyberspace, the Bundeswehr's own capabilities are being expanded, the security architecture of its IT systems is being consolidated and the previously fragmented structures have been brought together in a ministerial department and a new independent military organisational area.
+The Bundeswehr also has special expertise, skills and resources that can be made available to other state actors in the form of administrative assistance - within the framework of the constitutional limits. It can be supported by services provided by civil companies to fulfil their constitutional mandate.
+Cyber Security Strategy 33
+
+Action area 3 Efficient and sustainable state-wide Cyber Security architecture Strategic goals and measures
+Strengthening CERT structures in Germany
+State and non-state "Computer Emergency Response Teams", or "CERTs" for short, are a central point of contact for preventive and reactive technical measures in the IT security area and are an important component of any sustainable Cyber Security architecture. It takes into account the need for information exchange and coordination at the information technology level worldwide. In Germany, the BSI performs the role of the national CERT for the administration and its offers for operators of critical infrastructures, the economy and citizens, and as the central point of contact for foreign and international CERTs. Other independent CERTs also exist at other federal authorities and in the state administrations, in individual companies and in scientific institutions. These structures must be further expanded and networked in the interest of Cyber Security for society as a whole. The BSI will further intensify cooperation in the administrative CERT network (federal states) as well as with corporate and scientific CERTs and bring all key players together at one table. The existing CERT structures in Germany are to be completed and improved in a common process while maintaining what has been achieved. The development of the Cyber-AZ must be taken into account.
+34 | Cyber Security Strategy
+
+Secure the federal administration
+The rapid technological development, the increasing complexity of the information and communication technology as well as the digitalisation of the administration also place new demands on IT security management in the federal administration. The "Implementation Plan for Ensuring IT Security in the Federal Administration" (Federal Implementation Plan - UP Bund) as a binding IT security guideline for all federal authorities is being reoriented to the current technical and organisational developments. The overall project "Federal IT consolidation" aims to bring together the IT operations of the direct federal administration. A key goal is also to strengthen IT security.
+The “Federal Networks” project creates a uniform and secure network infrastructure for the federal administration. In a first step, the existing networks responsible for the Federal Ministry of the Interior are migrated to a common network, thus establishing a uniform, increased level of IT security. In order to achieve a gradual migration of the other federal administration networks in the future, the common network will also function as an integration platform for all IT networks of the federal administration.
+The Federal Government has also launched a program to promote secure mobile communication. In addition to raising awareness of the use of secure IT products, efforts will also be made to take security-relevant properties into account when making purchases. In addition, the resilience of the federal government's IT systems will be increased in order to better compensate for damage events that cannot be avoided.
+Cyber Security Strategy 35
+
+Action area 3 Efficient and sustainable state-wide Cyber Security architecture Strategic goals and measures
+Working closely between the federal and state governments
+There are tried and tested committee structures in the federal-state relationship for the areas of cybercrime, cyber espionage and preventive intrinsic security for administrations. In order to further strengthen federal-state cooperation, the BSI is to be given the support of state authorities as a new task insofar as they deal with Cyber Security incidents. So far, this only applies to the support of police and law enforcement agencies.
+With the "Guideline for Information Security in Public Administration", which the IT Planning Council adopted in 2013, a general standard for federal IT security was created for all authorities and institutions of the federal and state administrations. The federal and state governments have committed themselves to jointly defending against attacks on information infrastructures in public administration. In order to improve the common picture of the situation, the previously voluntary mutual exchange of information between the federal government and the federal states on cyberattacks should now be agreed upon.
+In addition, Cyber Security will also have to be given additional importance in the municipal area, for example when modernising IT-Grundschutz with its organisational, technical, personnel and infrastructural recommendations. The IT Planning Council offers the appropriate framework for this. The federal government supports central structures in the federal states for the promotion of municipal Cyber Security, for example through municipal IT service providers. The specialist knowledge of the federal authorities will increasingly be made available to the municipalities via the federal states. With the involvement of the local umbrella organisations and the federal states, the BSI will develop a municipal situation picture.
+36 | Cyber Security Strategy
+
+Use resources, attract and develop personnel
+Cybersecurity costs money. In the coming years, considerable financial efforts will, therefore, be necessary at all levels (federal, state and local authorities) in order to adequately and sustainably position Germany in the area of Cyber Security.
+Personnel recruitment and development play a key role in the state's ability to act. The guidelines of the IT Planning Council provide valuable information here. The aim will be to present the attractiveness of the public service as an employer more aggressively and to make targeted use of the existing conditions relating to employment law, collective bargaining law and monetary conditions. The state must also cooperate closely with training institutions. "Cyber clusters" involving the state, science and business can be key success factors for competing for the best minds. Personnel recruitment must be coordinated more within the federal government. The exchange of personnel is to be made easier.
+Added to this is the broadest possible access to the new degree course in "Cyber Security" at the Bundeswehr University in Munich. Expertise must also be built up and developed in existing personnel, creating professional and personal perspectives, both at work and management level. In this context, internal training and further training are of crucial importance. At the Federal Academy for Public Administration, corresponding courses for internal further training are offered and the training modules at the Federal College of Public Administration are redesigned or supplemented accordingly. In addition, an innovative personnel exchange model with business is required.
+The establishment of a cyber reserve in the Bundeswehr can also serve as a blueprint for the establishment of appropriate civil voluntary structures, even for those who have not been served so far, and who should bundle the existing know-how of experts from business, research, administration and society and make it usable serve. In this context, too, close cooperation with the German IT security industry is of particular importance.
+Cyber Security Strategy 37
+
+Action area 4
+International action
+Actively shaping an effective European Cyber Security policy Develop NATO's cyber defence policy
+Actively shaping international Cyber Security
+Bilateral and regional support and cooperation for the development and expansion of cyber capabilities (cyber capacity building)
+Strengthen international law enforcement
+38 | Cyber Security Strategy
+
+Germany's active positioning in European and international Cyber Security policy
+In view of the transnational networking in a digitised world, a high level of Cyber Security can only be achieved by embedding and strengthening national measures in the corresponding European, regional and international processes. Germany will continue to play an active role in European and international Cyber Security policy. A clear legal framework, confidence-building and greater resilience in Europe and worldwide also mean more protection for Germany.
+Security must also be thought of globally, especially in the age of digitisation. Germany will also support interoperable Cyber Security architectures and standards in measures to strengthen national and regional Cyber Security capabilities. At the European level, the digital single market with a focus on the exchange of secure and interoperable data is of crucial importance for a secure European cyberspace. The same applies - within the framework of existing Union competences - with regard to police and judicial cooperation as well as a correspondingly designed common foreign and security policy and the networking of European IT security research.
+Germany is also campaigning for more Cyber Security in the relevant forums. The resilience of the alliance and the protection of NATO's own networks are the central goals of NATO's cyber defence policy. Within the framework of the United Nations, Germany will continue to work on clarifying numerous new issues relating to the application and development of international law in cyberspace and for maintaining and strengthening an open, secure and legally designed cyberspace. Bilateral cyber consultations and cooperation with selected partner countries of German development cooperation can deepen this process and achieve a global minimum in Cyber Security. Strengthening international law enforcement is also of particular importance.
+In the event of cyberattacks that use foreign systems, the use of diplomatic channels alongside measures to protect and restore the affected systems and to prosecute the perpetrators should also be considered.
+Cyber Security Strategy 39
+
+Action area 4 Germany's active positioning in European and international Cyber Security policy
+Strategic goals and measures
+Actively shaping an effective European Cyber Security policy Security is a cornerstone of the common digital single market.
+Germany will work to ensure that IT security is adequately taken into account in all digitisation processes, including through a European data location policy based on data security and by considering data protection in European rules for international data exchange.
+EU pilot projects, in which the legal and technical issues relating to the cross-border processing and use of data are addressed, should take place with German participation. Important elements are the cross-border application of electronic identification, the qualified electronic signature, the electronic seal for companies and authorities as well as other electronic trust services. In addition, Germany will campaign for greater consideration of Cyber Security as a subject of the common foreign and security policy. Furthermore, the Federal Government will support German IT security research in networking at European level and positioning itself in EU measures to take an active role in shaping the European research landscape and research programs.
+Develop NATO's cyber defence policy
+As a cornerstone of Germany's security and Euro-Atlantic security, the North Atlantic Alliance relies on adequate protection against attacks from cyberspace in order to be able to fulfil its core tasks, particularly in the area of collective defence and international stabilisation operations. As part of the adaptation to the changing security environment, the alliance must also further develop its cyber defence policy. Germany will be involved in this process. The goal is to continuously increase the resilience of the Allies and the Alliance as a whole and, not least in the context of hybrid threats, to increase deterrence and defence capabilities. NATO's recognition of cyberspace as an operating space takes account of the growing importance of cyber defence policy.
+40 | Cyber Security Strategy
+
+Actively shaping international Cyber Security
+Within the international community, states and regions have developed digitally in very different ways. The relevant forums sometimes pursue divergent political and economic goals. In the United Nations, Germany will continue to provide impulses in the debates on the application of international law to the actions of states and non-state actors: To complement the international legal system of standards, Germany will take responsibility for the development of standards, rules, principles and other recommendations Make a particular contribution to state behaviour in cyberspace. In view of international cyber threats, Germany will also campaign for measures to maintain international stability and strengthen the capacities of the United Nations in this area. Germany supports considerations on how to deal with the problem of assigning cyberattacks at a global level and how the essential exchange of information can be promoted in this context. Industrial espionage and cyberattacks must be made more difficult by international regulations that can be enforced across German and European borders. Germany will particularly actively support international efforts to strengthen export control regimes with a view on surveillance technologies. In view of the risk of escalation due to incidents in cyberspace, measures to build trust must be implemented, further developed and expanded. Existing forums and partnerships can be used for this. In this respect, the work in the OSCE, in which Germany has been involved from the start, plays a pioneering role. The Federal Government will also initiate the establishment of a German institute for international Cyber Security. It aims to involve business, science and state organisations in the interests of international stability and crisis prevention and to provide advice to governments as a reliable and independent partner of competence.
+Cyber Security Strategy 41
+
+Action area 4 Germany's active positioning in European and international Cyber Security policy
+Strategic goals and measures
+Bilateral and regional support and cooperation for the development and expansion of cyber capabilities (cyber capacity building)
+Where resources, infrastructure and capacities for Cyber Security are lacking, special needs arise. Cyber threats and attacks can severely restrict or set back certain states and population groups in their economic, social and political development. Germany will support selected partner countries and regions in developing and expanding their preventive and reactive Cyber Security capabilities (network robustness and network resilience). This also includes encouraging other regions to agree on confidence and security-building measures. In its development policy, the Federal Government is committed to enabling the potential of digitalisation worldwide and countering the associated risks. Aspects of security also play a special role in the development and support of digital infrastructures in partner countries of German development cooperation.
+The Federal Government is perceived as a trustworthy actor worldwide. It can also use existing competencies to support partner countries and regions through cyber capacity building. This includes developing your own Cyber Security strategies, legislation, institutions, certification, research, training and further education measures as well as regional initiatives. In particular, where people have first access to cyberspace thanks to development policy measures, the framework conditions and knowledge for its safe and reliable use must be supported.
+42 | Cyber Security Strategy
+
+Strengthen international law enforcement
+Germany will work internationally to combat cybercrime. Cross-border law enforcement and joint police investigation capabilities will be strengthened. The Federal Government will work to improve the international legal framework for security and law enforcement, in particular by actively participating in initiatives at an international level to further develop the legal framework for cross-border investigative measures by law enforcement agencies in cyberspace. For effective law enforcement, options for simplifying and speeding up legal assistance requests with selected international partners will also be developed. The Federal Government will continue to work internationally to ensure that as many states as possible accede to the Council of Europe Convention on Cybercrime (Budapest Convention) and implement it in national law.
+Cyber Security Strategy 43
+44 | Cyber Security Strategy
+
+Ongoing strategy process in the National Cyber Security Council 
+A future-oriented Cyber Security strategy should not be limited to defining strategic measures. Rather, the dynamics of digitisation are to be accompanied by a permanent strategy process on questions of Cyber Security, from which further strategic measures can develop. New dangers must be recognised early on and innovative solutions must be researched and developed. The National Cyber Security Council, which was set up with the Cyber Security Strategy 2011 as the strategic adviser to the Federal Government, should play a key role in this. The National Cyber Security Council brings together high-ranking representatives from the federal government (Federal Ministry of the Interior, Federal Chancellery, Federal Foreign Office, Federal Ministry of Defence, Federal Ministry of Economics and Energy, Federal Ministry of Justice and Consumer Protection, Federal Ministry of Finance, Federal Ministry of Education and Research and Federal Ministry of Ver -Return and digital infrastructure; the circle will be expanded to include other departments) and countries as well as from the economy at one table and thus offers a suitable format to promote the strategic issues that are essential for Germany in the area of Cyber Security.
+In the National Cyber Security Council, long-term necessities for action and trends are identified and impulses for strengthening Cyber Security in the named fields of action are derived, which flow into the work of the Federal Government. In the course of its work, the National Cyber Security Council will increasingly rely on expert knowledge from society, business and science in the future: lectures by invited experts on individual strategic topics should prepare the discussion and develop recommendations for action.
+In Action Field 1, the National Cyber Security Council is supposed to make suggestions for the further development of national regulations for more Cyber Security based on current technical developments. In action field 2, it should show further fields for the cooperation between state and economy for more Cyber Security and corresponding implementation proposals. In Action Field 3, the National Cyber Security Council is to adopt the federal Cyber Security architecture and provide important impulses in the direction of the Federal Government and the Conference of Ministers of the Interior. In Action Field 4, the National Cyber Security Council should seek exchange with comparable strategic bodies of other major international partners in order to generate new impulses for national Cyber Security policy.
+The National Cyber Security Council will regularly inform the Federal Cabinet of its results on the respective strategic issues in the form of a written report. The report will be submitted to the cabinet for information.
+Cyber Security Strategy 45
+
+Glossary
+Definitions
+Preliminary remark: The following definitions apply to this Cyber Security strategy and are intended to promote its content clarity and coherence. The validity of definitions found in other contexts in the field of Cyber Security remains unaffected.
+Cyber defence Cyber defence includes all measures aimed at maintaining or increasing Cyber Security.
+Cyberattack A cyber-attack is an impact on one or more other information technology systems in or through cyberspace, with the aim of completely or partially impairing their IT security by means of information technology.
+Cyberspace Cyberspace is the virtual space of all information technology systems that are networked or networkable worldwide at data level. As the publicly accessible connection network, cyberspace is based on the Internet, which can be expanded with any other data network.
+Cybersecurity Cybersecurity is the IT security of information technology systems networked or networkable at data level in cyberspace.
+Cyberdefense Cyberdefense encompasses the defensive and offensive capabilities available in the Bundeswehr within the framework of its constitutional mandate and the international legal framework for acting in cyberspace, which are suitable and necessary for operational and operational management or for the defence against (military) cyber-attacks and thus serve to protect your own information, IT, as well as weapon and effective systems. This also includes the use and co-design of structures, processes and reporting systems for cyber defence under defence-related aspects and situations.
+Information technology Information technology (IT) encompasses all technical means that serve to process or transmit information. The processing of information includes collection, collection, use, storage, transmission, program-controlled processing, internal presentation and the output of information.
+Information technology system An information technology system (IT system) is a technical system that is used for information processing and forms a closed functional unit. Typical IT systems are servers, clients, single-user computers, cell phones, routers, switches and security gateways.
+IT security IT security (or information security) is the integrity of the authenticity, confidentiality, integrity and availability of an information technology system and the data processed and stored therein.
+46 | Cyber Security Strategy
+
+Imprint
+
+Published by the Federal Ministry of the Interior Alt-Moabit 140
+10557 Berlin Tel .: +49 (0) 30 18 681-0 E-Mail: poststelle@bmi.bund.de
+
+As of November 2016
+Druck Bonifatius GmbH, Druck - Buch - Verlag, Paderborn
+Design Fink & Fuchs AG, Wiesbaden
+
+Photo credit
+Federal Ministry of the Interior, Berlin
+iStockphoto LP, Calgary, Alberta, Canada
+
+Item number BMI16013
+
+This brochure is part of the public relations work of the federal government.
+It is available free of charge and is not intended for sale.

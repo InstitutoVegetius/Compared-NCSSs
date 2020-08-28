@@ -1,0 +1,237 @@
+
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+introduction
+ {ITALIAN CYBERSECURITY ACTION PLAN} intended outline {ACTIONS} required meet guidelines set forth {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}.
+ updating {ACTION} {PLAN}, current document aims realizing major step toward full implementation {ITALIAN} {CYBERSECURITY SYSTEM}.
+ {PLAN} outlines eleven {ACTION} items, together associated objectives implementing lines effort, required article .1c {PRIME MINISTER} {DECREE} february 17th guide-lines {CYBERSPACE} {PROTECTION} {NATIONAL SECURITY} .
+ {PLAN} provides priority {MEASURES} correct deployment {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}, involving {CYBER-SECURITY} relevant {STAKEHOLDERS} pro-active iterative basis.
+ {PLAN} reviewed {CISR} {MINISTRIES} (foreign affairs, interior/homeland {SECURITY}, {DEFENSE}, {JUSTICE}, {ECONOMY} finance, economic development) well {CYBER} delegates {AGENCY DIGITAL ITALY} {NATIONAL CYBERSECURITY MANAGEMENT BOARD} ({ESTABLISHED} within {PRIME MINISTER MILITARY ADVISOR OFFICE} february ).
+{NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}
+{STRATEGIC} guidelines
+. {STRENGTHENING} {NATIONAL} {CRITICAL INFRASTRUCTURES} {STRATEGIC} {PLAYERS} {DEFENSE} {CAPABILITIES}.
+. {IMPROVING} {CYBER ACTORS} technological, operational, {ANALYTIC} {CAPABILITIES}.
+. {ENCOURAGING} {PUBLIC-PRIVATE} cooperation.
+. {FOSTERING} {CYBERSECURITY CULTURE}.
+. {SUPPORTING} {INTERNATIONAL COOPERATION} {CYBERSECURITY}.
+. {REINFORCING} {COUNTER}-{ACTION} {CAPABILITIES} {ONLINE CRIMINAL ACTIVITIES}.
+{ITALIAN} {ACTION} {PLAN}
+{AI} . {REINFORCING} {INTELLIGENCE}, {LAW ENFORCEMENT}, {DEFENCE} {CAPABILITIES}. {AI} . {STRENGTHENING} {PUBLIC-PRIVATE} cooperation.
+{AI} . {FOSTERING} {SECURITY} {CULTURE}. {EDUCATION} {TRAINING}.
+{AI} . {INTERNATIONAL COOPERATION} {CYBER EXERCISES}.
+{AI} . {INCIDENT} {PREVENTION}, {RESPONSE} {REMEDIATION}.
+{AI} . updating {CYBERSECURITY LEGISLATION} managing {COMPLIANCE} {INTERNATIONAL LEVEL}.
+{AI} . {SECURITY PROTOCOLS} {STANDARDS} {COMPLIANCE}. {AI} . {SUPPORTING} industrial technological development.
+{AI} . {STRATEGIC} operational {COMMUNICATION}.
+{AI} . {RESOURCES}.
+{AI} . implementing {NATIONAL} {CYBER RISK MANAGEMENT}.
+ review focused particular following:
+• {AI} ({INCIDENT} {PREVENTION}, {RESPONSE} {REMEDIATION}) includes provisions {STRENGTHEN} existing {CERTS}, {CREATE} structures re-quired {NIS DIRECTIVE} ({CSIRT}, {NATIONAL} single point contact, {NATIONAL} {AUTHORITIES}) {ESTABLISH} efficient {COORDINATION} {PROCEDURES} among current future {CYBERSECURITY} framework {STAKEHOLDERS} ({CERT}, {CSIRT}, {INTELLIGENCE}, {LAW ENFORCEMENT}, {DEFENSE}, {AGENCY DIGITAL ITALY}, etc.).
+• {AI} ({REINFORCING} {INTELLIGENCE}, {LAW ENFORCEMENT}, {DEFENSE} {CAPABILITIES}) , updated according experience gained previous two years, aims boosting {NATIONAL} {CYBERSECURITY} {RESPONSE} {CAPABILITY}.
+ order ease quick {IMPROVEMENT} {NATIONAL CYBERSECURITY FRAMEWORK}, series core tasks pursued priority identified (see box ). tasks chosen according review previous {STRATEGY} taking account developments occurred {NATIONAL} {INTERNATIONAL LEVEL}.
+{ACTION} items ({AI})
+core tasks
+• review {GOVERNANCE} responsibilities {NATIONAL CYBERSECURITY MANAGEMENT BOARD}.
+• simplify {DECISION MAKING} {PROCEDURE} {CYBER CRISES} management.
+• {REDUCE} complexity within {NATIONAL CYBERSECURITY FRAMEWORK} {ORGANIZATIONS} suppression/merger.
+• {CERTS} gradual unification.
+• creation {NATIONAL} {CYBERSECURITY} evaluation {CERTIFICATION} center.
+• creation {VENTURE CAPITAL FUND} foundation. • creation {NATIONAL} {CYBERSECURITY} & center.
+• creation {NATIONAL CRYPTOGRAPHIC CENTER}.
+{ITALIAN} {CYBERSECURITY} core tasks
+ {ACTION} {PLAN} details initiatives needed achieve step change increasing {NATIONAL} {INFORMATION SYSTEM} {NETWORK} {SECURITY} levels, required {PRIME MINISTER} {DECREE} february 17th .
+ spite efforts, efficacy {MEASURES} adopted {PROTECT} {NETWORKS} {SYSTEMS} showed patchy picture, discrepancies persisting horizontally — {PUBLIC PRIVATE} {STAKEHOLDERS}— vertically, within domain. {NATIONAL SECURITY} {SENSITIVE INFORMATION} not just {GOVERNMENT} {BUSINESS}. {PRIVATE ENTITIES} operating {STRATEGIC} sectors must considered key {ASSETS} included holistic approach {NATIONAL} {CYBERSECURITY} provides implementation minimum {SECURITY} requirements {COUNTRY-CRITICAL SYSTEMS}.
+ premises, core tasks selected systemic relevance due fact :
+• leverage {COMPETENCES} responsibilities relevant {STAKEHOLDERS} ({PUBLIC SECTOR}, {PRIVATE SECTOR}, {RESEARCH} {ACADEMIA}).
+• refer relevant {ACTIVITIES} aimed consolidating {NATIONAL} {CYBER DEFENSE} {SYSTEM} including: {ASSETS} common {PROTECTION} ({CERT}); sw/hw {CERTIFICATION}; identification {CRITICAL FUNCTIONS}; {INFO-SHARING} requirements case relevant {CYBER EVENTS}; etc.
+pending transposition {EU DIRECTIVE} concerning {MEASURES} high common level {SECURITY} {NETWORKS} {INFORMATION SYSTEMS} across union {NATIONAL} {LEGISLATION}, {ITALIAN} {CYBERSECURITY} framework revised optimized :
+• simplification ordinary emergency management {PROCEDURES} (see ais , , ).
+• reorganization {NATIONAL CYBERSECURITY FRAMEWORK} (suppression
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {CYBER} nisp, new role {NATIONAL CYBERSECURITY MANAGEMENT BOARD}/nsc, etc.) (see. {AI} ).
+• simplification {DECISION MAKING} {CYBER CRISES} , aimed facilitating prompt efficient {RESPONSE} {REMEDIATION} (see {AI} ).
+ particular relevance {MEASURES} intended :
+• assign {DIRECTOR GENERAL SECURITY INTELLIGENCE DEPARTMENT} central role among entities composing {NATIONAL} {CYBERSECURITY ECOSYSTEM}.
+• suppress {CYBER} nisp relocate {NATIONAL CYBERSECURITY MANAGEMENT BOARD} within {SECURITY INTELLIGENCE DEPARTMENT}. board will responsible {CYBERSECURITY CRISES} management will supervised {SECURITY INTELLIGENCE DEPARTMENT} deputy director.
+• {PROMOTE} close interaction {NATIONAL} {CERT} {PUBLIC ADMINISTRATION} {CERT} order facilitate operational {COORDINATION} guarantee single {DETECTION} {CAPACITY}, alert, first {CYBER INCIDENTS} {ASSESSMENT} (see ais , , ).
+• {ESTABLISH} {NATIONAL} evaluation {CERTIFICATION} center, within ministry economic development, responsible {SECURITY} reliability check {ICT} components {CRITICAL INFRASTRUCTURES} (see {AI} ).
+• enlarge better define number {ACTORS} operating {SECURITY} relevant sectors ({OPERATORS ESSENTIAL SERVICES} {DIGITAL SERVICE} providers) required notify serious {CYBER INCIDENTS} else pay {EFFECTIVE}, proportionate, {DISSUASIVE} penalties (see ais , , ).
+ real {IMPROVEMENT} {ITALIAN} {CYBERSECURITY} landscape achieved without full commitment {PUBLIC PRIVATE} {STAKEHOLDERS}. reason, {PLAN} aims {ENGAGING} relevant {PRIVATE} {COMPANIES}, {ACADEMIA} {RESEARCH CENTERS} (see {AI} ).
+ far {RESEARCH} sector concerned, specific initiatives —possibly backed {LEGAL} entity (eg. foundation)— aim (see ais , , ):
+• {SUPPORT} {START-UPS} relevant entrepreneurial {ACTIVITIES} ( {VENTURE CAPITAL FUNDS}).
+• {CREATE} {NATIONAL} {CYBERSECURITY} & center responsible —among things— {DEVELOPING} {MALWARE} analysis, {SECURITY} {GOVERNANCE}, {CRITICAL INFRASTRUCTURES} {PROTECTION}, {THREAT} analysis, etc.
+• {CREATE} {NATIONAL CRYPTOGRAPHIC
+CENTER} responsible codes/algorithms {BLOCKCHAIN} development {SECURITY} {ASSESSMENTS}.
+regarding {PUBLIC SECTOR}, key institutions called upon take part systemic, coherent, detailed {INTERVENTION} {IMPROVE} {NATIONAL} {CYBERSECURITY}.
+ particular, new {NATIONAL CYBERSECURITY MANAGEMENT BOARD}, center {ITALIAN} {CYBERSECURITY} framework, aims facilitating {GOVERNANCE} simplification cutting {DECISION-MAKING} processes short rationalizing ordinary emergency {PROCEDURES}.
+ {MINISTRY INTERIOR} ( particular, {NATIONAL ANTI-CRIME COMPUTER CENTRE PROTECTION CRITICAL INFRASTRUCTURE} {CNAIPIC}) plays key role {PROTECTING} {CRITICAL INFRASTRUCTURES} thanks {INVESTIGATIVE FORENSIC CAPABILITIES}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {AGENCY DIGITAL ITALY} responsibilities equally relevant. {AGENCY} charge defining {SECURITY} guidelines {TECHNICAL} rules, {SETTING} {STANDARDS}, {MONITORING} quality public {NETWORKS} {SECURITY} {PUBLIC ADMINISTRATION} {ICT} {PROGRAMS}.
+ {MINISTRY DEFENSE} (mod) developed specific {CYBER CAPABILITIES} — {PROTECT} {NETWORKS} {NATIONAL} {INTERNATIONAL}/operational level— significant {ASSET} {NATIONAL CYBERSECURITY MANAGEMENT BOARD} {IMPROVEMENT} process.
+ {ACTION} {PLAN} aims {SUPPORTING} mod following initiatives:
+• creation {JOINT COMMAND CYBER OPERATIONS} charge mod {NETWORKS} {SYSTEMS} {PROTECTION}, {CYBER OPERATIONS}.
+• establishment {VIRTUAL CYBER RANGE} — located chiavari (genova area) within {ARMED FORCES} tlc school facility.
+{INTELLIGENCE COMMUNITY} mod agreed specific {PROTOCOL} align {STRATEGIES} tactics {CYBERSECURITY} order facilitate consolidation perspective {JOINT COMMAND CYBER OPERATIONS} {COMPLIANCE} {NATO} recent posture.
+ {ACTION} {PLAN} aims {SECURE} {NATIONAL} {ASSETS} according following priorities:
+• level — {NATIONAL SECURITY} [{INTELLIGENCE COMMUNITY}, {MINISTRY DEFENSE}, {MINISTRY INTERIOR}, {MINISTRY FOREIGN AFFAIRS}, {MINISTRY JUSTICE}, {MINISTRY ECONOMY FINANCE}, ministry economic development].
+• level — {NATIONAL} {CRITICAL INFRASTRUCTURES} [tlc, {UTILITIES}, {FINANCIAL SECTOR}, {TRANSPORTS}] relevant {PUBLIC ADMINISTRATIONS} (eg. {MINISTRY HEALTH}).
+• level — {NATIONAL} production {SYSTEM} {POPULATION}.
+{ACTION} item
+{REINFORCING} {INTELLIGENCE}, {LAW ENFORCEMENT}, {DEFENSE} {CAPABILITIES}
+{NATIONAL} {CYBER PROTECTION} {ICT SECURITY} require in-depth {KNOWLEDGE} technological human {VULNERABILITIES} well {THREAT} {EXPLOIT} .
+ {THREAT} {VULNERABILITY} analysis
+. {ASSESS} evaluate {CYBER THREATS} {VULNERABILITIES} regular basis.
+. {MONITOR} technological {INNOVATIONS} {ICT SYSTEMS} platforms employed {STRATEGIC} domains {CRITICAL INFRASTRUCTURES} order {ANTICIPATE POTENTIAL VULNERABILITIES}.
+. share relevant analysis {OPERATORS ESSENTIAL SERVICES} {CRITICAL INFRASTRUCTURES} dedicated {INSTITUTIONAL} platforms.
+. cooperate {UNIVERSITIES} {RESEARCH CENTERS} order {DEVELOP} new methodologies technologies aimed {DETECTING}/analyzing {VULNERABILITIES} {THREATS}.
+ {CYBER INTELLIGENCE} {CYBER KNOWLEDGE MANAGEMENT}
+. {IMPROVE} collection, analysis, dissemination {CAPABILITIES} {CYBER THREATS}.
+. {IMPROVE} {THREAT} {DETECTION} development traffic {MONITORING} analysis {CAPABILITIES}.
+. implement {EARLY WARNING} {PROCEDURES}.
+. {DEVELOP} integrated {INTELLIGENCE CAPABILITIES} (inter-{ORGANIZATION} multi-sources).
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {COUNTERING} {CYBER THREATS} . {IMPROVE} {ATTRIBUTION} {CAPABILITIES}.
+. {DEVELOP} consistent {CYBER SITUATIONAL AWARENESS}, accurate {ASSESSMENTS} {CYBER ACTIVITIES}, order {IMPROVE} {SITUATIONAL KNOWLEDGE}, {THREAT PREVENTION}, countermeasures.
+. facilitate {INFORMATION SHARING} {PUBLIC AUTHORITIES} {PRIVATE SECTOR}.
+. {IMPROVE} {INCIDENT} {CYBERCRIME} integrated {RESPONSE} {CAPABILITIES}, according preset {PROTOCOLS}, {STIMULATE} {NEW LEGISLATIVE INITIATIVES} order {CREATE} {TECHNICAL INTERVENTION TEAMS} promptly {SUPPORT} central administrations, {OPERATORS ESSENTIAL SERVICES} {CRITICAL INFRASTRUCTURES} case relevant {CYBER EVENTS} (see {AI} .1c).
+ {CYBERSPACE} {DEFENSE} operational {CAPABILITIES}
+. {STRENGTHEN} {CYBERSPACE DEFENSE STRUCTURES} {SECURE} long term efficiency {EFFECTIVENESS} {ASSETS}.
+. {ESTABLISH} command control structures capable {EFFECTIVE} {CYBERSPACE MILITARY OPERATIONS PLANNING IMPLEMENTATION}.
+ {CYBER INCIDENT} management: {LESSONS LEARNED}
+. {CREATE} relevant {PROCEDURES} tools processing {LESSONS LEARNED} managing {CYBER INCIDENTS} (collection, analysis/evaluation, sharing) need-to-know/need-to-share basis among {PUBLIC PRIVATE ORGANIZATIONS}.
+{ACTION} item
+{STRENGTHENING} {PUBLIC-PRIVATE} cooperation
+cooperation among public {STAKEHOLDERS}, well cooperation among {PUBLIC PRIVATE} {STAKEHOLDERS}, strengthened taking account {CRITICAL INFRASTRUCTURES} managed operated {PRIVATE ORGANIZATIONS}. {INTEROPERABILITY} among {ACTORS} fortified {NATIONAL} {INTERNATIONAL LEVEL}.
+ integration . facilitate operability {PUBLIC-PRIVATE} existing cooperation schemes {DETECT} {THREATS}, {MITIGATE }{VULNERABILITIES}, {COORDINATE} {RESPONSE} {CYBER ATTACKS}.
+. {SUPPORT} {ACTIVITIES} implemented {INSTITUTIONAL} fora, {TECHNICAL} groups competent bodies involving {CRITICAL INFRASTRUCTURES OPERATORS} {ESSENTIAL SERVICES} well others {ICT} {STRATEGIC} {PLAYERS}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {PUBLIC-PRIVATE SECTOR} cooperation tools
+. process methodology {IDENTIFY} {ICT} {CRITICAL SYSTEMS}.
+. {STRENGTHEN} {INFO-SHARING}, {ADOPTING} {COMMON TAXONOMY}.
+. {DEVELOP} synergies among {CRITICAL INFRASTRUCTURES} competent {AUTHORITIES}, {MINISTRIES}, {PRIVATE ORGANIZATIONS}, {PARTNER NATIONS} order {EFFECTIVELY} manage {CYBER CRISES}. . set specific evaluation {STANDARDS} {DEVELOP} {COMMUNICATION} formats {INFRASTRUCTURES} {VULNERABILITY} {ASSESSMENTS}.
+ involve {PRIVATE} {PLAYERS} {NATIONAL} {INTERNATIONAL} {CYBERSECURITY EVENTS}
+. consolidate existing {PUBLIC-PRIVATE} {COMMUNICATION} following whole-of-{SOCIETY} approach.
+. facilitate {PRIVATE} operators involvement {INTERNATIONAL} {EXERCISES} {CRITICAL INFRASTRUCTURES} {PROTECTION}.
+{ACTION} item
+{FOSTERING} {SECURITY} {CULTURE}. {EDUCATION} {TRAINING}
+ now {CYBERSECURITY EDUCATION} {TRAINING} directed experts {CYBER} operators. now need {PROMOTE} {CULTURE CYBER SECURITY} among {CITIZENS}, {BUSINESSES} {PUBLIC ADMINISTRATIONS}.
+ doctrine development . keep latest {INTERNATIONAL} {STRATEGIC} posture. {DEVELOP} {CYBERSECURITY DOCTRINES} based {BEST PRACTICES}.
+ {CYBERSECURITY AWARENESS} . organize {AWARENESS} initiatives {CITIZENS}, students, {COMPANIES}, {PUBLIC ADMINISTRATIONS}.
+ {EDUCATION}, {TRAINING}, {EXERCISES}
+. {PARTICIPATE} {EU}, {NATO}, {INTERNATIONAL ORGANIZATIONS} {CYBERSECURITY} initiatives.
+. {RAISE} {AWARENESS} among {DECISION MAKERS} {CYBERSECURITY THREATS} latest developments.
+. organize {TRAINING} {EXERCISES} {CYBERSECURITY} operators managers well {SYSTEMS} {NETWORKS} officers.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+. {DEVELOP}, test, validate {CYBERSPACE} operational {ACTIVITIES} simulation tools, joint {EXERCISES} trainings on-the-job.
+. concentrate {CYBER TRAINING} capacities {EDUCATION EXCELLENCE} hubs, consolidating existing centers facilitating direct involvement {PRIVATE ORGANIZATIONS} ( {ITALY} abroad), {EU} {NATO} {MEMBERS}, {PARTNER NATIONS}.
+. {DEVELOP} partnersh{IPS} {UNIVERSITIES} {RESEARCH CENTERS} set trainings {SPECIFIC COURSES} {PUBLIC ADMINISTRATION} {PRIVATE} {COMPANIES} {PERSONNEL}.
+. map {NATIONAL} {CYBERSECURITY EXCELLENCE CENTERS}.
+{ACTION} item
+{INTERNATIONAL COOPERATION} {CYBER EXERCISES}
+{CYBER THREATS} transnational definition. common level {COMPETENCE} {INTEROPERABILITY} needed order {COUNTER} .
+ {ENHANCING} bilateral {MULTILATERAL COOPERATION}
+. consolidate relations {EU} {NATO} {MEMBERS}, {PARTNER NATIONS}.
+. maximize integration {INTEROPERABILITY} {CYBERSECURITY OPERATIONS} planning implementation joint {ACTIVITIES} {DEFENSE}, inter-ministry, {NATO}, {EU}, {MULTINATIONAL} level.
+. {PARTICIPATE} {INTERNATIONAL FORA} {MONITOR} latest evolutions keep {NATIONAL} level.
+ {CYBER EXERCISES}
+. organize recurring {NATIONAL} {CYBER EXERCISES} (eg. {CYBER} {ITALY}), involving {CRITICAL INFRASTRUCTURES OPERATORS} {ESSENTIAL SERVICES} well others {ICT} {STRATEGIC} {PLAYERS}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+. {COORDINATE} {PUBLIC PRIVATE} {NATIONAL} {PLAYERS} {PARTICIPATING} {EXERCISES} {MULTILATERAL} ({EU} {NATO}) bilateral level (eg. united states america).
+ {EU} projects {INTERNATIONAL ORGANIZATIONS} initiatives
+. {PROMOTE} ease access {EU FUNDING} initiatives among {PUBLIC PRIVATE} operators.
+. maximize access {EU FUNDING}.
+. {PARTICIPATE} {EU FUNDED} projects.
+. {PARTICIPATE} {NATO} {INTERNATIONAL ORGANIZATIONS} projects.
+{ACTION} item
+{INCIDENT} {PREVENTION}, {RESPONSE} {REMEDIATION}
+{COMPUTER SECURITY INCIDENT RESPONSE TEAM} ({CSIRT}) — defined {NIS DIRECTIVE}— responsible actively {SUPPORT} {PUBLIC PRIVATE} operators case {CYBER ATTACKS} disturbances. process transposing {DIRECTIVE}, current public {COMPUTER EMERGENCY RESPONSE TEAMS} ({NATIONAL} {CERT} {PA-CERT}) will merge tools {PROCEDURES} coordinated {CYBER-INCIDENT} management effort.
+ integrated {CAPACITY}
+. {CREATE} single point contact one {CSIRT} full {INCIDENT} {RESPONSE} {CAPABILITIES} (according {NIS DIRECTIVE}).
+. {ESTABLISH} one {NIS} {NATIONAL} {AUTHORITIES}.
+. fully implement {LEGAL} framework {CSIRT}/{CERT}, soc, {TECHNICAL INTERVENTION TEAMS} (see {AI} .3d).
+. align capacities current {NATIONAL} {CYBER-SECURITY ACTORS} ({N-CERT}, {PA-CERT}, {DOD-CERT}, {NATIONAL ANTI-CRIME COMPUTER CENTRE PROTECTION CRITICAL INFRASTRUCTURE}, {INTELLIGENCE}) {NIS} requirements. {IDENTIFY} {COOPERATION MECHANISMS} among .
+. {DEVELOP} automated standardized {CYBER INCIDENT} management {MODEL} — specific focus triage phases.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+. minimize impact {CYBER INCIDENTS} — particular {EVENTS} produced {INFORMATION} loss / {SYSTEM} disruption.
+. {DEVELOP} {PROACTIVE} approach {SECURITY} {CREATE} integrated {DETECTION} {DATABASES} {INCIDENT} & {RESPONSE} {INTRUSION}.
+. {DEVELOP} {RESILIENT APPROACH} assure {BUSINESS CONTINUITY} {DISASTER RECOVERY}.
+ {CERTS} development . {DEVELOP} {CERTS} functions according {NIS DIRECTIVE} transposition {DECREE}.
+. {INCREASE} {CERTS} efficacy , particular, {NATIONAL} one towards corporate entities, including {SMES}, {PUBLIC ADMINISTRATION} {CERT} towards {PUBLIC ADMINISTRATION}.
+. find efficient approaches {SUPPORT} local {PUBLIC ADMINISTRATIONS}.
+. {SUPPORT} {EU} {INTERNATIONAL COOPERATION} among {CERTS} actively taking part {CSIRTS} {NETWORK} —{NIS DIRECTIVE}— {EU} {INTERNATIONAL} technological projects (see {AI} ).
+ procurement
+. define {PUBLIC ADMINISTRATIONS} {PURCHASING MECHANISMS} order guarantee {CYBERSECURITY}.
+. {IDENTIFY} {PROCUREMENT REGULATIONS} {PROCEDURES} {CYBER SECURE} {PUBLIC ADMINISTRATION} {SUPPLY CHAIN}.
+{ACTION} item
+updating {CYBERSECURITY LEGISLATION} managing {COMPLIANCE} {INTERNATIONAL LEVEL}
+uninterrupted growth persistent progress {ICT} solutions require continuous {UPDATES} high-paced {LEGISLATION} improvements order maximize {NATIONAL} {CYBERSECURITY}.
+ {LEGISLATION} {UPDATE} . share {PUBLIC ADMINISTRATIONS} {BEST PRACTICES} {COORDINATE} {LEGAL} {CYBERSECURITY CAPABILITIES}.
+. {ASSESS} current {LEGISLATION} {CYBER-SECURITY}, follow- latest technological developments evaluate {LEGISLATION} {UPDATES} taking account {INTERNATIONAL} {BEST PRACTICE}.
+. finalize {CRITICAL INFRASTRUCTURES} {NATIONAL} {LEGISLATION} bearing mind sectors covered {NIS DIRECTIVE}.
+. harmonize {NATIONAL} obligations {PUBLIC PRIVATE} operators simplify {INCIDENT} notification processes order maximize {EFFECTIVENESS} {CYBERSECURITY POLICIES}.
+. {PROMOTE} initiatives {EU} level {HARMONIZE LEGAL OBLIGATIONS} simplify processes mentioned {AI} .1d.
+ {NATIONAL} {LEGAL} framework
+. {UPDATE} {LEGAL} framework {CYBERSECURITY}, including {ACTIVITIES} related {CYBER OPERATIONS}, {COMPLIANCE} {EU LEGISLATION} {INTERNATIONAL LAW}.
+. introduce {LEGAL} provisions deployment tools aimed {DETECTING} {TACKLING} {CYBER THREATS}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {ATTRIBUTION} sanctions
+. {CREATE} {LEGAL} framework methodology {ATTRIBUTION} {SECURITY VIOLATIONS} ( related sanctions) {NETWORK} managers users.
+ {DIRECTIVE} ({EU}) {EUROPEAN} parliament council july concerning {MEASURES} high common level {SECURITY} {NETWORKS} {INFORMATION SYSTEMS} across union
+. {PROMOTE} dialogue {PRIVATE} operators order facilitate {NIS DIRECTIVE} transposition process.
+. {ASSESS} impact {NIS DIRECTIVE} {NATIONAL CYBERSECURITY ARCHITECTURE} order align {NATIONAL} {REGULATIONS}.
+. transpose {NIS DIRECTIVE} define implementation provisions unify new requirements concerning {CRITICAL INFRASTRUCTURES}.
+{ACTION} item
+{SECURITY PROTOCOLS} {STANDARDS} {COMPLIANCE}
+high levels {NETWORK} {INFORMATION SYSTEMS} {SECURITY} require {COMPLIANCE} {NATIONAL} {INTERNATIONAL} {STANDARDS} {PROTOCOLS}
+ standardization {COMPLIANCE}
+. {UPDATE} {NATIONAL} framework {INTERNATIONAL} ratified {STANDARDS} {BEST PRACTICES}.
+. {IDENTIFY} {UPDATE} basic {SECURITY} {MEASURES} {PUBLIC ADMINISTRATION} {CRITICAL INFRASTRUCTURES} {NETWORK} {INFORMATION SYSTEMS}.
+. {ADOPT} {STANDARDS}, {BEST PRACTICES}, minimum requirements order {ENHANCE} {SECURITY} {NETWORKS} {INFORMATION SYSTEMS} (including {AI} .1a .1b).
+. {ESTABLISH} validation audit {SYSTEM} {ORGANIZATIONS} responsible issuing {DIGITAL SECURITY} certificates.
+ reference documents . publish guidelines, {STANDARDS}, {BEST PRACTICES} {TAXONOMIES} order facilitate {INFORMATION SHARING}.
+ updating {CYBERSECURITY} management {PROGRAMS}
+. carry {REGULAR UPDATES} reviews {CYBERSECURITY} frameworks ( rules {PROCEDURES}).
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+ {ICT SECURITY CERTIFICATION}
+. manage {NATIONAL} framework {ICT} {CERTIFICATION} {UN}-{CLASSIFIED} {PRODUCTS} {SERVICES} {COMPUTER} {SECURITY CERTIFICATION} {ORGANIZATION} (organismo di certificazione informatica ocsi).
+. keep {NATIONAL} {SCHEME CERTIFICATION} {INFORMATION SYSTEMS} processes date.
+. {ENHANCE} operational {CAPABILITY} evaluation center ({CENTRO VALUTAZIONE} ), lab {TECHNICAL} {ASSESSMENT ICT PRODUCTS SYSTEMS} dealing {CLASSIFIED DATA}.
+. take part {ACTIVITIES} carried {INTERNATIONAL ORGANIZATIONS} managing mutual recognition {CERTIFICATION} {STANDARDS}.
+. {INCREASE} evaluation {COMPETENCES} {DIS}-ucse ({SECURITY INTELLIGENCE DEPARTMENT-CENTRAL OFFICE SECRECY}) issuing {SECURITY} certificates homologations {ICT SYSTEMS} managing {CLASSIFIED DATA}, including {ASSESSMENT} {PROCEDURES} {CLASSIFIED} {UNCLASSIFIED INFORMATION}.
+ {CYBER DEFENSE} {MEASURES} {ESSENTIAL SERVICE PROVIDERS} {CRITICAL INFRASTRUCTURES}
+. {TEST PROTECTION SYSTEMS} regular basis {TECHNICAL} procedural checks.
+. {ESTABLISH} independent control {SYSTEM} (eg. external audit).
+{ACTION} item
+{SUPPORTING} industrial technological development
+{SECURITY} {HARDWARE} {SOFTWARE} components, especially adopted {CRITICAL INFRASTRUCTURES} {NATIONAL STRATEGIC OPERATORS}, depends {SECURITY} {MEASURES} implemented entire value chain.
+ production, {INNOVATION} {TECHNOLOGICAL COOPERATION}
+. {STIMULATE} creation {SECURE} {RESILIENT} {SUPPLY CHAIN} {ICT} components, {SUPPORTED} flexible efficient evaluation, validation {CERTIFICATION} process.
+. {PROMOTE} {ICT INNOVATION}, potential {STIMULUS PACKAGE}, order {DEVELOP} {COMPETITIVE INDUSTRIAL BASE} {NATIONAL} {INTERNATIONAL LEVEL} facilitate creation vertical {SUPPLY CHAIN} based {SECURITY-BY-DESIGN}.
+. {ENHANCE} bilateral {MULTILATERAL COOPERATION} {PROGRAMS} order {IMPROVE} {NATIONAL} {RESEARCH} & development {EU} {INTERNATIONAL LEVEL}.
+ {NATIONAL} laboratory comparative analysis
+. facilitate creation governmental laboratory comparative analysis {ICT SYSTEMS} adopted {PUBLIC ADMINISTRATIONS} {CRITICAL INFRASTRUCTURES}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+{ACTION} item
+{STRATEGIC} {COMMUNICATION}
+{COMMUNICATION} occurred {CYBER-EVENT} consequences {STRATEGIC} value. {PUBLIC PRIVATE} {STAKEHOLDER} – public {AWARENESS} needed– share precise, correct, transparent {INFORMATION} without generating unnecessary alarms nor increasing economic social impacts.
+ {STRATEGIC} operational {COMMUNICATION} . {DEVELOP} {COORDINATION} {CAPACITY} {SITUATIONAL AWARENESS} order {INCREASE} {COMMUNICATION} efficiency, facilitate {RESPONSE} {REMEDIATION} {ACTIVITIES}, {ASSESS} dissemination public needed, {IDENTIFY} appropriate {COMMUNICATION} channels.
+{ACTION} item
+{RESOURCES}
+analysis {COSTS RELATED} {CYBER EVENTS} useful baseline financial planning {ALLOCATION RESOURCES}, since {RISK} relevance proportional {EVENT} probability impact. adequate {COSTS EVALUATION} can {SUPPORT} {INTERVENTION} {ACTIVITIES} specific {VULNERABILITIES} redirect {INVESTMENTS} within {PUBLIC PRIVATE SECTOR}.
+ financial planning
+. {IDENTIFY} priorities {BUDGET} related {CRITICAL INFRASTRUCTURES} {CYBERSECURITY} {CYBERDEFENSE} well {COSTS RELATED} development fundamental {CAPACITY} terms physical {RESOURCES} {HUMAN CAPITAL}.
+ evaluation {CYBER-EVENTS} relevant costs
+. {IDENTIFY} relevant {METRICS} evaluation {CYBER-EVENTS} economic impact ({DETECTION}, {REMEDIATION}, reputational damage, loss clients competitiveness, etc.).
+. analyze {CRITICAL INFRASTRUCTURES} interdependencies order {IMPROVE} evaluation {CYBER-EVENTS} economic impact case domino effect . . map {INCIDENTS} potential scenarios economic point view.
+ {PROMOTING} {EFFICIENT SPENDING}
+. implement efficient {CYBERDEFENCE} spending {MEASURES} {NATIONAL} (public, {PUBLIC-PRIVATE}) {INTERNATIONAL} ( cooperation {PROGRAMS}) level.
+ {HUMAN CAPITAL}
+. facilitate inter-{INSTITUTIONAL} coordinated {RECRUITMENT ACTIVITIES} specialized {RESOURCES} following {INTERNATIONAL} {BEST PRACTICES}.
+ {ITALIAN CYBERSECURITY ACTION PLAN}
+{ACTION} item
+implementing {NATIONAL} {CYBER RISK
+MANAGEMENT}
+{PROTECTION} {DATA} {AUTHENTICITY}, {INTEGRITY}, {CONFIDENTIALITY}, {AVAILABILITY} —main target {CYBER ATTACKS}— key task {PLAN}.
+ methodology
+. {ADOPT} {RISK} evaluation {MEASURES} {NATIONAL} level.
+. {IDENTIFY} unique agreed {CYBER-RISK MANAGEMENT} methodology {ESSENTIAL SERVICES}, {CRITICAL INFRASTRUCTURES} {NATIONAL} {STRATEGIC} {ACTORS}.
+. {ENGAGE} {RESEARCH} sector {ACADEMIA} {DEVELOPING} performing {RISK MANAGEMENT} tools.
