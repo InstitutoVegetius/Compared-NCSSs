@@ -1,0 +1,26 @@
+Process initiated!
+Input file set to '.\EE-2019\NCSS - EE [2019] (Strict).txt'
+Code file set to '.\EE-2019\NCSS - EE [2019] (Strict).coded.txt'
+Mark file set to '.\EE-2019\NCSS - EE [2019] (Strict).marked.txt'
+WordCount file set to '.\EE-2019\NCSS - EE [2019] (Strict).wct.xlsx'
+Mask set to '<{CAT}#{SUB}#{GRP}#{TRM}>'
+=> Case set to SENSITIVE
+=> Verbose set to OFF
+=> Processing 'CLEANING'
+=> Processing 'PREPARATION'
+=> Processing 'CLEANING'
+=> Text set to CODED
+=> Text set to LOWERCASE
+=> Processing 'STOPWORDS'
+=> Processing 'CLEANING'
+=> Marking set to ON
+=> Text set to CODED
+=> Processing 'EE'
+=> Processing 'GENERIC'
+Discarded token: 'uri=celex:52017jc0450&=en'
+Discarded token: 'uri=celex:&=en'
+Discarded token: 'c3%a4ljaandmise-traditsiooni-ajalugu-ja-eesm%c3'
+Discarded token: 'uri=celex'
+Discarded token: 'uri=join::fin&rid'
+Discarded token: 'rõbtšenkov'
+Normal termination!

@@ -1,0 +1,20 @@
+Process initiated!
+Input file set to '.\AU-2020\NCSS - AU [2020] (Strict).txt'
+Code file set to '.\AU-2020\NCSS - AU [2020] (Strict).coded.txt'
+Mark file set to '.\AU-2020\NCSS - AU [2020] (Strict).marked.txt'
+WordCount file set to '.\AU-2020\NCSS - AU [2020] (Strict).wct.xlsx'
+Mask set to '<{CAT}#{SUB}#{GRP}#{TRM}>'
+=> Verbose set to OFF
+=> Case set to SENSITIVE
+=> Processing 'CLEANING'
+=> Processing 'PREPARATION'
+=> Processing 'CLEANING'
+=> Text set to CODED
+=> Text set to LOWERCASE
+=> Processing 'STOPWORDS'
+=> Processing 'CLEANING'
+=> Marking set to ON
+=> Text set to CODED
+=> Processing 'AU'
+=> Processing 'GENERIC'
+Normal termination!

@@ -1,0 +1,22 @@
+Process initiated!
+Input file set to '.\NL-2018\NCSS - NL [2018] (Strict).txt'
+Code file set to '.\NL-2018\NCSS - NL [2018] (Strict).coded.txt'
+Mark file set to '.\NL-2018\NCSS - NL [2018] (Strict).marked.txt'
+WordCount file set to '.\NL-2018\NCSS - NL [2018] (Strict).wct.xlsx'
+Mask set to '<{CAT}#{SUB}#{GRP}#{TRM}>'
+=> Verbose set to OFF
+=> Case set to SENSITIVE
+=> Processing 'CLEANING'
+=> Processing 'PREPARATION'
+=> Processing 'CLEANING'
+=> Text set to CODED
+=> Text set to LOWERCASE
+=> Processing 'STOPWORDS'
+=> Processing 'CLEANING'
+=> Marking set to ON
+=> Text set to CODED
+=> Processing 'NL'
+=> Processing 'GENERIC'
+Discarded token: '<STAKEHOLDERS#GOVERNMENT##MINISTRY·EDUCATION,·CULTURE·SCIENCE>'
+Discarded token: '<STAKEHOLDERS#GOVERNMENT##MINISTRY·EDUCATION,·CULTURE·SCIENCE>'
+Normal termination!

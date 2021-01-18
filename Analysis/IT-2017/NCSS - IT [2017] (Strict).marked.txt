@@ -1,13 +1,13 @@
 
  {ITALIAN CYBERSECURITY ACTION PLAN}
 introduction
- {ITALIAN CYBERSECURITY ACTION PLAN} intended outline {ACTIONS} required meet guidelines set forth {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}.
+ {ITALIAN CYBERSECURITY ACTION PLAN} intended outline {ACTIONS} required meet {GUIDELINES} set forth {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}.
  updating {ACTION} {PLAN}, current document aims realizing major step toward full implementation {ITALIAN} {CYBERSECURITY SYSTEM}.
  {PLAN} outlines eleven {ACTION} items, together associated objectives implementing lines effort, required article .1c {PRIME MINISTER} {DECREE} february 17th guide-lines {CYBERSPACE} {PROTECTION} {NATIONAL SECURITY} .
  {PLAN} provides priority {MEASURES} correct deployment {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}, involving {CYBER-SECURITY} relevant {STAKEHOLDERS} pro-active iterative basis.
  {PLAN} reviewed {CISR} {MINISTRIES} (foreign affairs, interior/homeland {SECURITY}, {DEFENSE}, {JUSTICE}, {ECONOMY} finance, economic development) well {CYBER} delegates {AGENCY DIGITAL ITALY} {NATIONAL CYBERSECURITY MANAGEMENT BOARD} ({ESTABLISHED} within {PRIME MINISTER MILITARY ADVISOR OFFICE} february ).
 {NATIONAL STRATEGIC FRAMEWORK CYBERSPACE SECURITY}
-{STRATEGIC} guidelines
+{STRATEGIC} {GUIDELINES}
 . {STRENGTHENING} {NATIONAL} {CRITICAL INFRASTRUCTURES} {STRATEGIC} {PLAYERS} {DEFENSE} {CAPABILITIES}.
 . {IMPROVING} {CYBER ACTORS} technological, operational, {ANALYTIC} {CAPABILITIES}.
 . {ENCOURAGING} {PUBLIC-PRIVATE} cooperation.
@@ -65,7 +65,7 @@ regarding {PUBLIC SECTOR}, key institutions called upon take part systemic, cohe
  particular, new {NATIONAL CYBERSECURITY MANAGEMENT BOARD}, center {ITALIAN} {CYBERSECURITY} framework, aims facilitating {GOVERNANCE} simplification cutting {DECISION-MAKING} processes short rationalizing ordinary emergency {PROCEDURES}.
  {MINISTRY INTERIOR} ( particular, {NATIONAL ANTI-CRIME COMPUTER CENTRE PROTECTION CRITICAL INFRASTRUCTURE} {CNAIPIC}) plays key role {PROTECTING} {CRITICAL INFRASTRUCTURES} thanks {INVESTIGATIVE FORENSIC CAPABILITIES}.
  {ITALIAN CYBERSECURITY ACTION PLAN}
- {AGENCY DIGITAL ITALY} responsibilities equally relevant. {AGENCY} charge defining {SECURITY} guidelines {TECHNICAL} rules, {SETTING} {STANDARDS}, {MONITORING} quality public {NETWORKS} {SECURITY} {PUBLIC ADMINISTRATION} {ICT} {PROGRAMS}.
+ {AGENCY DIGITAL ITALY} responsibilities equally relevant. {AGENCY} charge defining {SECURITY} {GUIDELINES} {TECHNICAL} rules, {SETTING} {STANDARDS}, {MONITORING} quality public {NETWORKS} {SECURITY} {PUBLIC ADMINISTRATION} {ICT} {PROGRAMS}.
  {MINISTRY DEFENSE} (mod) developed specific {CYBER CAPABILITIES} — {PROTECT} {NETWORKS} {NATIONAL} {INTERNATIONAL}/operational level— significant {ASSET} {NATIONAL CYBERSECURITY MANAGEMENT BOARD} {IMPROVEMENT} process.
  {ACTION} {PLAN} aims {SUPPORTING} mod following initiatives:
 • creation {JOINT COMMAND CYBER OPERATIONS} charge mod {NETWORKS} {SYSTEMS} {PROTECTION}, {CYBER OPERATIONS}.
@@ -187,7 +187,7 @@ high levels {NETWORK} {INFORMATION SYSTEMS} {SECURITY} require {COMPLIANCE} {NAT
 . {IDENTIFY} {UPDATE} basic {SECURITY} {MEASURES} {PUBLIC ADMINISTRATION} {CRITICAL INFRASTRUCTURES} {NETWORK} {INFORMATION SYSTEMS}.
 . {ADOPT} {STANDARDS}, {BEST PRACTICES}, minimum requirements order {ENHANCE} {SECURITY} {NETWORKS} {INFORMATION SYSTEMS} (including {AI} .1a .1b).
 . {ESTABLISH} validation audit {SYSTEM} {ORGANIZATIONS} responsible issuing {DIGITAL SECURITY} certificates.
- reference documents . publish guidelines, {STANDARDS}, {BEST PRACTICES} {TAXONOMIES} order facilitate {INFORMATION SHARING}.
+ reference documents . publish {GUIDELINES}, {STANDARDS}, {BEST PRACTICES} {TAXONOMIES} order facilitate {INFORMATION SHARING}.
  updating {CYBERSECURITY} management {PROGRAMS}
 . carry {REGULAR UPDATES} reviews {CYBERSECURITY} frameworks ( rules {PROCEDURES}).
  {ITALIAN CYBERSECURITY ACTION PLAN}

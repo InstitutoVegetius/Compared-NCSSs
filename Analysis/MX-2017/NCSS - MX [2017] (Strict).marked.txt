@@ -1,0 +1,650 @@
+
+introduction
+considering {ACTIVITIES} performed {CYBERSPACE} impact
+tangible world, urgent {DEVELOP} framework reference {CYBERSECURITY},
+order {PROMOTE} technological economic {INNOVATION} {COUNTRY},
+contributing {STRENGTHENING} institutions full {COMPLIANCE} respect
+ {HUMAN RIGHTS}. {ENCS} {STRATEGIC} document {MEXICAN STATE} regarding
+{CYBERSECURITY}.
+ complexity transnational nature dynamics {DIGITAL ERA} involve
+need {ADDRESS} {CYBERSECURITY} comprehensive, collaborative, holistic cross-cutting manner. goal effort {ADDRESSING} phenomenon evolve
+ time, always focusing joint effort sectors.
+ {NATIONAL CYBERSECURITY STRATEGY} seeks contribute sustainable
+development {MEXICO}, based several guiding principles connection
+{CYBERSECURITY}:
+. {HUMAN RIGHTS} perspective
+. {RISK-MANAGEMENT} approach
+. multidisciplinary multi-{STAKEHOLDER} collaboration
+ first phase, {NATIONAL CYBERSECURITY STRATEGY} briefly {ADDRESSES} {INTERNATIONAL}
+context {CYBERSECURITY}, describing different {INTERNATIONAL} scenarios
+mechanisms, binding non-binding, related subject
+ {MEXICAN STATE} participates. purpose show relevance
+{CYBERSECURITY} {INTERNATIONAL} agenda, {COUNTRY} important {ACTOR}.
+later, {NATIONAL} context developed, indicating {DIGITAL} development
+{COUNTRY}, {TELECOMMUNICATIONS SECTOR} {INTERNET} users, well necessary
+references developed {MEXICO} regarding {CYBERSECURITY}.
+ main part document describes {STRATEGIC} objectives cross-cutting
+pillars. one hand, aforementioned {STRATEGIC} objectives constitute five
+realms protected general {ACTIONS} derived benefit {CIVIL
+SOCIETY}, {PRIVATE SECTOR}, {PUBLIC INSTITUTIONS} {ACADEMIC} {TECHNICAL}
+communities, bearing mind particularities {ACTORS}.
+together five {STRATEGIC} objectives, eight cross-cutting pillars proposed,
+ backbone {NATIONAL CYBERSECURITY STRATEGY}. will serve basis
+ development corresponding implementation {PLAN}.
+ {INSTITUTIONAL} framework considered, will part {CYBERSECURITY
+GOVERNANCE} {MODEL}. shows {GOVERNMENT} will {COORDINATE} issue
+{CYBERSECURITY} competent {AGENCIES}, cooperation
+participation channels multiple {STAKEHOLDERS} interested subject will
+{ESTABLISHED} future.
+{INTERNATIONAL} context
+ lack {CYBERSECURITY CULTURE} responsibility use {ICTS} can {CREATE}
+constant {RISKS} {THREATS} {CYBERSPACE}. {VULNERABILITY} {INFORMATION SYSTEMS} can
+seriously affect {PEOPLE}, {INFORMATION}, {ASSETS}, reputation even
+dignity. globalization hyperconnectivity demand solutions focused
+{INTERNATIONAL COLLABORATION} precise, efficient, {EFFECTIVE} manner.
+given complexity {SOCIETY} {DIGITAL AGE} challenges posed
+use {EXPLOITATION} {ICT} {INFORMATION} {SOCIETY}, important {RAISE} issue
+ {CYBERSECURITY} {INTERNATIONAL} context perspective. within {UNITED NATIONS}
+({UN}), {WORLD SUMMIT INFORMATION SOCIETY} ({WSIS}) promotes {PEOPLE}-centered
+vision, first two phases, carried , process
+reviewing implementation results,
+ {GROUP GOVERNMENTAL EXPERTS} ({GGE}) created analyze {THREATS},
+challenges dimensions {CYBERSECURITY}, well consolidate
+recommendations {GUIDELINES} peaceful use {ICTS}, application
+{INTERNATIONAL LAW} {CYBERSPACE}, voluntary {STANDARDS}, {MEASURES} promotion
+trust {STABILITY}, {STRENGTHENING} {NATIONAL} capacities. {MEXICO} part
+{GGE}.
+ {COMMISSION CRIME PREVENTION CRIMINAL JUSTICE} ({CCPCJ}) prepared study
+ {CYBERCRIMES}, seeks {STRENGTHEN} exchange experiences {GOOD
+PRACTICES} generate opportunities cooperation {TECHNICAL} assistance
+tactical operational {SUPPORT} states {CRIMINAL} uses {ICT}, including
+ {INTERNET}.
+ {WORLD SUMMIT INFORMATION SOCIETY}, geneva declaration principles, document {WSIS}-/geneva/- (may , ), paragraph , available :
+ resolution general assembly {UNITED NATIONS}, paragraphs .
+ resolution: developments field {INFORMATION} {TELECOMMUNICATIONS} context
+{INTERNATIONAL} {SECURITY}, available :
+informatizacion- and-{TELECOMMUNICATIONS}-in-the-{INTERNATIONAL}-{SECURITY}-context/
+ {UNITED NATIONS} office drugs {CRIME}, doha declaration - {REPORT} 13th {UNITED NATIONS}
+congress {CRIME} {PREVENTION} {CRIMINAL} {JUSTICE} (july ), see:
+ {INTERNET} {GOVERNANCE FORUM} ({IGF}) included {BEST PRACTICE} forums10
+{CYBERSECURITY ISSUES} since . {MEXICO} hosted {IGF} meeting ,
+{CYBERSECURITY} considered multifactorial phenomenon will key
+element sustainable development.
+ {INTERNATIONAL TELECOMMUNICATION UNION} ({ITU}) develops global {CYBERSECURITY}
+index, survey11 {MEASURES} commitment countries subject three
+categories. {MEXICO}, like countries, maturing stage
+countries leading stage.
+within framework {ORGANIZATION} economic co-{OPERATION}
+development ({OECD}) {DIGITAL ECONOMY} ministerial meeting,
+{PARTICIPATING} countries committed collaborating take advantage {DIGITAL
+ECONOMY} potential. regarding {CYBERSECURITY}, {MEXICO}, together
+countries, endorsed following factors:
+. {REDUCE} impediments {E-COMMERCE} within across borders
+. {DEVELOP} global {TECHNICAL} {STANDARDS} {ENABLE} {INTEROPERABILITY} {SECURE},
+stable, open, accessible {INTERNET}
+. {DEVELOP}, {DECISION-MAKERS}, {PRIVACY} {DATA} {PROTECTION} {STRATEGIES},
+emphasizing transparency {PUBLIC SECTOR}.
+ {INTER-AMERICAN DEVELOPMENT BANK} ({IDB}), {ORGANIZATION AMERICAN STATES}
+({OAS}) {GLOBAL CYBER SECURITY CAPACITY CENTRE} ({GCSCC}) {UNIVERSITY}
+oxford, published document {CYBERSECURITY}: ready latin america
+ caribbean?, places {MEXICO} low implementation level
+components {POLICY} {STRATEGY}, technologies.
+ {OAS}, {CYBERSECURITY PROGRAM} inter-american committee
+{TERRORISM} ({CICTE}), leads hemispheric platform {INTERNATIONAL COOPERATION}
+{TECHNICAL} assistance {CYBERSECURITY}. recently, {OAS} agreed creation
+working group {CONFIDENCE-BUILDING MEASURES} {CYBERSPACE}, seeks
+ {BEST PRACTICE} forums, available :
+ {INTERNATIONAL TELECOMMUNICATION UNION}, global {CYBERSECURITY} index (july , ), available :
+ {ORGANIZATION} economic co-{OPERATION} development, ministerial declaration {DIGITAL
+ECONOMY}: {INNOVATION}, growth social prosperity (june , ), available :
+ {INTER-AMERICAN DEVELOPMENT BANK} {ORGANIZATION AMERICAN STATES}, {CYBERSECURITY}:
+ready latin america caribbean? (march , ), available : https://{DIGITAL}- content will updated end , give space evaluate progress
+definition {ENCS}.
+{CREATE} tools take consideration {INTERNATIONAL} progress {UN GGE},
+ fora, adjusting needs {INTERESTS} region.
+ latin america, {DIGITAL} agenda latin america caribbean (elac)
+five implementation pillars. {GOVERNANCE} {INFORMATION} {SOCIETY} pillar
+highlights objective : promotion {SECURITY}, {PRIVACY}, {DATA} {PROTECTION} trust
+ use {INTERNET} objective : preventing {ADDRESSING} {CYBERCRIME}
+ {CYBERSECURITY STRATEGIES} {POLICIES}. {COORDINATE} among {RESPONSE} teams
+ local regional level {EVENTS}.
+within framework pacific alliance, {DIGITAL} agenda approved
+december following precept: {ENHANCE} cooperation {DIGITAL SECURITY}
+ {CONFIDENCE-BUILDING} use {ICTS} . agenda road map featuring
+four tracks: . {DIGITAL ECONOMY}; . {DIGITAL} connectivity; . {DIGITAL} {GOVERNMENT}, ; .
+{DIGITAL ECOSYSTEM}, seek {IMPROVE} competitiveness countries
+comprise {ICTS} promotion {DIGITAL ECONOMY}.
+ {WORLD ECONOMIC FORUM} ({WEF}), defines {RESILIENCE} {CYBERSECURITY} key
+conditions technological economic development. , council
+global {CYBERSECURITY} agenda published white paper detailing obstacles
+{PUBLIC PRIVATE SECTORS}, hinder collaboration adoption {BEST
+PRACTICES} {CYBERSECURITY}. addition, global {RISKS} {REPORT} identified
+massive {DATA THEFT} {CYBER-ATTACKS} {RISK} scenario year, pointing
+ challenge {EMERGING TECHNOLOGIES} terms {GOVERNANCE}.
+ case {INTERNET CORPORATION ASSIGNED NAMES NUMBERS} ({ICANN}),
+{ORGANIZATION} {SUPPORT} entities advisory committees working groups
+different topics, including {CYBERSECURITY}. {NATIONAL} {AUTHORITIES} {PARTICIPATE}
+governmental advisory committee; work related {SECURITY} issues
+management single {INTERNET} identifiers carried public safety
+working group19 aforementioned committee.
+ terms {INTERNET GOVERNANCE}, {CYBERSECURITY} discussed. addition work
+ {INTERNET} {GOVERNANCE FORUM} ({IGF}), {NATIONAL} regional efforts undertaken
+ multi-{STAKEHOLDER} community. {IGF} latin american caribbean regional
+ economic commission latin america caribbean, {DIGITAL} agenda latin america
+caribbean (elac2018), (august , ), available :
+ pacific alliance, cali declaration, (june , ), annex , paragraph , available :
+ ?wpdmdl=
+ {WORLD ECONOMIC FORUM}, global agenda council {CYBERSECURITY}, white paper, april , available
+:
+ {WORLD ECONOMIC FORUM}, global {RISKS} {REPORT} , january , available :
+ {INTERNET CORPORATION ASSIGNED NAMES NUMBERS}, gac public safety working group, available
+: +public+safety+working+group
+preparatory meeting (lacigf) arena different {ACTORS} touch {POLICY}
+issues related {INTERNET} regional perspective. held annually
+since local level dialogues {INTERNET GOVERNANCE},
+started .
+ {INTERNATIONAL} trend matter indicates {CYBER INCIDENTS} {ATTACKS}
+increasing frequency, degree affectation, sophistication. governments
+{BUSINESSES} globally recognize need robust {INFORMATION} {SECURITY}
+{CYBERSECURITY} frameworks, {MEASURES} capacities, well cooperation
+{INFORMATION EXCHANGE}, cope growing number {CYBER-ATTACKS}, {THREATS}
+ {RISKS} {CYBERSPACE}, well {PREVENTION} {RESPONSE} crimes
+committed {ICTS} {ICTS}.
+ context, {INTERNATIONAL TELECOMMUNICATIONS UNION} indicated several
+reports {CYBER-ATTACKS} {INCREASED} % , affecting
+million {PEOPLE} worldwide causing economic losses billion us dollars.
+ preparatory meeting {INTERNET} {GOVERNANCE FORUM} (lacigf), available :
+{NATIONAL} context
+ countries, use {INFORMATION} {COMMUNICATION} technologies
+{MEXICO} {INCREASED} recent years thanks development
+{TELECOMMUNICATIONS SECTOR}, promotion {PRIVATE} {INVESTMENT}, economic
+political {STABILITY} {INTERNATIONAL} sphere; addition {PUBLIC POLICIES}
+{INSTITUTIONAL} {LEGAL} framework favor {MEXICO} {DIGITALIZATION}.
+ widespread use different economic, political sociocultural factors
+ led fact {MEXICO}, according {DATA} {NATIONAL INSTITUTE
+STATISTICS GEOGRAPHY} ({INEGI}, short spanish): second quarter
+, % {POPULATION} aged six declared {INTERNET} user. %
+ {MEXICAN} {INTERNET} users younger years old. % households
+{COUNTRY} {INTERNET} connection. {INTERNET} use associated higher levels
+{EDUCATION}: {HIGHER EDUCATION} level, higher {INTERNET} use. {INTERNET} used mainly
+ means {COMMUNICATION}, obtain {INFORMATION} general consumption
+ audiovisual content. cellular phone users represent % {POPULATION} aged
+six years older, three every four users {SMARTPHONE}.
+within framework {NATIONAL DEVELOPMENT PLAN},
+{PROGRAM} approachable modern {GOVERNMENT}, {NATIONAL} {DIGITAL STRATEGY}
+ {ESTABLISHED} purpose {PROMOTING} {DIGITALIZATION} {MEXICO},
+{ACTIONS} : {DIGITAL} {GOVERNMENT}, open {DATA}, inclusion {DIGITAL SKILLS}, {HEALTH}
+{EDUCATION} {SERVICES} {ICTS}, use {ICTS} {FINANCIAL SERVICES}, among others.
+ important {STRENGTHEN} {CYBERSECURITY} {PUBLIC SERVICES}, mainly {DIGITAL}
+{PEOPLE} rights , carried without barriers, reliable {RESILIENT}
+manner, aim {STRENGTHENING} trust {ICT} use relationship
+{PUBLIC INSTITUTIONS}, among {PRIVATE SECTOR} {SOCIETY}
+ , {PRIVATE SECTOR} {REPORT} called {CYBERSECURITY ASSESSMENT} {MEXICO}:
+gaps recommendations hyper-connected world produced relevant
+findings :
+? need {NATIONAL} {CYBERSECURITY} {AGENCY} {COORDINATE} {STRATEGY}
+ defined, {CREATE} {CRITICAL} {GOVERNANCE} path
+ overview {INTERNET} access {ICTS} households. {INEGI}, . available :
+ last october, {MEXICAN} chamber {ELECTRONICS}, {TELECOMMUNICATIONS} {INFORMATION TECHNOLOGIES}
+(canieti), together {MEXICAN} {INFORMATION TECHNOLOGY} {INDUSTRY} association (amiti)
+{MEXICAN} {INTERNET} association, presented results study called {CYBERSECURITY ASSESSMENT}
+{MEXICO}: gaps recommendations hyper-connected world , {INFORMATION} available canieti
+{INTERNET} site:
+{INTERNET}, contribute {PROMOTING} certainty trust new
+{DIGITAL ECOSYSTEM}.
+? importance redefining {LEGAL} framework {CYBERSECURITY},
+harmonizing federal {STATE}-level {LEGISLATION}, guaranteeing {PROTECTION}
+{PERSONAL} {DATA} {STIMULATING} {INFORMATION SHARING}. framework {PROVIDE}
+{POLICE} forces adequate tools
+? guarantee {PROTECTION} {CRITICAL INFRASTRUCTURE}, especially {CYBER-RESILIENCE}
+ {RISK MANAGEMENT} approach clear mechanisms {PROTOCOLS}
+available {SYSTEM} recovery
+? development {SKILLS} {COMPETENCES} new {DIGITAL ECOSYSTEM},
+clearly defining new {SKILLS} will needed, {EXPANDING}, {DEVELOPING}
+{RECRUITING} best possible {TALENT}
+ hand, according study {PRIVATE SECTOR},
+important gaps {MEXICAN} {ORGANIZATIONS} : {INFORMATION} classification,
+{CYBERSECURITY} {METRICS}, {BUSINESS CONTINUITY} {TRAINING} {CYBER RESILIENCE}, well
+{VULNERABILITY} testing third parties :
+ addition, large {ORGANIZATIONS} greater perception {RISK};
+oriented towards {DIGITAL TRANSFORMATION}; aware {THREATS} need
+ act ; , , high perception can
+ violated. leads {ADOPT} {BEST PRACTICES} {CYBERSECURITY}.
+ among main findings, % {PARTICIPATING} {ORGANIZATIONS} consider
+ fairly prepared face {THREATS} % said {DIGITAL
+TRANSFORMATION} necessary success {BUSINESS} {STRATEGY}. %
+participants, areas {OPERATIONS}, finance brand reputation
+ impacted case {ATTACK}. % considers alarming
+{INCREASE} new complex {THREATS}, acting
+subject; % indicated average probability {DIGITAL}
+{ASSETS} will stolen damaged .
+ hand, order contribute {NATIONAL} goal {MEXICO}: {COUNTRY}
+ peace {NATIONAL DEVELOPMENT PLAN}, {FEDERAL POLICE},
+{SCIENTIFIC DIVISION}, responded {CITIZEN} complaints
+ {CYBER INCIDENTS}. nearly {FRAUDULENT} websites disabled
+ {CYBERSECURITY} alerts issued {PUBLIC PRIVATE
+INSTITUTIONS}.
+ {NATIONAL CYBERSECURITY STRATEGY} cross-cutting articulated
+{PROGRAMS} {STRATEGIES}, following provisions {NATIONAL}
+ see study {CYBERSECURITY ASSESSMENT} {MEXICO}: gaps recommendations hyper-connected world , {INFORMATION} available canieti website:
+{NATIONAL CYBERSECURITY STRATEGY}
+vision
+ {MEXICO} will {RESILIENT} {NATION} {RISKS} {THREATS} {CYBERSPACE},
+responsibly using potential {ICTS} sustainable development reliable
+environment .
+general objective
+ {STRENGTHEN} {CYBERSECURITY ACTIONS} applicable social, economic political
+spheres allow {POPULATION}, {PUBLIC PRIVATE ORGANIZATIONS} responsible use
+ {EXPLOITATION} {ICTS} sustainable development {MEXICO}.
+principles
+ {STRATEGY} considers following guiding principles:
+. {HUMAN RIGHTS} perspective
+ consider, different {CYBERSECURITY ACTIONS} promotion, respect
+fulfillment {HUMAN RIGHTS}, among {FREEDOM} expression, access
+{INFORMATION}, respect {PRIVACY}, {PROTECTION} {PERSONAL} {DATA}, {HEALTH},
+{EDUCATION}, work included
+. {RISK-MANAGEMENT} approach
+ ability handle uncertainty scenarios preventive
+corrective approaches, intention minimizing impact
+changing {THREATS} {RISKS} {CYBERSPACE}.
+. multidisciplinary multi-{STAKEHOLDER} collaboration
+ multidisciplinary collaboration approach different {STAKEHOLDERS}
+({ACTORS} sectors), {INTERNET GOVERNANCE} focus {CYBERSECURITY},
+{ENABLING} comprehensive, cross-cutting, holistic development
+{STRATEGY} facilitating open transparent participation.
+structure {NATIONAL CYBERSECURITY STRATEGY}
+ {NATIONAL CYBERSECURITY STRATEGY} document reflects general {ACTIONS}
+ must developed {MEXICAN STATE} whole; {CIVIL SOCIETY}, {ACADEMIA},
+{PRIVATE SECTOR}, {PUBLIC INSTITUTIONS}, achieve maximum benefit {ICTS}
+reliable {RESILIENT} environment translates benefits .
+ order fulfill general objective, {STRATEGY} proposes {STRATEGIC} objectives,
+ require development cross-cutting pillars articulated,
+interdependent contribute achieving {STRATEGIC} objectives.
+{ACTIONS} cross-cutting pillar will developed following guiding
+principles.
+ graphic follows presents structure {NATIONAL CYBERSECURITY STRATEGY}:
+{STRATEGIC} objectives
+. {SOCIETY} rights
+{CREATE} conditions {POPULATION} carry {ACTIVITIES} responsibly,
+freely, safe manner {CYBERSPACE}. {IMPROVE} quality life
+{DIGITAL} development, following {HUMAN RIGHTS} {STANDARDS}, respecting {FREEDOM}
+speech, {PRIVACY}, {PERSONAL} {DATA} {PROTECTION}, among others.
+ii. {ECONOMY} {INNOVATION}
+{STRENGTHEN} {CYBERSECURITY} {PROTECT ECONOMY} different sectors
+{COUNTRY} {PROMOTE} technological development {INNOVATION}. boost
+{NATIONAL} {CYBERSECURITY INDUSTRY}, order contribute economic
+development {INDIVIDUALS}, {PRIVATE ORGANIZATIONS}, {PUBLIC INSTITUTIONS},
+{SOCIETY}.
+iii. {PUBLIC INSTITUTIONS}
+{PROTECT} {INFORMATION} {COMPUTER} {SYSTEMS} {PUBLIC INSTITUTIONS} {ENSURE}
+optimal functioning continuity provision {SERVICES}.
+iv. public {SECURITY}
+{IMPROVE} capacities {PREVENTION} {INVESTIGATION} {CRIMINAL} {BEHAVIOR}
+{CYBERSPACE} affect {PEOPLE} {ASSETS}, aim maintaining
+order public peace.
+. {NATIONAL SECURITY}
+{DEVELOP} capacities {PREVENT} {RISKS} {THREATS} {CYBERSPACE} may alter
+{NATIONAL} {SOVEREIGNTY}, {INTEGRITY}, independence, impact development
+{NATIONAL INTERESTS}.
+crosscutting pillars
+et . {CYBERSECURITY CULTURE}
+ set values, principles {ACTIONS} defined terms {AWARENESS},
+{EDUCATION} {TRAINING} carried {STAKEHOLDERS}, impact way
+{SOCIETY} interacts {CYBERSPACE} moving towards harmonious reliable
+manner, factor sustainable development.
+{CYBERSECURITY CULTURE} will {PROMOTE} fulfillment {STRATEGIC} objectives,
+ development {PUBLIC POLICIES}, {STRATEGIES}, {PROGRAMS}, projects,
+{ACTIONS}, initiatives will:
+? contribute promotion, fulfillment, {PROTECTION} rights
+{INDIVIDUALS}, {PUBLIC PRIVATE ORGANIZATIONS}, emphasizing {PROTECTION}
+ children adolescents {CYBERSPACE} rights
+? {PROMOTE} responsible use {INFORMATION} {COMMUNICATION}
+technologies, harmonious coexistence harness development
+{ACTIVITIES} {CYBERSPACE}
+? {ENCOURAGE} {INNOVATION} {ECONOMY} sustainable development
+? {STRENGTHEN} {PREVENTION} {RISKS} {CRIMINAL} {BEHAVIOR} affect
+{INDIVIDUALS}, {PRIVATE} {PUBLIC ORGANIZATIONS}
+? {INCREASE} trust continuity {PUBLIC PRIVATE} {DIGITAL SERVICES}
+{PROCEDURES}
+? contribute {PREVENTION} {RISKS} affect {CRITICAL
+INFRASTRUCTURES} {INFORMATION} {OPERATION}
+et . {CAPACITY} development
+set {ACTIONS} aimed creation {STRENGTHENING} organizational
+capacities, {HUMAN CAPITAL} technological {RESOURCES} {CYBERSECURITY},
+allow {SOCIETY}, {ACADEMIA}, {PRIVATE SECTOR} {PUBLIC INSTITUTIONS}
+{RESOURCES} {MANAGE RISK} {THREATS} {CYBERSPACE}, well {INCREASE}
+{NATIONAL} {RESILIENCE}.
+ development capacities will aid fulfillment {STRATEGIC}
+objectives development {PUBLIC POLICIES}, {STRATEGIES}, {PROGRAMS},
+projects, {ACTIONS} initiatives :
+? {ENCOURAGE} development {HUMAN CAPITAL} {TRAINING} :
+. {CYBERSECURITY} specialists {PROFESSIONALS}
+ii. {PROFESSIONAL} leaders {CYBERSECURITY} drivers {STRATEGIES}
+{POLICIES}
+iii. {RESEARCH} development {PROFESSIONALS} {INDUSTRY}
+marketing {CYBERSECURITY}
+iv. {PROFESSIONALS} {INVESTIGATION} prosecution crimes committed
+ {ICTS}, well {ADMINISTRATION} delivery {JUSTICE}.
+? {ESTABLISH} {ORGANIZATION} prevail {PUBLIC PRIVATE
+SECTORS} order :
+. position {CYBERSECURITY} {STRATEGIC} level {PUBLIC PRIVATE
+ORGANIZATIONS}
+ii. {ESTABLISH} mechanisms {CITIZEN} participation {CYBERSECURITY}
+matters
+? generate necessary technological {INFRASTRUCTURE} :
+. {NATIONAL} technological development {CYBERSECURITY}
+gradual {STRENGTHENING} {CYBERSECURITY} {MEXICO}
+ii. {INCREASE} {TECHNICAL} capacities identification
+management {CYBER INCIDENTS} nationwide
+et . {COORDINATION} collaboration:
+ set {ACTIONS} aimed {COORDINATING} {ESTABLISHING} collaboration
+channels different {PUBLIC INSTITUTIONS}, {ACADEMIA}, {CIVIL SOCIETY}
+{PRIVATE ORGANIZATIONS} field {CYBERSECURITY}, different cross-cutting
+themes, order consolidate {CYBERSECURITY ECOSYSTEM} obtain
+{RESILIENT} {CAPACITY} needed {ESTABLISH} preventive, {PROACTIVE} reactive
+mechanisms will {PROVIDE} trust peace {POPULATION} use
+{EXPLOITATION} {ICTS}.
+ development {COORDINATION} collaboration {ACTIONS} will {SUPPORT}
+meeting {STRATEGIC} objectives implementation {ACTIONS} :
+? {STRENGTHEN} {INTERNATIONAL COOPERATION} collaboration
+? {IDENTIFY} {COORDINATION} cooperation mechanisms among
+different {ACTORS} involved {NATIONAL} level
+? define apply {CYBERSECURITY GOVERNANCE} {MODEL} among {CIVIL
+SOCIETY}, {PRIVATE SECTOR}, {ACADEMIA} {PUBLIC INSTITUTIONS} {SHARE
+INFORMATION} {BEST PRACTICES} {CYBERSECURITY}
+? {ESTABLISH} {PROTOCOLS} {COMMUNICATION} channels {STRENGTHEN}
+trust, reciprocity, {STIMULATE} social responsibility {ACTORS}
+et . {RESEARCH}, development {INNOVATION} {ICT}
+ set {ACTIONS} aimed {ESTABLISHING} mechanisms {PROMOTE} {RESEARCH},
+development {INNOVATION} use {EXPLOITATION} {CYBERSECURITY
+TECHNOLOGIES} order {PROMOTE} development {HUMAN CAPITAL}
+technological {INNOVATION} field boost {NATIONAL} {CYBERSECURITY}
+{MARKET} favors development capacities maturity
+{NATIONAL} ecosystem.
+ {ACTIONS} derived {RESEARCH}, development {INNOVATION} {ICT} will allow
+ consolidation {STRATEGIC} objectives creation new
+{MODELS} technology aimed minimizing {RISKS} {VULNERABILITIES}
+inherent technologies :
+? establishment {POLICIES}, {PROGRAMS}, {ACTIONS} initiatives trigger
+ consolidate {CYBERSECURITY ECOSYSTEM} {MEXICO}, among
+{ACADEMIA}, {CIVIL SOCIETY}, {PRIVATE SECTOR} {PUBLIC SECTOR}
+trigger {INNOVATION} {ICT} related {CYBERSECURITY}
+? promotion scientific technological {RESEARCH} stimulates
+development {CYBERSECURITY SKILLS}
+? promotion {NATIONAL} {CYBERSECURITY} {MARKET} favors technological
+autonomy {NATIONAL} level triggers {NATIONAL} {ECONOMY}
+sector.
+et . {STANDARDS} {TECHNICAL} criteria
+ set {ACTIONS} focused development, adoption
+{STRENGTHENING} {STANDARDS}, {TECHNICAL} standardization criteria
+{CYBERSECURITY}, admit homologation application {BEST
+PRACTICES} processes use adoption {ICTS} {CYBERSECURITY
+ENVIRONMENT}.
+ development {STANDARDS} {TECHNICAL} criteria will help fulfill
+{STRATEGIC} objectives :
+? establishment criteria, {STANDARDS} methodologies creation,
+use adoption {HARDWARE} {SOFTWARE} order {STRENGTHEN}
+{CYBERSECURITY ECOSYSTEM} {REDUCE} {RISKS} {VULNERABILITIES} inherent
+technology
+? definition reference frameworks {STRENGTHEN} {CYBERSECURITY}
+{PRIVATE} {PUBLIC ORGANIZATIONS}, {ACADEMIA} {SOCIETY} general
+? promotion participation {ACADEMIC}, {TECHNICAL} scientific
+community development {STRENGTHENING} {STANDARDS},
+methodologies standardization {CYBERSECURITY} matters
+? identification , appropriate, promotion use
+{INTERNATIONAL} {STANDARDS} {BEST PRACTICES} field {CYBERSECURITY}
+et . {CRITICAL INFRASTRUCTURES}
+ set {ACTIONS} aimed {ESTABLISHING} {ACTIONS} mechanisms necessary
+ minimize likelihood {RISKS} {VULNERABILITIES} inherent use {ICTS}
+ management {CRITICAL INFRASTRUCTURES}, well {STRENGTHEN}
+{RESILIENCE} {CAPACITY} maintain {STABILITY} {CONTINUITY SERVICES} case
+ {CYBERSECURITY INCIDENT}.
+ set {MEASURES} {ACTIONS} aimed {PROTECTING} {CRITICAL INFRASTRUCTURES} will
+help fulfill {STRATEGIC} objectives development {POLICIES},
+{HUMAN CAPITAL} development {PROGRAM} {ACTIONS} aimed :
+? establishment {POLICIES} {ACTIONS} will carried within
+ framework {NATIONAL} {CYBERSECURITY LAW} related
+applicable provisions matters {NATIONAL SECURITY} collaboration
+ {NATIONAL SECURITY} {AUTHORITIES}.
+et . {LEGAL} framework self-{REGULATION}
+ {PROMOTE} {ESTABLISH} {ACTIONS} mechanisms necessary alignment
+ {NATIONAL} {LEGAL} framework connected {CYBERSECURITY} self-{REGULATION}
+ {SERVICE} providers, permit holders, distributors {ICT} {SERVICES}, including
+modification order {PROVIDE} {LEGAL} certainty {ACTIONS} {INTERNET}
+intermediaries, {SOCIETY} general, facilitates use {EXPLOITATION}
+ {ICT} healthy coexistence {CYBERSPACE}.
+ {ACTIONS} aimed adapting {NATIONAL} {LEGAL} framework
+development self-regulatory mechanisms {DIGITAL ERA} {VITAL}
+development {DIGITALIZATION} world key {PREVENTION} {RISKS}
+ {THREATS} {INVESTIGATION} sanction {CRIMINALS} {DIGITAL ERA}.
+addition, key {STRENGTHENING} trust {SOCIETY}, {PRIVATE SECTOR}
+{PUBLIC INSTITUTIONS}.
+ will help fulfill {STRATEGIC} objectives :
+? development capacities {LEGAL} operators {DECISION MAKERS}
+ {PUBLIC PRIVATE INSTITUTIONS}, well {CIVIL SOCIETY}; {DIGITAL
+ECOSYSTEM}, {CYBERSECURITY} {INTERNET GOVERNANCE} analyze
+{PROPOSE} modifications legislative harmonization according
+needs {INFORMATION} {SOCIETY} enables facing {RISKS} {THREATS}
+{CYBERSECURITY}
+? {LEGAL} certainty {PUBLIC PRIVATE INSTITUTIONS} can carry
+tasks cooperative environment, {LAW ENFORCEMENT AGENCIES}
+{INCREASE} {EFFECTIVENESS} {INVESTIGATION}, {PREVENTION}, prosecution
+ sanction {CYBERCRIMINALS}
+? analysis establishment mechanisms self-{REGULATION}
+{PROCEDURES} favor construction trust among {INDIVIDUALS},
+{PUBLIC SECTOR} {PRIVATE ORGANIZATIONS} adhering {LEGAL} provisions
+? standardization harmonization {CRIMINAL} codes
+complementary {LAWS} relation {CYBERCRIMES}, well {LEGAL} tools
+available {LAW ENFORCEMENT AGENCIES} {PROSECUTE}
+et . {MEASUREMENT} {MONITORING}
+ set {POLICIES} {ACTIONS} aimed promotion development
+ approved {MEASUREMENT} mechanisms {MONITOR} results obtained
+ implementation {NATIONAL CYBERSECURITY STRATEGY} impact
+ social economic development {COUNTRY}, aim {IDENTIFY}
+areas opportunity continuous {IMPROVEMENT}.
+ development {MEASUREMENT} {MONITORING} mechanisms will help
+fulfillment {STRATEGIC} objectives creation statistics
+indicators :
+? joint collaboration {ACTORS} development methodology
+ construction {NATIONAL} diagnosis {RISKS} {THREATS} {CYBERSPACE}
+? establishment centralized statistics related implementation
+ impact {CYBERSECURITY STRATEGY} economic, political
+ social sectors
+? obtaining {DATA} continuous {IMPROVEMENT} updating
+{NATIONAL CYBERSECURITY STRATEGY}
+scope future
+ {NATIONAL CYBERSECURITY STRATEGY} document designed evolve according
+ needs {SOCIETY} around {CYBERSECURITY}, order {CAPACITY} adapt
+ continuously {IMPROVE} regarding challenges, {RISKS}, {THREATS} {VULNERABILITIES}
+inherent future technologies new social dynamic short, medium
+long term.
+ document reaffirms vision {CYBERSECURITY} enabler
+development potential {COUNTRY} {DIGITALIZATION} key piece
+sustainable development {MEXICO} world.
+ {RISKS} {THREATS} {CYBERSPACE}, techniques {MALWARE}
+{CRIMINAL} {BEHAVIOR} evolve –even faster {PUBLIC POLICY} {REGULATION} can {REACT}–
+ must prepared know temper possible {RISKS} technologies will
+bring.
+ {NATIONAL CYBERSECURITY STRATEGY} live document will set path
+development {CYBERSECURITY} {MEXICO}, comprehensive, cross-cutting
+holistic approach collaboration different {STAKEHOLDERS}, namely:
+{CIVIL SOCIETY}, {PUBLIC INSTITUTIONS}, {PRIVATE SECTOR} {TECHNICAL} {ACADEMIC}
+communities.
+{INSTITUTIONAL} framework
+ {NATIONAL} level, different {CYBERSECURITY} efforts underway {PUBLIC PRIVATE
+INSTITUTIONS}, well {TECHNICAL} {ACADEMIC} communities {CIVIL SOCIETY}.
+ {GOVERNMENT} republic, framework {INTERMINISTERIAL COMMISSION
+ DEVELOPMENT ELECTRONIC GOVERNMENT} (cidge, spanish), unanimously
+adopted creation {SUBCOMMITTEE CYBERSECURITY} october ,
+ chaired secretariat interior (segob, spanish) {NATIONAL
+COMMISSION SECURITY} ({CNS}, spanish), ({FEDERAL POLICE}/{SCIENTIFIC DIVISION}).
+among {MEMBERS} subcommittee various {AGENCIES} entities
+federal {PUBLIC ADMINISTRATION}. purpose {NATIONAL CYBERSECURITY STRATEGY}
+ comprehensive, holistic cross-cutting development federal
+executive {ENABLE} connection different interested {STAKEHOLDERS},
+say: {CIVIL SOCIETY}, {PRIVATE SECTOR}, {TECHNICAL} {ACADEMIC} communities {PUBLIC
+INSTITUTIONS} different powers different {GOVERNMENT} areas, including
+ autonomous {PUBLIC INSTITUTION}.
+among tasks, {CYBERSECURITY} subcommittee will responsible :
+? approving publicizing {STRATEGY}
+? following {COORDINATING} implementation {ENCS}
+collaboration different federal {PUBLIC ADMINISTRATION} (apf, spanish)
+{AGENCIES} entities
+ accordance article three, section iii nineteenth agreement, aims {CREATE}
+ {INTERMINISTERIAL COMMISSION DEVELOPMENT ELECTRONIC GOVERNMENT} permanent basis,
+published official gazette federation december , , third agreement
+minutes 18th ordinary session {INTERMINISTERIAL COMMISSION DEVELOPMENT ELECTRONIC
+GOVERNMENT}, october , , {SUBCOMMITTEE CYBERSECURITY} created, comprising
+following {AUTHORITIES}: . {SCIENTIFIC DIVISION} {FEDERAL POLICE}, presiding. . head
+technological {INNOVATION} {STRATEGY} unit office president republic. . {DIGITAL}
+{GOVERNMENT} unit ministry {PUBLIC ADMINISTRATION}, . holders {INFORMATION}
+{COMMUNICATIONS} technology units ministries interior, {ECONOMY}, {EDUCATION}, finance
+public credit, well head {INFORMATION TECHNOLOGY} {COMMUNICATIONS} unit attorney
+general office republic.
+ {CYBERSECURITY} subcommittee following objectives: () articulate efforts federal
+executive {CREATE} general criteria divisions entities federal {PUBLIC
+ADMINISTRATION} contribute generation {ENCS} follow general
+specific {ACTIONS} {DEVELOP} throughout {ADMINISTRATION}; (ii) {PROMOTE} participation
+collaboration {CIVIL SOCIETY}, {PRIVATE SECTOR}, {ACADEMIA}, {TECHNICAL} community {INTERNATIONAL
+ORGANIZATIONS} field {CYBERSECURITY}; {ESTABLISH} {ENCS} implementation {PLAN}, (iii) {PROPOSE}
+ {INSTITUTIONAL} {STRENGTHENING} entity responsible following {ENCS}.
+ {CYBERSECURITY} subcommittee following permanent guests: sedena, semar, sat, cnbv,
+profeco, {CONDUSEF}, ipn, conacyt, cenace, sre, ssa, stcns-opr, se-sipinna.
+? {PROMOTING} inter-{INSTITUTIONAL} collaboration cooperation schemes
+area {CYBERSECURITY}
+? {PROMOTING} collaboration cooperation different {STAKEHOLDERS}: {CIVIL
+SOCIETY}, {PRIVATE SECTOR}, {TECHNICAL} {ACADEMIC} communities
+{ENCS} implementation
+ {CYBERSECURITY} subcommittee will {ESTABLISH} working groups
+development cross-cutting pillars, will directly impact
+different {STRATEGIC} objectives.
+ working groups will integrate efforts, {ACTIONS} proposals different
+{ACTORS}, according capacities attributions.
+role {CYBERSECURITY} subcommittee {NATIONAL SECURITY}
+ sub commission will formal link {NATIONAL SECURITY} council,
+ specialized committee {INFORMATION} {SECURITY}.
+ {ACTIONS} needed comply {NATIONAL SECURITY} {STRATEGIC} objective must
+approved within {NATIONAL SECURITY} council, implementation will
+responsibility special committee {INFORMATION} {SECURITY}, {COORDINATION}
+ {CYBERSECURITY} subcommittee, jurisdiction.
+glossary
+{CRITICAL} {INFORMATION} {INFRASTRUCTURE} () (cii). {ESSENTIAL} {INFORMATION} {INFRASTRUCTURES}
+considered {STRATEGIC} related provision goods {ESSENTIAL} {PUBLIC
+SERVICES} whose disturbance compromise {NATIONAL SECURITY} terms
+applicable {LAW}. .
+{CYBER ATTACK}. {ACTION} carried {TELECOMMUNICATIONS} {NETWORKS}
+aim damaging {CRITICAL} {INFORMATION} {INFRASTRUCTURES}, {ESSENTIAL} {INFORMATION}
+{INFRASTRUCTURES} safety {PEOPLE}.
+{CYBER DEFENSE}. set {ACTIONS}, {RESOURCES} mechanisms {STATE} matters
+{NATIONAL SECURITY} {PREVENT}, {IDENTIFY} neutralize {CYBER THREAT} {CYBER-ATTACK}
+ affects {NATIONAL} {CRITICAL INFRASTRUCTURE}.
+{CYBER THREAT}. potential {RISK} related {VULNERABILITIES} {COMPUTER} {SYSTEMS}
+physical passive {INFRASTRUCTURE} public {TELECOMMUNICATIONS} {NETWORKS} might
+allow damaging processes / continuity {CRITICAL} {INFORMATION} {INFRASTRUCTURES},
+{ESSENTIAL} {INFORMATION} {INFRASTRUCTURES}, well safety {PEOPLE}.
+{CYBERCRIMES}. {CRIMINAL} {ACTIONS} use {INFORMATION} {COMMUNICATION} technologies
+ means end {CLASSIFIED} {CRIMINAL} code {NATIONAL}
+code.
+{CYBERSECURITY}. set {POLICIES}, controls, {PROCEDURES}, {RISK MANAGEMENT} methods
+{STANDARDS} associated {PROTECTION} {SOCIETY}, {GOVERNMENT}, {ECONOMY}
+{NATIONAL SECURITY} {CYBERSPACE} public {TELECOMMUNICATION} {NETWORKS}.
+{CYBERSPACE}. global {DIGITAL ENVIRONMENT} comprising {COMPUTER}
+{TELECOMMUNICATIONS} {NETWORKS}, {PEOPLE} communicate interact; allows
+{EXERCISE} rights {FREEDOMS} happen tangible world.
+{ESSENTIAL} {INFORMATION} {INFRASTRUCTURE} () (iie, spanish). {NETWORKS}, {SERVICES},
+{EQUIPMENT} facilities associated connected {INFORMATION} {ASSETS},
+{INFORMATION} {COMMUNICATIONS} technologies ({ICT}) operational technologies
+(ot), disturbance, interruption destruction major impact
+ {OPERATION} institutions.
+{ICT}. {INFORMATION} {COMMUNICATIONS} technologies include {COMPUTER}
+{EQUIPMENT}, {COMPUTER} {PROGRAMS}, {SERVICES} printing {DEVICES} used store,
+process, convert, {PROTECT}, transfer retrieve {INFORMATION}, {DATA}, voice, images
+video.
+{ICT} {ASSETS}. {COMPUTER} {PROGRAMS}, {COMPUTER} goods, technological solutions, {SYSTEMS}
+applications, components, {DATABASES} {ELECTRONIC} files {INFORMATION}
+contained therein.
+{INFORMATION}. set organized processed {DATA} included documents {ICT}
+{ASSETS}.
+{INFORMATION} {ASSET} (). {INFORMATION} means contain , , due
+importance value represents division entity federal {PUBLIC
+ADMINISTRATION} (apf, spanish), legislative judicial powers, autonomous
+constitutional organs, productive {ENTERPRISES} {STATE}, {STATE}, {MUNICIPAL}
+delegational governments, well {INDIVIDUALS}, must protected maintain
+{CONFIDENTIALITY}, {AVAILABILITY} {INTEGRITY}, according value granted .
+{INFORMATION} {SECURITY}. {CAPACITY} preserve {CONFIDENTIALITY}, {INTEGRITY} {AVAILABILITY}
+ {INFORMATION}, well {AUTHENTICITY}, auditability, {PROTECTION} duplication,
+non-repudiation legality.
+auditability. defines {EVENTS} {SYSTEM} must able
+recorded subsequent control.
+{AUTHENTICITY}. seeks {ENSURE} validity {INFORMATION} time, form
+distribution. guarantees origin {INFORMATION}, validating issuer
+ avoid {PHISHING}.
+legality. refers {COMPLIANCE} {LEGAL} framework institution
+ question subject.
+non-repudiation. refers preventing entity, body person, sent
+ received {INFORMATION}, contending third parties {INFORMATION}
+ not sent received //.
+{PROTECTION} duplication. consists {ENSURING} transaction
+made , unless otherwise specified, well preventing transaction
+ recorded later reproduction, order simulate multiple requests
+ original sender.
+{INTERNET}. set {TELECOMMUNICATION} {NETWORKS} offer {SERVICES} {DIGITAL}
+{COMMUNICATIONS} public {TELECOMMUNICATIONS} {NETWORK}.
+{NATIONAL} catalog {CRITICAL} {INFORMATION} {INFRASTRUCTURES}. list {CRITICAL} {INFORMATION}
+{INFRASTRUCTURES} different sectors {COUNTRY}.
+ot (operational technology). {HARDWARE} {SOFTWARE} detects creates change
+ control / {MONITORING} physical {DEVICES}, processes {EVENTS}
+institutions.
+{PERSONAL} {DATA}. {INFORMATION} concerning identified identifiable individual.
+reliability {INFORMATION}. {INFORMATION} generated adequate {SUPPORT}
+{DECISION-MAKING} implementation missions functions.
+{RISK}. possibility {THREAT} taking advantage {VULNERABILITY} causing loss
+ damage {ICT} {ASSETS}, {CRITICAL INFRASTRUCTURES} {INFORMATION} {ASSETS}.
+{THREAT} (). possible act may cause type damage {INFORMATION}
+{ASSETS} units entities apf, legislative judicial powers,
+autonomous constitutional bodies, {STATE} productive {ENTERPRISES}, {STATE},
+{MUNICIPAL} delegational governments, well {INDIVIDUALS}.
+{VULNERABILITIES}. weaknesses identified {CYBERSECURITY} within divisions entities
+ apf, legislative judicial powers, autonomous constitutional bodies,
+ {STATE} productive {ENTERPRISES}, {STATE}, {MUNICIPAL} delegational governments,
+ {INDIVIDUALS} potentially allow {THREAT} affect {ICT} {ASSETS}, {ESSENTIAL}
+{INFORMATION} {INFRASTRUCTURE}, well {INFORMATION} {ASSETS}.
+annex
+collaborative process
+towards {NATIONAL CYBERSECURITY STRATEGY}
+ process {DEVELOPING} {NATIONAL CYBERSECURITY STRATEGY} ({ENCS}, spanish)
+realized {SUPPORT} participation different {STAKEHOLDERS} {MEXICO}: {CIVIL
+SOCIETY}, {PRIVATE SECTOR}, {TECHNICAL} {ACADEMIC} community, {PUBLIC INSTITUTIONS}
+ three branches different tiers {GOVERNMENT}. dates discussions
+ subject conducted :
+? march , | launch {MEXICO} {CYBERSECURITY} campaign: c5,
+ecatepec, {STATE} {MEXICO}
+? april , | multi-{STAKEHOLDER} workshop collaboration
+{OAS}: ministry foreign affairs
+? may , | follow- meetings interested parties: office
+presidency republic
+? june , | multi-{STAKEHOLDER} workshop: tec de monterrey campus
+{MEXICO} city
+? july , | discussion forum: senate republic, {MEXICO} city
+? july , | multistakeholder workshop collaboration {OAS}:
+hotel fiesta americana reforma, {MEXICO} city
+? august , | discussion forum: memory tolerance museum, {MEXICO}
+city
+? september , | presentation study evaluación de la ciberseguridad
+en méxico: brechas recomendaciones en {UN} mundo hiper-conectado:
+canieti, {MEXICO} city
+? september , | workshop share {GOOD PRACTICES} {CYBERSECURITY}:
+federal institute {TELECOMMUNICATIONS}, {MEXICO} city
+? october , | creation cidge {CYBERSECURITY} subcommittee:
+{MEXICO} city
+? october , | first session cidge {CYBERSECURITY} subcommittee:
+{MEXICO} city
+? october , | {CYBERSECURITY} {PROTECTION} {PERSONAL} {DATA} discussion
+group. inai, {MEXICO} city
+? october , | cnbv forum {CYBERSECURITY} fortaleciendo la
+ciberseguridad para la estabilidad del sistema financiero mexicano: {MEXICO}
+city.
+? october , | second session cidge {CYBERSECURITY} subcommittee:
+{MEXICO} city
+? november , | 5th latin american meeting {CYBERSECURITY},
+{CYBERCRIMES} {CYBER} {FORENSICS}: unam-infotec-amdetic. {MEXICO} city.

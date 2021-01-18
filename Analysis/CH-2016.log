@@ -1,0 +1,20 @@
+Process initiated!
+Input file set to '.\CH-2016\NCSS - CH [2016] (Strict).txt'
+Code file set to '.\CH-2016\NCSS - CH [2016] (Strict).coded.txt'
+Mark file set to '.\CH-2016\NCSS - CH [2016] (Strict).marked.txt'
+WordCount file set to '.\CH-2016\NCSS - CH [2016] (Strict).wct.xlsx'
+Mask set to '<{CAT}#{SUB}#{GRP}#{TRM}>'
+=> Case set to SENSITIVE
+=> Verbose set to OFF
+=> Processing 'CLEANING'
+=> Processing 'PREPARATION'
+=> Processing 'CLEANING'
+=> Text set to CODED
+=> Text set to LOWERCASE
+=> Processing 'STOPWORDS'
+=> Processing 'CLEANING'
+=> Marking set to ON
+=> Text set to CODED
+=> Processing 'CH'
+=> Processing 'GENERIC'
+Normal termination!

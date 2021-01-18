@@ -1,34 +1,53 @@
 @echo off
-set _apphome="..\Application\Content Analysis\jar"
+rem set _apphome="..\Application\Content Analysis\jar"
+set _apphome="G:\Google Drive\Eclipse\Apps"
+set _au=0
 set _br=0
 set _ch=0
 set _de=0
 set _ee=0
 set _fr=0
 set _it=0
+set _jp=0
+set _mx=0
+set _nl=0
 set _uk=0
 set _us=0
 
 if "%1" == "" (
+   set _au=1
    set _br=1
    set _ch=1
    set _de=1
    set _ee=1
    set _fr=1
    set _it=1
+   set _jp=1
+   set _mx=1
+   set _nl=1
    set _uk=1
    set _us=1
 )
 
+if /I "%1"=="AU" (Set _au=1)
 if /I "%1"=="BR" (Set _br=1)
 if /I "%1"=="CH" (Set _ch=1)
 if /I "%1"=="DE" (Set _de=1)
 if /I "%1"=="EE" (Set _ee=1)
 if /I "%1"=="FR" (Set _fr=1)
 if /I "%1"=="IT" (Set _it=1)
+if /I "%1"=="JP" (Set _jp=1)
+if /I "%1"=="MX" (Set _mx=1)
+if /I "%1"=="NL" (Set _nl=1)
 if /I "%1"=="UK" (Set _uk=1)
 if /I "%1"=="US" (Set _us=1)
 
+if %_au%==1 (
+   echo Processing AU
+   %_apphome%"\RegexProcessor.jar" -i ".\AU-2020\NCSS - AU [2020] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "AU Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
+   @del AU-2020.log
+   @ren RegexProcessor.log AU-2020.log
+)
 if %_br%==1 (
    echo Processing BR
    %_apphome%"\RegexProcessor.jar" -i ".\BR-2020\NCSS - BR [2020] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "BR Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
@@ -68,6 +87,24 @@ if %_it%==1 (
    %_apphome%"\RegexProcessor.jar" -i ".\IT-2017\NCSS - IT [2017] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "IT Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
    @del IT-2017.log
    @ren RegexProcessor.log IT-2017.log
+)
+if %_jp%==1 (
+   echo Processing JP
+   %_apphome%"\RegexProcessor.jar" -i ".\JP-2018\NCSS - JP [2018] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "JP Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
+   @del JP-2018.log
+   @ren RegexProcessor.log JP-2018.log
+)
+if %_mx%==1 (
+   echo Processing MX
+   %_apphome%"\RegexProcessor.jar" -i ".\MX-2017\NCSS - MX [2017] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "MX Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
+   @del MX-2017.log
+   @ren RegexProcessor.log MX-2017.log
+)
+if %_nl%==1 (
+   echo Processing NL
+   %_apphome%"\RegexProcessor.jar" -i ".\NL-2018\NCSS - NL [2018] (Strict).txt" -r "ComparedNCSSs - Rules.xlsx" -s "NL Script.txt" -f "<{CAT}#{SUB}#{GRP}#{TRM}>"
+   @del NL-2018.log
+   @ren RegexProcessor.log NL-2018.log
 )
 if %_uk%==1 (
    echo Processing UK

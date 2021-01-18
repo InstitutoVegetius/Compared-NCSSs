@@ -1,0 +1,1579 @@
+
+. introduction
+. paradigm shift brought {CYBERSPACE}
+{CYBERSPACE}, {INTERNET} central part platform, rose rapid development
+ {DIGITAL TECHNOLOGY} based modern scientific {KNOWLEDGE}, continued {EXPAND}
+{DEVELOP} globally due autonomous initiatives multiple {STAKEHOLDERS},
+ many
+operate {PRIVATE SECTOR}.
+ result development, {CYBERSPACE} allowed {INFORMATION} {DATA}, diverse terms
+ volume quality, freely created, shared, analyzed across {NATIONAL BORDERS},
+unfettered either time space. thus, {CYBERSPACE} {ACTORS} can potentially generate new value
+interacting fellow {ACTORS}.
+ result characteristics, {CYBERSPACE} place {INTELLECTUAL PROPERTY},
+technological {INNOVATIONS} new {BUSINESS} {MODELS} can created, will continue serve
+platform sustainable development economic {SOCIETY}. space supports liberalism,
+{DEMOCRACY}, {CULTURAL} development, well place {PEOPLE} can utilize creation
+{INNOVATION} significantly {EXPAND} {ACTIVITIES}.
+ words, {CYBERSPACE} frontier
+generating infinite value. {JAPAN} will use means disposal undertake {CYBERSECURITY}
+initiatives order {ENSURE} {CYBERSPACE} remains way.
+ near future, development {COMPUTER SCIENCE} {CYBERSPACE}
+prerequisite, {ARTIFICIAL INTELLIGENCE} (hereinafter referred {AI} ), etc. expected lead
+ creation new {PRODUCTS} {SERVICES}. emergence new {PRODUCTS} {SERVICES} change
+peoples {AWARENESS} changing daily {BEHAVIOR} living environment, triggers
+transformation social {SYSTEMS} industrial {INFRASTRUCTURES} include existing {PROCEDURES},
+{MODELS}, {ORGANIZATIONS}, etc. humanity experiences paradigm shift hunting {SOCIETY},
+agricultural {SOCIETY}, industrial {SOCIETY}, {INFORMATION} {SOCIETY} {SOCIETY} ,
+ necessary
+ multiple {STAKEHOLDERS} defined {NATIONAL GOVERNMENT}, {LOCAL GOVERNMENTS}, cii operators, {CYBERSPACE}-related {BUSINESS}
+entities article {BASIC ACT CYBERSECURITY}. article act defines {CYBERSPACE}-related {BUSINESS} entities
+ {CYBERSPACE}-related {BUSINESS} entities (referring engaged {BUSINESS} regarding maintenance {INTERNET}
+advanced {INFORMATION} {TELECOMMUNICATIONS} {NETWORKS}, utilization {INFORMATION} {TELECOMMUNICATIONS} technologies,
+involved {BUSINESS} related {CYBERSECURITY}; applies hereinafter).
+ {CYBERSECURITY STRATEGY} {REPORT} (september ), impact characteristics {SOCIETY} compared explosion
+{KNOWLEDGE} triggered gutenberg invention letterpress printing.
+ {SOCIETY} 5th stage human history, following hunting {SOCIETY}, agricultural {SOCIETY}, industrial {SOCIETY}, {INFORMATION}
+{SOCIETY}. {SOCIETY} new value new {SERVICES} created continuously bringing wealth {PEOPLE} {SOCIETY}. (source:
+growth {STRATEGY} ({CABINET} decision june , ))
+examine future vision {CYBERSECURITY} whilst taking consideration transformations.
+. changes since
+ {CYBERSECURITY STRATEGY} (hereinafter referred {STRATEGY} ), enacted {CABINET}
+decision september deliberations {CYBERSECURITY STRATEGIC HEADQUARTERS}
+(hereinafter referred {HEADQUARTERS} ) according {BASIC ACT CYBERSECURITY}
+(hereinafter referred {BASIC ACT} ) created basic {POLICY} {CYBERSECURITY}-related
+{MEASURES} covering period three years.
+following formulation {STRATEGY} , {LEGAL} foundation utilization {DATA}
+prepared, including {BASIC ACT ADVANCEMENT PUBLIC PRIVATE SECTOR DATA
+UTILIZATION}
+ amended act {PROTECTION} {PERSONAL} {INFORMATION},
+ etc.
+{GOVERNMENT} adopted {POLICY} realizing anthropocentric {SOCIETY}
+ achieves
+economic development resolution social issues high level integration
+{CYBERSPACE} real space. circumstances, massive amounts {DATA} generated
+sensors {DEVICES} real space currently accumulated analyzed {CYBERSPACE}.
+furthermore, provision real space new {PRODUCTS} {SERVICES} adds value use
+ {DATA} can seen cyclically emerging {DEVELOPING} numerous domains. no longer
+{CYBERSPACE} real space exist independent entities, mutually interacting entities,
+ considered separate anymore. therefore, two spaces seen
+single continuously evolving organic entity.
+ unification {CYBERSPACE} real space significantly increases potential affording
+abundance {SOCIETY}. time, increases opportunities {MALICIOUS ACTORS}
+abuse {CYBERSPACE}. {RISK} economic social loss damage real space expected
+{EXPAND} {ACCELERATE} exponentially.
+ circumstances, {SECURITY} {CYBERSPACE}, serves foundation economic
+{SOCIETY}, must ensured, time, autonomously sustained evolution
+ {BASIC ACT} enacted november , . afforded {LEGAL} position concept {CYBERSECURITY} clarified
+responsibilities various {STAKEHOLDERS}.
+ act enacted december , . stipulates basic principles promotion {PRIVATE SECTOR} {DATA} utilization.
+ revised act enacted september , , came full effect may , . act {ESTABLISHED} {PROMOTE}
+{ANONYMIZATION} precondition utilization {PERSONAL} {INFORMATION}.
+ contents {SOCIETY} (source: comprehensive {STRATEGY} science, technology {INNOVATION} ({CABINET} decision june
+, ), {INVESTMENT} future {STRATEGY} ({CABINET} decision june , ).
+development ensured order achieve sustainable progress wealth {SOCIETY},
+recently, trend certain nations {RESPOND} {CYBER THREATS} emphasizing
+management control {STATE} dominant position. however, {STRENGTHENING}
+management control {CYBERSPACE} {STATE} effect hindering possibility
+autonomous sustainable development. thus, {CYBERSPACE} today developed
+ autonomous initiatives {STAKEHOLDERS} must respected, {CYBERSECURITY} must secured
+ collaborative cooperative initiatives {STAKEHOLDERS}.
+based {UNDERSTANDING}, mindful {STATE} affairs pursued beyond
+taking consideration hosting {INTERNATIONAL} {EVENTS} games xxxii
+olympiad tokyo paralympic games (hereinafter referred tokyo
+games ), {JAPAN} will spare no efforts regarding {CYBERSECURITY MEASURES} clarifying basic
+vision {CYBERSECURITY}, identifying new issues need tackled; swiftly implementing
+{MEASURES}.
+ {STRATEGY} clarifies basic position approach {CYBERSECURITY} taken {JAPAN} moving
+forward, clearly indicating domestically {INTERNATIONALLY} goals
+implementation {POLICIES} various {MEASURES} next three years order serve
+basis shared {UNDERSTANDING} {ACTION}.
+ sustainable development goals (sdgs) adopted {UNITED NATIONS} summit september {ESTABLISHED} goals
+achieving sustainable global {SOCIETY} {SOCIETY} nobody left behind. several points shared
+{POLICY} {CYBERSECURITY} initiatives sdgs, aiming sustainable development initiatives based
+cooperation collaboration {STAKEHOLDERS}.
+. {UNDERSTANDING} {CYBERSPACE}
+{KNOWLEDGE}, technologies, {SERVICES} {CYBERSPACE}, {AI}, {IOT},
+ {FINTECH},
+ {ROBOTICS}, 3d
+printers,
+ {AR}/{VR},
+ becoming {ESTABLISHED} {SOCIETY} leading {INNOVATIONS}
+transforming existing structures socio-economic {ACTIVITIES} daily lives {JAPANESE} {PEOPLE},
+ transformations bringing progress unification {CYBERSPACE} real space.
+ order {CREATE} {STRATEGY}, accurate {UNDERSTANDING} benefits afforded {CYBERSPACE}
+ {STATE} {THREATS} space must considered prerequisites. furthermore, order
+enjoy benefits {KNOWLEDGE}, technologies, {SERVICES} {CYBERSPACE}, {ESSENTIAL} control
+ latent uncertainties always therein. control not possible, potential exists
+{CYBERSECURITY RELATED THREATS} {INCREASE} rapidly.
+. benefits {CYBERSPACE}
+technologies {SERVICES} {CYBERSPACE} gaining routine use numerous domains.
+continued sustainable development {CYBERSPACE} expected bring abundance
+humanity.
+() advancements {SERVICES} {CYBERSPACE} adoption thereof {SOCIETY}
+ number {INTERNET} users {JAPAN} rising, spread {INTERNET} .
+furthermore, terms {DEVICES}, rate {PERSONAL} {SMARTPHONE} ownership {INCREASED}
+significantly,
+ {INTERNET} usage rate rising.
+ ratio {SOCIAL MEDIA} users
+rising,
+ result environment now exists easily communicating {CYBERSPACE}.
+ abbreviation {INTERNET THINGS}.
+ portmanteau combining words finance technology. refers new {INNOVATIVE} {FINANCIAL SERVICES} using {NEW TECHNOLOGIES}
+ {BLOCKCHAIN}, big {DATA}, {AI}, carried {DEVICES} {SMARTPHONES} {TABLETS} rapidly spread wide
+adoption (source: white paper {INFORMATION} {COMMUNICATIONS} {JAPAN}).
+ compared printers output flat (two dimensional) image paper, 3d printer forms three dimensional objects using three
+dimensional {DATA} 3d cad 3d cg (source: website {JAPAN} 3d printing industrial technology association)
+ abbreviations {AUGMENTED REALITY} {VIRTUAL REALITY}.
+ {STRATEGY} states physical objects {PEOPLE} real space become interconnected multi-layered manner without
+physical constraints, harnessing free flow {INFORMATION} accurate {DATA} {COMMUNICATIONS} {CYBERSPACE}. due
+linkages, emergence interconnected converged {INFORMATION} {SOCIETY} real space {CYBERSPACE}
+become highly integrated.
+ {INTERNET} penetration rate among general {POPULATION} (% end rose % end ) (source:
+white paper {INFORMATION} {COMMUNICATIONS} {JAPAN})
+ {PERSONAL} {SMARTPHONE} ownership rate (% end rose % end ) (source: white paper
+ {INFORMATION} {COMMUNICATIONS} {JAPAN})
+ {INTERNET} usage rate (% end rose % end ) (source: white paper {INFORMATION}
+ {COMMUNICATIONS} {JAPAN})
+ trend use rates representative sns {SERVICES} (line, {FACEBOOK}, {TWITTER}, mixi, mobage, gree) (total) (% end
+ increasing adoption {SERVICES} {CYBERSPACE} {SOCIETY} promoted not free flow
+ {INFORMATION}, formation diverse communities {SHARING INFORMATION}.
+ progress area financial {ACTIVITIES} well, including online shopping,
+stock trading, online banking, new {SERVICES} areas {FINTECH} sharing
+{ECONOMY}
+ appearing regularly leading {INNOVATION}. progress
+use {INFORMATION} {COMMUNICATION} technology medicine nursing, welfare, {EDUCATION}
+ areas related social issues declining working-age {POPULATION}
+aging local communities.
+() dramatic evolution {AI}
+ respect {AI}, recent advancements {COMPUTER SCIENCE}, {RESEARCH}
+ {MACHINE LEARNING} requires massive quantities {DATA}, giving rise new approach
+ {DEEP LEARNING}. emergence {DEEP LEARNING} accelerated optimization {INCREASE}
+ quality numerous functions socio-economic {ACTIVITIES}, including significant {INCREASE}
+ precision {AI} based image analysis, {INCREASED} precision {PRODUCT} anomaly {DETECTION},
+cancer diagnosis, {INVESTMENT} decisions, translation, technology beginning
+adopted wide range {INDUSTRIES}. similarly, area {CYBERSECURITY} potential {AI}
+ beginning see use various {MEASURES} automation {MALWARE} {DETECTION}.
+ evolution {AI} based {DEEP LEARNING} said bringing changes comparable
+ cambrian explosion world machines {ROBOTICS}.
+ {DEEP LEARNING} enabled
+design feature extraction
+ used differentiation identification, task previously
+ carried human {STANDARD} {MACHINE LEARNING}, carried automatically
+{COMPUTERS}, considered evolutionary step {AI}. furthermore, world {AI}
+ able autonomously generate output resulting creative works, music, paintings,
+ novels, self-driving {SERVICES} ( example results determination, {DECISION MAKING},
+ rose % end ) (source: white paper {INFORMATION} {COMMUNICATIONS} {JAPAN})
+ economic revitalization {ACTIVITIES} personally owned {ASSETS} can potentially used made available use
+{INDIVIDUALS} via online matching platforms (source: white paper {INFORMATION} {COMMUNICATIONS} {JAPAN})
+ cambrian explosion phenomenon phylum animals existing today arose suddenly million
+ million years ago. paleontologist andrew parker presented theory emergence vision caused explosion.
+{DEEP LEARNING} enables vision {AI}. enables {AI} predict will happen next take {ACTION}. thus, means emergence
+ machines eyes, suggests equivalent cambrian explosion will occur world machines {ROBOTICS}
+(source: {HEADQUARTERS} {JAPAN} economic revitalization, fourth industrial revolution conference {PROMOTE} {HUMAN
+RESOURCE} development (2nd meeting) document )
+ quantitative expression important characteristics requiring attention recognizing object. arrival {DEEP
+LEARNING}, features designed humans. however, {DEEP LEARNING} enables {COMPUTERS} carry feature extraction
+using image sound recognition. (source: white paper {INFORMATION} {COMMUNICATIONS} {JAPAN})
+ proposal) without creative contribution humans. possibility pointed
+ regarding responsible {AI} infringe rights cause accidents.
+ developments {AI} will lead emergence entirely new {PRODUCTS} {SERVICES},
+bring changes {PEOPLE} daily {BEHAVIOR} living environment future. will
+cause changes way humans perceive world, expected {PROMOTE}
+transformation existing social {SYSTEMS} industrial structures.
+() development {IOT}
+ reduction size, weight, cost sensors enabled explosive spread {IOT},
+ things become connected {NETWORK}. addition use things {HOME
+APPLIANCES}, automobiles, robots, smart meters, new {BUSINESSES} {SERVICES} created
+ utilize {DATA} obtained {IOT} {DEVICES}.
+specifically, efforts made {IMPROVE} productivity afford high added value
+areas e-{GOVERNMENT}, {SMART CITIES}, {MANUFACTURING}, {SELF-DRIVING AUTOMOBILES}, finance, {HEALTH}
+medicine, nursing,
+ utilization {DATA} expected progress various {SUPPLY
+CHAINS}
+ domains. furthermore, progress so-called open {INNOVATION}
+ cooperation occurs across domains via {CYBERSPACE}, new {SERVICES} expected
+emerge continuously generate abundance {PEOPLE} sharing analysis
+ {DATA}.
+. increasing {THREATS} {CYBERSPACE}
+ {AI} {IOT} technologies {SERVICES} potential bring many benefits {PEOPLE},
+ always latent {RISK} providers technologies {SERVICES} will lose
+ability control , case can cause immeasurable economic social loss
+ future, problem might arise whether users may held responsible user (human) involvement respect
+output {AI} {PRODUCT} decreases. {INTELLECTUAL PROPERTY} {STRATEGY} {HEADQUARTERS} committee review {INTELLECTUAL PROPERTY}
+regarding new {DATA}-related {ASSETS} ({REPORT}) (march ).
+ declaration world advanced {DIGITAL} {NATION} / basic {PLAN} advancement {PUBLIC PRIVATE SECTOR}
+{DATA} utilization ({CABINET} decision june , ) defines eight priority fields ({ELECTRONIC} {ADMINISTRATION}; {HEALTH}, medical,
+nursing care; tourism; finance; {AGRICULTURE}, forestry, fisheries; {MANUFACTURING}; {INFRASTRUCTURE}, disaster management, disaster
+reduction; mobility) expected help solve issues () economic revitalization {RESTORATION} financial {HEALTH}, ()
+regional revitalization, () {ENSURING} safety {SECURITY} lives {PEOPLE} {PROMOTING} {PUBLIC PRIVATE SECTOR} {DATA}
+utilization.
+ {SUPPLY CHAIN} refers flow goods {INFORMATION} {BUSINESS} {ACTIVITIES} upstream downstream, receiving
+ placing orders suppliers procurement materials inventory management {PRODUCT} delivery.
+ open {INNOVATION} refers intentionally proactively utilizing flow internal {RESOURCES}, technologies ideas,
+ {ORGANIZATION} {PROMOTE} internal {INNOVATION}, deploying resulting internal {INNOVATIONS} outside {ORGANIZATION}
+{INCREASE} {MARKET} opportunities.
+damage. unification {CYBERSPACE} real space proceeds, likelihood severe
+effects occur {INCREASE} exponentially. furthermore, {CYBERSPACE} place unrestricted space
+time anyone, including {MALICIOUS ACTORS}, can misuse abuse new {INFORMATION}
+{COMMUNICATION} technologies act ease. addition ability {MALICIOUS ACTORS}
+groups {ACTORS} easily copy distribute {DATA} {INFORMATION}, including {ATTACK} {PROGRAMS},
+ due nature {DIGITAL TECHNOLOGY}, can flexibly incorporate make
+free use {DEVELOPING} technologies {AI} {BLOCKCHAIN}.
+ reason, {ATTACKERS}
+ asymmetrical advantage defenders, advantage expected {INCREASE}
+particularly defender formation depends existing {POLICIES} technological {SYSTEMS}.
+given conditions, {ATTACKS}
+ directed {IOT}, {FINTECH} including cryptcurrencies, {CRITICAL
+INFRASTRUCTURE}, {SUPPLY CHAINS} occurred inside outside {JAPAN}, causing direct
+financial losses interruption {BUSINESSES} {SERVICES} addition usual {DATA} {BREACH},
+ serving threaten safety {SECURITY} sustainable development socio-economic
+{ACTIVITIES} {PEOPLE} living. massive {INCIDENTS} suspected
+{STATE-SPONSORED}. concern credibility {INFORMATION} {INFRASTRUCTURE} may
+shaken {CYBERSPACE} controlled managed countries superior position.
+ believed {CYBERSPACE} continues become unified real space, will
+{INCREASED} concerns potential attempts target weaknesses {IOT}, {SUPPLY CHAINS}, open
+{INNOVATION}, unintended {BEHAVIOR} occur {SYSTEMS}. expected serious
+impacts may occur not {GOVERNMENTAL BODIES} {CRITICAL INFRASTRUCTURE OPERATORS},
+ {BUSINESSES} even {INDIVIDUALS}.
+() major effects {SOCIETY} due interruptions {BUSINESS}, functions, {SERVICES}
+{SOCIETY} will significantly affected interruptions occur numerous {BUSINESSES}, functions,
+ {SERVICES} due interruption important infrastructural {SERVICES} unintended {BEHAVIOR}
+ {IOT} {DEVICES}, situations even {DEVELOP} point becoming {NATIONAL SECURITY}
+issues. unification {CYBERSPACE} real space continues progress , contingencies
+may occur {THREAT} safety {SECURITY} {PEOPLE} roots {DEMOCRACY}
+ {STATE}, including disabling functions {SOCIETY} {RISKS} human life livelihood.
+ referring {BLOCKCHAIN TECHNOLOGY}. uses {DATA} structure modification can detected easily using {DIGITAL SIGNATURES}
+ hash pointers. storing relevant {DATA} multiple nodes distributed throughout {NETWORK}, technology achieves high
+{DATA} {AVAILABILITY} {INTEGRITY}. (source: {JAPAN} {BLOCKCHAIN} association, {BLOCKCHAIN} definition )
+ bangladesh bank {HACKED}, resulting unauthorized wiring approximately million dollars. new type {MALWARE}
+({MIRAI}) emerged september , infecting {IOT} {DEVICES} cause largest {DDOS} {ATTACK} history. {CYBERATTACK} occurred
+ transformer stations {STATE} operated power {COMPANY} ukraine december .
+() reduced competitiveness due loss {BREACH} {INFORMATION}
+ explosive spread {IOT} increasing practice making {DATA} publicly available,
+new {SERVICES} use {DATA} will continue {INCREASE} number. will progress
+use {AI} {DATA} analysis. {DATA} used {DEEP LEARNING} directly related performance
+ {AI}. importance {DATA} continues {INCREASE}, damage {AUTHENTICITY}
+ {INTEGRITY}
+ {DATA} will undermine trust {SERVICES} use {DATA}.
+ addition subject claims compensation loss damages, {DATA} {BREACH},
+ {PERSONAL} {INFORMATION}, trade secrets, valuable {DATA}, can invite fall
+reputation trust {ORGANIZATION} {COMPANY} receives {SOCIETY}. breached, {DATA}
+can never taken back, can lead directly drop competitiveness {ORGANIZATION}
+ {COMPANY}.
+() loss financial {THEFT} {FRAUD}
+{INCIDENTS} occurred inadequacies basic {MEASURES} {CYBERSECURITY} led
+unauthorized access virtual currency exchange operators massive financial damages
+ {BUSINESS} {EMAIL} compromise. socio-economic {ACTIVITIES} expected grow
+ dependent {CYBERSPACE}, inadequacies {CYBERSECURITY MEASURES} predicted
+directly cause {EXPAND} financial damages losses.
+ characteristic ensures {ACTOR} resource claimed.
+ {INFORMATION} not damaged, modified, deleted.
+. visions objectives {STRATEGY}
+ visions objectives {STRATEGY} clarified {FIRM} maintenance {JAPAN}
+basic position {CYBERSECURITY}, light position, basic vision {CYBERSECURITY}
+ current {UNDERSTANDING} {CYBERSPACE} future image.
+. adherence basic position {CYBERSECURITY}
+{JAPAN} will adhere basic position {CYBERSECURITY} including objectives {BASIC ACT
+ CYBERSECURITY} basic ideas principles presented {STRATEGY} . basis,
+ order continue {DETER} {MALICIOUS ACTORS} {ACTIVITIES} guarantee {PEOPLE} safety rights,
+{JAPAN} retains, options, political, economic, technological, {LEGAL}, diplomatic,
+viable {EFFECTIVE} means.
+() objectives {BASIC ACT CYBERSECURITY}
+ {BASIC ACT} aims {IMPROVE} socio-economic vitality sustainable development,
+ {BUILDING} safe {SECURE} {SOCIETY} {PEOPLE}, contributing peace {STABILITY}
+ {INTERNATIONAL COMMUNITY} {NATIONAL SECURITY}.
+ {STRATEGY} arranges {POLICY} goals
+within three areas order {PROMOTE} {MEASURES} accordingly.
+() basic ideals
+ basic ideals {JAPAN} will adhere contribute objectives {BASIC ACT}
+aim free, fair {SECURE} {CYBERSPACE}. {CYBERSPACE} means {SECURE} {CYBERSPACE}
+ {FREEDOM} expression economic {ACTIVITIES} {ACTORS} active therein guaranteed
+without discrimination exclusion no justifiable reasons, unlawful
+{ACTIVITIES} {THEFT INFORMATION} {ASSETS} not allowed.
+() basic principles
+ five principles stipulated {STRATEGY} basic principles adhere
+{DEVELOPING} implementing {CYBERSECURITY MEASURES} : () assurance free flow
+{INFORMATION}; (ii) {RULE LAW}; (iii) openness; (iv) autonomy; () collaboration among
+multi-{STAKEHOLDERS}.
+ article {BASIC ACT} stipulates purpose act comprehensively {EFFECTIVELY} {PROMOTE} {CYBERSECURITY
+POLICY} . result, attempting {ENHANCE} economic social vitality, sustainable development realizing social conditions
+ {PEOPLE} can live sense safety {SECURITY}, contributing {PROTECTION} {INTERNATIONAL} peace {SECURITY}
+ well {NATIONAL SECURITY}.
+() assurance free flow {INFORMATION}
+ sustainable development {CYBERSPACE} place creation {INNOVATION},
+imperative build maintain world transmitted {INFORMATION} reaches intended
+recipient without unfairly censored illegally modified en route.
+ consideration
+{PRIVACY} must maintained. basic condition free flow {INFORMATION} {CYBER
+SPACE}, morality commonsense requested not offend rights {INTERESTS} others.
+(ii) {RULE LAW}
+ unification {CYBERSPACE} real space progresses, {RULE LAW}
+maintained {CYBERSPACE} way real space. various domestic rules {NORMS},
+including domestic {LAWS} {REGULATIONS}, applied {CYBERSPACE}. similarly, existing
+{INTERNATIONAL LAW} applied {CYBERSPACE}. application existing {INTERNATIONAL LAW}
+development {NORMS} continue {ESSENTIAL} sustainable development {CYBERSPACE}
+safe reliable space.
+(iii) openness
+ order achieve sustainable development {CYBERSPACE} space generate new values,
+{CYBERSPACE} must open {ACTORS} without restricting possibilities linking diverse ideas
+knowledges. {JAPAN} adheres position {CYBERSPACE} must not exclusively dominated
+ certain group {ACTORS} therein.
+(iv) autonomy
+{CYBERSPACE} developed autonomous initiatives multi-{STAKEHOLDERS}.
+inappropriate impossible {STATE} take entire role maintaining order
+{CYBERSPACE} sustainably {DEVELOP} space order creativity coexist.
+approach {DETER} {ADDRESS} {MALICIOUS ACTORS} {BEHAVIOR} maintain order {CYBERSPACE}
+various social {SYSTEMS} achieve missions functions autonomously. {GOVERNMENT}
+will {PROMOTE} approach.
+() collaboration among multi-{STAKEHOLDERS}
+{CYBERSPACE} multi-dimension world {ESTABLISHED} {ACTIVITIES} multi-{STAKEHOLDERS},
+ article {BASIC ACT} stipulates {ENSURE} free flow {INFORMATION} . simultaneously.
+ article {BASIC ACT} formation advanced {INFORMATION} {TELECOMMUNICATIONS} {NETWORK} {SOCIETY} stipulates
+ every {PEOPLE} opportunity easily independently use {INTERNET} advanced {INFORMATION}
+{TELECOMMUNICATIONS} {NETWORKS}.
+ article paragraph {BASIC ACT} stipulates promotion {CYBERSECURITY POLICY} must carried intent
+ {RAISE} {AWARENESS} {MEMBER} public {CYBERSECURITY} {ENCOURAGE} {MEMBER} public take voluntary
+{ACTIONS}.
+including {STATE}, {LOCAL GOVERNMENTS}, {CRITICAL INFRASTRUCTURE OPERATORS}, {CYBER}-related
+{BUSINESSES}, {EDUCATION} {RESEARCH} institutions, {INDIVIDUALS}. sustainable development
+ {CYBERSPACE}, {ACTORS} required consciously fulfill respective roles
+responsibilities. , {COORDINATION} collaboration required addition individual
+efforts. states role {PROMOTING} {COORDINATION} collaboration, will {PROMOTE}
+{MEASURES} {ENABLING} fulfillment roles.
+. basic vision {CYBERSECURITY} goal
+based {JAPAN} idea mentioned , following presents desired outcome
+{CYBERSECURITY} initiatives must aim three approaches required {PROMOTING} initiatives
+ basic vision {CYBERSECURITY}.
+() goal
+{JAPAN} aims realize {SOCIETY}
+ {CYBERSPACE} {DEVELOP} sustainably frontier generating
+infinite values, new values {SERVICES} generated continuously, bringing abundance
+ {PEOPLE}.
+ order contribute realization {SOCIETY}, {CYBERSPACE} must {DEVELOP}
+participation {ACTORS} generating new values. {SUPPORT} sustainable development,
+{ACTORS} required aware roles regard {CYBERSECURITY} implement
+{CYBERSECURITY} approaches autonomously, just like immune {SYSTEMS} living things.
+ perspectives, {GOVERNMENT} will implement following initiatives order
+{PROMOTE} {CYBERSECURITY} initiatives.
+specifically, will {PROMOTE} {PUBLIC PRIVATE SECTOR} initiatives {CYBERSECURITY} based three
+approaches (. mission assurance {SERVICE} providers; . {RISK MANAGEMENT}; . participation,
+{COORDINATION} collaboration) aim autonomous sustainable evolution
+development reliable {CYBERSPACE} realizing {SECURITY} economic development
+{CYBERSPACE}.
+ image {CYBERSPACE} evolving way autonomous initiatives {STAKEHOLDERS}
+mutually impacting will called {CYBERSECURITY ECOSYSTEM} compared
+ article paragraph {BASIC ACT} stipulates ({CYBERSECURITY POLICY}) must carried intent produce active
+responses {THREATS} {CYBERSECURITY} {COORDINATION} among multiple {STAKEHOLDERS}.
+ refers {SOCIETY} (sources: comprehensive {STRATEGY} science, technology {INNOVATION} (sti) ({CABINET} decision
+ june , ), growth {STRATEGY} ({CABINET} decision june , )).
+type ecosystem develops sustainably.
+() three approaches
+() mission assurance {SERVICE} providers
+reliable execution {OPERATIONS} {SERVICES}
+ mission assurance refers condition {ORGANIZATION} represented {COMPANIES},
+{CRITICAL INFRASTRUCTURE OPERATORS}, {GOVERNMENT BODIES} {UNDERSTAND} {OPERATIONS} {SERVICES}
+ carry missions, {ENSURE} necessary {CAPABILITIES} {RESOURCES}
+reliably execution missions. part assurance, {VITAL}, standpoint
+ {ORGANIZATION} carrying {OPERATIONS} {SERVICES} missions, responsible
+ {ORGANIZATION} proactively work towards securing {CYBERSECURITY} without relying
+experts.
+ words, means senior executives managers {ORGANIZATION}
+{IDENTIFY} {OPERATIONS} {SERVICES} represent missions take responsibility
+{SECURE} sustainable provision, rather making {CYBERSECURITY} initiatives
+goal.
+(ii) {RISK MANAGEMENT}
+{ASSESSMENT} uncertainty appropriate {RESPONSE}
+ {RISK MANAGEMENT} means minimize {RISKS} acceptable level identifying, analyzing,
+ evaluating {RISKS}
+ associated missions assigned {ORGANIZATIONS}. innate
+uncertainty {CYBERSPACE} unavoidably leads viewpoint.
+{RISK} defined effect uncertainty objectives,
+ measurable considering
+ {ESTABLISHED} objectives. therefore, evaluation {RESPONSE} {RISKS} differs depending
+objectives {ORGANIZATION}. furthermore, {RISK MANAGEMENT} defined
+ coordinated set
+{ACTIVITIES} methods used direct {ORGANIZATION} control many {RISKS} can
+affect ability achieve objectives, thus represents overall set {ACTIVITIES}
+{ADDRESSING} {RISKS} directing controlling {ORGANIZATIONS} appropriately distributing
+{ORGANIZATION} limited {RESOURCES}, not individual {ACTIVITIES} identifying, analyzing
+ evaluating {RISKS}.
+ note refers uncertainty positive negative aspects.
+ definition given {INTERNATIONAL ORGANIZATION STANDARDIZATION} ({ISO})
+ definition given {INTERNATIONAL ORGANIZATION STANDARDIZATION} ({ISO})
+ {ORGANIZATION} underestimates {RISKS} without acknowledging {OPERATIONS} {SERVICES}
+represent mission not allocate necessary {RESOURCES} {CYBERSECURITY}, may lead
+contingencies can threaten survival {ORGANIZATION}. hand,
+{RISKS} overestimated excessive {RESOURCES} allocated {CYBERSECURITY}, impede
+ execution {ORGANIZATION} {OPERATIONS} {SERVICES} sustainable growth.
+ approach {RISK MANAGEMENT} necessary , even {INDIVIDUALS}, enjoy
+benefits utilizing knowledges, technologies {SERVICES} {CYBERSPACE}.
+ enjoying benefits, common {RISKS} losing control prerequisite technologies
+{SERVICES} emerge. accordingly, since mechanical prediction not hold, impossible
+ eliminate {RISK} completely, need properly {ADDRESS} {RISKS} according nature
+ manifestation {RISK}, minimize {CYBERSECURITY RISKS} acceptable level
+counterbalance merits {SERVICES} {PRODUCTS} provided thereof.
+(iii) participation, {COORDINATION}, collaboration
+{MEASURES}, {COORDINATION} cooperation {INDIVIDUALS} {ORGANIZATION} peacetime
+ participation, {COORDINATION} collaboration applies fundamental initiatives implemented
+ {INDIVIDUALS} {ORGANIZATIONS} peacetime {PREVENT} damages escalation possibly
+caused {THREATS} {CYBERSPACE}. {ACTOR} operating {CYBERSPACE} may potentially {CREATE} new
+values benefits, may exposed {THREATS} emerging inherent {RISKS}.
+ standpoint, necessary not {ORGANIZATIONS} {PROVIDING} {SERVICES}
+{INDIVIDUALS} take day-to-day basic {CYBERSECURITY} efforts peacetime.
+specifically, includes {MEASURES} {PROTECT} malicious {PROGRAMS}, {MITIGATE
+}{VULNERABILITIES},
+ {SECURE} reliability certifications, manage {PERSONAL} {INFORMATION} properly,
+among things. initiatives often compared public {HYGIENE} {ACTIVITIES}
+{TRANSPORTATION} safety campaigns carried real space.
+however, {CYBERATTACKS} may occur anytime anywhere {THREATS} become daily
+concern, difficult {RESPOND} individual efforts alone, {PROACTIVE} {SUPPORT}
+{STAKEHOLDERS} including {ORGANIZATIONS}, required {STRENGTHEN} initiatives.
+ reason, necessary everyone work initiatives together, means
+must cooperate. addition working individual initiatives, necessary every
+individual {ORGANIZATION} involved {CYBERSPACE} {SHARE INFORMATION} mutually {COORDINATE}
+ {PEOPLE}, things, flaws {SERVICES} trigger {THREATS}.
+ collaborate regardless peacetime emergency situations. basic
+{CYBERSECURITY} efforts regarded new {CYBER HYGIENE}.
+accordingly, need {SUPPORT} {PUBLIC-PRIVATE PARTNERSHIP} {PROMOTE}
+fundamental initiatives. particularly, principle collaboration among multi-{STAKEHOLDERS} listed basic principles, {JAPAN} must proactively carry role
+{PROMOTING} collaboration {COORDINATION} daily basis.
+. {POLICY} approaches towards achieving objective
+ following targets {GUIDELINES} {POLICIES} scheduled implemented coming
+three years, delivering results {STRATEGY}. {POLICY} expected consistent
+following three approaches described {JAPAN} idea {CYBERSECURITY} basic vision
+{CYBERSECURITY}.
+. {ENABLING} socio-economic vitality sustainable development
+{ENTERPRISES} {IMPROVING} productivity {BUSINESS} active use {DIGITAL DEVICES},
+{PERSONAL} {COMPUTERS} {SMART PHONES}, {INTERNET}. technologies utilized
+introduce {BUSINESS} {INNOVATION}, leading-edge {SERVICES}, new values. {CYBERSECURITY
+MEASURES} regarded {INVESTMENTS} basis drive trends, rather
+unwanted costs. consistent {CYBERSECURITY MEASURES} bring industrial growth global
+competitiveness, {CRITICAL} {JAPAN} socio-economic vitality sustainable development.
+ {ADVANCING} {CYBERSECURITY} value creation driver
+{ENTERPRISES} will face even higher {CYBERSECURITY RISKS} along integration {CYBERSPACE}
+ real space. {CYBERSECURITY AWARENESS} increasing among industrial sectors larger
+{ENTERPRISES}. going forward, necessary industrial sectors spread {UNDERSTANDING}
+ {CYBERSECURITY} initiatives must carried {ENSURE} corporate {BUSINESS CONTINUITY}
+{CREATE} new value, {PROMOTE} initiatives.
+ , important {UNDERSTAND} {CYBERSECURITY} related {RISKS} one type {RISKS}
+{ENTERPRISES} facing {MEASURES} handled part {RISK MANAGEMENT}.
+addition, {MEASURES} take root {ORGANIZATIONS} naturally according situation
+ {INDUSTRY} {BUSINESS}.
+() {RAISING} executive {AWARENESS}
+ appears majority {BUSINESS} leaders still obsessed idea {CYBERSECURITY
+MEASURES} bring no profit {BUSINESS}. belief may come idea {CYBERATTACK}
+preparedness nothing unwanted cost, since {CYBERSPACE} supposed
+offered free without precaution, {CYBERATTACKS} damage {BUSINESS} seldom
+happen. use {CYBERSPACE} grows rapidly, however, {ENTERPRISES} {UNDERSTAND}
+{THREATS} exist precisely {FREEDOM} prepared . {ENTERPRISES} may
+find {CYBERSECURITY MEASURES} difficult {ADOPT} without {ORGANIZATION}-wide discussion define
+ importance. {RAISING} executive {AWARENESS} {ESSENTIAL} expected play
+evangelistic role penetrating thoughts {CYBERSECURITY MEASURES} indispensable
+{INVESTMENTS} {ENSURING} {BUSINESS CONTINUITY} value creation, not inevitable costs.
+specifically, senior executives expected actively {ENGAGE} {CYBERSECURITY}
+executive meetings acquire certain level {KNOWLEDGE} {SKILLS} {RISK
+MANAGEMENT} {CYBERSECURITY} affairs. however, requiring in-depth {TECHNICAL} {KNOWLEDGE}
+{SKILLS} senior executives may not quite realistic. therefore, {ENTERPRISES} need {SECURE} {HUMAN
+RESOURCES} ( {STRATEGIC} management level ) capable grasp {CYBERSECURITY RISKS}
+contexts management {BUSINESS} {STRATEGIES}, {PLAN} {CYBERSECURITY MEASURES} line
+executive {POLICIES}, lead {BUSINESS} {TECHNICAL} {PERSONNEL}. senior executives
+build appropriate {RISK MANAGEMENT} schemes entire {SUPPLY CHAIN}, covering
+ {CONTRACTOR} {ORGANIZATIONS}. senior executives accountable shareholders
+ benefits {RISKS} {BUSINESS} enabled {CYBERSPACE}.
+given situation, {GOVERNMENT} will work cooperation {PRIVATE SECTORS} discover
+ train {PERSONNEL} capable explaining discussing {CYBERSECURITY MEASURES}
+senior executives hosting seminars senior executives {PROMOTE} change thinking.
+ {GOVERNMENT} will {PROMOTE} {POLICIES} appeal importance {CYBERSECURITY MEASURES}
+ senior executives easy {UNDERSTAND} manner. {POLICIES} include encouragement
+ declarations regarding {COMPANY} initiatives development tools visualize {MEASURES}
+ make comparisons {MEASURES} taken similar {COMPANIES}. {GOVERNMENT} will work
+ {ACADEMIA} organize various {LEGAL} {SYSTEMS} {ENTERPRISES} refer
+implementing {CYBERSECURITY MEASURES}.
+() {STIMULATING} {CYBERSECURITY} {INVESTMENTS}
+corresponding managerial incentives important {ENSURING} {COMPANIES} implement
+{CYBERSECURITY} initiatives continuous basis. specifically, virtuous cycle desirable
+{CYBERSECURITY RISKS} associated {MEASURES} made visible including financial
+perspective, senior executives {UNDERSTAND} {STATE} affairs study implement
+specific {MEASURES} necessary, {MARKET} positively evaluates initiatives efforts lead
+ corporate value, incentives {CYBERSECURITY} {INVESTMENT} continuously generated.
+ end, important {COMPANIES} actively disseminate disclose {INFORMATION}
+regarding {CYBERSECURITY} initiatives. {GOVERNMENT} will {SHARE INFORMATION} {BEST PRACTICES}
+ {CREATE} {GUIDELINES} working continuous grasping evaluation {STATE}
+{INFORMATION} dissemination disclosure. addition, necessary go forward
+creation framework investors evaluate {CYBERSECURITY} initiatives corporate
+management.
+regarding {MEASURES} aimed {ENTERPRISES} {PROMOTE} {CYBERSECURITY}, {GOVERNMENT} will follow
+ use incentives {INVESTMENT} {CYBERSECURITY} function {EFFECTIVELY},
+consider required {MEASURES} necessary.
+furthermore, use insurance rise {RISK MANAGEMENT} approach {CYBERSECURITY}.
+ may make easier {PROMOTE} {INVESTMENT} cost preparing {RISKS} will
+clarified {SYSTEM} insurance premiums appropriately calculated according
+ implementation status {CYBERSECURITY MEASURES}. based {UNDERSTANDING},
+{GOVERNMENT} will consider {MEASURES} {PROMOTING} use insurance {CYBERSECURITY}
+cooperation {PRIVATE SECTORS}.
+() {ENHANCING} {CYBERSECURITY BUSINESS} {SUPPORTING} {INNOVATION} utilizing {ADVANCED
+TECHNOLOGY}
+ use {ADVANCED TECHNOLOGIES}, {IOT}, {AI}, {VR}, {BLOCKCHAIN}, next-generation
+{TELECOMMUNICATIONS} technologies, often {ESSENTIAL} {ENTERPRISES} {CREATE} new values.
+ time, use technologies presents new {VULNERABILITIES} previously not exist,
+ malicious use technologies may lead unexpected {RISKS}. reason,
+ expectations realizing high quality {PRODUCTS} {SERVICES} related {CYBERSECURITY}
+estimating {RISKS} beforehand including {CYBERSECURITY MEASURES} processes
+{CREATING} {PRODUCTS} {SERVICES} ({SECURITY DESIGN}). furthermore, initiatives will lead
+not {IMPROVED} trust {JAPAN} {PRODUCTS} {SERVICES}, {PROMOTING} overseas
+deployment high quality {INFRASTRUCTURE} {JAPAN} striving towards.
+meanwhile, due lack expertise {CYBERSECURITY}, may not possible {ENTERPRISES}
+move forward initiatives easily despite intent . addition, necessary
+ perspective {ENHANCING} {INTERNATIONAL} competitivity, avoiding reliance {SECURITY
+PRODUCTS SERVICES} {AUTHENTICITY} reliability difficult verify. therefore,
+ need {STRENGTHEN} {CYBERSECURITY BUSINESSES} {PROVIDE} specific solutions domestically.
+ meet needs, {GOVERNMENT} will {SUPPORT} challenges towards new value creation
+using {ADVANCED TECHNOLOGIES} not major {ENTERPRISES} venture {ENTERPRISES}.
+specifically, {GOVERNMENT} will work cooperation {PRIVATE SECTORS} analyze clarify
+{CYBERSECURITY RISKS} associated use {ADVANCED TECHNOLOGIES} prepare
+disseminate {GUIDELINES} based analysis clarification. addition, {GOVERNMENT} will
+{PROMOTE} {RESEARCH} development {RISK ANALYSIS} {THREAT} countermeasures {ADVANCED
+TECHNOLOGIES} required initiatives. important place concept {SECURITY
+DESIGN} foundation initiatives. {GOVERNMENT} will deliberate {BUILDING}
+{SYSTEMS} match {ENTERPRISES} aiming {CREATE} new values using {ADVANCED TECHNOLOGIES}
+providers {CYBERSECURITY TECHNOLOGIES} {SERVICES} {SUPPORT} use {ADVANCED
+TECHNOLOGIES}.
+furthermore, order {PROMOTE} {INTERNATIONAL} adoption {JAPAN} {PRODUCTS} {SERVICES}
+achieved high levels {CYBERSECURITY}, {GOVERNMENT} will {PROMOTE} benefits {PRODUCTS}
+ {SERVICES} sales promotion top {GOVERNMENT} officials trade shows. will
+work development {BUSINESS} environment facilitates {INTERNATIONAL} adoption
+taking strict {ACTION} {INTERNATIONAL COOPERATION} {MEASURES} inhibiting free trade
+ name {CYBERSECURITY}.
+ achieving {SUPPLY CHAIN} creates values diverse connections
+ unification {CYBERSPACE} real space accelerates, previously nonexistent trade
+different {INDUSTRIES} {ENTERPRISES} occurring global scale move towards {SOCIETY}
+. furthermore, diverse fluid forms go beyond traditional supply train emerging,
+ automation trade. given new forms, {CYBERSECURITY ISSUES} occur
+edge connections {SUPPLY CHAINS} potential spread broadly
+ cause massive negative effects not real space entire socioeconomic
+{ACTIVITIES}. {ESSENTIAL} aware {RISKS} {PROMOTE} initiatives take entire
+{SUPPLY CHAIN} consideration.
+() formulating {CYBERSECURITY} framework {SUPPLY CHAIN} {RISK}
+ {SUPPLY CHAIN} connections take diverse fluid forms, {ESSENTIAL} {ENSURING}
+{CYBERSECURITY} implement consistent {MEASURES} overall {SUPPLY CHAIN}. expected
+ quality {PRODUCTS} {SERVICES} will give rise new value creation
+implementations.
+specifically, {GOVERNMENT} will work cooperation {PRIVATE SECTORS} clarify {THREATS}
+ {SUPPLY CHAIN} formulate well disseminate frameworks cut across industrial
+categories implementing operational-level {MEASURES}. order {BUSINESS} operators
+including small medium-sized {ENTERPRISES} implement {MEASURES} easily, adequate
+consideration will given {ENSURE} contents {GUIDELINE} realistically
+feasible easy {UNDERSTAND}, light situation circumstances. important
+ {ENSURE} {BUSINESS} operators can aware balance {RISKS} costs
+countermeasures.
+ necessary offer specific {MEASURES} sector required {IOT} {DEVICES} {ORGANIZATIONS}
+ {AWARENESS} connections, areas requiring {PROTECTION}, differences {THREATS} related
+ {SUPPLY CHAIN} {INDUSTRY} sector. furthermore, {SUPPLY CHAIN} expands globally,
+ necessary reflect overseas trends development relevant rules {CYBERSECURITY
+MEASURES} based {JAPAN} {SECURITY} frameworks will recognized globally.
+() {BUILDING} {SYSTEM} confirm {CYBERSECURITY} {SUPPLY CHAIN}
+securing {TRUSTWORTHINESS} elements comprising {SUPPLY CHAIN} including {DEVICES}
+ {MANUFACTURED}, {DATA} generated distributed {DEVICES}, {SERVICES} use
+ {ESSENTIAL} securing {CYBERSECURITY} overall {SUPPLY CHAIN}. end, necessary
+ {GOVERNMENT} work clarify requirements build {SYSTEM} generates trust
+certifying requirements met. consequently element will created
+distributed way meets {SECURITY} requirements. necessary {GOVERNMENT}
+work {PRIVATE SECTOR} build {SYSTEM} {CREATE} manage list {DEVICES} {SERVICES}
+ {TRUSTWORTHINESS} proven suppliers {SUPPLY CHAIN} can verify
+{TRUSTWORTHINESS} using {DEVICES} {EQUIPMENT}. {GOVERNMENT} will consider {SYSTEM}
+ verify {TRACEABILITY} {SYSTEM} {DETECT} {PREVENT} {ATTACKS} generated trust
+ become continuous {SYSTEMS} within connections {SUPPLY CHAIN}.
+() {PROMOTING} initiatives small medium-sized {ENTERPRISES}
+ small medium-sized {ENTERPRISES} suffer financial damages decline trust due
+{CYBERATTACKS}, impact {OPERATIONS} can greater major {ENTERPRISES}.
+concerns small medium-sized {ENTERPRISES} can used footholds {EXPANDING}
+impacts {CYBERATTACKS} {COMPANY} {BUSINESS} {PARTNERS}. meanwhile, {CYBERSECURITY
+MEASURES} must promoted {UNDERSTANDING} small medium-sized {ENTERPRISES}
+not necessarily possess high level {KNOWLEDGE} {SKILLS} {CYBERSECURITY}, may difficult
+ adequately {INVEST} {CYBERSECURITY}.
+ reason, {GOVERNMENT} will prepare easy-to-{UNDERSTAND} case studies {CYBERSECURITY
+MEASURES} small medium-sized {ENTERPRISES} include {MODELS} safe use
+{INFORMATION SYSTEMS}, will {PROMOTE} use insurance {CYBERSECURITY}. {GOVERNMENT}
+will {STRENGTHEN} consultation {SYSTEM} small medium-sized {ENTERPRISES}
+{CYBERSECURITY INCIDENTS}. furthermore, {GOVERNMENT} will {PROMOTE} visibility initiatives
+cooperation {PRIVATE SECTORS} small medium-sized {ENTERPRISES} working
+{CYBERSECURITY} {PROMOTE} efforts public initiative. initiatives will
+include {SYSTEMS} {ENABLE} carry {CYBERSECURITY} efforts {EFFECTIVELY} coordinated
+ incentive {PROGRAMS}.
+ {BUILDING} {SECURE} {IOT} {SYSTEMS}
+ number {DEVICES} connected {CYBERSPACE} rapidly {EXPANDING}, {CYBERSECURITY
+MEASURES} {VULNERABLE} things, can negatively impact {CYBERSPACE} {ESSENTIAL
+INFRASTRUCTURE} development socio-economic {ACTIVITIES}, become urgent issue.
+furthermore, connections grow numerous things ({IOT} {DEVICES}) different safety
+{STANDARDS}, including {SECURITY} levels physical {SECURITY}, connections potential
+generate new {THREATS}. given situation, {GOVERNMENT} must work {PRIVATE SECTORS}
+build {SECURE} {IOT} {SYSTEMS}.
+() {IMPROVING} structural framework {IOT} {SYSTEMS} {INTERNATIONAL} {STANDARD}
+ date, {GOVERNMENT} worked {CYBERSECURITY MEASURES} {IOT} {SYSTEMS} together
+{PRIVATE SECTORS} carrying various initiatives realizing {SECURE} {IOT} {SYSTEMS}, including
+creation {GUIDELINES}. moving forward, necessary place emphasis value creation
+{SECURE} {IOT} {SYSTEMS}, work strategically integral consistent manner.
+ end, according basic elements
+ {CYBERSECURITY} required realize {SECURE} {IOT}
+{SYSTEMS} presented far {GOVERNMENT}, {GOVERNMENT} will cultivate shared
+{UNDERSTANDING} among {STAKEHOLDERS} basic principles, objectives, methods, time limits
+ {MEASURES}, clarify roles functions sector {STAKEHOLDER}. addition,
+{GOVERNMENT} will {PROMOTE} initiatives {STAKEHOLDER} cooperates {PROMOTING}
+autonomous {CYBERSECURITY MEASURES}. furthermore, {PROMOTE} initiatives, {GOVERNMENT}
+will work visualize issues associated initiatives {STAKEHOLDER} {PUBLIC
+PRIVATE SECTORS} manner provides overall picture, build {SYSTEM} {SHARING
+INFORMATION}. initiatives will include not sector-specific issues weighing {ACTORS}
+ {PUBLIC PRIVATE SECTORS} common issues scope, definitions, physical
+safety {MEASURES}, demarcation points responsibility (including {LEGAL} responsibilities
+{ACTOR} including {PRODUCT} liability {MANUFACTURERS} safety management obligations
+ operator, etc. {INCIDENTS} concerning {RESPONSE} known {VULNERABILITIES}), {PRIVACY}
+39a {SYSTEM} everything including home electrical appliances, automobiles, smart meters connected {INTERNET}
+ {NETWORKS}, making possible {PROVIDE} new {SERVICES} utilizing big {DATA}, etc. generates.
+ general framework {SECURE} {IOT} {SYSTEMS} (october , {CYBERSECURITY STRATEGIC HEADQUARTERS})
+issues. furthermore, {GOVERNMENT} will work cooperation {PRIVATE SECTORS} {PROMOTE}
+efforts {INTERNATIONAL} standardization basic elements {CYBERSECURITY} required
+realizing {SECURE} {IOT} {SYSTEMS} order {DEVELOP} value creation {SYSTEMS} {IOT} {SYSTEMS}
+deploy global scale utilizing {JAPAN} strengths safety {SECURITY} order
+contribute development global {ECONOMY} spreading {SECURE} {IOT} {SYSTEMS}.
+() preparing formation {VULNERABILITY} countermeasures
+ handle increasing seriousness {CYBERATTACKS} {IOT} {DEVICES}, important implement
+{MEASURES} {ENSURE} {SECURITY} {TRUSTWORTHINESS} {INFORMATION} {COMMUNICATION NETWORKS},
+ {COORDINATION} division roles {INDUSTRY}, {ACADEMIA}, {PUBLIC
+PRIVATE SECTORS}. reason, {GOVERNMENT} must work {PRIVATE SECTORS} prepare
+formation {CYBERSECURITY MEASURES} cover entire lifecycle {IOT} {DEVICES} design
+ {MANUFACTURING} {OPERATION} disposal, {MEASURES} regarding {VULNERABLE} {IOT}
+{DEVICES} {INFORMATION} {COMMUNICATION NETWORKS}.
+{CYBERSECURITY MEASURES} {IOT} {DEVICES} cover entire lifecycle implemented
+ full consideration {DEVICE} used relevant {CYBERSECURITY THREATS}
+ {STATE} overseas deliberations technology trends developments. addition,
+{MEASURES} taken mutual {UNDERSTANDING} {COORDINATION} {STAKEHOLDERS}
+ {IOT} {DEVICE} providers, {TELECOMMUNICATIONS} carriers, users. part ,
+{GOVERNMENT} will work {PRIVATE SECTORS} list {CYBERSECURITY} requirements {IOT} {DEVICE}
+based characteristics {ENCOURAGE} use {IOT} {DEVICES} meet requirements.
+furthermore, regarding {MEASURES} {VULNERABLE} {IOT} {DEVICES} {INFORMATION} {COMMUNICATION
+NETWORKS}, {GOVERNMENT} will steadily {IMPROVE} necessary {SYSTEMS} survey {IDENTIFY} {IOT}
+{DEVICES} use flawed password expeditiously warn users thereof {TELECOMMUNICATION}
+carriers. addition, implementing {MEASURES}, related ministries {GOVERNMENT} {AGENCIES}
+will work together {COORDINATE} {TELECOMMUNICATION} carriers {DEVICE} {MANUFACTURERS}.
+ future, {GOVERNMENT} intends contribute {ESTABLISHING} safe environment
+{IMPROVING} global {INFORMATION} {COMMUNICATION NETWORKS} taking {JAPANESE} {MEASURES}
+ {MODELS} {EXPANDING} overseas {INTERNATIONAL} {COORDINATION} standardization.
+. {BUILDING} safe {SECURE} {SOCIETY} {PEOPLE}
+ realization {SOCIETY} {PEOPLE} can live safely securely, important
+{ENSURE} multi-layered {CYBERSECURITY}, {COORDINATION} multi-{STAKEHOLDERS}, including
+{GOVERNMENTAL BODIES}, {LOCAL GOVERNMENTS}, {CYBER}-related {ENTERPRISES}, {CRITICAL INFRASTRUCTURE OPERATORS},
+{EDUCATIONAL} {RESEARCH} institutions, every {PEOPLE} .
+ particular, {OPERATIONS} {SERVICES} provided {GOVERNMENTAL BODIES}, {CRITICAL INFRASTRUCTURE
+OPERATORS}, {INDUSTRY} associations, {LOCAL GOVERNMENTS} (hereinafter referred {CRITICAL
+INFRASTRUCTURE OPERATORS} etc.) form foundation supports smooth socio-economic {ACTIVITIES}
+ {PEOPLE} living. given {UNDERSTANDING} impossible completely eliminate {RISKS}
+{CYBERSECURITY}, {GOVERNMENT} will {PROMOTE} initiatives based mission assurance approach
+declared basic vision {CYBERSECURITY} order {REDUCE} {RISKS} acceptable level
+{ENSURE} {OPERATIONS} {SERVICES} provided safely continuously.
+meanwhile, {JAPAN} preparing {NATIONAL} {INTERNATIONAL} sporting {EVENTS} rugby
+world cup tokyo games, can expected {PROVIDE} incentives
+{CYBERATTACKS} {MALICIOUS ACTORS}. thus, necessary {STAKEHOLDER} deal
+situation steadily carrying respective roles cooperating realize
+smooth implementation tokyo games {EVENTS} looking
+ahead future.
+ {MEASURES} {PROTECTION} {PEOPLE} {SOCIETY}
+ increasing {THREATS} {CYBERSPACE}, many {PEOPLE} developed feeling anxiety
+{CYBERCRIME}, leading {INCREASE} {AWARENESS} {CYBERSECURITY} throughout {SOCIETY}. given
+ conditions, {ESSENTIAL} {STAKEHOLDERS} autonomously {RAISE} {SECURITY} {AWARENESS}
+ work proactively {CREATING} environment multi-layered {CYBERSECURITY}
+ensured collaboration among {STAKEHOLDERS}.
+() {BUILDING} safe {SECURE} {CYBER ENVIRONMENT} users
+ {CYBERCRIME} {CYBERATTACKS} becoming sophisticated complex, types
+ {ATTACKS} diversifying, can no longer handled using traditional passive {MEASURES} ,
+ {PROACTIVE MEASURES} previously used must implemented.
+given situation, {GOVERNMENT}, cooperating {CYBER}-related {ENTERPRISES}, will {PROMOTE}
+ {POLICY} {PROACTIVE CYBER DEFENSE}
+ ensures {GOVERNMENT} implement active
+ initiative defends proactively {CYBERATTACKS}.
+preventive {MEASURES} {THREATS} {ADVANCE}. specifically, {GOVERNMENT} will work
+{PROMOTE} initiatives {PREVENT} damages {CYBERCRIME} {CYBERATTACKS} {PROMOTING}
+ sharing utilization {THREAT} {INFORMATION} {ENABLE} {PREEMPTIVE} {DEFENSE}, using technologies
+ induce {ATTACKS} collect {INFORMATION} {ATTACKERS}, {CONDUCTING} {MEASURES} {BOTNETS}.
+ {GOVERNMENT} will {PROMOTE} development dependable {INFORMATION} {INFRASTRUCTURE},
+including reinforcement {INTERNATIONAL} undersea cables {INFRASTRUCTURE} facilities,
+ will foundation overall {SERVICES} provided {GOVERNMENTAL BODIES} {CRITICAL
+INFRASTRUCTURE OPERATORS}, etc. {GOVERNMENT} will consider verify evaluation
+{TRUSTWORTHINESS} {IMPROVE} practice {GOVERNMENT} procurement {PRESS} forward
+ {MEASURES}.
+furthermore, {GOVERNMENT} will work providers {CRYPTOCURRENCY} {SERVICES} {PROMOTE}
+{MEASURES} {PEOPLE} may safely {ENGAGE} trading {CRYPTOCURRENCIES}. ,
+regard self-driving vehicles drones, {GOVERNMENT} will {PROMOTE} {MEASURES} avoid
+occurrence unauthorized {OPERATIONS} due {CYBERATTACKS} may cause {RISKS} human life.
+ regard self-driving vehicles particular, {GOVERNMENT} will continue take lead
+ ongoing debate {INTERNATIONAL FORUMS} establishment {INTERNATIONAL} {STANDARDS}
+ {CYBERSECURITY}.
+() {ENHANCING} {MEASURES} {CYBERCRIMES}
+ {CYBERSPACE} {INCREASINGLY} becomes part {PEOPLE} living, {CYBERCRIME} become serious
+social issue due occurrence global scale damages {RANSOMWARE} {INFECTIONS}
+cases unauthorized transmission large monetary amounts apparently carried
+ domestic {CRYPTOCURRENCY} exchange operators {MALICIOUS ACTORS}. order {ENSURE}
+safety {SECURITY} {PEOPLE}, {GOVERNMENT} will continue work grasp actual {STATE}
+ {CYBERCRIME} {PROMOTE} crackdown {CRIME} cooperating related
+institutions {ORGANIZATIONS} carrying public {AWARENESS} campaigns getting individual
+person {PROMOTE} autonomous {MEASURES} {CYBERCRIME}. furthermore, {IMPROVEMENT}
+investigative technological {CAPABILITIES} {ESSENTIAL} {ADDRESSING} new types
+{CYBERCRIME}.
+ end, {GOVERNMENT} continues {PROMOTE} thorough investigative {ACTIVITIES}, consideration
+ {NETWORK} bundles together {PERSONAL} {COMPUTERS} {DEVICES} become completely manipulable {ATTACKER}
+ result {VIRUS} {INFECTION} ( bots ). used maliciously acts {DDOS} {ATTACKS} spamming. (source: {INFORMATION}-technology
+promotion {AGENCY}, {JAPAN} (ipa), jouhou sekyuritii hakusyo ({INFORMATION} {SECURITY} white paper ))
+ type {MALWARE} (short {MALICIOUS SOFTWARE}) encrypts {DATA} demands {RANSOM}.
+ new {INVESTIGATIVE TECHNIQUES}, public {AWARENESS} campaigns {PREVENT} damages
+{CYBERCRIME}. purpose dealing {CRIME} advanced {INFORMATION}
+{COMMUNICATION} technologies used, {GOVERNMENT} will {STRENGTHEN} {DIGITAL FORENSICS
+CAPABILITIES}, {ENHANCING} technological prowess analyze latest {DIGITAL DEVICES}
+{MALICIOUS SOFTWARE}, {ADVANCING} comprehensive analysis predicting {THREATS} {CYBERSPACE}
+ unraveling {THREATS} technologically. {GOVERNMENT} will {PROMOTE} positive
+utilization {KNOWLEDGE} experience {PRIVATE} {ENTERPRISES}, {PERSONNEL} exchange
+{PUBLIC PRIVATE SECTORS}, countermeasures {CYBERCRIME} , light
+{INFORMATION SHARING}, {INFORMATION} analysis, {PREVENTION} damages due {CYBERCRIME}, {HUMAN
+RESOURCE} development, {PUBLIC PRIVATE SECTORS} collaborate .
+ {EVENT} {CYBERCRIME}, necessary {ENSURE} {TRACEABILITY} {CYBERSPACE} {INVESTIGATION}.
+ cooperation related {BUSINESS} operators {INTERNATIONAL COLLABORATION} {ESSENTIAL}
+, {GOVERNMENT} will implement necessary initiatives purpose. regarding
+appropriate preservation {COMMUNICATIONS} history {DATA LOGS} particular, {GOVERNMENT},
+ basis relevant {GUIDELINES},
+ will get related {BUSINESS} operators take appropriate
+{MEASURE}.
+ {PROTECTION} {CRITICAL INFRASTRUCTURE} {PUBLIC PRIVATE SECTOR} cooperation
+regarding {PROTECTION} {CRITICAL INFRASTRUCTURE}, {GOVERNMENT} implemented initiatives
+based set five {POLICY} groups {CYBERSECURITY POLICY} {CRITICAL INFRASTRUCTURE}
+{PROTECTION} (4th edition)
+ (hereinafter referred {CYBERSECURITY POLICY} ), based
+concept mission assurance {PROVIDE} {CRITICAL INFRASTRUCTURE} {SERVICES} safely
+continuously.
+ however, issue remains variations level {CYBERSECURITY
+AWARENESS} progress initiatives {CRITICAL INFRASTRUCTURE} sector. order solve
+ issues, necessary {RAISE} overall level {CYBERSECURITY}. accordingly,
+{GOVERNMENT} will work {PRIVATE SECTORS} {PROVIDE} {PROACTIVE} {SUPPORT} {STAKEHOLDER}
+works autonomous initiatives, including consideration {MODELS} {CYBERSECURITY
+MEASURES} regarding {CRITICAL INFRASTRUCTURE OPERATORS} limited management {RESOURCES}
+ difficult adequately {INVEST} {CYBERSECURITY}.
+ explanation {GUIDELINES} {PROTECTION} {PERSONAL} {INFORMATION} {TELECOMMUNICATIONS} {BUSINESS}.
+ {CYBERSECURITY STRATEGIC HEADQUARTERS} decision april ,
+ maintenance promotion safety principles, enhancement {INFORMATION SHARING} {SYSTEM}, enhancement
+{INCIDENT} {RESPONSE} {CAPABILITY}, {RISK MANAGEMENT} preparation {INCIDENT} readiness, enhancement basis cip.
+() primary initiatives based {CYBERSECURITY POLICY}
+ date, {GOVERNMENT} formulated revised {CYBERSECURITY POLICY} {PROTECTION}
+ {CRITICAL INFRASTRUCTURE}, will continue implement initiatives based {CYBERSECURITY
+POLICY}. {CYBERSECURITY POLICY} scheduled review following tokyo games.
+however, will reviewed even prior scheduled date necessary, major
+changes direction {SOCIETY}.
+{CRITICAL INFRASTRUCTURE} sectors designated perspective particularly requiring
+{PROTECTION} consideration degrees impact {PEOPLE} living socio-economic
+{ACTIVITIES}. view social conditions, {GOVERNMENT} will {EXPAND} scope {CRITICAL
+INFRASTRUCTURE} sectors operators {DEVELOP} scope {SECURITY} initiatives {STRENGTHEN}
+ {PROTECTION} plane, necessary. time, will {PROMOTE} initiatives {SHARE
+INFORMATION}, {EXPAND} {ENHANCE} {INFORMATION SHARING} {SYSTEMS}.
+furthermore, active involvement senior executives officials {CRITICAL INFRASTRUCTURE
+OPERATORS} {ESSENTIAL} {PROMOTE} initiatives {PROTECTING} {CRITICAL INFRASTRUCTURE}. accordingly,
+{GOVERNMENT} will reach senior executives {RAISE} {AWARENESS} {CYBERSECURITY}
+{PROMOTING} following initiatives.
+() promotion {RISK MANAGEMENT}
+ necessary {PROVIDE} {CRITICAL INFRASTRUCTURE} {SERVICES} safely continuously even
+{CYBERATTACKS}. reason, addition implementing {SECURITY} {MEASURES} {ADVANCE},
+important {CRITICAL INFRASTRUCTURE OPERATORS} prepare {BUSINESS CONTINUITY PLANS} ({BCP})
+{CONTINGENCY PLANS} based concept mission assurance, light results {RISK
+ASSESSMENT} cross-organizational complex {RISKS} mind. {GOVERNMENT} will
+implement initiatives {ENSURE} overall {RISK MANAGEMENT} {ACTIVITIES} function
+continuously {EFFECTIVELY}.
+(ii) {IMPROVEMENT} promotion safety principles
+ order {PROMOTE} appropriate handling {CRITICAL INFRASTRUCTURE OPERATORS}, {GOVERNMENT} will
+work promotion {GUIDELINES} preparation safety principles,
+continuously {PROMOTING} initiatives {IMPROVE} safety principles including
+{RECOMMENDATION METHODS} {DATA} management reduction {RISKS} due human factors
+based surveys current {STATE} {DATA} management relevant {INTERNATIONAL} trends,
+taking consideration matters content {BUSINESS}, size {ORGANIZATIONS},
+ duration {SYSTEM} use, impact {INTERNATIONAL} competitivity. furthermore,
+standpoint maintaining safety, {GOVERNMENT} will appropriately {IMPROVE} {INSTITUTIONAL}
+frameworks means positioning {CYBERSECURITY MEASURES} safety {REGULATIONS} within
+related {LAWS} {REGULATIONS}, etc.
+(iii) {NISC} {CYBER INCIDENT} severity scale cis outages
+according recent trends {CYBERATTACKS}, necessary {ENABLE} {STAKEHOLDERS},
+{GOVERNMENTAL BODIES} {CRITICAL INFRASTRUCTURE OPERATORS}, quickly share {UNDERSTANDING}
+ determine whether rapid {RESPONSE} necessary {CYBERATTACK} detected. end,
+ {GOVERNMENT} will prepare {NISC} {CYBER INCIDENT} severity scale cis outages
+evaluate publish severity {INCIDENTS} {ENCOURAGE} {ENABLE} diverse {STAKEHOLDERS}
+{RESPOND} rationally appropriately taking consideration effect impact
+thoroughly informing public. {GOVERNMENT} will review scale appropriate
+{IMPROVE} .
+(iv) joint {TRAINING} {EXERCISES} {PUBLIC PRIVATE SECTORS}
+ important {CONDUCT} {TRAINING} {EXERCISES} assumption occurrence {SERVICE}
+outages {INCREASE} {CAPABILITIES} {CRITICAL INFRASTRUCTURE OPERATORS} can {RESPOND}
+ situations appropriately. {GOVERNMENT} related institutions will continue
+implement {TRAINING} {EXERCISES} among {STAKEHOLDERS} various sizes across {PUBLIC PRIVATE
+SECTOR} boundaries, {EXPAND} scope {IMPROVE} contents thereof necessary
+continued development.
+() {SECURITY} {MEASURES} {INDUSTRIAL CONTROL SYSTEMS} ({ICS})
+ {CRITICAL INFRASTRUCTURE OPERATORS} sectors electricity, gas, oil use
+{INDUSTRIAL CONTROL SYSTEMS} ({ICS}) {PROVIDE} {SERVICES}. cases, likely normal {SERVICE}
+provision becomes impossible {ICS} significantly affected {CYBERATTACKS}
+like, causing major impact {PEOPLE} living. accordingly, {PUBLIC PRIVATE SECTORS} will unite
+ {PROMOTE} {HUMAN RESOURCE} development regarding {ICS} carry collection, analysis,
+deployment {THREAT} {INFORMATION} appropriate adequate {SECURITY} {MEASURES} based
+characteristics {ICS} will implemented safe continuous provision {SERVICES}.
+() {STRENGTHENING} {ENHANCING} {SECURITY} {LOCAL GOVERNMENTS}
+ {SERVICES} provided {LOCAL GOVERNMENTS} closely related {PEOPLE} living,
+obstacles provision {SERVICES} can major impact community {ACTIVITY}.
+ limits {TECHNICAL} solutions can taken {CYBERSECURITY MEASURES}
+individually {ORGANIZATIONS} limited {RESOURCES}, first foremost necessary
+implement countermeasures leak {INFORMATION}, including indivisual number, due
+ {SERVICE INTERRUPTION} human error.
+given situation direct involvement
+ {NATIONAL GOVERNMENT} {LOCAL
+GOVERNMENT} limited compared {ORGANIZATIONS} due current division roles
+ {NATIONAL} {LOCAL GOVERNMENTS}, {LOCAL GOVERNMENTS} nationwide undertaking
+ fundamental reinforcement {MEASURES}, {NATIONAL GOVERNMENT} will {UPDATE}
+{GUIDELINE} {SECURITY} {POLICY} necessary light necessity achieve high level
+{SECURITY}. {GOVERNMENT} will work achieve necessary {SECURITY} levels operational
+{NETWORKS} {PROMOTE} initiatives {SECURE} {DEVELOP} {CYBERSECURITY} {HUMAN RESOURCE}, {ENHANCE}
+{SYSTEMS} well securing necessary {BUDGET} mindful need smooth
+{OPERATIONS} {LOCAL GOVERNMENTS}.
+furthermore, regards identity federation among {PUBLIC PRIVATE SECTORS},
+{GOVERNMENT} will work {IMPROVE} environment balancing convenience {SECURITY}.
+ {STRENGTHENING} {IMPROVING} {SECURITY} {GOVERNMENTAL BODIES} {GOVERNMENT}-related entities
+ date, efforts made {RAISE} level {INFORMATION} {SECURITY} {MEASURES}
+{GOVERNMENTAL BODIES} overall development {INFORMATION} {SECURITY} {MEASURES} based
+ unified {STANDARDS}, initiatives auditing based {STANDARDS} {MONITORING}
+unauthorized {COMMUNICATION}, {GOVERNMENT} required continue working
+initiatives. framework initiatives incorporated {ADMINISTRATIVE AGENCIES}
+designated corporations (hereinafter referred incorporated {ADMINISTRATIVE AGENCIES},
+etc. ) expanded manner {GOVERNMENTAL BODIES} revision
+ {BASIC ACT CYBERSECURITY},
+ will important issue moving forward {PROMOTE}
+{EFFECTIVE} {INFORMATION} {SECURITY} {MEASURES} incorporated {ADMINISTRATIVE AGENCIES}, etc.
+consideration characteristics diverse {BUSINESS} forms.
+{RESPONDING} {INCREASINGLY} complex sophisticated {CYBERATTACKS}, need use {NEW
+TECHNOLOGIES} overcome existing {STATE} {ATTACKERS} advantage
+{STRENGTHENING} {DEFENSE} depth assume {ATTACKS} will occur countermeasures {RISKS}
+{SUPPLY CHAINS}.
+ unification auditing {TECHNICAL} specifications.
+ enacted april , . expanded scope cover {MONITORING}, auditing, investigating causes unauthorized
+{COMMUNICATIONS} {GOVERNMENT}.
+ smooth execution {GOVERNMENT} {SERVICES} extremely important responsibility
+{GOVERNMENTAL BODIES} incorporated {ADMINISTRATIVE AGENCIES}, etc. (hereinafter referred
+ {AGENCIES} ), important make necessary {INVESTMENT} {SECURITY}-related
+{INVESTMENT} together one making {INVESTMENTS} {SYSTEMS}. light situation,
+ important {SECURE} {FUNDS} necessary amplify {SECURITY}-related {INVESTMENTS}
+means using {FUNDS} generated making {INVESTMENT} {AGENCIES} efficient
+{SECURITY}, {STRENGTHEN} {INFORMATION} {SECURITY} {MEASURES} described .
+() {ADVANCING} visualizing {SECURITY} {MEASURES} {INFORMATION SYSTEMS}
+ {AGENCIES} will utilize new {DEFENSIVE} technologies carry {EFFECTIVE} initiatives,
+aiming not {INCREASE} {RESPONSE} {CAPABILITY} towards growing {THREAT} {CYBERATTACKS},
+ {PREVENT} damages , case occurrence damages, {PREVENT} spread
+ minimize damage.
+() increasing {DEFENSIVE CAPABILITIES} conditional {AWARENESS} {INFORMATION SYSTEMS}
+ {AGENCIES} will work {PREVENT} damage preemptively {PREVENT} spread thereof
+{DETECTING} {MALWARE} {BEHAVIOR} endpoint ({PERSONAL} {COMPUTER}, etc.) {PROGRAMS} run.
+ automation {ASSET} management, {AGENCIES} will {MONITOR} {STATE INFORMATION
+SYSTEMS} real time {ENABLE} rapid handling {SOFTWARE} {VULNERABILITIES}. {DATA} {PROTECTION}
+initiatives will carried {AGENCIES} {PREVENT} {INFORMATION} leakage {INCIDENTS}
+occur. furthermore, necessary examine {MEASURES} identifying {ATTACKS} difficult
+ {DETECT} analyzing {THREAT}, combining phenomena occur various {DEVICES}
+account management {INFORMATION}. order implement {MEASURES} {EFFECTIVELY}, {SYSTEMS}
+ view automating work required analysis {INFORMATION} must {ESTABLISHED}.
+(ii) preventing damages spread thereof advanced cross-organizational collaboration among {AGENCIES}
+ consideration implementation status {MALWARE} {MONITORING} {DEVICES}
+automation {ASSET} management stages, including {PREVENTION}, {DETECTION}, recovery,
+{RESPONSE}, {AGENCIES} will aim development cross-organizational initiatives
+sophistication {EFFECTIVE} efficient collaboration {AGENCIES} gsoc
+ includes appropriate sharing gsoc {INFORMATION} gained
+{MEASURES}.
+ abbreviation {GOVERNMENT} {SECURITY OPERATION} {COORDINATION} team. team carries cross-organizational {MONITORING} rapid
+{RESPONSE} {INFORMATION} {SECURITY} {GOVERNMENTAL BODIES}.
+() {PROMOTING} use {CLOUD} {EFFECTIVE} {SECURITY} {MEASURES}
+ {AGENCY} can select appropriate form {INFORMATION SYSTEM} according
+characteristics {INFORMATION} {SECURITY} {MEASURES} can carried efficiently
+{EFFECTIVELY} overall {GOVERNMENT}, {GOVERNMENT} will {PROMOTE} use {CLOUD} {SERVICES}
+including migration {GOVERNMENT} common platform form {GOVERNMENT} {PRIVATE}
+{CLOUD} can utilize benefits consolidating {BUILDING} {OPERATION} {SYSTEMS}
+increasing {SECURITY} level. {PROMOTING} use {CLOUD}, {GOVERNMENT} will consider
+ go forward {MEASURES} {PROMOTE} use reliable {CLOUD} appropriate
+level {SECURITY} safety evaluation secured.
+ regard {INTERNET} connection lines, {GOVERNMENT} worked unification
+ consolidation connection port common {STANDARD}. {GOVERNMENT} will make
+ necessary considerations including consolidation perimeter {MONITORING} points
+collaborating {GOVERNMENT} common {NETWORKS} platforms, since promotion
+ appropriate consolidation {INTERNET} connection ports {GOVERNMENTAL BODIES} extremely
+{EFFECTIVE} {OPERATIONS} {SECURITY} {MEASURES}.
+() {PREEMPTIVE} efforts utilizing {ADVANCED TECHNOLOGY}
+ {INFORMATION SYSTEM} platforms grown use recent years
+particularly high level resistance {CYBERATTACKS}. {GOVERNMENT} will consider utilizing
+{INFORMATION TECHNOLOGIES} created new design philosophy {AGENCIES}, work
+accumulate {KNOWLEDGE} {BEST PRACTICES}, aim shift towards defender advantage.
+() {RAISING} {CYBERSECURITY} level auditing
+ light {BASIC ACT CYBERSECURITY}, {GOVERNMENT} will {PROVIDE} trends issues
+identified cross-organizational analysis {DATA} auditing {AGENCIES}
+feedback entire {AGENCIES} {PROMOTE} {RAISING} {CYBERSECURITY} level.
+addition, {GOVERNMENT} will utilize {ASSET} management {INFORMATION} {AGENCIES}
+ developed accordance initiatives {MONITORING} {STATE SYSTEMS} efficiently,
+ will aim efficient {EFFECTIVE} implementation auditing.
+() {IMPROVING} organizational {RESPONSE} {CAPABILITY}
+primarily via team handles {INCIDENTS},
+ {GOVERNMENT} will {INCREASE} {INCIDENT} {RESPONSE}
+{CAPABILITY} {INFORMATION} {SECURITY} {KNOWLEDGE} {AGENCY}. case occurrences
+{CYBERATTACKS} {AGENCIES}, {GOVERNMENT} will {ENHANCE} {TRAINING}, etc. coping {CAPABILITY}
+ {CSIRT} ({COMPUTER SECURITY INCIDENT RESPONSE TEAM})
+{BUILDING} staff order {STRENGTHEN} {MOBILE} assistance formation ( emergency
+assistance team {INFORMATION} {SECURITY})
+ comprised {GOVERNMENT} employees
+requisite {KNOWLEDGE} {SKILLS} {GOVERNMENT AGENCY}.
+ {ENSURING} safe {SECURE} {EDUCATIONAL} {RESEARCH} environment {UNIVERSITIES}
+etc.
+{UNIVERSITIES} inter-{UNIVERSITY} {RESEARCH} institutes etc. (hereinafter referred {UNIVERSITIES}
+etc. ) staffed various {MEMBERS} diverse collection {ASSETS} {SYSTEMS} use.
+given nature {UNIVERSITIES} etc., along implementation autonomous
+{CYBERSECURITY MEASURES} {UNIVERSITIES} etc. , important {GOVERNMENT}
+ proactively {SUPPORT} {BUILDING} {RESPONSE} {SYSTEM} {SHARING INFORMATION} etc. deal
+ {CYBERATTACKS} collaboration among {UNIVERSITIES} etc. order {ENSURE} safe
+{SECURE} {EDUCATIONAL} {RESEARCH} environment.
+() {PROMOTING} {MEASURES} light diversity {UNIVERSITIES} etc.
+ senior executives {UNIVERSITIES} etc. must personally {UNDERSTAND} importance
+{CYBERSECURITY MEASURES}, position {CYBERSECURITY MEASURES} important managerial issues,
+carry initiatives {ORGANIZATION} based {PLAN} {PROMOTING} {CYBERSECURITY MEASURES},
+ {CONDUCTING} follow-ups {PROMOTE} {CYBERSECURITY MEASURES}.
+ , necessary {IDENTIFY} {ASSETS} {PROTECT}, evaluate {CYBERSECURITY RISKS},
+ consider managerial {TECHNICAL} {MEASURES} prioritized implementing
+accordance {RISKS}, consideration diversity {UNIVERSITIES} etc. {CONDUCT}
+{EDUCATION} {RESEARCH} various areas. furthermore, {UNIVERSITIES} {RESEARCH} institutes
+need consider initiatives {IMPROVE} {CAPABILITY} {RESPOND} quickly appropriately
+{INCIDENTS}, {SYSTEM} implement {MEASURES} organizationally steadily.
+ {GOVERNMENT} will {PROMOTE} autonomous organizational initiatives {UNIVERSITIES}
+etc. {CREATING} disseminating {GUIDELINES} {CYBERSECURITY}; implementing practice
+level regarding {RISK MANAGEMENT} {INCIDENT} {RESPONSE}, practical {TRAINING} {EXERCISES},
+{SUPPORT} initial {RESPONSE} {EVENT} {INCIDENTS}.
+() {PROMOTING} cooperative collaborative initiatives {UNIVERSITIES} etc.
+{UNIVERSITIES} etc. use common {INFORMATION} platforms face similar {CYBERSECURITY ISSUES}.
+{STRENGTHENING} {CYBERSECURITY MEASURES} light actual conditions {UNIVERSITIES}
+ cymat ({CYBER INCIDENT} {MOBILE} assistant team)
+etc. considered important, need promotion initiatives
+mutual cooperation parties involved.
+ reason, {ORGANIZATIONS} operate science {INFORMATION} {NETWORKS} will collaborate
+{NATIONAL} {UNIVERSITIES} etc. {DEVELOP} {SYSTEM} {MONITOR}, {DETECT}, analyze {CYBERATTACKS}
+{PROVIDE} {INFORMATION} {ATTACKS}, carrying joint {RESEARCH} {TRAINING}
+{TECHNICAL} staff maintain {STRENGTHEN} functions {MONITORING} {CAPABILITIES} {DEVELOP}
+{STRATEGIC} management level, {TRAINING} {TECHNICAL} staff.
+ order {STRENGTHEN} {INCIDENT} {RESPONSE} team {UNIVERSITIES} etc., {GOVERNMENT} will
+ {SUPPORT} initiatives {INCIDENT} handling team multiple {UNIVERSITIES} {RESEARCH}
+institutes shares {INFORMATION}, common issues {KNOWLEDGE} {INCIDENT} {RESPONSE} related
+{CYBERATTACKS}.
+ initiatives tokyo games beyond
+countless athletes, foreign dignitaries, supporters will gather world
+olympic/paralympic games, giving hosting {EVENT} highest possible level
+attention potentially making target {CYBERATTACKS}.
+reflecting past olympic/paralympic games, reported massive
+number {CYBERATTACKS} london games, though not affect {OPERATION}
+ {EVENT}. similarly, according reports significant number {CYBERATTACKS}
+causing damages rio de janeiro games pyeongchang games.
+tokyo games expected subject even {CYBERATTACKS} past ,
+ nature, {ATTACKS} will assumingly targeting multiple {SERVICE} sectors.
+reason, {GOVERNMENT} will {ENSURE} {CYBERSECURITY} tokyo games {PROMOTE}
+{MEASURES} looking beyond {EVENT}.
+ various {MEASURES} will expanded scope continued tokyo games,
+ {LEGACY} {SYSTEMS} developed, experience {KNOWLEDGE} {OPERATION} will
+ utilized {STRENGTHEN} {CYBERSECURITY} {JAPAN} continuously future.
+() preparedness tokyo games
+based basic strategy52 decided {SECURITY} board meeting {HEADQUARTERS}
+tokyo olympic/paralympic games, {GOVERNMENT} will continue collection
+ basic {STRATEGY} {SECURITY} tokyo olympic/pralympic games ( {SECURITY} board meeting liaison council
+ ministries {AGENCIES} related tokyo olympic paralympic games, march , )
+{INFORMATION} concerning safety games {MEASURES}. will carry
+{ASSESSMENT} {CYBERSECURITY RISK} sources taking consideration {COORDINATION} physical
+{SECURITY}, {CONDUCT} {CYBERSECURITY} {RISK ASSESSMENT} {CRITICAL SERVICE PROVIDERS}
+potential affect tokyo games {OPERATIONS} including consideration {RISK} scenarios
+based results {ASSESSMENT} {CYBERSECURITY RISK} sources, {PROMOTE} {MEASURES}
+various {RISKS} including cross-sectoral {RISKS} identified {RISK ASSESSMENT}. addition
+ {SHARING INFORMATION} {CYBERSECURITY THREATS} among olympic related {ORGANIZATIONS},
+ relevant ministries governmental {AGENCIES}, tokyo organising committee
+olympic paralympic games, {TOKYO METROPOLITAN GOVERNMENT}, {LOCAL GOVERNMENTS}
+{PROVIDING} venues, {CRITICAL SERVICE PROVIDERS}, {GOVERNMENT} will {PROMOTE} development
+ {CYBER SECURITY INCIDENT RESPONSE COORDINATION CENTER} ({GOVERNMENT}
+olympic/paralympic {CSIRT}), {ORGANIZATION} {GOVERNMENT} takes role
+{COORDINATE} olympic related {ORGANIZATIONS} can {RESPOND} {CYBERSECURITY INCIDENTS}
+together {INCIDENT} occurs, work {ENSURE} preparedness close {COMMUNICATION}
+ {COORDINATION}.
+() passing results lead future
+ {GOVERNMENT} will continue {PROMOTE} various {MEASURES} preparation tokyo
+ games, {SYSTEMS} developed, operational experience {KNOWLEDGE}
+{SYSTEMS} will utilized {LEGACY} {STRENGTHEN} {JAPAN} continuous {CYBERSECURITY}
+tokyo games. furthermore, {CYBER SECURITY INCIDENT RESPONSE COORDINATION CENTER}
+will utilized {ORGANIZATION} ({NATIONAL} {CSIRT}) serve coordinator {COORDINATING}
+desk {JAPAN} work together deal {CYBERATTACKS}. methods {RISK
+MANAGEMENT} described basic vision {CYBERSECURITY} will prepared disseminated
+ wide application {BUSINESS} operators throughout {COUNTRY}.
+ {BUILDING} {INFORMATION SHARING}/collaboration framework extends beyond
+traditional frameworks
+essentially, establishment {CYBERSECURITY} initiative {ORGANIZATION}
+carries autonomously according value {DATA} {ASSETS} {STATE} {INFORMATION}
+ {COMMUNICATION} technology utilization. meanwhile, due changes {ATTACK} modes,
+ limit ability put place {EFFECTIVE} countermeasures {CYBERATTACKS}
+within single {ORGANIZATION}. reason, {AWARENESS} steadily spreading public
+ {PRIVATE SECTORS} emphasizes collaboration {ORGANIZATIONS}, not
+administrative organs {CRITICAL INFRASTRUCTURE OPERATORS}, wide range
+{STAKEHOLDERS} beginning work {INFORMATION SHARING}.
+ number sectors closely related {CYBERSPACE} grows due increasing
+unification {CYBERSPACE} real space, expected scope sectors {STAKEHOLDERS}
+ need {SHARE INFORMATION} contributing {CYBERSECURITY} will continue {EXPAND}.
+accordingly, standpoint participation, {COORDINATION} collaboration presented
+part basic vision {CYBERSECURITY}, {GOVERNMENT} must {SUPPORT} existing initiatives
+{INFORMATION SHARING} {SYSTEMS}, {ISAC},
+ close {COORDINATION}
+{STAKEHOLDERS}, taking new roles.
+() {PROMOTING} {INFORMATION SHARING} collaboration multi-{STAKEHOLDERS}
+ {INCREASE} number {STAKEHOLDERS} engaged {INFORMATION SHARING}, importance
+ role collecting analyzing {INFORMATION} {COORDINATING} {STAKEHOLDERS}
+timely manner increases. meantime, inappropriate handling shared
+{INFORMATION} potential cause decline social appraisal trust, remains
+issue {STAKEHOLDERS} reluctant proactively share {DATA} possess.
+given situation, {GOVERNMENT} will work build new {SYSTEM} will {ENABLE} multi-{STAKEHOLDERS} {PUBLIC PRIVATE SECTORS}, including specialized {AGENCIES} adequate
+{KNOWLEDGE} experience {INFORMATION SHARING}, {SHARE INFORMATION} contributing
+{CYBERSECURITY} without anxiety. , will important respect autonomy
+ {STAKEHOLDER} accordance principle autonomy presented basic principles.
+{INFORMATION SHARING} {COORDINATION} transcends {PUBLIC-PRIVATE}, industrial, {NATIONAL},
+ boundaries {PUBLIC PRIVATE SECTORS}, {INDUSTRIES}, domestic
+{INTERNATIONAL} will promoted implementing initiative.
+ {GOVERNMENT} will consider collaboration unification multiple existing
+{INFORMATION SHARING} {SYSTEMS} {PUBLIC PRIVATE SECTORS} consideration
+characteristics roles relevant parties shall not incur additional
+burden new {SYSTEM}.
+() towards new stage {INFORMATION SHARING} collaboration
+ development new {INFORMATION SHARING} {SYSTEM}, {GOVERNMENT} will consider
+structure multi-{STAKEHOLDERS} can build relationsh{IPS} trust,
+ abbreviation {INFORMATION SHARING ANALYSIS CENTER}. {ORGANIZATION} collects {INFORMATION} {CYBERSECURITY} analysis.
+analyzed {DATA} shared {ISAC} {MEMBERS} use respective {SECURITY} {MEASURES}. (source: {CYBERSECURITY} (august ,
+))
+actively collaborate cooperate {PROVIDING} {INFORMATION}, receive benefit
+ {SYSTEM}.
+ level collaboration cooperation parties increases, greater
+benefits {PARTICIPATING} {INFORMATION SHARING} {SYSTEM} become. accordingly, {GOVERNMENT}
+must take lead {SHARING INFORMATION} possession appropriately. {GOVERNMENT}
+will {DEVELOP} environment {STAKEHOLDERS} proactively {SHARE
+INFORMATION} regarding matters {CYBERSECURITY INCIDENTS} positively regarded. particular,
+ {ESSENTIAL} {INFORMATION} regarding {CYBERSECURITY} causes recalls {PROTECT} life
+physical well- {PEOPLE} shared swiftly surely. {GOVERNMENT} will work
+achieve appropriate {SWIFT} analysis {SHARING INFORMATION} truly needed
+{STAKEHOLDER} promotion automatic processing received {INFORMATION}
+means.
+ initiative, {UNDERSTANDING} mutual {SHARING INFORMATION} {ESSENTIAL}
+{INCREASE} {CYBERSECURITY} will cultivated throughout {SOCIETY}. furthermore, sight set
+ {STRATEGIC} collaboration {INTERNATIONAL COMMUNITY} {ESSENTIAL},
+{DEVELOPING} {JAPAN} {INFORMATION SHARING} {SYSTEM}. {GOVERNMENT} will work closely
+{STAKEHOLDER} work proactively towards {IMPROVING} necessary environment {ENABLE}
+{STAKEHOLDER} build relationsh{IPS} coexistence mutual development transcend
+conventional sectoral boundaries associated {INDUSTRIES} {PUBLIC PRIVATE SECTORS}.
+ will {ENABLE} {SHARING INFORMATION} collaboration regarding {CYBERSECURITY} move
+ahead new stage.
+ {STRENGTHENING} {INCIDENT} readiness massive {CYBERATTACKS}
+{CYBERATTACKS} occurred overseas significantly impacted {PEOPLE} living, causing
+massive power outages partial losses functioning {FINANCIAL INSTITUTIONS}. unification
+{CYBERSPACE} real space continues, well within realm possibility {CYBERATTACKS}
+cause {INCIDENTS} real space {COUNTRY} future. furthermore, massive {CYBERATTACKS} can
+ expected cause simultaneous damages {SERVICES} normally relatively unrelated,
+ {COUNTRY} must work one {ADDRESS} {RISK MANAGEMENT} {THREATS} {CYBERSPACE} {PROTECT}
+{SOCIETY} {PEOPLE} {THREATS}.
+ {GOVERNMENT} will carry {RESPONSE} {TRAINING} {EXERCISES} across {CYBERSPACE} real
+space {STRENGTHENING} preparations {RESPOND} {CYBERATTACKS} {TRAINING}
+{EXERCISES} order work {RISK MANAGEMENT} {CYBERSPACE} real space.
+{GOVERNMENT} will {PROMOTE} {TRAINING} {PERSONNEL} capable analyzing {CYBERATTACKS},
+{SHARING INFORMATION} framework {PUBLIC PRIVATE SECTOR} {COORDINATION},
+advancement {INTERNET} {MONITORING} effort {IMPROVE} {DATA} collection analysis
+{CAPABILITIES} emergency {RESPONSE} {CAPABILITIES} {CYBERSPACE}.
+. contribution peace {STABILITY} {INTERNATIONAL COMMUNITY}
+ {JAPAN} {NATIONAL SECURITY}
+ free, fair, {SECURE} {CYBERSPACE} contributes peace {STABILITY} {INTERNATIONAL
+COMMUNITY} {JAPAN} {NATIONAL SECURITY}.
+ {CYBERSPACE}, open {ACTORS} autonomous free flow {INFORMATION}
+ secured, fosters {INNOVATION} constitutes foundation {DEMOCRACY}. {CYBERSPACE}
+developed technological {INNOVATIONS}, inventions, initiatives multi-{STAKEHOLDERS}
+{INDUSTRY}, {ACADEMIA}, {PUBLIC PRIVATE SECTORS}. excessive control states will impede
+autonomous sustainable development {CYBERSPACE}. sound development {CYBERSPACE},
+multi-{STAKEHOLDERS} need cooperate {ENSURE} free flow {INFORMATION}, maintain
+openness autonomy {CYBERSPACE}.
+ use {CYBERSPACE} accelerates throughout {SOCIETY}, leading advancement
+unification {CYBERSPACE} real space, issues real space, {HUMAN RIGHTS}, {PRIVACY},
+{CRIME} {TERRORISM}, {NATIONAL SECURITY}, brought realm {CYBERSPACE} posing
+challenges. accordingly, necessary carry initiatives regard challenges
+{ENSURE} safety {SECURITY} {CYBERSPACE}. since {CYBERATTACKS} can easily cross {NATIONAL BORDERS}
+ {INCIDENTS} suspected {STATE-SPONSORED}, necessary {PROMOTE}
+{RULE LAW}, {INCREASE} {DEFENSE}, {DETERRENCE}, {SITUATIONAL AWARENESS} {CAPABILITIES} {CYBERATTACKS}
+ {PROMOTE} {INTERNATIONAL COOPERATION} collaboration order {ENSURE} {SECURITY} {STABILITY}
+ {CYBERSPACE}. however, , necessary pay attention order avoid impeding
+ autonomous sustainable development {CYBERSPACE}.
+ order safeguard free, fair, {SECURE} {CYBERSPACE}, {JAPAN} will communicate position
+{INTERNATIONAL FORA}, {ENSURE} {NATIONAL SECURITY} utilizing existing frameworks, {PROMOTE}
+{INTERNATIONAL COLLABORATION}.
+ commitment free, fair, {SECURE} {CYBERSPACE}
+ order realize free, fair, {SECURE} {CYBERSPACE} global level, {JAPAN} will communicate
+ idea {INTERNATIONAL FORA} take active role {PROMOTING} {RULE LAW} {CYBERSPACE}.
+() communicating ideas free, fair, {SECURE} {CYBERSPACE}
+ order maintain ecosystem autonomously sustainably {DEVELOPING} {CYBERSPACE},
+{JAPAN} will aim {ENSURE} safety {CYBERSPACE} {COORDINATION} collaboration
+among multi-{STAKEHOLDERS} efforts {ENSURE} {CYBERSECURITY}, rather control
+{REGULATION} controlling flow {INFORMATION} states.
+{JAPAN} will communicate basic approach {CYBERSECURITY} {INTERNATIONAL FORA}.
+addition, {JAPAN} will work {ALLY} {LIKE-MINDED} countries, well {PRIVATE ENTITIES}
+thwart efforts aim inhibit development {CYBERSPACE} change
+ {INTERNATIONAL} rules.
+ , necessary separate discussions manage {INTERNET} {RESOURCES}
+discussions issues arise use {CYBERSPACE} {HUMAN RIGHTS}, {PRIVACY},
+{CRIME} {TERRORISM}, {NATIONAL SECURITY}. regard issues arise use
+{CYBERSPACE}, discussions need conducted premise existing frameworks.
+() {PROMOTING} {RULE LAW} {CYBERSPACE}
+ promotion {RULE LAW} important peace {STABILITY} {INTERNATIONAL
+COMMUNITY} {JAPAN} {NATIONAL SECURITY}.
+existing {INTERNATIONAL LAW}, including {CHARTER} {UNITED NATIONS}, applies {CYBERSPACE}
+. {JAPAN} takes position will proactively contribute discussions individual
+ specific applications existing {INTERNATIONAL LAW} development universalization
+ {NORMS}. , {JAPAN} will {PROMOTE} universalization {NORMS} {BEHAVIOR} responsible
+states apparent date
+ steady implementation practice {NORMS}.
+{JAPAN} will {DETER} acts {NORMS} universalization {NORMS}
+{INTERNATIONAL COMMUNITY} accumulation relevant {STATE} practices thereof.
+ regard {MEASURES} {CYBERCRIME}, {NATIONAL} {POLICE} {AGENCY} relevant
+ministries {AGENCIES} will collaborate {PROMOTE} {INTERNATIONAL PARTNERSHIP}
+{INTERNATIONAL} investigative cooperation {INFORMATION SHARING} {INTERNATIONAL ORGANIZATIONS},
+ include {REPORT} fourth session {UNITED NATIONS} {GROUP GOVERNMENTAL EXPERTS} developments
+field {INFORMATION} {TELECOMMUNICATIONS} context {INTERNATIONAL} {SECURITY} ({UN GGE}), {G20} antalya summit
+leaders communiqué, {G7} declaration responsible states {BEHAVIOR} {CYBERSPACE}.
+{LAW ENFORCEMENT} {AGENCIES} {SECURITY} {INFORMATION} {AGENCIES} foreign countries leveraging
+frameworks {CONVENTION CYBERCRIME}, {MUTUAL LEGAL ASSISTANCE TREATIES},
+icpo.
+ initiatives, {JAPAN} will {PROMOTE} {RULE LAW} realize peace {STABILITY}
+ {INTERNATIONAL COMMUNITY} {JAPAN} {NATIONAL SECURITY}.
+ {STRENGTHENING} {CAPABILITIES} {DEFENSE}, {DETERRENCE}, {SITUATIONAL AWARENESS}
+ {SECURITY} environment {CYBERSPACE} growing {INCREASINGLY} severer. {CYBERATTACKS}
+taking place {GOVERNMENTAL BODIES}, {CRITICAL INFRASTRUCTURE OPERATORS}, {COMPANIES}
+{ACADEMIC} {RESEARCH} institutions possessing {ADVANCED TECHNOLOGIES}. cases might
+threaten undermine foundations {DEMOCRACY}. furthermore, {ATTACKS}
+suspected {STATE-SPONSORED}.
+given situation, order {PROTECT} {JAPAN} {NATIONAL SECURITY} {INTERESTS} {CYBERATTACKS},
+ important {SECURE} {JAPAN} {RESILIENCE} {CYBERATTACKS} {INCREASE} {JAPAN} ability
+{DEFEND} {STATE} ({DEFENSE} {CAPABILITIES}), {DETER} {CYBERATTACKS} ({DETERRENCE} {CAPABILITIES}), aware
+ situation {CYBERSPACE} ({SITUATIONAL AWARENESS} {CAPABILITIES}).
+ relevant {PUBLIC PRIVATE} {STAKEHOLDERS} led {NATIONAL CENTER INCIDENT READINESS
+STRATEGY CYBERSECURITY} regard {DEFENSE}, ministries {AGENCIES} responsible
+{RESPONSE} {MEASURES} regard {DETERRENCE}, {INFORMATION} gathering investigative
+{ORGANIZATIONS} regard {SITUATIONAL AWARENESS} will closely cooperate daily basis
+proceed initiatives related {NATIONAL SECURITY}, overall {COORDINATION}
+{NATIONAL SECURITY} secretariat. necessary, deliberation decision will made
+{NATIONAL SECURITY COUNCIL}.
+() {ENSURING} {NATIONAL} {RESILIENCE}
+() mission assurance
+ mission {GOVERNMENTAL BODIES} {PROTECT} {SUPPORT} {PEOPLE} lives socio-economic
+{ACTIVITIES}. failure playing role significant concern {NATIONAL SECURITY}.
+execution missions {GOVERNMENTAL BODIES} relies {SERVICES} provided {CRITICAL
+INFRASTRUCTURE OPERATORS} {BUSINESS} operators maintain social {SYSTEM}.
+operators important mission {PROVIDE} {SERVICES} indispensable {PEOPLE}
+ icpo acronym {INTERNATIONAL} {CRIMINAL} {POLICE} {ORGANIZATION}.
+ {SOCIETY}.
+{JAPAN} will {PROMOTE} establishment {CYBERSECURITY} {GOVERNMENTAL BODIES} {CRITICAL
+INFRASTRUCTURE OPERATORS} order assure execution missions {GOVERNMENTAL
+BODIES} related {NATIONAL SECURITY} {PROVIDE} {SERVICES ESSENTIAL} {PEOPLE} {SOCIETY}.
+ {DEFENSE} {AUTHORITIES}, particular, ministry {DEFENSE} self-{DEFENSE FORCES},
+will continue {STRENGTHEN} {DEFENSE} {NETWORKS} {INFRASTRUCTURE}
+{OPERATIONS} depend, {ENHANCING} {CAPABILITIES} {CYBER DEFENSE} units
+{CYBERATTACKS}, deepen collaboration {STAKEHOLDERS} involved mission assurance
+ self-{DEFENSE FORCES}.
+(ii) {PROTECTION} {JAPAN} {ADVANCED TECHNOLOGIES} {DEFENSE} related technologies
+{ADVANCED TECHNOLOGIES} important {NATIONAL} {ASSETS} not assuring economic advantage,
+ {NATIONAL SECURITY} well. {JAPAN} will {STRENGTHEN} {CYBERSECURITY MEASURES}, including
+reduction human caused {RISKS} faced {BUSINESS} operators relevant ministries
+governmental {AGENCIES} handle technologies important {JAPAN} {NATIONAL SECURITY},
+ technologies related outer space, nuclear energy, {SECURITY}, {DEFENSE} {EQUIPMENT}.
+particularly, leak illegal disclosure {TECHNICAL} {INFORMATION} held {DEFENSE}
+{INDUSTRY} major impact {JAPAN} {NATIONAL SECURITY}. reason, {JAPAN} will
+work {ADOPT} {SYSTEM} {ENSURE} safe {SHARING INFORMATION}, {ESTABLISH} new {INFORMATION}
+{SECURITY STANDARDS} {CONTRACTORS}, revise contractual provisions. deliberations will carried
+ assumption {MEASURES} will applied entire {SUPPLY CHAIN}
+{DEFENSE} {INDUSTRY}, including subcontractors, collaboration {PUBLIC
+PRIVATE SECTORS}.
+furthermore, {GOVERNMENT} will {PROMOTE} {MEASURES} {NATIONAL} {RESEARCH} development
+{ORGANIZATIONS} {UNIVERSITIES} {RESEARCH} institutes possessing {ADVANCED TECHNOLOGY}
+viewpoint {PROTECTING} {INFORMATION} {ADVANCED TECHNOLOGIES}.
+(iii) {MEASURES} malicious use {CYBERSPACE} {TERRORIST} {ORGANIZATIONS}
+{CYBERSPACE} offers place {INDIVIDUALS} {ORGANIZATIONS} can {EXCHANGE INFORMATION}
+express thoughts freely. now serves foundations {DEMOCRACY}. hand,
+ necessary {PREVENT} malicious use {CYBERSPACE} {TERRORIST} {ORGANIZATIONS},
+spreading demonstrating violent externism, {RECRUITING} {ORGANIZATIONS}, gathering
+{FUNDS} {ORGANIZATIONS}. reason, {GOVERNMENT} will {STRENGTHEN} collection
+analysis {INFORMATION} {ACTIVITIES} {TERRORIST} {ORGANIZATIONS} {CYBERSPACE} take
+ necessary {MEASURES} collaboration {INTERNATIONAL COMMUNITY},
+guaranteeing basic {HUMAN RIGHTS} including {FREEDOM} expression.
+() {ENHANCING} {DETERRENCE} {CAPABILITIES}
+() {MEASURES} {EFFECTIVE} {DETERRENCE}
+{INTERNATIONAL LAW}, including {CHARTER} {UNITED NATIONS}, applies {CYBERSPACE}. {G7}
+leaders affirmed ise-shima summit, circumstances, {CYBER ACTIVITIES}
+amount use force armed {ATTACK} within meaning {INTERNATIONAL LAW}.
+ ,
+ {G7} foreign ministers affirmed lucca, among lawful responses, {STATE}
+{VICTIM} {INTERNATIONALLY} wrongful act may, certain circumstances, resort proportionate
+countermeasures {STATE} responsible wrongful act.
+based above-mentioned recognition, order {DETER} {MALICIOUS CYBER ACTIVITIES}
+{PROTECT} {PEOPLE} safety, {SECURITY}, rights, close {COORDINATION} {ALLY} {LIKE-MINDED} countries, {JAPAN} will utilize political, economic, technological, {LEGAL}, diplomatic,
+ viable {EFFECTIVE} means {CAPABILITIES}, depending {THREAT}, take resolute
+responses {CYBER THREATS} undermine {NATIONAL SECURITY}, including possibly
+{STATE-SPONSORED}.
+ {GOVERNMENT} will {STRENGTHEN} {COORDINATION} {SYSTEM} among relevant {GOVERNMENTAL BODIES}
+ {CABINET SECRETARIAT} core order make timely appropriate responses,
+{PROMOTE} whole inter-{AGENCY} cross-sectoral efforts comprehensive manner,
+{GOVERNMENT} will {STRENGTHEN} {CAPACITY} relevant {AUTHORITIES} including {LAW ENFORCEMENT}
+{AUTHORITIES} self-{DEFENSE FORCES}. regard, acquisition {CAPABILITIES} {PREVENT}
+{MALICIOUS CYBER ACTORS} using {CYBERSPACE} may considered.
+(ii) {CONFIDENCE BUILDING MEASURES}
+ {GOVERNMENT} will work build confidence among states order {PREVENT} occurrence
+ unforeseen circumstances deterioration situation caused {CYBERATTACKS}. due
+ {G7} principles {ACTIONS} {CYBER} (may ) affirm circumstances, {CYBER ACTIVITIES} amount use
+ force armed {ATTACK} within meaning {UNITED NATIONS} {CHARTER} customary {INTERNATIONAL LAW}. recognize
+ states may {EXERCISE} inherent right individual collective self-{DEFENSE} recognized article {UNITED NATIONS}
+{CHARTER} accordance {INTERNATIONAL LAW}, including {INTERNATIONAL} humanitarian {LAW}, {RESPONSE} armed {ATTACK}
+{CYBERSPACE}.
+ {G7} declaration responsible states {BEHAVIOR} {CYBERSPACE} (april ) note , {INTEREST} conflict {PREVENTION}
+peaceful settlement disputes, {INTERNATIONAL LAW} provides framework states responses wrongful acts not amount
+ armed {ATTACK} - may include {MALICIOUS CYBER ACTIVITIES}. among lawful responses, {STATE} {VICTIM}
+{INTERNATIONALLY} wrongful act may, certain circumstances, resort proportionate countermeasures, including {MEASURES} conducted
+via {ICTS}, {STATE} responsible wrongful act order cause responsible {STATE} comply {INTERNATIONAL}
+obligations
+ anonymity secrecy {CYBERATTACKS}, {RISKS} {CYBERATTACKS} unintentionally
+{INCREASE} tentions among states worsen situation. order {PREVENT} accidental
+unnecessary confrontations, important build {INTERNATIONAL} {COMMUNICATION} channels
+ normal times preparation occurrence {INCIDENTS} extend beyond {NATIONAL
+BORDERS}. necessary {INCREASE} transparency build confidence states
+ {PROACTIVE} {INFORMATION EXCHANGE} {POLICY} dialogues bilateral {MULTILATERAL}
+consultations. {GOVERNMENT} will cooperate states consider mechanism
+{COORDINATING} issues regarding {CYBERSPACE}.
+() {STRENGTHENING} {CYBER SITUATIONAL AWARENESS}
+() increasing {CAPABILITIES} relevant {GOVERNMENTAL BODIES}
+ order {DETER} {INCREASINGLY} serious {CYBERATTACK}, addition {ENHANCING} {RESPONSE} {CAPABILITIES},
+adequate {CAPABILITIES} {DETECT}, {INVESTIGATE}, analyze {CYBERATTACKS} necessary make
+{ATTACKERS} accountable. end, {GOVERNMENT} will quantitatively qualitatively {IMPROVE}
+ {INFORMATION} collection analysis {CAPABILITIES} relevant {GOVERNMENTAL BODIES}.
+accordingly, {GOVERNMENT} will proceed wide ranging considerations {EFFECTIVE}
+means including development securement {CYBERSECURITY} {HUMAN RESOURCE} high-level analytical {CAPABILITIES}, development utilization technologies {DETECTING},
+investigating, analyzing {CYBERATTACKS}. {GOVERNMENT} will carry initiatives related
+ {COUNTER}-{CYBER INTELLIGENCE}.
+(ii) {THREAT} {INFORMATION} {SHARING
+INFORMATION} sharing among relevant ministries {AGENCIES} within {GOVERNMENT}
+{ALLY} {LIKE-MINDED} countries {ESSENTIAL} accurately {RESPONDING} {DETERRING} diverse
+{THREAT} {CYBERATTACKS}, including suspected {STATE-SPONSORED} {NON-GOVERNMENTAL
+ORGANIZATIONS}. accordingly, {GOVERNMENT} will {PROMOTE} {SHARING THREAT INFORMATION}
+ {ALLY} {LIKE-MINDED} countries. {GOVERNMENT} will {STRENGTHEN} {THREAT} {INFORMATION
+SHARING} collaboration framework within {GOVERNMENT} led {CABINET SECRETARIAT}.
+ {INTERNATIONAL COOPERATION} collaboration
+ effect {INCIDENTS} {CYBERSPACE} can easily extend beyond {NATIONAL BORDERS}, {CYBER
+INCIDENTS} overseas can always affect {JAPAN}. {JAPAN} will cooperate collaborate
+governments {PRIVATE SECTOR} worldwide {ENSURE} {SECURITY} {CYBERSPACE} work
+ {INTELLIGENCE} {DEFENSE} {ACTIVITY} hostile {INTELLIGENCE} {ACTIVITY} foreign countries using {INFORMATION} {COMMUNICATION}
+technology
+towards peace {STABILITY} {INTERNATIONAL COMMUNITY} {NATIONAL SECURITY}
+{JAPAN}.
+ end, {GOVERNMENT} will proactively contribute various {INTERNATIONAL} discussions
+work {SHARING INFORMATION} development common {UNDERSTANDING} regarding {CYBER}
+related issues. {GOVERNMENT} will share expertise foreign countries, {PROMOTE} specific
+cooperation collaboration, take actual {ACTION}. furthermore, will {SECURE} train
+{PERSONNEL} {PUBLIC PRIVATE SECTORS} capable expressing position
+{INTERNATIONAL FORA}.
+() sharing expertise {COORDINATION} {POLICY}
+ {GOVERNMENT} will work bilateral dialogues {INTERNATIONAL} conferences
+{CYBERSECURITY} {EXCHANGE INFORMATION} {CYBERSECURITY POLICIES}, {STRATEGIES} {SYSTEM}
+{RESPOND}, utilize {KNOWLEDGE} planning {JAPAN} {CYBERSECURITY POLICY}. will
+{STRENGTHEN} cooperation collaboration regarding {CYBERSECURITY POLICY} {STRATEGIC}
+{PARTNERS} share basic principles {CYBERSECURITY} us.
+() {INTERNATIONAL COLLABORATION} {INCIDENT} {RESPONSE}
+ {GOVERNMENT} will {SHARE INFORMATION} {CYBERATTACKS} {THREATS} {STRENGTHEN} cooperation
+ {CERTS}
+ {ENABLE} coordinated {RESPONSE} {INCIDENTS} occur. {GOVERNMENT} will
+ work {IMPROVE} coordinated {RESPONSE} {CAPABILITIES} joint {TRAINING} participation
+ {INTERNATIONAL} {CYBER} drills joint {TRAINING}. furthermore, {GOVERNMENT} will {RESPOND}
+appropriately case {INCIDENTS} appropriate {INTERNATIONAL COLLABORATION}.
+() cooperating {CAPACITY BUILDING}
+today, interdependence across borders deepened, not possible {JAPAN} {SECURE}
+peace {STABILITY} . global {COORDINATION} {REDUCE} {CYBERSECURITY} {VULNERABILITIES}
+ aim elimination thereof {ESSENTIAL} contributing {ENSURING} {JAPAN} {NATIONAL
+SECURITY}.
+ standpoint, {ASSISTING} {CAPACITY BUILDING} {STATE} ensures {STABILITY} lives
+ {JAPANESE} residents {ACTIVITIES} {JAPANESE} {COMPANIES} countries depend
+{CRITICAL INFRASTRUCTURE} states well sound development use {CYBERSPACE}
+. time, directly connected {ENSURING} {SECURITY} {CYBERSPACE}
+ contributes {IMPROVEMENT} {SECURITY} environment entire world including
+ {COMPUTER EMERGENCY RESPONSE TEAM} ({CERT}) {ORGANIZATION} responds {COMPUTER SECURITY INCIDENTS}.
+{JAPAN}.
+according basic {STRATEGY} {CYBERSECURITY CAPACITY} {BUILDING} {DEVELOPING} countries
+published , {GOVERNMENT} will proactively {PROMOTE} {CAPACITY BUILDING} {DEVELOPING}
+countries.
+. cross-cutting approaches {CYBERSECURITY}
+ order achieve three {POLICY} goals – {ENABLING} socio-economic vitality sustainable
+development, {BUILDING} safe {SECURE} {SOCIETY} {PEOPLE}, contribution peace
+ {STABILITY} {INTERNATIONAL COMMUNITY} {JAPAN} {NATIONAL SECURITY}, - important work
+ {HUMAN RESOURCE} development {RESEARCH} development foundation {POLICY} goals
+ cross-cutting mid- long-term perspective. simultaneously, crucial
+{PROMOTE} cooperative approach everyone plays role working {CYBERSECURITY}
+active agent {CYBERSPACE}.
+ development assurance {CYBERSECURITY} {HUMAN RESOURCE}
+ {THREAT} {CYBERATTACKS} spreading new value created towards realization
+{SOCIETY} , necessary {STAKEHOLDER} take initiative play respective
+roles rather relying efforts experts {ENSURE} {CYBERSECURITY}.
+ preparation future relevant coming paradigm shift, need clarify
+level {KNOWLEDGE} {SKILL} required {PERSONNEL} involved {ESTABLISHING} {CYBERSECURITY}
+standpoint {SUPPORTING} {ORGANIZATION} carry mission safe use {CYBERSPACE}.
+following , necessary form virtuous circle supply demand
+{PERSONNEL} appropriated : adequately treating {PERSONNEL} good {KNOWLEDGE} practical
+abilities, certified qualifications evaluation {STANDARDS} obtained {EDUCATION} ;
+ {ENABLING} hone {SKILLS} repeated practical experience.
+ end, {GOVERNMENT} will work {INDUSTRY}, {ACADEMIA}, {PUBLIC SECTOR} {SHARE
+INFORMATION} demand {PERSONNEL} {MEASURES} regarding {HUMAN RESOURCE} development
+order {STRENGTHEN} development assurance {CYBERSECURITY} {HUMAN RESOURCE}.
+, important {ENSURE} diversity {PERSONNEL} standpoint {PROMOTING} {INNOVATION}.
+() {TRAINING} adoption {STRATEGIC} management level
+ order push forward {CYBERSECURITY MEASURES} part {COMPANY} management,
+ basic {STRATEGY} {CYBERSECURITY CAPACITY} {BUILDING} {DEVELOPING} countries (october , {CYBERSECURITY STRATEGIC HEADQUARTERS})
+inappropriate leave task experts operational level staff {CYBERSECURITY}
+not simply {TECHNICAL} issue.
+ management {STRATEGIES} {BUSINESS} {STRATEGIES} senior executive management
+presents, {PERSONNEL} capable meeting challenge must:
+() {UNDERSTAND} {CYBERSECURITY}-related {RISKS} must assumed {CONDUCTING} {OPERATIONS}
+ {SERVICES} part {RISKS} {ORGANIZATION} must manage;
+(ii) utilize command operational-level staff experts execute countermeasures
+responses {INCIDENTS} role {PROVIDING} core {SUPPORT} {RISK MANAGEMENT}
+regarding {BUSINESS CONTINUITY} value creation
+accordingly, {GOVERNMENT} will define {PERSONNEL} taking roles {STRATEGIC}
+management level work adoption concept collaboration {INDUSTRY},
+including promotion {UNDERSTANDING} among senior executives.
+ cases , due differences {CULTURE} custom within {INDUSTRIES} {BUSINESS}
+categories, may difficult integrate implement {CYBERSECURITY MEASURES} existing
+management {SYSTEMS} realizing {OPERATIONS} {SERVICES}. reason, {GOVERNMENT} will,
+ taking account consider many ways {BUSINESS} management,
+ {GOVERNMENT} will {PROMOTE} implementation relearning {PROGRAMS}, means
+development practical learning materials {STRATEGIC} management level
+identification {TRAINING} instructors.
+() {TRAINING} operational expert level
+ operational expert level implement {MEASURES} regarding {SYSTEM} planning,
+{BUILDING}, {OPERATION}, based instruction expressed {STRATEGIC} management level,
+numerous {EDUCATIONAL} {PROGRAMS}, {CERTIFICATION} testing {PROGRAMS}, {TRAINING}
+carried {PUBLIC PRIVATE SECTOR} cooperation.
+ necessary continue {STRENGTHEN} initiatives {RAISE} {KNOWLEDGE}- {SKILL}-levels.
+operational expert level staff deepen {UNDERSTANDING} {INFORMATION}
+{COMMUNICATION} technologies, control {SYSTEM} technologies {CYBERATTACKS} evolve
+daily basis. addition, important {RESPONDING} {ATTACKS} {UNDERSTAND}
+{POLICIES} senior executive management function part team, communicating
+ expert level {PERSONNEL}. , necessary use development {PROGRAMS}
+operational expert levels {DEVELOP} {SKILLS} {UNDERSTANDING} conceptual abstract
+ideas presented {STRATEGIC} management level converting concrete {MEASURES}
+ {ENGAGING} smooth {COMMUNICATION} variety {STAKEHOLDERS}.
+ {GOVERNMENT} will continue {IDENTIFY}, train, assure {PERSONNEL} exceptional
+abilities capable competing global stage. example, {GOVERNMENT} will
+continue {PROMOTE} expansion opportunities {PERSONNEL} apply diligently
+ acquire world-class competitive ability development {CAPABILITY} examine
+{MEASURES} {RESEARCH} subjects {RESPONSE} methods, including {ATTACK} methods
+{DEFENSE} methods {CYBERATTACKS}, systematization methods collecting,
+analyzing, evaluating {INFORMATION}.
+() preparing foundation development {CYBERSECURITY} {HUMAN RESOURCE}
+ preparation evolution {INFORMATION} {COMMUNICATION} technologies mid-long-term, necessary {PROMOTE} {UNDERSTANDING} basic principles form
+foundation {CYBERSECURITY} applied sector {IMPROVE} initiatives {DEVELOPING}
+ability think logically conceptually. end, regarding fundamentals
+{CYBERSECURITY} {INFORMATION} {COMMUNICATION} technologies, {INDUSTRY}, {ACADEMIA},
+{PUBLIC SECTOR} will collaborate consider {KNOWLEDGE} technology {SYSTEMS} {MODEL}
+curriculum based {SYSTEMS}.
+ {GOVERNMENT} will steadily work {FOSTERING} ability utilize {INFORMATION} within
+{EDUCATIONAL} curriculum elementary secondary {EDUCATIONAL} level order {STRENGTHEN}
+ {EDUCATION} among youth concerning {CYBERSECURITY} {INFORMATION} {COMMUNICATION}
+technology {SKILLS}, including {MEASURES} making {COMPUTER SCIENCE} required subject
+{ELEMENTARY SCHOOL}, cultivating logical modes thinking, programmatical thinking,
+ {UNDERSTANDING} {SYSTEMS} principles {INFORMATION} {COMMUNICATION}
+technologies according levels children development. {GOVERNMENT} will place
+emphasis {EXPANDING} enrichment {TRAINING} teachers, working {ENSURE}
+ course items regarding {FOSTERING} ability utilize {INFORMATION} properly included
+ teacher {TRAINING} courses. , important {PROMOTE} flexible utilization
+ {PERSONNEL} {INDUSTRY} necessary. addition, {PROMOTING} {INFORMATION} moral {EDUCATION}
+another important issue, due rise {CYBERCRIME} perpetrated youth recent years.
+furthermore, necessary prepare environment abundant
+opportunities youth, expected acquire advanced {CYBERSECURITY SKILLS}
+future, take {INTEREST} learn freely using {CYBERSECURITY TOOLS} {DEVICES} places outside
+ school curriculum community, {COMPANIES}, {ORGANIZATIONS} flexible
+use {INDUSTRY} {PERSONNEL}. , considered development environment
+ self realization will {EFFECTIVE} preventing {CYBERCRIME} perpetrated youth
+curiosity combined ethics {EDUCATION}. {GOVERNMENT} will continue {PROMOTE}
+ development {HUMAN RESOURCES} {INFORMATION TECHNOLOGY} {HIGHER EDUCATION}
+{UNIVERSITIES} {NATIONAL} institute technology {INDUSTRY}-{ACADEMIA}-public partnersh{IPS}.
+() {STRENGTHENING} assurance development {CYBERSECURITY} {HUMAN RESOURCE}
+{AGENCIES}
+ {GOVERNMENT} will continue work steadily {ENSURE} {DEVELOP} {CYBERSECURITY} {HUMAN
+RESOURCE} {AGENCIES} command control function full-time assistant vice
+minister {CYBERSECURITY} {INFORMATION TECHNOLOGY} management carries {SECURITY}
+{MEASURES} based unified {POLICY} {GOVERNMENTAL BODIES}. {GOVERNMENT} will steadily
+carry initiatives based {HUMAN RESOURCE} assurance development {PLANS} {AGENCIES},
+ {INCREASE} staff, {TRAINING} appropriate level increasing {KNOWLEDGE}
+ability, practice involving high level {SECURITY} technicians, {ENSURING} appropriate
+compensation, working {IMPROVE} initiatives annual reviews
+{PLANS}.
+() {PROMOTING} {INTERNATIONAL PARTNERSHIP}
+considering {RESPONSE} {CYBERSECURITY ISSUES} needed global scale, {JAPAN}
+{ENABLE} possibility global application much possible part development
+{CYBERSECURITY} {HUMAN RESOURCE}, instead fulfilling need within {JAPAN} alone. end,
+{GOVERNMENT} will collaborate leading nations build {SYSTEM} {PROMOTING} collaboration
+ various ways {ORGANIZATIONS} engaged {HUMAN RESOURCE} development overseas,
+ implementation joint {TRAINING} {PROGRAMS} {CERTIFICATION} credit transfer, certifying
+ {HUMAN RESOURCE} development {PROGRAMS} {UNIVERSITIES} {PUBLIC INSTITUTIONS} meeting
+certain requirements according {INTERNATIONAL} {STANDARDS}.
+ addition, aim contribute development {CYBERSECURITY} {HUMAN RESOURCE}
+overseas well, {GOVERNMENT} will utilize {KNOWLEDGE} experience gained
+development {CYBERSECURITY} {HUMAN RESOURCE} {JAPAN} contribute {CAPACITY BUILDING}
+among {CYBERSECURITY} {HUMAN RESOURCE} overseas.
+ advancement {RESEARCH} development
+ unification {CYBERSPACE} real space continues, practical {RESEARCH} development
+(&) {CYBERSECURITY} needed, given advancement {INNOVATION} {CYBERSPACE}
+{THREAT} {CYBERATTACKS} {INNOVATIONS}. along , responses view
+discontinuous evolution technology {SOCIETY} mid- long-term
+necessary.
+() {PROMOTING} practical &
+{INNOVATIVE} new {PRODUCTS} {SERVICES} expected created combination
+various {INFORMATION} {COMMUNICATION} technologies {IOT} {AI}. provision
+{PRODUCTS} {SERVICES} high level {SECURITY} quality {ESSENTIAL} aiming growth
+ {INDUSTRY} enhanced {INTERNATIONAL} competitiveness {JAPAN}.
+meanwhile use technologies potential generate new {VULNERABILITIES}
+ not previously exist. end, {GOVERNMENT} will work focus technology
+ensures {CYBERSECURITY} use {ADVANCED TECHNOLOGIES} {AI} {BLOCKCHAIN},
+{SECURITY TECHNOLOGY} can built {SYSTEMS} comprising {PRODUCTS} {SERVICES},
+practical & regarding methods built- {SECURITY TECHNOLOGY}. particular,
+{GOVERNMENT} will {PROMOTE} & {CERTIFICATION} generating trust, {ENSURING} {TRACEABILITY}
+ value creation processes {SUPPLY CHAINS}, {DETECTION} {DEFENSE} {ATTACKS}
+ areas. addition, will {ENGAGE} development technology {EFFECTIVELY} {DETECT}
+malicious {HARDWARE} {SOFTWARE} built {DEVICES} & {ENSURE} {AUTHENTICITY},
+{AVAILABILITY}, {CONFIDENTIALITY} {DATA} {INFORMATION} {BEHAVIOR} unintended user
+may caused platform.
+ {GOVERNMENT} will {PROMOTE} & increases {SITUATIONAL AWARENESS} {CAPABILITIES}
+{CYBERSPACE} including ability {DETECT} analyze {CYBERATTACKS}, contributes {ENSURING}
+{NATIONAL SECURITY} {CYBERSPACE}, {IMPROVEMENT} {DEFENSIVE} {RESPONSE} {CAPABILITIES}
+ {ENSURING} {RESILIENCE}. specifically, {GOVERNMENT} will {PROMOTE} & aims
+{UNDERSTANDING} {ATTACK} {ACTIVITY} luring {ATTACKERS} {NETWORKS} imitate {ORGANIZATION}
+{GOVERNMENTAL BODIES} {COMPANIES}, {REDUCE} burden wide area {NETWORK} scanning
+ survey {VULNERABLE} {IOT} {DEVICES} {NETWORK}. implementing &,
+important form virtuous cycle {KNOWLEDGE} experience {CYBERATTACKS}
+ {CYBERSECURITY OPERATIONS} workplace shared researchers quickly possible
+application &, results & shared application
+{CYBERSECURITY OPERATIONS} workplace quickly possible. achieve , {GOVERNMENT} will
+{PROMOTE} {SHARING INFORMATION} real time {SECURITY OPERATIONS} {COMPANIES}
+governmental {RESEARCH} development institutions.
+ important {ENSURE} means verify, necessary, malicious {PROGRAMS} circuits
+ not built {DEVICES} {SOFTWARE} used {SYSTEMS} {GOVERNMENTAL BODIES} {CRITICAL
+INFRASTRUCTURE OPERATORS}. accordingly, {GOVERNMENT} will take central role {DEVELOP} {SYSTEM}
+ carrying necessary {TECHNICAL} inspections working & necessary
+ purpose. & will promoted fundamental technologies {ESSENTIAL}
+{STATE} standpoint {NATIONAL SECURITY}, {ENCRYPTION} technology takes
+account development computing technologies ( ).
+furthermore, addition technology related &, {RESEARCH} studies {POLICY} issues
+ {CYBERSECURITY MEASURES} will promoted, clarifying interpretation
+{CYBERSECURITY} related {LAWS} {REGULATIONS}.
+regarding & initiatives {CYBERSECURITY}, {GOVERNMENT} will {PROMOTE}
+dissemination social adoption results. addition, will work {STRENGTHEN} &d-related {INTERNATIONAL PARTNERSHIPS} {PUBLIC PRIVATE SECTORS} {LIKE-MINDED} countries
+ share basic values {JAPAN} joint {RESEARCH} creation {INTERNATIONAL}
+{STANDARDS} based {RESEARCH} results proactively {PARTICIPATING} overseas {EVENTS}
+disseminate {INFORMATION} {INTERNATIONALLY}.
+() responses view mid- long-term evolution technology {SOCIETY}
+ unification {CYBERSPACE} real space proceeds, advancements {INFORMATION}
+{COMMUNICATION} technologies {AI} {VR} making possible share diverse
+experiences including processes formed, acknowledging
+different values individual. amid major changes humanity brought
+technologies, possibility current received logic social {SYSTEMS} will
+fundamentally change future, will limit can done existing
+approach {CYBERSECURITY} & extrapolates evolution technology far.
+order generate new value, likely new approach will become necessary designs
+overall {SOCIETY} standpoint ecosystem, humans part , looking ahead
+ future present continued unification {CYBERSPACE} real space taking
+place. end, view mid- long-term, {GOVERNMENT} will {PROMOTE} {RESEARCH}
+{COORDINATION} unification {CYBERSECURITY} various {ACADEMIC} disciplines, including
+social scientific perspectives disciplines {LAW} {INTERNATIONAL} relations, {NATIONAL
+SECURITY}, {BUSINESS} {ADMINISTRATION}, humanistic sociological perspectives
+ disciplines including philosophy psychology. goes without saying results
+&, including & fields science technology, must not impact human {SOCIETY}
+ negative way.
+ cooperation everyone main {PLAYER} {CYBERSECURITY}
+ spread {DEVICES} {SMARTPHONES} public wireless {NETWORKS}, every {PEOPLE}
+connected {CYBERSPACE} enjoys significant benefits thereof. trend expected
+{ACCELERATE} advancement {IOT}. meanwhile, safe {SECURE} use {CYBERSPACE}
+ continuous basis amid spreading {THREAT} {CYBERATTACKS}, {ESSENTIAL} every
+{PEOPLE} active agent {CYBERSPACE} cultivate {AWARENESS} {UNDERSTANDING}
+{CYBERSECURITY} can deal various {RISKS} {CYBERSPACE} manner
+{MEASURES} {CRIME} {PREVENTION} traffic safety real space, can use {CYBERSPACE}
+safely securely.
+ cultivating {AWARENESS} {UNDERSTANDING} {CYBERSECURITY}, limit
+{EFFECTIVENESS} existing campaign initiatives carried {STATE} alone. rather,
+{GOVERNMENT} required build {SYSTEM} enables {STAKEHOLDERS} collaborate cooperate
+according mutual division responsibilities respecting autonomous {ACTIVITIES}
+ various communities regions, {COMPANIES}, schools, {EXERCISE} leadership
+ approach {SUPPORT} {SYSTEM}.
+accordingly, {NATIONAL CENTER INCIDENT READINESS STRATEGY CYBERSECURITY}
+playing key role, {GOVERNMENT} will {ENABLE} {STAKEHOLDERS} {INDUSTRY}, {ACADEMIA},
+{PUBLIC PRIVATE SECTORS} operate smoothly {EFFECTIVELY} collaborate organically.
+specifically, will {DEVELOP} comprehensive {STRATEGY} specific {ACTION} {PLAN} public
+{AWARENESS} {CYBERSECURITY} disseminate necessary {INFORMATION} handle inquiries
+{PEOPLE}. {GOVERNMENT} will {PROMOTE} practical {ACTION} {STAKEHOLDERS} utilizing
+committees representatives various communities {INDUSTRY}, {ACADEMIA},
+{PUBLIC PRIVATE SECTORS} {PARTICIPATE}. {GOVERNMENT} will work {ENHANCE}
+{CYBERSECURITY AWARENESS} month period concentrate {PROMOTING} {UNDERSTANDING}
+{CYBERSECURITY} every {PEOPLE}. will {PROMOTE} {CYBERSECURITY EDUCATION}
+ creation distribution easy-to-{UNDERSTAND} guidebooks {PEOPLE}
+development ability utilize {INFORMATION} school curriculums.
+{MANUFACTURERS} sellers {DEVICES} {SMARTPHONES} {PERSONAL} {COMPUTERS}
+{TELECOMMUNICATIONS} {COMPANIES} {COMMUNICATIONS} carriers {INTERNET} providers
+expected {ENABLE} users carry {CYBERSECURITY} initiatives appropriately {PROVIDING}
+{SECURITY}-friendly {PRODUCTS} {SERVICES} explaining users {RESPONDING}
+inquiries. reason, {GOVERNMENT} will {DEVELOP} environment promotes initiatives
+ {BUSINESSES} related {ORGANIZATIONS} {PROMOTE} development steady
+implementation {GUIDELINES} useful establishment {CYBERSECURITY} based user needs
+ usage forms.
+. promotion implementation {CYBERSECURITY}
+ {GOVERNMENT} {PROMOTING} {POLICY} {IMPROVING} {CYBERSECURITY MEASURES} {SECURE} use
+ application {INFORMATION} {COMMUNICATION} technologies {DATA}
+ socio-economic
+foundation {SOCIETY}
+ {ENSURE} {JAPAN} {NATIONAL SECURITY}.
+ {POLICY}, relevant {GOVERNMENTAL BODIES} play active roles {PROMOTING}
+{CYBERSECURITY MEASURES}, making consistent whole. purpose, related
+{GOVERNMENT BODIES} will keep working {IMPROVING} {CYBERSECURITY CAPABILITIES}
+leadership {NATIONAL CENTER INCIDENT READINESS STRATEGY CYBERSECURITY} {ENSURE} steady
+implementation {MEASURES} stipulated {STRATEGY}. {NATIONAL CENTER INCIDENT READINESS
+ STRATEGY CYBERSECURITY} will play leading role focal point {COORDINATING} intra-{GOVERNMENT} collaboration {PROMOTING} partnersh{IPS} {INDUSTRY}, {ACADEMIA}, {PUBLIC
+PRIVATE SECTORS} disseminating {STRATEGY} relevant parties {JAPAN} abroad.
+{GOVERNMENT} will {REINFORCE} crisis management {RESPONSE} {CAPABILITIES}. connection
+ upcoming tokyo games, particular consideration given steady implementation
+ {CYBERSECURITY MEASURES} {BUILDING} schemes involvement, partnership, collaboration
+ industrial, {ACADEMIC}, {GOVERNMENT}, community sectors.
+ {CYBERSECURITY STRATEGIC HEADQUARTERS} will closely work {STRATEGIC} {HEADQUARTERS}
+promotion advanced {INFORMATION} {TELECOMMUNICATIONS} {NETWORK} {SOCIETY} works
+{CRITICAL} {CYBERSECURITY ISSUES}. {HEADQUARTERS} will collaborate {SHARE INFORMATION} crisis
+management organs, including {HEADQUARTERS} emergency {RESPONSE} {TERRORISM}, {ESTABLISHED},
+ take appropriate {ACTIONS} concerning {NATIONAL SECURITY}, close {COORDINATION} {NATIONAL
+SECURITY COUNCIL}.
+furthermore, {HEADQUARTERS} will {RESPOND} issues concerning {NATIONAL SECURITY} close
+{COORDINATION} {NSC}. cases, relevant {GOVERNMENTAL BODIES} will work together
+ overall {COORDINATION} {NATIONAL SECURITY} secretariat.
+ declaration world advanced {NATION}: basic {PLAN} advancement {PUBLIC PRIVATE SECTOR} {DATA}
+utilization (may , ) specifies {PROMOTING} use application {DATA}, goes without saying {MEASURES}
+ concurrently carried connection {PROTECTION} {PERSONAL} {INFORMATION} {PRIVACY}, {CYBER-SECURITY} {MEASURES},
+{INTELLECTUAL PROPERTY} rights, {DATA} quality efforts {ENSURE} reliability {SECURITY} {DATA}, {STATE} logic era {AI}
+robots, .
+ growth {STRATEGY} ({CABINET} decision june , ) states super smart {SOCIETY} {PEOPLE} can live comfortably
+ abundantly situations, securing safe {CYBER SPACE} important foundation economic social {ACTIVITIES} {SOCIETY}
+.
+ {NATIONAL SECURITY STRATEGY} ({CABINET} decision december , ) states {CYBERSPACE} necessary {PROMOTING}
+{ECONOMIC GROWTH} {INNOVATION} free flow {INFORMATION} {CYBERSPACE}. {PROTECTING} {CYBERSPACE} above-mentioned {RISKS} {VITAL} {SECURE} {NATIONAL SECURITY}.
+ {CYBERSECURITY STRATEGIC HEADQUARTERS} will {ESTABLISH} {BUDGET} {PRIORITIZATION} {POLICY} seek
+{SECURE} execute {BUDGET} necessary {GOVERNMENT} {MEASURES} respective
+{AGENCIES} steadily {EFFECTIVELY} executed accordance principles stipulated
+{STRATEGY}. {HEADQUARTERS} will {ENCOURAGE} collaboration {PUBLIC PRIVATE
+SECTORS} pursue {EFFECTIVE} {INTELLIGENCE} analysis {CAPABILITIES}, well mechanisms flawless
+cycle early {DETECTION}, analysis, judgment handling {CYBERATTACKS}.
+going forward, order implement {STRATEGY} accurate manner, {CYBERSECURITY STRATEGIC
+HEADQUARTERS} will set forth annual {PLANS} including attached list {AGENCIES} charge
+three-year implementation period {STRATEGY}, {AGENCIES} will steadily implement
+{MEASURES} basis. {HEADQUARTERS} will review status progress {MEASURES},
+compile annual {REPORT}, reflect annual {PLAN} following year. furthermore,
+since situations {TECHNICAL} premises regarding {CYBERSPACE} may evolve discontinuous
+manner, {STRATEGY} may flexibly reviewed necessary irregardless scheduled
+duration {PLAN}.

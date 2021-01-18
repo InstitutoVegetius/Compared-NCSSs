@@ -402,7 +402,7 @@ public class RegexProcessor
 
 			if (curRow.getRowNum() == 0)
 				continue;
-
+			
 			while (cellIter.hasNext())
 			{
 				Cell currCell = cellIter.next();

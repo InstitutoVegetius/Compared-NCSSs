@@ -758,7 +758,7 @@ objective
 .
  will publish detailed {CYBER SCIENCE TECHNOLOGY} {STRATEGY} thorough consultation {PARTNERS} {STAKEHOLDERS}. will include identifying areas science technology {GOVERNMENT}, {INDUSTRY} {ACADEMIA} consider important identifying gaps {UK} current {CAPACITY} {ADDRESS} .
 .
- {GOVERNMENT} will continue {PROVIDE} {FUNDING} {SUPPORT} {ACADEMIC CENTRES} {EXCELLENCE}, {RESEARCH} institutes centres {DOCTORAL TRAINING}. addition, will {CREATE} new {RESEARCH} institute strategically important subject area. will {FUND} {RESEARCH} areas upcoming {CYBER SCIENCE TECHNOLOGY} {STRATEGY} identifies {CAPABILITY} gaps. important areas will given consideration include: big {DATA} {ANALYTICS}; autonomous {SYSTEMS}; trustworthy {INDUSTRIAL CONTROL SYSTEMS}; {CYBER-PHYSICAL} {SYSTEMS} {INTERNET THINGS}; smart cities; automated {SYSTEM} verification; science {CYBER SECURITY}.
+ {GOVERNMENT} will continue {PROVIDE} {FUNDING} {SUPPORT} {ACADEMIC CENTRES} {EXCELLENCE}, {RESEARCH} institutes centres {DOCTORAL TRAINING}. addition, will {CREATE} new {RESEARCH} institute strategically important subject area. will {FUND} {RESEARCH} areas upcoming {CYBER SCIENCE TECHNOLOGY} {STRATEGY} identifies {CAPABILITY} gaps. important areas will given consideration include: big {DATA} {ANALYTICS}; autonomous {SYSTEMS}; trustworthy {INDUSTRIAL CONTROL SYSTEMS}; {CYBER-PHYSICAL} {SYSTEMS} {INTERNET THINGS}; {SMART CITIES}; automated {SYSTEM} verification; science {CYBER SECURITY}.
 {NATIONAL CYBER SECURITY STRATEGY}
 section
 {DEVELOP}

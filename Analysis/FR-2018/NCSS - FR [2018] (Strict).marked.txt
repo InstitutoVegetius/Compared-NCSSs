@@ -416,7 +416,7 @@ SERVICE} {ATTACK}.
  guarantee transmission rates necessary volume {INFORMATION} extracted. {ATTACKERS}
 can use {EXPLOITATION} means similar implemented command-control {INFRASTRUCTURES}.
 solutions possible. {CYBERCRIMINALS} frequently use financial conversion chains various
-{CRYPTOCURRENCIES}, making traceability {RANSOMS} almost impossible. methods, alternately
+{CRYPTOCURRENCIES}, making {TRACEABILITY} {RANSOMS} almost impossible. methods, alternately
  simultaneously used, make difficult {INVESTIGATE} {CYBERATTACKS} even problematic
 {ATTRIBUTION} light {TECHNICAL} elements available.
 {CYBER DEFENCE STRATEGIC REVIEW} - february ,
@@ -631,7 +631,7 @@ connected {INTERNET}, achieved massive {DENIAL SERVICE} part web;
 vehicle {SMARTPHONE} cia able spy targets using cameras
 microphones incorporated televisions.
  makes possible envisage {IMPROVEMENT} living conditions populations
-better management {RESOURCES}, prospect establishment smart cities territories
+better management {RESOURCES}, prospect establishment {SMART CITIES} territories
  will superimposed will interconnected energy grids, {ELECTRONIC COMMUNICATIONS},
 {TRANSPORT}, {WATER} waste management will significantly {INCREASE} opportunities available
 {ATTACKERS}. regard, ambitious choice make {FRENCH} capital {DIGITAL} city
@@ -1020,7 +1020,7 @@ face {CYBER THREATS} order prosperous confident {DIGITAL WORLD} .
 {CYBER DEFENCE STRATEGIC REVIEW} - february ,
  german {FEDERAL GOVERNMENT} adopted first {NATIONAL CYBERSECURITY STRATEGY}.
  version updated reflects vision {CYBERSPACE} close {FRANCE}. paris
-berlin share common {STRATEGIC} guidelines many {TECHNICAL} subjects, {CRYPTOGRAPHY}
+berlin share common {STRATEGIC} {GUIDELINES} many {TECHNICAL} subjects, {CRYPTOGRAPHY}
 {CERTIFICATION} {SECURITY} {PRODUCTS}, political ones, promotion resolute
 dynamic {EUROPEAN UNION} terms {DIGITAL SECURITY}. proximity makes {GERMANY} privileged
 {PARTNER} {FRANCE} within various {INTERNATIONAL FORA} dealing subjects, gives
@@ -1308,7 +1308,7 @@ structures, , however, {GOOD PRACTICES} {COMPUTER HYGIENE} designing {SYSTEMS}
  inexpensive easy implement, particular emphasis {RISKS} linked human
 factor*.
  {PREVENTION} {AWARENESS}-{RAISING} mission {INTER-MINISTERIAL} nature. accordance
-guidelines {NATIONAL} {STRATEGY} {DIGITAL SECURITY} adopted {PRIME MINISTER} ,
+{GUIDELINES} {NATIONAL} {STRATEGY} {DIGITAL SECURITY} adopted {PRIME MINISTER} ,
 based locally {ACTION} prefects {STATE} {SERVICES}. {ANSSI} territorial {NETWORK}, regional
 delegates economic {INTELLIGENCE} {DEPARTMENTS} {MINISTRY INTERIOR} responsible
  {ECONOMIC SECURITY}, {DIGITAL TRANSITION} {NETWORK} {PARTICIPATE} mission. chambers
@@ -1461,7 +1461,7 @@ provides {JUDICIAL INTERCEPTION SERVICE}.
 {CYBER DEFENCE STRATEGIC REVIEW} - february ,
  modernizing {GOVERNANCE CYBER} {DEFENCE}
  {CYBER STEERING COMMITTEE}
- guidelines {DIRECTIVES} field {CYBER DEFENCE} taken {NATIONAL DEFENCE
+ {GUIDELINES} {DIRECTIVES} field {CYBER DEFENCE} taken {NATIONAL DEFENCE
 SECURITY} council ({CDSN}).
  {CYBER DEFENCE} management committee (known {CYBER STEERING COMMITTEE})
 responsible {MONITORING} implementation decisions taken matters development
@@ -2056,7 +2056,7 @@ since billion dollars {CRIMINAL} transactions.
 ({JITS}) eurojust level. example {JIT} mobilised {NOTPETYA} case
 commended reproduced.
  achieve adaptation penal {POLICY} fight {CYBERCRIME}, {STRENGTHENING}
-human {RESOURCES} (magistrates specialised investigators) appears {ESSENTIAL}. {INCREASED} material
+{HUMAN RESOURCES} (magistrates specialised investigators) appears {ESSENTIAL}. {INCREASED} material
 {RESOURCES} necessary level specialised {INVESTIGATION} {SERVICES} level
  {DIGITAL PROOF} processing units. efforts made install {MONITORING} tools adapted
 various open sources, enhanced {DECRYPTION} {CAPABILITIES} remote {DATA} collection tools. beyond
@@ -3539,7 +3539,7 @@ must, therefore, encouraged {SUPPORTED}.
 however, care taken {ENSURE} new framework implementation perpetuate
  experience acquired pioneering {MEMBER STATES} area {CERTIFICATION}, including
 {FRANCE}, integrate {GOOD PRACTICES} {ESTABLISHED} regard. particular, addition
-elementary conformity certifications according guidelines presented previous
+elementary conformity certifications according {GUIDELINES} presented previous
 paragraph, {EUROPEAN} framework must incorporate {CERTIFICATION} component capable meeting
  highest levels {SECURITY} requirements, {ESSENTIAL} meet needs states
 exposed industrial {ACTIVITIES}, end integrate {ESSENTIAL} principles guarantee
@@ -3999,7 +3999,7 @@ integration definition missions executives {PUBLIC SERVICE}
 considered.
  {DEVELOP} {PROFESSIONAL} {TRAINING} offer {CYBERSECURITY} challenges
 {FRANCE} level ambition areas {CYBER DEFENCE} {CYBERSECURITY} today constrained
- {CAPABILITIES} human {RESOURCES}, particularly regard engineers specialised
+ {CAPABILITIES} {HUMAN RESOURCES}, particularly regard engineers specialised
 {TELECOMMUNICATIONS} ({COMPUTER} {NETWORKS}, {SECURITY}, , crypto-analysis, etc.). {BUILDING} solid {NATIONAL}
 {DIGITAL} {CULTURE} requires {TRAINING} experts tomorrow.
 associative union approaches exist {PROMOTE} {DIGITAL PROFESSIONS} bring self-censorship reflexes certain audiences regard professions. syntec {NUMÉRIQUE}
